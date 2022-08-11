@@ -1,3 +1,31 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body{
+  background-color: #C1C1C1;
+}
+.menubar {
+  position: fixed;
+  z-index: 1;
+  background: white;
+  width: 100%;
+  top:0;
+  left: 0;
+
+}
+.brand img{ width: auto; height: 60px;}
+ul.navbar {
+  display: flex;
+}
+.brand, .nav{
+  flex: 0 1 auto;
+
+}
+.nav, .navbar{
+  flex:  0 0 70%;
+}
+ul.navbar li  {
+  padding:  0 .5rem;
+  flex: 1 0 auto;
+}
