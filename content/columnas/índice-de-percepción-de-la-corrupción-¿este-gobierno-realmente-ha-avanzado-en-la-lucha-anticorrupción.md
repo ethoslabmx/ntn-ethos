@@ -5,6 +5,7 @@ date: 2022-08-12T15:48:24.061Z
 img: /img/índice-corrupción-1536x864.jpg
 img-alt: ÍNDICE DE PERCEPCIÓN DE LA CORRUPCIÓN
 autor: "Luis Ángel Martínez Ramírez y Ma. Fernanda Ortega Valencia "
+medio: Animal Político
 link: https://www.animalpolitico.com/blog-invitado/indice-de-percepcion-de-la-corrupcion-este-gobierno-ha-avanzado-en-la-lucha-anticorrupcion/
 category: anticorrupcion
 ---
