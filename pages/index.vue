@@ -20,6 +20,7 @@
   </div>
   <div class="columnas">
     <h1>Columnas de opinion</h1>
+    <ColumnasFeatured />
   </div>
   <div class="twitter">
 
@@ -29,5 +30,6 @@
 
 <script>
 import JumbotronIndex from '~/components/JumbotronIndex.vue';
-export default { components: { JumbotronIndex } }
+import ColumnasFeatured from '~/components/ColumnasFeatured.vue';
+export default { components: { JumbotronIndex, ColumnasFeatured } }
 </script>
