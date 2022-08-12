@@ -5,7 +5,7 @@
     </div>
     <div class="nav flex items-center justify-end">
       <ul class="navbar flex items-center justify-between">
-        <li><a href="">INICIO</a></li>
+        <li><a href="/">INICIO</a></li>
         <li><a href="">ETHOS</a></li>
         <li><a href="">EJES DE INVESTIGACIÓN</a></li>
         <li><a href="">UNIVERSO THINK TANKS</a></li>

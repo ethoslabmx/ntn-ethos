@@ -2,9 +2,30 @@
 @tailwind components;
 @tailwind utilities;
 
-body{
+:root {
+  --main-font-color: #828282;
+  --main-title-color: #5B5B5B;
+  --background-gray:#5B5B5B;
+  --background-blue:rgba(116,177,180,0.75);
+  --background-blue-full:#74B1B4;
+  --background-orange:#FDBD99;
+  --background-yellow:rgba(244,224,142,0.65);
+  --background-brown:#C8BCA8;
+  --background-pink:#F37D89;
+}
+
+
+body,html{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
   background-color: #C1C1C1;
 }
+
+*{
+  box-sizing: inherit;
+}
+
 .menubar {
   position: fixed;
   z-index: 1;
