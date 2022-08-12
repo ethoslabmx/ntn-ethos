@@ -2,7 +2,9 @@
 title: "LOS VALIENTES DE LA RECAUDACIÓN: ESTADOS QUE CREAN NUEVOS IMPUESTOS PARA 2022"
 date: 2022-01-14T18:12:09.821Z
 img: /img/valientes.png
+img-alt: nuevos impuestos
 autor: Liliana Alvarado
+medio: El Economista
 link: https://www.eleconomista.com.mx/opinion/Los-valientes-de-la-recaudacion-estados-que-crean-nuevos-impuestos-para-2022-20220114-0043.html
 category: finanzas-publicas
 ---
