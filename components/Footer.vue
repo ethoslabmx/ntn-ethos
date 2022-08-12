@@ -1,5 +1,5 @@
 <template>
-  <footer class="footer">
+  <div class="footer">
     <div class="header"><h1>CONTACTO</h1>
     <div class="right">
       <hr class="bg-white">
@@ -9,7 +9,7 @@
     <div class="content">
 
     </div>
-  </footer>
+  </div>
 </template>
 
 <style lang="scss">

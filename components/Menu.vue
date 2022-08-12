@@ -38,7 +38,7 @@ export default {
 </script>
 <style lang="scss">
 .menubar{
-  // position: relative;
+  position: relative;
   &:after{
     content: "";
     position: absolute;
