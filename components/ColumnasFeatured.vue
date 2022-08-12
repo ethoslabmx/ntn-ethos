@@ -4,7 +4,7 @@ export default {
     columnas: []
   }),
   async fetch() {
-    this.posts = await this.$content('columnas')
+    this.columnas = await this.$content('columnas')
   },
 }
 </script>

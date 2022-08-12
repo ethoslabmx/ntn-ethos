@@ -5,6 +5,10 @@ backend:
 media_folder: static/img
 public_folder: /img
 locale: 'es'
+slug:
+      encoding: "ascii"
+      clean_accents: true
+      sanitize_replacement: "_"
 collections:
   - name: 'publicaciones'
     label: 'Publicaciones'
@@ -54,6 +58,7 @@ collections:
       - { label: 'Imagen Principal', name: 'img', widget: 'image', required: false }
       - { label: 'Imagen Alt', name: 'img-alt', widget: 'string', required: false }
       - { label: 'Autor', name: 'autor', widget: 'string' }
+      - { label: 'Medio', name: 'medio', widget: 'string' }
       - { label: 'Enlace artículo', name: 'link', widget: 'string', required: false }
       - { label: 'Categoria', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion","think-tanks"]}
       - { label: 'Contenido', name: 'body', widget: 'markdown' }
