@@ -13,12 +13,12 @@
             <svg class="fill-current h-4 w-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/> </svg>
           </a>
           <ul class="dropdown-menu absolute hidden text-gray-700  bg-white drop-shadow-sm p-0 m-0">
-            <li class=""><NuxtLink class="rounded-t bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap" to="/ethos/quienessomos">¿QUIÉNES SOMOS?</NuxtLink>
+            <li class=""><NuxtLink class="rounded-t bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap" to="/ethos/quienessomos">¿QUIÉNES SOMOS?</NuxtLink></li>
             <li class=""><NuxtLink class="rounded-t bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap" to="/ethos/equipo">EQUIPO</NuxtLink></li>
             <li class=""><NuxtLink class="rounded-t bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap" to="/ethos/financiadores">FINANCIADORES</NuxtLink></li>
             <li class=""><NuxtLink class="rounded-t bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap" to="/ethos/bolsadetrabajo">TRABAJA EN ETHOS</NuxtLink></li>
             <li class=""><NuxtLink class="rounded-t bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap" to="/ethos/documentos-institucionales">DOCUMENTOS <br> INSTITUCIONALES</NuxtLink></li>
-        </ul>
+          </ul>
         </li>
         <li><a href="">EJES DE INVESTIGACIÓN</a></li>
         <li><a href="">UNIVERSO THINK TANKS</a></li>
