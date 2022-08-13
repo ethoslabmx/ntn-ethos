@@ -3,6 +3,11 @@
 @tailwind components;
 @tailwind utilities;
 
+.dropdown:hover .dropdown-menu {
+  display: block;
+  z-index: 3;
+}
+
 
 .title, li.eje .content a{
   font-family: 'Saira Semi Condensed', sans-serif;
@@ -122,9 +127,7 @@ ul.navbar {
   flex: 0 1 auto;
 
 }
-.nav, .navbar{
-  flex:  0 0 70%;
-}
+
 ul.navbar li  {
   padding:  0 .5rem;
   flex: 1 0 auto;
