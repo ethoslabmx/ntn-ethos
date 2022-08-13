@@ -81,7 +81,7 @@ collections:
       - { label: 'Contenido', name: 'body', widget: 'markdown' }
   - name: 'eventos'
     label: 'Eventos'
-    folder: 'content/columnas'
+    folder: 'content/eventos'
     format: 'frontmatter'
     create: true
     slug: '{{slug}}'
