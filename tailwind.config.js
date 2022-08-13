@@ -21,12 +21,12 @@ module.exports = {
       'gray-dark': '#273444',
       'gray': '#8492a6',
       'gray-light': '#d3dce6',
-      'primary': ''
+      'white': '#fff'
 
     },
     fontFamily: {
-      sans: ['Saira', 'sans-serif'],
-      serif: ['Saira', 'serif'],
+      sans: ['Lato', 'sans-serif'],
+      serif: ['Lato', 'serif'],
     },
     extend: {
       spacing: {

@@ -8,7 +8,6 @@
   min-height: calc(100vh - 85px);
   background-size: cover ;
   background-repeat: no-repeat;
-  margin-top: 85px;
   background-image: url(../assets/images/jumbotron-index.png);
   background-size: cover;
   background-position: center center;
