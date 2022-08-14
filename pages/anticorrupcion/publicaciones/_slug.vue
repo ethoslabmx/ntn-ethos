@@ -1,5 +1,6 @@
 <template>
-  <div class="post_content py-28 bg-white">
+<div>
+    <div class="post_content py-28 bg-white">
 
     <div class="container xl:px-0 flex ">
       <div class="w-full lg:w-3/4 p-5">
@@ -34,15 +35,28 @@
       </div>
     </div>
   </div>
+   <div class="relacionadas">
+      <h2>Columnas relacionadas</h2>
+      <div>
+        <li v-for="col of columnas" :key="col.slug">
+            <NuxtLink :to="'columnas/'+col.slug">{{ col.title }}</NuxtLink>
+            <img :src="col.img" alt="">
+            <p>{{col.body.children[1].children[0].value}}</p>
+          </li>
+      </div>
+    </div>
+</div>
+
 </template>
 
 <script>
 export default {
   async asyncData({ $content, params, error }) {
-    let post;
+    let post,columnas;
     console.log(params)
     try {
-      post = await $content("publicaciones", params.slug).fetch();
+      columnas = await $content("columnas").where({category:"anticorrupcion"}).limit(3).fetch();
+      post = await $content("columnas", params.slug).fetch();
       // OR const article = await $content(`articles/${params.slug}`).fetch()
     } catch (e) {
       error({ message: "Blog Post not found" });
@@ -50,7 +64,9 @@ export default {
 
     return {
       post,
+      columnas
     };
   },
 };
+
 </script>
