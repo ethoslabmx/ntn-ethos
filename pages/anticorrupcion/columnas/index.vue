@@ -14,7 +14,7 @@
 <script>
 export default {
   async asyncData({ $content }) {
-    const columnas = await $content("columnas").fetch();
+    const columnas = await $content("columnas").where({category:"anticorrupcion"}).fetch();
 
     return {
       columnas,
