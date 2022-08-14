@@ -1,5 +1,5 @@
 <template>
-  <h1>Bolsa de trabajo</h1>
+  <h1>VACANTE</h1>
 </template>
 
 <script>

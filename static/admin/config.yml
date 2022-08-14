@@ -129,7 +129,7 @@ collections:
     folder: 'content/personal'
     format: 'frontmatter'
     create: true
-    slug: '{{slug}}'
+    slug: '{{nombre}}'
     editor:
       preview: false
     fields:
@@ -139,5 +139,19 @@ collections:
       - { label: 'Semblanza', name: 'semblanza', widget: 'string' }
       - { label: 'Email', name: 'email', widget: 'string', required: false }
       - { label: 'Twitter', name: 'twitter', widget: 'string', required: false }
-
+  - name: 'trabajos'
+    label: 'Bolsa de Trabajo'
+    label_singular: 'Vacante'
+    folder: 'content/bolsatrabajo'
+    format: 'frontmatter'
+    create: true
+    slug: '{{puesto}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Puesto', name: 'puesto', widget: 'string' }
+      - { label: 'Categoria', name: 'category', widget: 'select', options: ["vacantes","internships"]}
+      - { label: 'Descripción', name: 'body', widget: 'markdown' }
+      - { label: 'Fecha Publicación', name: 'date', widget: 'datetime' }
+      - { label: 'Área', name: 'area', widget: 'string', required: false }
 

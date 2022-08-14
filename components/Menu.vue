@@ -30,7 +30,7 @@
             </li>
             <li class="">
               <NuxtLink class="rounded-t bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap"
-                to="/ethos/bolsadetrabajo">TRABAJA EN ETHOS</NuxtLink>
+                to="/ethos/bolsa_trabajo">TRABAJA EN ETHOS</NuxtLink>
             </li>
             <li class="">
               <NuxtLink class="rounded-t bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap"
