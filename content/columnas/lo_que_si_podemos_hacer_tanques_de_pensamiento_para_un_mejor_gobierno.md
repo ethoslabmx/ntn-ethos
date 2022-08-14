@@ -9,6 +9,8 @@ category: think-tanks
 ---
 *El cambio que puede generar el equipo multidisciplinario de un think tank en política pública puede ser realmente significativo para un mejor Gobierno.*
 
+<!--more-->
+
 Mejorar la transparencia y eficiencia del Estado mexicano es algo que sí se puede lograr. Hay muchos problemas que enfrenta México que dependen de factores externos. Hacer más dinámica la economía estadounidense, reducir la demanda mundial de cocaína y heroína o evitar que Donald Trump salga electo son cosas que los mexicanos no pueden realizar.
 
 Sin embargo, presionar para tener un Gobierno más responsable sí es posible. México tiene una sociedad civil fuerte, innovadora, activista y cada vez mejor organizada para lograrlo. Además, cuenta con algunos funcionarios públicos muy calificados que podrían impulsar el cambio. El reto es dantesco. México figura entre los países con más desvío del gasto público del mundo y más corrupción.1
