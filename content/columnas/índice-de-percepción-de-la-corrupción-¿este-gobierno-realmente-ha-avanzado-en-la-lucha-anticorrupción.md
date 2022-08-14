@@ -8,6 +8,10 @@ autor: "Luis Ángel Martínez Ramírez y Ma. Fernanda Ortega Valencia "
 medio: Animal Político
 link: https://www.animalpolitico.com/blog-invitado/indice-de-percepcion-de-la-corrupcion-este-gobierno-ha-avanzado-en-la-lucha-anticorrupcion/
 category: anticorrupcion
+extracto: Los números no mienten, pero se puede mentir con los números. Y
+  lamentablemente es más común de lo que creemos. Uno de los ejemplos en nuestro
+  país es el uso retórico que se le ha dado al Índice de Percepción de la
+  Corrupción (IPC).
 ---
 <!--StartFragment-->
 

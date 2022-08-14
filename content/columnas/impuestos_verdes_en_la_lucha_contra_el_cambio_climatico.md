@@ -7,6 +7,11 @@ autor: "Marcela Carrera "
 medio: Animal Político
 link: https://www.animalpolitico.com/blog-invitado/impuestos-verdes-en-la-lucha-contra-el-cambio-climatico/
 category: finanzas-publicas
+extracto: Hace un par de semanas vi la película *Don’t Look Up,* una sátira que
+  muestra la respuesta de la humanidad ante la inminente colisión de un cometa
+  gigante con la tierra. Con humor retrata la impotencia de los científicos, la
+  postura egoísta del gobierno y el desinterés de una sociedad absorta en
+  banalidades.
 ---
 <!--StartFragment-->
 

@@ -6,10 +6,15 @@ autor: Liliana Alvarado
 medio: El Economista
 link: https://www.eleconomista.com.mx/opinion/El-contrapeso-gubernamental-a-la-baja-20220222-0057.html
 category: think-tanks
+extracto: En términos muy generales, los *think tanks* son centros de
+  investigación que buscan mejoras en las políticas públicas de los distintos
+  países en los que operan. Las diferencias entre éstos son marcadas, pues
+  mientras unos se enfocan en analizar múltiples temas, otros tienen únicamente
+  una línea de investigación
 ---
 <!--StartFragment-->
 
-En términos muy generales, los *think tanks* son centros de investigación que buscan mejoras en las políticas públicas de los distintos países en los que operan. Las diferencias entre éstos son marcadas, pues mientras unos se enfocan en analizar múltiples temas, otros tienen únicamente una línea de investigación. Algunas organizaciones cuentan con cientos de empleados, sin embargo, el equipo de otros apenas se cuenta con los dedos de una mano. Otra diferencia entre ellos es el tipo de relación que tienen con su respectivo gobierno. En algunos países los *think tanks* asesoran y colaboran de forma cercana con las autoridades, pues se valora significativamente su capacidad y conocimiento técnico en las diferentes temáticas. No obstante, en otras naciones los *think tanks* adquieren un papel de *watch dogs*, haciendo referencia a la figura de un perro guardián que tiene como objetivo realizar tareas de vigilancia y monitoreo. Es más común que las organizaciones tomen este papel cuando el país enfrenta debilidades importantes en materia de transparencia, rendición de cuentas, anticorrupción, entre otros temas que requieren un señalamiento o voz de denuncia.
+En términos muy generales, los *think tanks* son centros de investigación que buscan mejoras en las políticas públicas de los distintos países en los que operan. Las diferencias entre éstos son marcadas, pues mientras unos se enfocan en analizar múltiples temas, otros tienen únicamente una línea de investigación. Algunas organizaciones cuentan con cientos de empleados, sin embargo, el equipo de otros apenas se cuenta con los dedos de una mano. <!--more--> Otra diferencia entre ellos es el tipo de relación que tienen con su respectivo gobierno. En algunos países los *think tanks* asesoran y colaboran de forma cercana con las autoridades, pues se valora significativamente su capacidad y conocimiento técnico en las diferentes temáticas. No obstante, en otras naciones los *think tanks* adquieren un papel de *watch dogs*, haciendo referencia a la figura de un perro guardián que tiene como objetivo realizar tareas de vigilancia y monitoreo. Es más común que las organizaciones tomen este papel cuando el país enfrenta debilidades importantes en materia de transparencia, rendición de cuentas, anticorrupción, entre otros temas que requieren un señalamiento o voz de denuncia.
 
 En este sentido, los *watch dogs* forman parte del conjunto de contrapesos al gobierno. A la lista se suman algunos medios de comunicación, periodistas, el empresariado, los organismos autónomos y electorales, entre otros. No obstante, de esta lista, tal vez uno de los contrapesos menos analizados y conocidos son los *think tanks*. Ello se relaciona con el hecho de que su trabajo en ocasiones se confunde con el de la academia o incluso con organizaciones activistas.
 

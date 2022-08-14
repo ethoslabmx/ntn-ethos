@@ -6,6 +6,11 @@ autor: José Luis Chicoma
 medio: Este País
 link: https://estepais.com/articulo.php?id=593&t=lo-que-si-podemos-hacer-tanques-de-pensamiento-para-un-mejor-gobierno
 category: think-tanks
+extracto: Mejorar la transparencia y eficiencia del Estado mexicano es algo que
+  sí se puede lograr. Hay muchos problemas que enfrenta México que dependen de
+  factores externos. Hacer más dinámica la economía estadounidense, reducir la
+  demanda mundial de cocaína y heroína o evitar que Donald Trump salga electo
+  son cosas que los mexicanos no pueden realizar.
 ---
 *El cambio que puede generar el equipo multidisciplinario de un think tank en política pública puede ser realmente significativo para un mejor Gobierno.*
 

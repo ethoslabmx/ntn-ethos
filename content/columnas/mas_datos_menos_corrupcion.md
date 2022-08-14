@@ -6,6 +6,15 @@ autor: Néstor Genis
 medio: Animal Político
 link: https://www.animalpolitico.com/blog-invitado/mas-datos-menos-corrupcion/
 category: anticorrupcion
+extracto: Todos los días se generan millones de datos alrededor del mundo, que
+  son aprovechados por diferentes sectores para realizar análisis que les ayuden
+  a tomar mejores decisiones. Contar con mecanismos para recopilar, administrar
+  y analizar esos datos permite mejorar la productividad, eficientar procesos,
+  detectar y reducir riesgos, entre otras cuestiones. El potencial del análisis
+  de datos es muy grande, tanto como los esfuerzos que necesitamos para reducir
+  la corrupción en México, por lo que puede ser una herramienta sumamente
+  valiosa para enfrentar este problema. En el camino, sin embargo, hay varios
+  retos.
 ---
 <!--StartFragment-->
 
