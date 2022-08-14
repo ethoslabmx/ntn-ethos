@@ -24,3 +24,4 @@ For detailed explanation on how things work, check out the [documentation](https
 firebase deploy hosting:unfoldyourworld    
 git push -u origin2 mainsite  
 git push -u origin mainsite  
+git pull origin2 mainsite 

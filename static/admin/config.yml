@@ -12,6 +12,7 @@ slug:
 collections:
   - name: 'publicaciones'
     label: 'Publicaciones'
+    label_singular: 'publicación'
     folder: 'content/publicaciones'
     format: 'frontmatter'
     create: true
@@ -111,5 +112,32 @@ collections:
       - { label: 'Enlace video', name: 'video', widget: 'string' }
       - { label: 'Categoria', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion"]}
       - { label: 'Contenido', name: 'body', widget: 'markdown', required: false }
+  - name: 'financiadores'
+    label: 'Financiadores'
+    folder: 'content/financiadores'
+    format: 'frontmatter'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Financiador', name: 'nombre', widget: 'string' }
+      - { label: 'Logo', name: 'logo', widget: 'image' }
+      - { label: 'Url', name: 'link', widget: 'string', required: false }
+  - name: 'personal'
+    label: 'Equipo'
+    folder: 'content/personal'
+    format: 'frontmatter'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Nombre', name: 'nombre', widget: 'string' }
+      - { label: 'Foto', name: 'foto', widget: 'image', required: false }
+      - { label: 'Puesto', name: 'puesto', widget: 'string' }
+      - { label: 'Semblanza', name: 'semblanza', widget: 'string' }
+      - { label: 'Email', name: 'email', widget: 'string', required: false }
+      - { label: 'Twitter', name: 'twitter', widget: 'string', required: false }
 
 

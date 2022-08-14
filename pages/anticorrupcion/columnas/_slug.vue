@@ -1,7 +1,18 @@
 <template>
-  <h1>Columna completa</h1>
+  <article>
+    <header></header>
+    <nuxt-content :document="page" />
+  </article>
 </template>
 
 <script>
-export default {}
+export default {
+  async asyncData({ $content }) {
+    const columnas = await $content("columnas").fetch();
+
+    return {
+      columnas,
+    };
+  },
+}
 </script>
