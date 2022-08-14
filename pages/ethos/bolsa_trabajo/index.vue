@@ -10,7 +10,7 @@
       <h2>VACANTES</h2>
       <div>
         <li v-for="v in vacantes" :key="v.puesto">
-           <NuxtLink :to="v.slug">
+           <NuxtLink :to="'bolsa_trabajo/'+v.slug">
             <p>{{ v.puesto }}</p>
           </NuxtLink>
         </li>
@@ -20,7 +20,7 @@
       <h2>PROGRAMA DE INTERNSHIP</h2>
       <div>
         <li v-for="v in internships" :key="v.puesto">
-           <NuxtLink :to="v.slug">
+           <NuxtLink :to="'bolsa_trabajo/'+v.slug">
             <p>{{ v.puesto }}</p>
           </NuxtLink>
         </li>
