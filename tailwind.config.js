@@ -25,6 +25,7 @@ module.exports = {
       },
     },
     fontSize: {
+      xs: ['12px', '14px'],
       sm: ['16px', '20px'],
       md: ['18px', '24px'],
       lg: ['20px', '28px'],
@@ -42,11 +43,13 @@ module.exports = {
       'yellow': '#F4E08EA6',
       'orange': '#FDBD99',
       'green': '#13ce66',
-      'gray-dark': '#273444',
+      'gray-dark': '#5B5B5B',
       'gray': '#8492a6',
       'gray-light': '#d3dce6',
       'white': '#fff',
-      'primary': '#F28F78'
+      'black': '#000',
+      'primary': '#F28F78',
+      'primarylight': '#FBBC99'
 
     },
     fontFamily: {

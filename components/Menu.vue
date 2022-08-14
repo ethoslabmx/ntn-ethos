@@ -7,7 +7,6 @@
     <div class="nav hidden xl:flex items-center justify-end ">
       <ul class="navbar flex items-center justify-between">
         <li><a href="/">INICIO</a></li>
-        <!-- <li><a href="">ETHOS</a></li> -->
         <li class="dropdown inline-block relative">
           <a class="font-semibold rounded inline-flex items-center">
             <span class="mr-1">ETHOS</span>
