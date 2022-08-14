@@ -80,7 +80,10 @@
       <li v-for="post of posts" :key="post.slug" class="eje container mx-auto px-0">
         <div class=" flex p-10 justify-between items-center lg:flex-row-reverse flex-col">
 
-          <div class="lg:w-1/3 xl:w-1/2 lg:ml-10 self-center"><img :src="post.img" alt="" class="w-full object-cover h-60"></div>
+          <div class="lg:w-1/3 xl:w-1/2 lg:ml-10 self-center">
+            <img :src="post.img" alt="" class="w-full object-cover h-60">
+             <div>{{post.category.replace("-"," ").toUpperCase()}}</div>
+          </div>
 
           <div class="content lg:w-2/3  xl:w-1/2 mt-6 lg:mt-0">
             <NuxtLink :to="post.slug" class="xl:text-lg">{{ post.title }}</NuxtLink>
@@ -99,6 +102,7 @@
           </div>
           <div class="drop-shadow-xl block shadow mx-auto">
             <img src="../assets/images/widget.png" alt="" class=" md:ml-auto h-auto max-w-full md:w-96">
+
           </div>
 
         </div>
@@ -114,7 +118,7 @@ import JumbotronIndex from '~/components/JumbotronIndex.vue';
 export default {
   components: { JumbotronIndex },
   async asyncData({ $content }) {
-    const posts = await $content("columnas").fetch();
+    const posts = await $content("columnas").limit(3).fetch();
 
     return {
       posts,
