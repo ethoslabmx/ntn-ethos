@@ -1,95 +1,110 @@
 <template>
-  <div class="home">
+  <div class="app home">
     <JumbotronIndex />
-    <div class="separador_header container mx-auto">
-      <h2 class="title">EJES DE INVESTIGACIÓN</h2>
+    <div class="separador_header container mx-auto p-6 my-6 md:my-14">
+      <h2 class="title xl:text-xl text-md text-right pr-3">EJES DE INVESTIGACIÓN</h2>
       <hr>
     </div>
-      <div class="ejes container mx-auto">
-        <div class="eje bg-white">
-         <div class="content w-3/4">
-           <h2 class="title">Anticorrupción</h2>
+    <div class="ejes container mx-auto">
+      <div class="eje bg-white md:flex-row-reverse flex-col">
+
+        <div class="img md:w-1/2"> <img src="../assets/images/anticorrupcion-thumb.png" alt=""></div>
+
+        <div class="content md:w-1/2 p-8">
+
+          <h2 class="title xl:text-2xl text-lg">Anticorrupción</h2>
           <p>Buscamos contribuir al buen funcionamiento del Sistema Nacional Anticorrupción y de los Sistemas Estatales
             Anticorrupción, empoderar a la sociedad civil e involucrar a diversos actores, como el sector privado, para
             que funjan como contrapesos reales de la corrupción. </p>
-         </div>
-          <div class="img w-1/4"> <img src="../assets/images/anticorrupcion-thumb.png" alt=""></div>
-
+          <button class="ml-auto more-btn">ENTRAR <span class="icon"></span></button>
         </div>
-        <div class="eje bg-white">
-          <div class="content w-3/4">
-            <h2 class="title">Finanzas Públicas</h2>
+
+      </div>
+      <div class="eje bg-white md:flex-row flex-col">
+
+        <div class="img md:w-1/2"><img src="../assets/images/finanzas-publicas-thumb.png" alt=""></div>
+
+        <div class="content md:w-1/2 p-8">
+          <h2 class="title xl:text-2xl text-lg">Finanzas Públicas</h2>
           <p>Promovemos finanzas públicas sanas, a través de un sistema fiscal bien diseñado, un nivel de ingreso óptimo
             y un ejercicio del gasto eficiente y transparente, tanto a nivel federal como subnacional.</p>
-          </div>
-          <div class="img w-1/4"><img src="../assets/images/finanzas-publicas-thumb.png" alt=""></div>
-
-
+          <button class="ml-auto more-btn">ENTRAR <span class="icon"></span></button>
         </div>
-        <div class="eje bg-white">
-         <div class="content w-3/4">
-           <h2 class="title">Desarrollo Sostenible</h2>
+
+
+      </div>
+      <div class="eje bg-white md:flex-row-reverse flex-col">
+        <div class="img md:w-1/2"><img src="../assets/images/desarollo-sostenible-thumb.png" alt=""></div>
+
+        <div class="content md:w-1/2 p-8">
+          <h2 class="title xl:text-2xl text-lg">Desarrollo Sostenible</h2>
           <p>Entendemos que las crecientes alarmas sobre el cambio climático nos muestran que el futuro estará hecho de
             crisis. Buscamos repensar las narrativas de desarrollo desde una perspectiva de crisis incorporando los ejes
             de recuperación justa, sostenible y resiliente. </p>
-         </div>
-          <div class="img w-1/4"><img src="../assets/images/desarollo-sostenible-thumb.png" alt=""></div>
-
-
+          <button class="ml-auto more-btn">ENTRAR <span class="icon"></span></button>
         </div>
-        <div class="eje bg-white">
-          <div class="content w-3/4">
-            <h2 class="title">Ciudades del futuro</h2>
+
+
+      </div>
+      <div class="eje bg-white md:flex-row flex-col">
+        <div class="img md:w-1/2"><img src="../assets/images/ciudades-del-futuro-thumb.png" alt=""></div>
+        <div class="content md:w-1/2 p-8">
+          <h2 class="title xl:text-2xl text-lg">Ciudades del futuro</h2>
           <p>Generamos propuestas que permitan consolidar estrategias, programas públicos y proyectos que promuevan el
             desarrollo sostenible de servicios públicos e infraestructura, la cual aproveche recursos renovables de
             energía, implemente medidas de eficiencia energética y fortalezca las capacidades institucionales
             gubernamentales en materia energética y ambiental. </p>
-          </div>
-          <div class="img w-1/4"><img src="../assets/images/ciudades-del-futuro-thumb.png" alt=""></div>
-
-
+          <button class="ml-auto more-btn">ENTRAR <span class="icon"></span></button>
         </div>
-        <div class="eje bg-white">
-         <div class="content w-3/4">
-           <h2 class="title">Inclusión</h2>
+
+
+      </div>
+      <div class="eje bg-white md:flex-row-reverse flex-col">
+        <div class="img md:w-1/2"><img src="../assets/images/inclusion-thumb.png" alt=""></div>
+        <div class="content md:w-1/2 p-8">
+          <h2 class="title xl:text-2xl text-lg">Inclusión</h2>
           <p>Participamos en el debate sobre el rumbo de la política social y buscamos entender las limitaciones del
             modelo económico y político actual. También promovemos agendas de inclusión de poblaciones marginadas y de
             equidad de género desde una perspectiva de derechos humanos. </p>
-         </div>
-          <div class="img w-1/4"><img src="../assets/images/inclusion-thumb.png" alt=""></div>
-
-
+          <button class="ml-auto more-btn">ENTRAR <span class="icon"></span></button>
         </div>
+
+
       </div>
-      <div class="columnas">
-        <div class="separador_header container mx-auto">
-          <h2 class="title">Columnas de opinion</h2>
-          <hr>
-        </div>
-        <li v-for="post of posts" :key="post.slug" class="eje">
-          <div class="container mx-auto flex p-10 justify-between items-center">
-            <div class="content w-1/2">
-              <NuxtLink :to="post.slug">{{ post.title }}</NuxtLink>
+    </div>
+    <div class="columnas">
+      <div class="separador_header container mx-auto p-6 my-6 md:my-14">
+        <h2 class="title xl:text-xl text-md text-right pr-3">Columnas de opinion</h2>
+        <hr>
+      </div>
+      <li v-for="post of posts" :key="post.slug" class="eje container mx-auto px-0">
+        <div class=" flex p-10 justify-between items-center lg:flex-row-reverse flex-col">
+
+          <div class="lg:w-1/3 xl:w-1/2 lg:ml-10 self-center"><img :src="post.img" alt="" class="w-full object-cover h-60"></div>
+
+          <div class="content lg:w-2/3  xl:w-1/2 mt-6 lg:mt-0">
+            <NuxtLink :to="post.slug" class="xl:text-lg">{{ post.title }}</NuxtLink>
             <p>{{ post.body.children[1].children[0].value }}</p>
-            </div>
-            <div class="w-1/2 ml-10 self-center"><img :src="post.img" alt="" class="w-full object-cover h-60"></div>
-
-
           </div>
-        </li>
-      </div>
-      <div class="twitter">
-        <div class="container mx-auto py-10">
-            <div class="flex justify-between align-middle">
-               <div class="separador_header p-0 w-full">
-                <h2 class="title">ETHOS EN TWITTER</h2>
-                <hr>
-              </div>
-              <img src="../assets/images/widget.png" alt="">
-            </div>
-        </div>
 
+        </div>
+      </li>
+    </div>
+    <div class="twitter bg-white md:py-20 py-10">
+      <div class="container mx-auto px-0">
+        <div class="flex justify-between align-middle flex-wrap md:flex-nowrap">
+          <div class="separador_header self-start w-full px-6 md:pl-0 md:pr-6 mb-6 md:mb-14">
+            <h2 class="title xl:text-xl text-md text-right pr-3">ETHOS EN TWITTER</h2>
+            <hr>
+          </div>
+          <div class="drop-shadow-xl block shadow mx-auto">
+            <img src="../assets/images/widget.png" alt="" class=" md:ml-auto h-auto max-w-full md:w-96">
+          </div>
+
+        </div>
       </div>
+
+    </div>
   </div>
 </template>
 

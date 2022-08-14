@@ -4,9 +4,9 @@
   </div>
 </template>
 <style lang="scss">
-.jumbotron{
-  min-height: calc(100vh - 85px);
-  background-size: cover ;
+.jumbotron {
+  min-height: calc(60vh - 85px);
+  background-size: cover;
   background-repeat: no-repeat;
   background-image: url(../assets/images/jumbotron-index.png);
   background-size: cover;
@@ -14,20 +14,23 @@
   background-repeat: no-repeat;
   border-bottom: 2rem solid #F28F78;
 
-   &:after{
+  &:after {
     content: "";
-      position: absolute;
-      left: 0; right: 0;
-      top: 0; bottom: 0;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
 
-      margin: auto;
-      height: 100%;
-      width: auto;
+    margin: auto;
+    height: 100%;
+    width: auto;
 
 
 
-    }
-  &:hover{
+  }
+
+  &:hover {
     height: 100%;
     width: 100%;
     display: flex;
@@ -35,21 +38,35 @@
     justify-content: center;
     align-items: center;
 
-    &:after{
-    content: "";
+    &:after {
+      content: "";
       position: absolute;
       background-color: rgba($color: #fff, $alpha: .65);
 
-      left: 0; right: 0;
-      top: 0; bottom: 0;
+      left: 0;
+      right: 0;
+      top: 0;
+      bottom: 0;
       background-image: url(../assets/images/jumbotronOverlay-index.png);
-      background-size: auto 200px ;
+      background-size: auto 100px;
       background-position: center center;
       background-repeat: no-repeat;
       margin: auto;
       height: 100%;
       width: auto;
     }
+  }
+
+  @media (min-width:993px) {
+    min-height: calc(100vh - 85px);
+
+    &:hover {
+      &:after {
+        background-size: auto 200px;
+
+      }
+    }
+
   }
 }
 </style>
