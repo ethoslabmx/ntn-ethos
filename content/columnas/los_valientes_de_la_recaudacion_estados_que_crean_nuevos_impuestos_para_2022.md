@@ -7,6 +7,13 @@ autor: Liliana Alvarado
 medio: El Economista
 link: https://www.eleconomista.com.mx/opinion/Los-valientes-de-la-recaudacion-estados-que-crean-nuevos-impuestos-para-2022-20220114-0043.html
 category: finanzas-publicas
+extracto: Recientemente se llevaron a cabo modificaciones a las leyes estatales
+  que norman los impuestos, derechos, productos y aprovechamientos de algunas
+  entidades federativas. El hecho es un tanto atípico, pues la dependencia de
+  los estados sobre los recursos que les transfiere la Federación es
+  significativa y ha sido así por décadas. En consecuencia, no es común que
+  estos realicen esfuerzos por crear nuevas contribuciones que les generen una
+  carga administrativa adicional, así como costos político-electorales.
 ---
 <!--StartFragment-->
 
