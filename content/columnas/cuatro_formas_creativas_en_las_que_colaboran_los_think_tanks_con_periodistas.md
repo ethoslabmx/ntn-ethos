@@ -6,10 +6,15 @@ autor: Ethos
 medio: Arena Pública
 link: https://www.arenapublica.com/blog-ethos-laboratorio/think-tanks-y-periodistas-4-formas-de-colaboracion
 category: think-tanks
+extracto: "Los *think tanks* a nivel global tenemos problemas para comunicar lo
+  que hacemos. Muchas veces cuando les contamos a nuestros amigos y familiares
+  sobre nuestro trabajo, las reacciones más frecuentes son: “¿*think* qué?”,
+  “¿en qué piensan?”, “¿tanque? debe estar relacionado con las fuerzas
+  armadas”."
 ---
 *Los think tanks se enfrentan al reto de difundir los conocimientos que producen. A través de diversas estrategias innovadoras pueden generar una comunicación efectiva con la sociedad.*
 
-<!--more-->
+
 
 Los *think tanks* a nivel global tenemos problemas para comunicar lo que hacemos. Muchas veces cuando les contamos a nuestros amigos y familiares sobre nuestro trabajo, las reacciones más frecuentes son: “¿*think* qué?”, “¿en qué piensan?”, “¿tanque? debe estar relacionado con las fuerzas armadas”.
 
