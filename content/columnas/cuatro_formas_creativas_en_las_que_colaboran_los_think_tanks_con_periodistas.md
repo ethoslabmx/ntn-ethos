@@ -2,7 +2,7 @@
 title: "CUATRO FORMAS CREATIVAS EN LAS QUE COLABORAN LOS THINK TANKS CON PERIODISTAS "
 date: 2018-11-13T00:03:36.335Z
 img: /img/colaborantt.jpg
-autor: Arena Pública
+autor: Ethos
 medio: Arena Pública
 link: https://www.arenapublica.com/blog-ethos-laboratorio/think-tanks-y-periodistas-4-formas-de-colaboracion
 category: think-tanks
