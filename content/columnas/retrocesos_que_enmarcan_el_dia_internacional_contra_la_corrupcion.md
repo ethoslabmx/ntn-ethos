@@ -7,6 +7,11 @@ autor: Liliana Alvarado
 medio: El Economista
 link: https://www.eleconomista.com.mx/opinion/Retrocesos-que-enmarcan-el-Dia-Internacional-contra-la-Corrupcion-20211208-0103.html
 category: anticorrupcion
+extracto: El 9 de diciembre se conmemora el Día Internacional contra la
+  Corrupción, con el objetivo de generar conciencia sobre los derechos y
+  responsabilidades que tenemos en la lucha anticorrupción las organizaciones de
+  sociedad civil, el gobierno, el sector privado, los medios de comunicación, la
+  academia, entre otros.
 ---
 <!--StartFragment-->
 
