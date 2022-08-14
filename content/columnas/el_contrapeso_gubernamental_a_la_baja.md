@@ -6,6 +6,11 @@ autor: Liliana Alvarado
 medio: El Economista
 link: https://www.eleconomista.com.mx/opinion/El-contrapeso-gubernamental-a-la-baja-20220222-0057.html
 category: think-tanks
+extracto: En términos muy generales, los *think tanks* son centros de
+  investigación que buscan mejoras en las políticas públicas de los distintos
+  países en los que operan. Las diferencias entre éstos son marcadas, pues
+  mientras unos se enfocan en analizar múltiples temas, otros tienen únicamente
+  una línea de investigación
 ---
 <!--StartFragment-->
 
