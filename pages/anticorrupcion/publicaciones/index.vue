@@ -12,7 +12,7 @@
           </div>
 
           <div class="ml-auto p-5 md:p-0">
-            <p class="title text-sm">Title</p>
+
             <button class="bg-gray-dark font py-2 px-3 rounded-md my-3 text-white">Leer</button>
 
             <div class="share content-end flex justify-end lg:items-center md:flex-wrap xl:flex-nowrap">
@@ -33,7 +33,7 @@
         <div class="left md:p-7 p-5 md:w-2/3  3xl:w-3/4 w-full flex flex-col justify-between">
 
           <div class="header content-start">
-            <NuxtLink :to="evento.slug" class="title lg:text-lg text-sm mb-6 block">{{ evento.title }}</NuxtLink>
+            <NuxtLink :to="'publicaciones/'+evento.slug" class="title lg:text-lg text-sm mb-6 block">{{ evento.title }}</NuxtLink>
           </div>
 
           <div class="content content-center mb-10">
@@ -41,8 +41,8 @@
           </div>
 
           <div class="footer content-end">
-            <p>Title</p>
-            <p class="font-bold uppercase">FECHA</p>
+            <p>{{evento.autor}}</p>
+            <p class="font-bold uppercase">{{new Date(evento.date).toLocaleDateString()}}</p>
           </div>
         </div>
 
