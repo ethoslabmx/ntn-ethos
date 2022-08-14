@@ -87,7 +87,7 @@
 
           <div class="content lg:w-2/3  xl:w-1/2 mt-6 lg:mt-0">
             <NuxtLink :to="post.slug" class="xl:text-lg">{{ post.title }}</NuxtLink>
-            <p>{{ post.body.children[1].children[0].value }}</p>
+            <p>{{ post.extracto }}</p>
           </div>
 
         </div>
