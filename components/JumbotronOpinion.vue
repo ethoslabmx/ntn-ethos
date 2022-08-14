@@ -5,11 +5,11 @@
       <div class="5xl:px-0 5xl:container pl-6 w-full flex items-center">
         <div class="hero w-full p-5 md:p-0   flex items-center">
          <div class="w-1/2 text-right">
-           <h1 class="lg:text-5xl text-lg title mb-6 ">ANTICORRUPCIÓN</h1>
-          <p class="xl:text-2xl text-sm  uppercase">PUBLICACIONES</p>
+           <h1 class="lg:text-5xl text-lg title mb-6">ANTICORRUPCIÓN</h1>
+          <p class="xl:text-2xl text-sm  uppercase">Columnas de opinión</p>
          </div>
          <div class="h-image w-1/2 self-center flex items-center">
-          <img src="../assets/images/anticorrupcion-thumb.png" alt="" class="h-full w-full object-cover object-left ">
+          <img src="../assets/images/writer.jpg" alt="" class="h-full w-full object-cover object-left ">
          </div>
         </div>
       </div>
