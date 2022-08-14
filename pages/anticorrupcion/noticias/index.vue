@@ -3,7 +3,7 @@
     <h1>Columnas de opinion</h1>
     <div>
       <li v-for="col of columnas" :key="col.slug">
-          <NuxtLink :to="col.slug">{{ col.title }}</NuxtLink>
+          <NuxtLink :to="'noticias/'+col.slug">{{ col.title }}</NuxtLink>
           <img :src="col.img" alt="">
           <p>{{col.body.children[1].children[0].value}}</p>
         </li>
