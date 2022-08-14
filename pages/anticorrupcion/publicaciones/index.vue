@@ -3,7 +3,7 @@
     <JumbotronEje />
     <li v-for="evento of eventos" :key="evento.slug" class="post md:py-20 py-10">
       <div
-        class="flex container px-5 xl:px-20 items-center justify-between flex-wrap md:flex-nowrap md:flex-row-reverse">
+        class="flex container px-5 xl:px-28 items-center justify-between flex-wrap md:flex-nowrap md:flex-row-reverse">
 
         <div class="right md:p-7 p-5 md:w-1/3  3xl:w-1/4 w-full flex md:flex-col justify-between text-right">
           <div class="img md:ml-auto content-start my-6">
@@ -49,7 +49,7 @@
       </div>
     </li>
     <li class="post last">
-      <div class="container px-5 xl:px-20 py-10">
+      <div class="container px-5 xl:px-28 py-10">
         <button class="ml-auto more-btn bold">VER MÁS <span class="icon"></span></button>
       </div>
     </li>
