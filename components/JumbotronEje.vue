@@ -1,0 +1,56 @@
+<!-- Please remove this file from your project -->
+<template>
+<div>
+    <div class="jumbotron-eje relative flex items-top justify-center min-h-screen bg-white sm:items-center sm:pt-0 border-t-3  border-b-3 border-black">
+      <div class="5xl:px-0 5xl:container pl-6 w-full flex items-center">
+        <div class="hero w-full p-5 md:p-0   flex items-center">
+         <div class="w-1/2">
+           <h1 class="lg:text-5xl text-lg title mb-6">ANTICORRUPCIÓN</h1>
+          <p class="xl:text-2xl text-sm">PUBLICACIONES</p>
+         </div>
+         <div class="h-image w-1/2 self-center flex items-center">
+          <img src="../assets/images/anticorrupcion-thumb.png" alt="" class="h-full w-full object-cover object-left ">
+         </div>
+        </div>
+      </div>
+  </div>
+</div>
+</template>
+<style lang="scss">
+.h-image,.jumbotron-eje {
+    min-height: calc(40vh - 85px);
+
+  @media (min-width:993px) {
+    min-height: calc(100vh - 85px);
+  }
+   @media (min-width:1400px) {
+    min-height: calc(80vh - 85px);
+  }
+}
+
+.jumbotron-eje {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  z-index: 0;
+
+  &:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+
+    margin: auto;
+    height: 100%;
+    width: auto;
+
+
+
+  }
+
+}
+</style>

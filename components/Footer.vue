@@ -1,5 +1,5 @@
 <template>
-  <div class="footer">
+  <footer class="">
     <div class="container mx-auto px-0">
       <div class="header">
         <h1>CONTACTO</h1>
@@ -40,7 +40,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </footer>
 </template>
 
 <style lang="scss">
@@ -49,7 +49,7 @@ hr.bg-white {
   height: 2px;
 }
 
-.footer {
+footer {
   background-color: #5B5B5B;
   padding: 3rem;
 

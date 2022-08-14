@@ -3,13 +3,33 @@
 @tailwind components;
 @tailwind utilities;
 
+
+/* ul.dropdown-menu {
+  top: rem;
+} */
+ul.dropdown-child-menu {
+  right: -14.8rem;
+  top: 1rem;
+}
 .dropdown:hover .dropdown-menu {
   display: block;
   z-index: 3;
 }
 
+.dropdown-child:hover .dropdown-child-menu {
+  display: block;
+  z-index: 3;
+}
 
-.title, li.eje .content a, .more-btn, .list{
+.title{
+  color: var(--main-title-color);
+}
+p{
+  color:var(--main-font-color);
+}
+
+li{list-style: none;}
+.title, li.eje .content a, .more-btn, .list, .font{
   font-family: 'Saira Semi Condensed', sans-serif;
 
   font-style: normal;
@@ -48,6 +68,7 @@ button.more-btn{
   --main-font-color: #828282;
   --main-title-color: #5B5B5B;
   --bg-white:#fff;
+  --bg-white-dark: #EFEFEF;
   --bg-gray:#5B5B5B;
   --bg-blue:rgba(116,177,180,0.75);
   --bg-blue-full:#74B1B4;
@@ -99,6 +120,17 @@ li.eje:nth-child(3n + 0){
   background-color: var(--bg-yellow);
 
 }
+
+li.post:nth-child(even){
+  background-color: var(--bg-white);
+
+}
+li.post:nth-child(odd){
+  background-color: var(--bg-white-dark);
+
+}
+
+
 .eje .img{
 height: auto;
 }

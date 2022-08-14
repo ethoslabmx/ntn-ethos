@@ -13,9 +13,13 @@ module.exports = {
       lg: '800px',
       xl: '1040px',
     '2xl': '1100px',
+    '3xl': '1200px',
+    '4xl': '1400px',
+    '5xl': '1500px',
     },
 
     container: {
+      center:true,
       padding: {
         DEFAULT: '1rem',
         sm: '2rem',
