@@ -33,7 +33,7 @@
         <div class="left md:p-7 p-5 md:w-2/3  3xl:w-3/4 w-full flex flex-col justify-between">
 
           <div class="header content-start">
-            <NuxtLink :to="'publicaciones/'+evento.slug" class="title lg:text-lg text-sm mb-6 block">{{ evento.title }}</NuxtLink>
+            <NuxtLink :to="evento.slug" class="title lg:text-lg text-sm mb-6 block">{{ evento.title }}</NuxtLink>
           </div>
 
           <div class="content content-center mb-10">

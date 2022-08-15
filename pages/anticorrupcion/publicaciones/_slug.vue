@@ -1,60 +1,90 @@
 <template>
-<div>
+  <div>
     <div class="post_content py-28 bg-white">
-
-    <div class="container xl:px-0 flex ">
-      <div class="w-full lg:w-3/4 p-5">
-        <h1 class="2xl:text-xl text-lg title">{{ post.title }}</h1>
-        <p class="my-6 font-bold">Fecha de publicación: {{ post.date }}</p>
-        <p class="my-6">Por: {{post.autor}} <span v-if="post.medio">Para: <a :href="post.link">{{post.medio}}</a></span></p>
-      </div>
-    </div>
-    <div class="flex container xl:px-0">
-      <div class="w-full lg:w-3/4 p-5">
-
-        <nuxt-content :document="post" />
-
-        <div class="share my-20 content-end flex justify-end lg:items-center md:flex-wrap xl:flex-nowrap">
-
-          <small class="title mb-3 xl:mb-0">COMPARTIR</small>
-          <ul class="flex items-center ml-3 flex-nowrap">
-            <li class="mr-3"><a href=""><img src="../../../assets/images/linkedin-gray.png" alt="" class="h-5 w-5"></a>
-            </li>
-            <li class="mr-3"><a href=""><img src="../../../assets/images/fbb-gray.png" alt="" class="h-5 w-5"></a>
-            </li>
-            <li class="mr-3"><a href=""><img src="../../../assets/images/twwt-gray.png" alt="" class="v"></a></li>
-            <li class=""><a href=""><img src="../../../assets/images/letter.png" alt="" class="h-5 w-5"></a></li>
-          </ul>
+      <div class="container xl:px-0 flex">
+        <div class="w-full lg:w-3/4 p-5">
+          <h1 class="2xl:text-xl text-lg title">{{ post.title }}</h1>
+          <p class="my-6 font-bold">Fecha de publicación: {{ post.date }}</p>
+          <p class="my-6">
+            Por: {{ post.autor }}
+            <span v-if="post.medio"
+              >Para: <a :href="post.link">{{ post.medio }}</a></span
+            >
+          </p>
         </div>
       </div>
-      <div class="w-full lg:w-1/4 px-5">
-        <img :src="post.img" alt="">
-        <button class="btn ml-auto my-3 block underline">Descargar</button>
+      <div class="flex">
+        <div class="pdf-container">
+          <vue-pdf-embed :source="post.file" />
+        </div>
+        <div class="col">
+          <div class="w-full lg:w-3/4 p-5">
+            <nuxt-content :document="post" />
+            <button class="btn ml-auto my-3 block underline">Descargar</button>
+            <div
+              class="share my-20 content-end flex justify-end lg:items-center md:flex-wrap xl:flex-nowrap"
+            >
+              <small class="title mb-3 xl:mb-0">COMPARTIR</small>
+              <ul class="flex items-center ml-3 flex-nowrap">
+                <li class="mr-3">
+                  <a href=""
+                    ><img
+                      src="../../../assets/images/linkedin-gray.png"
+                      alt=""
+                      class="h-5 w-5"
+                  /></a>
+                </li>
+                <li class="mr-3">
+                  <a href=""
+                    ><img
+                      src="../../../assets/images/fbb-gray.png"
+                      alt=""
+                      class="h-5 w-5"
+                  /></a>
+                </li>
+                <li class="mr-3">
+                  <a href=""
+                    ><img
+                      src="../../../assets/images/twwt-gray.png"
+                      alt=""
+                      class="v"
+                  /></a>
+                </li>
+                <li class="">
+                  <a href=""
+                    ><img
+                      src="../../../assets/images/letter.png"
+                      alt=""
+                      class="h-5 w-5"
+                  /></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
       </div>
+    </div>
+    <div class="relacionadas">
+      <h2>Artículos Relacionados</h2>
     </div>
   </div>
-   <div class="relacionadas">
-      <h2>Columnas relacionadas</h2>
-      <div>
-        <li v-for="col of columnas" :key="col.slug">
-            <NuxtLink :to="'columnas/'+col.slug">{{ col.title }}</NuxtLink>
-            <img :src="col.img" alt="">
-            <p>{{col.body.children[1].children[0].value}}</p>
-          </li>
-      </div>
-    </div>
-</div>
-
 </template>
 
 <script>
+import VuePdfEmbed from "vue-pdf-embed/dist/vue2-pdf-embed";
 export default {
+  components: {
+    VuePdfEmbed,
+  },
   async asyncData({ $content, params, error }) {
-    let post,columnas;
-    console.log(params)
+    let post, columnas;
+    console.log(params);
     try {
-      columnas = await $content("columnas").where({category:"anticorrupcion"}).limit(3).fetch();
-      post = await $content("columnas", params.slug).fetch();
+      columnas = await $content("columnas")
+        .where({ category: "anticorrupcion" })
+        .limit(3)
+        .fetch();
+      post = await $content("publicaciones", params.slug).fetch();
       // OR const article = await $content(`articles/${params.slug}`).fetch()
     } catch (e) {
       error({ message: "Blog Post not found" });
@@ -62,9 +92,18 @@ export default {
 
     return {
       post,
-      columnas
+      columnas,
     };
   },
 };
-
 </script>
+
+<style lang="scss" scoped>
+.pdf-container {
+  width: 80%;
+  margin: 20px auto;
+  max-width: 700px;
+  height: 70vh;
+  overflow: auto;
+}
+</style>
