@@ -1,36 +1,41 @@
 <template>
   <div>
-    <div class="hero">
-      <h1>Bolsa de trabajo</h1>
-      <p>En Ethos estamos comprometidos con la diversidad en nuestro equipo de trabajo. </p>
-      <p>Creemos en la igualdad de oportunidades y de condiciones de empleo.</p>
-      <p>¡Únete a nuestro equipo!</p>
-    </div>
-    <div class="vacantes">
-      <h2>VACANTES</h2>
-      <div>
-        <li v-for="v in vacantes" :key="v.puesto">
-           <NuxtLink :to="'bolsa_trabajo/'+v.slug">
-            <p>{{ v.puesto }}</p>
-          </NuxtLink>
-        </li>
+    <JumbotronBolsa />
+    <div class="bg-white border-b-16 border-primary">
+      <div class="container py-20">
+        <div class="vacantes mb-6">
+          <h2 class="lg:text-2xl text-lg title mb-6">VACANTES</h2>
+          <div>
+            <li v-for="v in vacantes" :key="v.puesto">
+              <NuxtLink :to="'bolsa_trabajo/' + v.slug">
+                <p>{{ v.puesto }}</p>
+              </NuxtLink>
+            </li>
+          </div>
+        </div>
+        <div class="bg-gray-dark h-px w-full my-20"></div>
+        <div class="internships mb-6">
+          <h2 class="lg:text-2xl text-lg title mb-6">PROGRAMA DE INTERNSHIP</h2>
+          <div>
+            <li v-for="v in internships" :key="v.puesto">
+              <NuxtLink :to="'bolsa_trabajo/' + v.slug">
+                <p>{{ v.puesto }}</p>
+              </NuxtLink>
+            </li>
+          </div>
+        </div>
       </div>
     </div>
-    <div class="internships">
-      <h2>PROGRAMA DE INTERNSHIP</h2>
-      <div>
-        <li v-for="v in internships" :key="v.puesto">
-           <NuxtLink :to="'bolsa_trabajo/'+v.slug">
-            <p>{{ v.puesto }}</p>
-          </NuxtLink>
-        </li>
-      </div>
-    </div>
+
   </div>
 </template>
 
 <script>
+import JumbotronBolsa from '~/components/JumbotronBolsa.vue';
+
 export default {
+  components: { JumbotronBolsa },
+
   async asyncData({ $content }) {
     const vacantes = await $content("bolsatrabajo").where({ category: 'vacantes' }).fetch();
     const internships = await $content("bolsatrabajo").where({ category: 'internships' }).fetch();

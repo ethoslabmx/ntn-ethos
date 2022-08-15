@@ -7,7 +7,7 @@
 
         <div class="right md:p-7 p-5 md:w-1/3  3xl:w-1/4 w-full flex md:flex-col justify-between text-right">
           <div class="img md:ml-auto content-start my-6">
-            <img :src="evento.img" alt="" class="w-auto h-52 mb-3 shadow" />
+            <img :src="evento.img" alt="" class="w-auto h-52 mb-3 shadow-xl" />
 
           </div>
 
@@ -34,7 +34,7 @@
 
           <div class="header content-start">
 
-            <NuxtLink :to="'publicaciones/'+evento.slug" class="title lg:text-lg text-sm mb-6 block">{{ evento.title }}</NuxtLink>
+            <NuxtLink :to="'publicaciones/'+evento.slug" class="title xl:text-xl text-sm mb-6 block">{{ evento.title }}</NuxtLink>
 
           </div>
 

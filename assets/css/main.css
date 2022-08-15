@@ -8,7 +8,7 @@
   top: rem;
 } */
 ul.dropdown-child-menu {
-  right: -14.8rem;
+  right: -16.5rem;
   top: 1rem;
 }
 .dropdown:hover .dropdown-menu {
@@ -147,9 +147,7 @@ height: auto;
   background-color: var(--bg-white);
 }
 .brand img{ width: auto; height: 60px;}
-ul.navbar {
-  display: flex;
-}
+
 .brand, .nav{
   flex: 0 1 auto;
 

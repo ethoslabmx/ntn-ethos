@@ -1,18 +1,18 @@
 <template>
   <div class="columnas">
    <JumbotronOpinion/>
-    <ul>
+    <ul class="border-b-16 border-primary">
       <li v-for="col of columnas" :key="col.slug" class="post md:py-20 py-10">
         <div
           class="flex container px-5 xl:px-28 items-center justify-between flex-wrap md:flex-nowrap md:flex-row-reverse">
           <div class="right md:p-7 p-5 md:w-1/3  3xl:w-1/4 w-full flex md:flex-col justify-between text-right">
             <div class="img md:ml-auto content-start my-6">
-              <img :src="col.img" alt="" class="w-auto h-52 mb-3 shadow" />
+              <img :src="col.img" alt="" class="w-auto h-52 mb-3 shadow-xl" />
             </div>
           </div>
           <div class="left  md:p-7 p-5 md:w-2/3  3xl:w-3/4 w-full flex flex-col justify-between">
             <div class="content-start">
-              <NuxtLink :to="'columnas/'+col.slug" class="title lg:text-xl text-lg mb-6 block">{{ col.title }}</NuxtLink>
+              <NuxtLink :to="'columnas/'+col.slug" class="title xl:text-xl text-sm mb-6 block">{{ col.title }}</NuxtLink>
             </div>
               <div class="content-center mb-10">
                 <p>{{col.extracto}}</p>

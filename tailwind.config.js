@@ -45,6 +45,8 @@ module.exports = {
       'cyanlight': '#B0D4D4',
       'blue': '#74B1B4BF',
       'yellow': '#F4E08EA6',
+      'yellow-1': '#F5D552',
+       'yellow-2': '#C3B59E',
       'orange': '#FDBD99',
       'green': '#13ce66',
       'gray-dark': '#5B5B5B',

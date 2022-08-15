@@ -7,24 +7,10 @@
       <img src="../assets/images/anticorrupcion-thumb.png" alt="" class="h-full w-full object-cover object-left ">
       </div>
       <div class="w-full 2xl:w-1/2 text-right pr-6 pb-6 2xl:pb-0">
-        <h1 class="2xl:text-5xl text-lg title 2xl:mb-6 mb3">ANTICORRUPCIÓN</h1>
-      <p class="2xl:text-2xl text-sm  uppercase">Publicaciones</p>
+        <h1 class="2xl:text-5xl text-lg title 2xl:mb-6 mb3">UNIVERSO THINK TANKS</h1>
+      <p class="2xl:text-2xl text-sm  uppercase">Noticias</p>
       </div>
     </div>
   </div>
 </div>
 </template>
-<style lang="scss">
-.h-image,.jumbotron-eje {
-    min-height: calc(40vh - 85px);
-
-  @media (min-width:993px) {
-    min-height: calc(100vh - 85px);
-  }
-   @media (min-width:1400px) {
-    min-height: calc(80vh - 85px);
-  }
-}
-
-
-</style>

@@ -7,14 +7,14 @@
     <div class="nav  items-center justify-end flex">
       <ul class="navbar  items-center justify-between hidden xl:flex">
         <li><a href="/">INICIO</a></li>
-        <li class="dropdown inline-block relative">
+        <li class="dropdown inline-block relative ">
           <a class=" rounded inline-flex items-center">
             <span class="mr-1">ETHOS</span>
             <svg class="fill-current h-4 w-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
               <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
             </svg>
           </a>
-          <ul class="dropdown-menu absolute hidden text-gray-700  bg-white shadow drop-shadow-sm p-0 m-0">
+          <ul class="dropdown-menu absolute hidden text-gray-700  bg-white shadow-xl p-0 m-0">
             <li class="">
               <NuxtLink class=" bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap"
                 to="/ethos/quienessomos">¿QUIÉNES SOMOS?</NuxtLink>
@@ -44,7 +44,7 @@
               <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
             </svg>
           </a>
-          <ul class="dropdown-menu absolute hidden text-gray-700  bg-white shadow drop-shadow-sm p-0 m-0">
+          <ul class="dropdown-menu absolute hidden text-gray-700  bg-white shadow-xl p-0 m-0">
             <li class="dropdown-child inline-block relative">
               <a class=" rounded inline-flex items-center py-3 px-6 w-full bg-gray-200 hover:bg-primary">
                 <span class="mr-1">ANTICORRUPCIÓN</span>
@@ -52,10 +52,14 @@
                   <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
                 </svg>
               </a>
-              <ul class="dropdown-child-menu absolute hidden text-gray-700  bg-white shadow drop-shadow-sm p-0 m-0">
+              <ul class="dropdown-child-menu absolute hidden text-gray-700  bg-white shadow-xl p-0 m-0">
                 <li class="">
                   <NuxtLink class=" bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap"
                     to="/anticorrupcion/publicaciones">PUBLICACIONES</NuxtLink>
+                </li>
+                 <li class="">
+                  <NuxtLink class="bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap" to="/anticorrupcion/reportajes">
+                    REPORTAJES PERÍODISTCOS</NuxtLink>
                 </li>
                 <li class="">
                   <NuxtLink class="bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap" to="/anticorrupcion/columnas">
@@ -103,7 +107,7 @@
               <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
             </svg>
           </a>
-          <ul class="dropdown-menu absolute hidden text-gray-700  bg-white shadow drop-shadow-sm p-0 m-0">
+          <ul class="dropdown-menu absolute hidden text-gray-700  bg-white shadow-xl p-0 m-0">
             <li class="">
               <NuxtLink class=" bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap"
                 to="/think-tanks/columnas">COLUMNAS</NuxtLink>
