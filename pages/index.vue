@@ -10,7 +10,7 @@
 
         <div class="img md:w-1/2"> <img src="../assets/images/anticorrupcion-thumb.png" alt=""></div>
 
-        <div class="content md:w-1/2 p-8">
+        <div class="content md:w-1/2 p-8 self-center">
 
           <h2 class="title xl:text-2xl text-lg">Anticorrupción</h2>
           <p>Buscamos contribuir al buen funcionamiento del Sistema Nacional Anticorrupción y de los Sistemas Estatales
@@ -24,7 +24,7 @@
 
         <div class="img md:w-1/2"><img src="../assets/images/finanzas-publicas-thumb.png" alt=""></div>
 
-        <div class="content md:w-1/2 p-8">
+        <div class="content md:w-1/2 p-8 self-center">
           <h2 class="title xl:text-2xl text-lg">Finanzas Públicas</h2>
           <p>Promovemos finanzas públicas sanas, a través de un sistema fiscal bien diseñado, un nivel de ingreso óptimo
             y un ejercicio del gasto eficiente y transparente, tanto a nivel federal como subnacional.</p>
@@ -36,7 +36,7 @@
       <div class="eje bg-white md:flex-row-reverse flex-col">
         <div class="img md:w-1/2"><img src="../assets/images/desarollo-sostenible-thumb.png" alt=""></div>
 
-        <div class="content md:w-1/2 p-8">
+        <div class="content md:w-1/2 p-8 self-center">
           <h2 class="title xl:text-2xl text-lg">Desarrollo Sostenible</h2>
           <p>Entendemos que las crecientes alarmas sobre el cambio climático nos muestran que el futuro estará hecho de
             crisis. Buscamos repensar las narrativas de desarrollo desde una perspectiva de crisis incorporando los ejes
@@ -48,7 +48,7 @@
       </div>
       <div class="eje bg-white md:flex-row flex-col">
         <div class="img md:w-1/2"><img src="../assets/images/ciudades-del-futuro-thumb.png" alt=""></div>
-        <div class="content md:w-1/2 p-8">
+        <div class="content md:w-1/2 p-8 self-center">
           <h2 class="title xl:text-2xl text-lg">Ciudades del futuro</h2>
           <p>Generamos propuestas que permitan consolidar estrategias, programas públicos y proyectos que promuevan el
             desarrollo sostenible de servicios públicos e infraestructura, la cual aproveche recursos renovables de
@@ -61,7 +61,7 @@
       </div>
       <div class="eje bg-white md:flex-row-reverse flex-col">
         <div class="img md:w-1/2"><img src="../assets/images/inclusion-thumb.png" alt=""></div>
-        <div class="content md:w-1/2 p-8">
+        <div class="content md:w-1/2 p-8 self-center">
           <h2 class="title xl:text-2xl text-lg">Inclusión</h2>
           <p>Participamos en el debate sobre el rumbo de la política social y buscamos entender las limitaciones del
             modelo económico y político actual. También promovemos agendas de inclusión de poblaciones marginadas y de
@@ -78,16 +78,16 @@
         <hr>
       </div>
       <li v-for="post of posts" :key="post.slug" class="eje container mx-auto px-0">
-        <div class=" flex p-10 justify-between items-center lg:flex-row-reverse flex-col">
+        <div class=" flex p-10 4xl:px-40 justify-between items-center lg:flex-row-reverse flex-col">
 
-          <div class="lg:w-1/3 xl:w-1/2 lg:ml-10 self-center">
-            <img :src="post.img" alt="" class="w-full object-cover h-60">
-             <div>{{post.category.replace("-"," ").toUpperCase()}}</div>
+          <div class="lg:w-1/2 xl:w-1/4 lg:ml-10 self-center">
+            <img :src="post.img" alt="" class="w-full object-contain h-80">
+             <div class="tag">{{post.category.replace("-"," ").toUpperCase()}}</div>
           </div>
 
-          <div class="content lg:w-2/3  xl:w-1/2 mt-6 lg:mt-0">
-            <NuxtLink :to="post.slug" class="xl:text-lg">{{ post.title }}</NuxtLink>
-            <p>{{ post.extracto }}</p>
+          <div class="content lg:w-1/2  xl:w-3/4 mt-6 lg:mt-0">
+            <NuxtLink :to="post.slug" class="xl:text-lg title">{{ post.title }}</NuxtLink>
+            <p class="text-gray-dark">{{ post.extracto }}</p>
           </div>
 
         </div>
