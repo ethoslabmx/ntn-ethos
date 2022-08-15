@@ -11,7 +11,7 @@
         <li v-for="col of columnas" :key="col.slug">
             <NuxtLink :to="'columnas/'+col.slug">{{ col.title }}</NuxtLink>
             <img :src="col.img" alt="">
-            <p>{{col.body.children[1].children[0].value}}</p>
+            <p>{{col.extracto}}</p>
           </li>
       </div>
     </div>
