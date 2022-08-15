@@ -1,18 +1,40 @@
 <template>
   <div class="columnas">
-    <h1>Columnas de opinion</h1>
-    <div>
-      <li v-for="col of columnas" :key="col.slug">
-          <NuxtLink :to="'columnas/'+col.slug">{{ col.title }}</NuxtLink>
-          <img :src="col.img" alt="">
-          <p>{{col.extracto}}</p>
+   <JumbotronOpinion/>
+    <ul>
+      <li v-for="col of columnas" :key="col.slug" class="post md:py-20 py-10">
+        <div
+          class="flex container px-5 xl:px-28 items-center justify-between flex-wrap md:flex-nowrap md:flex-row-reverse">
+          <div class="right md:p-7 p-5 md:w-1/3  3xl:w-1/4 w-full flex md:flex-col justify-between text-right">
+            <div class="img md:ml-auto content-start my-6">
+              <img :src="col.img" alt="" class="w-auto h-52 mb-3 shadow" />
+            </div>
+          </div>
+          <div class="left  md:p-7 p-5 md:w-2/3  3xl:w-3/4 w-full flex flex-col justify-between">
+            <div class="content-start">
+              <NuxtLink :to="'columnas/'+col.slug" class="title lg:text-xl text-lg mb-6 block">{{ col.title }}</NuxtLink>
+            </div>
+              <div class="content-center mb-10">
+                <p>{{col.extracto}}</p>
+              </div>
+            </div>
+          </div>
         </li>
-    </div>
+        <li class="post last">
+          <div class="container px-5 xl:px-28 py-10">
+            <button class="ml-auto more-btn bold">VER MÁS <span class="icon"></span></button>
+          </div>
+        </li>
+    </ul>
   </div>
 </template>
 
 <script>
+import JumbotronOpinion from '~/components/JumbotronOpinion.vue';
+
 export default {
+    components: { JumbotronOpinion },
+
   async asyncData({ $content }) {
     const columnas = await $content("columnas").where({category:"anticorrupcion"}).fetch();
 

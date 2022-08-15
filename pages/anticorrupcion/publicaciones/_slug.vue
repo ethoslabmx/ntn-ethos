@@ -29,8 +29,8 @@
         </div>
       </div>
       <div class="w-full lg:w-1/4 px-5">
-        <img :src="post.img" alt="">
-        <button class="btn ml-auto my-3 block underline">Descargar</button>
+        <img :src="post.img" alt="" class="shadow">
+        <button class="bg-gray-dark font py-2 px-3 rounded-md my-3 text-white ml-auto block">Descargar</button>
       </div>
     </div>
   </div>
