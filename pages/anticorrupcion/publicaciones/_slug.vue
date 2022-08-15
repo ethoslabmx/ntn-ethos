@@ -1,4 +1,5 @@
 <template>
+
   <div>
     <div class="post_content py-28 bg-white">
       <div class="container xl:px-0 flex">
@@ -68,6 +69,7 @@
       <h2>Artículos Relacionados</h2>
     </div>
   </div>
+
 </template>
 
 <script>
@@ -77,6 +79,7 @@ export default {
     VuePdfEmbed,
   },
   async asyncData({ $content, params, error }) {
+
     let post, columnas;
     console.log(params);
     try {
@@ -84,6 +87,7 @@ export default {
         .where({ category: "anticorrupcion" })
         .limit(3)
         .fetch();
+
       post = await $content("publicaciones", params.slug).fetch();
       // OR const article = await $content(`articles/${params.slug}`).fetch()
     } catch (e) {
@@ -92,7 +96,6 @@ export default {
 
     return {
       post,
-      columnas,
     };
   },
 };

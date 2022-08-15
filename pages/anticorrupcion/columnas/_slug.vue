@@ -21,11 +21,10 @@
 <script>
 export default {
   async asyncData({ $content, params, error }) {
-    let post,columnas;
+    let post;
     console.log(params)
     try {
-      columnas = await $content("columnas").where({category:"anticorrupcion"}).limit(3).fetch();
-      post = await $content("columnas", params.slug).fetch();
+      post = await $content("publicaciones", params.slug).fetch();
       // OR const article = await $content(`articles/${params.slug}`).fetch()
     } catch (e) {
       error({ message: "Blog Post not found" });
@@ -33,7 +32,6 @@ export default {
 
     return {
       post,
-      columnas
     };
   },
 };
