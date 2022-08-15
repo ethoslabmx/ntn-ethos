@@ -21,9 +21,13 @@
 <script>
 export default {
   async asyncData({ $content, params, error }) {
-    let post;
+    let post, columnas;
     console.log(params)
     try {
+      columnas = await $content("columnas")
+        .where({ category: "anticorrupcion" })
+        .limit(3)
+        .fetch();
       post = await $content("columnas", params.slug).fetch();
       // OR const article = await $content(`articles/${params.slug}`).fetch()
     } catch (e) {
@@ -32,6 +36,7 @@ export default {
 
     return {
       post,
+      columnas
     };
   },
 };
