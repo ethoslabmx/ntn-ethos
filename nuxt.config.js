@@ -22,7 +22,7 @@ export default {
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: ['~/plugins/youtube.client.js'],
+  plugins: ['~/plugins/youtube.client.js','~/plugins/pdfviewer.client.js'],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,

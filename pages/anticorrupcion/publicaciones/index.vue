@@ -34,7 +34,7 @@
 
           <div class="header content-start">
 
-            <NuxtLink :to="evento.slug" class="title lg:text-lg text-sm mb-6 block">{{ evento.title }}</NuxtLink>
+            <NuxtLink :to="'publicaciones/'+evento.slug" class="title lg:text-lg text-sm mb-6 block">{{ evento.title }}</NuxtLink>
 
           </div>
 

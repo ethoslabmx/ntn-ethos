@@ -24,7 +24,7 @@ export default {
     let post;
     console.log(params)
     try {
-      post = await $content("publicaciones", params.slug).fetch();
+      post = await $content("columnas", params.slug).fetch();
       // OR const article = await $content(`articles/${params.slug}`).fetch()
     } catch (e) {
       error({ message: "Blog Post not found" });

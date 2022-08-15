@@ -15,7 +15,7 @@
         </div>
       </div>
       <div class="flex">
-        <div class="pdf-container">
+        <div class="pdf-container" v-if="post.file">
           <vue-pdf-embed :source="post.file" />
         </div>
         <div class="col">
@@ -73,15 +73,14 @@
 </template>
 
 <script>
-import VuePdfEmbed from "vue-pdf-embed/dist/vue2-pdf-embed";
+
+
 export default {
-  components: {
-    VuePdfEmbed,
-  },
+
   async asyncData({ $content, params, error }) {
 
     let post, columnas;
-    console.log(params);
+    //console.log(params);
     try {
       columnas = await $content("columnas")
         .where({ category: "anticorrupcion" })
@@ -89,6 +88,7 @@ export default {
         .fetch();
 
       post = await $content("publicaciones", params.slug).fetch();
+      console.log(post);
       // OR const article = await $content(`articles/${params.slug}`).fetch()
     } catch (e) {
       error({ message: "Blog Post not found" });
