@@ -1,8 +1,8 @@
 <template>
   <div>
     <JumbotronEquipo />
-    <div class="bg-white py-20 border-b-16 border-primary">
-      <section class="container mx-auto md:px-4 xl:px-0">
+    <div class="bg-white py-20 border-b-16 border-primary app">
+      <section class="container mx-auto">
         <div class="flex flex-wrap lg:flex-nowrap">
 
           <div class="w-full lg:w-1/2">

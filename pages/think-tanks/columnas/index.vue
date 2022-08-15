@@ -1,5 +1,5 @@
 <template>
-  <div class="border-b-16 border-primary">
+  <div class="border-b-16 border-primary app">
     <JumbotronOpinionTanks/>
     <div>
           <ul>

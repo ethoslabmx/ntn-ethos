@@ -1,6 +1,6 @@
 <template>
   <div
-    class="jumbotron-confianza border-b-16 border-primary py-24 relative flex flex-col items-top justify-center min-h-screen bg-gray-100 sm:items-center sm:pt-0  bg-gradient-to-b from-cyan to-cyanlight">
+    class="app jumbotron-confianza border-b-16 border-primary py-24 relative flex flex-col items-top justify-center min-h-screen  sm:items-center sm:pt-0  bg-gradient-to-b from-cyan to-cyanlight">
     <div class="lg:mr-auto lg:w-1/2 hero md:pl-10 lg:py0 py-10">
       <h1 class="lg:text-5xl text-lg font text-white">¿QUIÉNES
         HAN CONFIADO

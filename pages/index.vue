@@ -72,20 +72,20 @@
 
       </div>
     </div>
-    <div class="columnas">
+    <div class="columnas 2xl:pr-20">
       <div class="separador_header container mx-auto p-6 my-6 md:my-14">
         <h2 class="big-title xl:text-xl text-md text-right pr-3 tracking-widest">Columnas de opinion</h2>
         <hr>
       </div>
-      <li v-for="post of posts" :key="post.slug" class="eje container mx-auto px-0">
-        <div class=" flex p-10 4xl:px-40 justify-between items-center lg:flex-row-reverse flex-col">
+      <li v-for="post of posts" :key="post.slug" class="eje">
+        <div class="container mx-auto  flex  2xl:px-10 py-10 justify-between items-center lg:flex-row-reverse flex-col">
 
-          <div class="lg:w-1/2 xl:w-1/4 lg:ml-10 self-center">
-            <img :src="post.img" alt="" class="w-full object-contain h-80">
+          <div class="lg:w-1/2 xl:w-1/3 lg:ml-10 self-center">
+            <img :src="post.img" alt="" class="w-full object-cover h-60">
              <div class="tag">{{post.category.replace("-"," ").toUpperCase()}}</div>
           </div>
 
-          <div class="content lg:w-1/2  xl:w-3/4 mt-6 lg:mt-0">
+          <div class="content lg:w-1/2  xl:w-2/3 mt-6 lg:mt-0">
             <NuxtLink :to="post.slug" class="xl:text-lg title">{{ post.title }}</NuxtLink>
             <p class="text-gray-dark">{{ post.extracto }}</p>
           </div>
@@ -94,12 +94,12 @@
       </li>
     </div>
     <div class="more py-10 text-right">
-      <div class="container pr-0">
+      <div class="container">
         <button class="ml-auto more-btn">ENTRAR <span class="icon"></span></button>
       </div>
     </div>
     <div class="twitter bg-white md:py-20 py-10">
-      <div class="container mx-auto px-0">
+      <div class="container mx-auto">
         <div class="flex justify-between align-middle flex-wrap md:flex-nowrap">
           <div class="separador_header self-start w-full px-6 md:pl-0 md:pr-6 mb-6 md:mb-14 tracking-widest">
             <h2 class="big-title xl:text-xl text-md text-right pr-3">ETHOS EN TWITTER</h2>

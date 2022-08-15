@@ -1,5 +1,5 @@
 <template>
-  <div class="border-b-16 border-primary">
+  <div class="border-b-16 border-primary app">
     <JumbotronDoc />
     <div class="documentos bg-white">
       <div class="documento container py-20 flex items-center justify-between" v-for="d in documentos" :key="d.titulo">

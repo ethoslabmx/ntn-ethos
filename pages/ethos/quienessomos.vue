@@ -3,7 +3,7 @@
     <JumbotronQuienes />
 
     <div class="bg-white border-b-20 border-primary">
-      <div class="container mx-auto py-20 md:px-0 flex justify-start flex-col">
+      <div class="container mx-auto py-20 flex justify-start flex-col">
         <section class="lg:w-2/3 w-full">
           <div class="md:mb-20 mb-10">
             <h2 class="lg:text-5xl text-xl  title mb-6">EQUIPO</h2>

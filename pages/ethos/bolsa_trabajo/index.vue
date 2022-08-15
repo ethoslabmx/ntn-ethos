@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="app">
     <JumbotronBolsa />
     <div class="bg-white border-b-16 border-primary">
       <div class="container py-20">

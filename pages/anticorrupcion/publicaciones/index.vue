@@ -1,5 +1,5 @@
 <template>
-  <div class="border-b-16 border-primary">
+  <div class="border-b-16 border-primary app">
     <JumbotronEje />
     <li v-for="evento of eventos" :key="evento.slug" class="post md:py-20 py-10">
       <div

@@ -1,5 +1,5 @@
 <template>
-  <div class="columnas">
+  <div class="app">
    <JumbotronOpinion/>
     <ul class="border-b-16 border-primary">
       <li v-for="col of columnas" :key="col.slug" class="post md:py-20 py-10">

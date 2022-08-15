@@ -1,5 +1,5 @@
 <template>
-  <div class="columnas">
+  <div class="app">
     <JumbotronNoticias />
     <div class="bg-white border-b-16 border-primary">
       <li v-for="col of columnas" :key="col.slug" class="">

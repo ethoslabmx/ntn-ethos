@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="post_content py-28 bg-white">
-      <div class="container xl:px-0 flex ">
+      <div class="container  flex ">
         <div class="w-full lg:w-3/4 p-5">
           <h1 class="2xl:text-xl text-lg title">{{ post.title }}</h1>
           <p class="my-6 font-bold">Fecha de publicación: {{ post.date }}</p>
@@ -10,7 +10,7 @@
           </p>
         </div>
       </div>
-      <div class="flex container xl:px-0 flex-wrap xl:flex-nowrap xl:flex-row-reverse">
+      <div class="flex container  flex-wrap xl:flex-nowrap xl:flex-row-reverse">
         <div class="w-full xl:w-1/4 px-5">
           <img :src="post.img" alt="" class="shadow-xl">
         </div>
@@ -23,7 +23,7 @@
       </div>
     </div>
     <div class="relacionadas bg-cyan py-20 text-white">
-      <div class="container xl:px-0 flex items-start flex-wrap xl:flex-nowrap">
+      <div class="container flex items-start flex-wrap xl:flex-nowrap">
         <div class="w-full xl:w-1/6"><h2 class="font md:text-lg text-sm mb-3 xl:mb-0">Columnas relacionadas</h2></div>
        <div class="w-full xl:w-5/6">
          <div class="relacionadas flex flex-wrap xl:flex-nowrap">

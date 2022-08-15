@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="app">
     <div class="com">
       <div class="com__content">
         <section
@@ -37,18 +37,18 @@
         <ul class="com__nav-list">
           <li class="com__nav-item bg-primary">
             <a class="com__nav-link" @click="activeSection(1)">
-              <span class="animate scaleInLeft delay-2 big-title text-xl text-white mb-3 text-right">Conoce a la
+              <span class="animate scaleInLeft delay-2 big-title 4xl:text-xl text-sm text-white mb-3 text-right">Conoce a la
                 AMEXCID</span>
-              <span class="animate scaleInLeft delay-4 text-lg text-white text-right">Agencia Mexicana de Cooperación
+              <span class="animate scaleInLeft delay-4 4xl:text-lg text-white text-right">Agencia Mexicana de Cooperación
                 Internacional para el Desarrollo.</span>
             </a>
           </li>
-          <li class="com__nav-item bg-cyan">
+          <li class="com__nav-item bg-yellow-3">
             <a class="com__nav-link" @click="activeSection(2)">
               <div class="com__section-half">
-                <span class="animate scaleInLeft delay-3 big-title text-xl text-white mb-3 text-right">COOPERACiÓN PARA
+                <span class="animate scaleInLeft delay-3 big-title 4xl:text-xl text-sm  text-white mb-3 text-right">COOPERACiÓN PARA
                   TODOS</span>
-                <span class="animate scaleInLeft delay-4 text-lg text-white text-right">Ayuda oficial al desarrollo en
+                <span class="animate scaleInLeft delay-4 4xl:text-lg text-white text-right">Ayuda oficial al desarrollo en
                   México y LATAM.</span>
               </div>
               <div class="com__section-half">
@@ -56,10 +56,10 @@
               </div>
             </a>
           </li>
-          <li class="com__nav-item bg-yellow-3">
+          <li class="com__nav-item  bg-cyan">
             <a class="com__nav-link" @click="activeSection(3)">
-              <span class="animate scaleIn delay-3 big-title text-xl text-white mb-3 text-right">CEPAL</span>
-              <span class="animate scaleIn delay-5 text-lg text-white text-righ">El cambio climático y la biodiversidad
+              <span class="animate scaleIn delay-3 big-title 4xl:text-xl text-sm  text-white mb-3 text-right">CEPAL</span>
+              <span class="animate scaleIn delay-5 4xl:text-lg text-white text-righ">El cambio climático y la biodiversidad
                 en América Latina y el Caribe.</span>
             </a>
           </li>
@@ -151,7 +151,7 @@ export default {
       position: absolute;
       height: 100%;
       width: 100%;
-      background-size: contain;
+      background-size: 90%;
       background-repeat: no-repeat;
       background-position: top right;
       z-index: -1;
@@ -173,7 +173,7 @@ export default {
     opacity: 0;
     visibility: hidden;
     transition: all .5s cubic-bezier(0.23, 1, 0.32, 1);
-    z-index: 1;
+    z-index: 0;
 
     &.active {
       opacity: 1;
@@ -283,6 +283,21 @@ export default {
     // 	background: rgba(#20232A, 1);
     // }
 
+    &:after{
+      content: "";
+      position: absolute;
+      background-image: url(../../assets/images/arosblancos.png);
+      background-size: 80px;
+      background-repeat: no-repeat;
+      background-position: center;
+      height: 100%;
+      width: 100%;
+      top:0;
+      bottom:0;
+      margin: auto;
+      z-index: 1;
+    }
+
     &:last-child {
       border-bottom: none;
     }
@@ -292,6 +307,9 @@ export default {
       // .com__nav-link {
       // 	transform: scaleX(1);
       // }
+      &:after{
+        content: none;
+      }
 
       .com__nav-link {
         transform: scaleX(1);
@@ -302,7 +320,7 @@ export default {
 
   &__nav-link {
     display: flex;
-    flex-flow: column wrap;
+    flex-flow: column nowrap;
     justify-content: center;
     align-items: flex-end;
     padding: 7%;

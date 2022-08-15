@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="app">
     <JumbotronEventos />
     <div class="bg-white border-b-16 border-primary">
       <li v-for="evento of eventos" :key="evento.slug" class="">

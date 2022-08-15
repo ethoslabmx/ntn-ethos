@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="app">
     <JumbotronVideos />
 
   <div class="bg-white border-b-16 border-primary">
