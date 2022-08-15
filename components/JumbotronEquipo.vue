@@ -17,7 +17,7 @@
 </template>
 <style lang="scss">
 .jumbotron-equipo {
-  min-height: calc(50vh - 85px);
+  min-height: calc(45vh - 100px);
   background-size: cover;
   background-repeat: no-repeat;
   background-size: cover;
@@ -41,17 +41,10 @@
 
   }
 
-
-
   @media (min-width:993px) {
-    min-height: calc(100vh - 85px);
-
-
+    min-height: calc(80vh - 100px);
 
   }
 
-  @media (min-width:1400px) {
-    min-height: calc(80vh - 85px)
-  }
 }
 </style>

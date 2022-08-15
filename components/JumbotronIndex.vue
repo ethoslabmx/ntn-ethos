@@ -5,11 +5,10 @@
 </template>
 <style lang="scss">
 .jumbotron {
-  min-height: calc(60vh - 85px);
+  min-height: calc(60vh - 80px);
   background-size: cover;
   background-repeat: no-repeat;
   background-image: url(../assets/images/jumbotron-index.png);
-  background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
   border-bottom: 2rem solid #F28F78;
@@ -56,9 +55,8 @@
       width: auto;
     }
   }
-
   @media (min-width:993px) {
-    min-height: calc(100vh - 85px);
+    min-height: calc(90vh - 200px);
 
     &:hover {
       &:after {
@@ -68,5 +66,12 @@
     }
 
   }
+  @media (min-width:1200px) {
+    min-height: calc(100vh - 100px);
+  }
+  @media (min-width:1400px) {
+    min-height: calc(90vh - 200px);
+  }
+
 }
 </style>

@@ -17,7 +17,7 @@
 <style lang="scss">
 
 .jumbotron-confianza {
-  min-height: calc(40vh - 85px);
+  min-height: calc(40vh - 100px);
   background-size: cover;
   background-repeat: no-repeat;
   background-size: cover;
@@ -27,7 +27,7 @@
 
 
   @media (min-width:993px) {
-    min-height: calc(80vh - 85px);
+    min-height: calc(80vh - 100px);
 
 
 

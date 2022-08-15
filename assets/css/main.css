@@ -63,9 +63,16 @@ footer{letter-spacing: 0.055em;}
 
 
 ul.dropdown-child-menu {
-  right: -16.5rem;
+  right: -115%;
   top: 1rem;
 }
+@media (min-width:1400px) {
+  ul.dropdown-child-menu {
+    right: -113%;
+  }
+}
+
+
 .dropdown:hover .dropdown-menu {
   display: block;
   z-index: 3;
@@ -236,10 +243,12 @@ ul.navbar li ul li {
 }
 .more-btn .icon {
   background-image: url("../images/clickMore.png");
-  background-size: contain;
+  background-repeat: no-repeat;
+  background-size: cover;
   height: 30px;
-  width: 30px;
+  width: 31px;
   display: block;
+
 }
 .share ul{
   display: flex;
@@ -270,6 +279,12 @@ ul.navbar li ul li {
 @media (min-width:993px)  {
   #__layout{
     max-width: 90%;
+  }
+}
+
+@media (min-width:1200px)  {
+  #__layout{
+    max-width: 95%;
   }
 }
 
