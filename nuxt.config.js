@@ -61,6 +61,8 @@ export default {
   },
   googleFonts: {
     display: "swap",
+    prefetch: true,
+    preconnect: true,
     families: {
       Roboto: true,
       Lato: true,

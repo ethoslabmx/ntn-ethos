@@ -9,133 +9,62 @@
           </p>
         </section>
         <section class="com__section com__section--text com__section--text-img">
-          <div class="com__section-half">
-            <h1 class="animate slideInLeft">Communication Design</h1>
-            <p class="animate slideInLeft delay-2">
-              Communication design is a mixed discipline between design and
-              information-development which is concerned with how media
-              intermission such as printed, crafted, electronic media or
-              presentations communicate with people.
-            </p>
+          <div class="">
+            <h1 class="animate">Escudo ciudadano</h1>
+            <lite-youtube
+                videoid="ke-NGxVe2tU"
+                playlabel="Escudo Ciudadano"
+                params="controls=0&start=0&modestbranding=2&rel=0&enablejsapi=1"
+                class=""
+              />
           </div>
-          <div class="com__section-half">
-            <img
-              class="animate slideInRight delay-3"
-              src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/45226/ettrics-logo.svg"
-              alt=""
-            />
-          </div>
+
         </section>
         <section class="com__section com__section--text centered">
-          <h1 class="animate scaleIn">Communication Design</h1>
-          <img
-            class="animate scaleIn delay-3"
-            src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/45226/ettrics-logo.svg"
-            alt=""
-          />
+          <h1 class="animate scaleIn">Otra Historia</h1>
+          <lite-youtube
+                videoid="yaED_rElGgU"
+                playlabel="Escudo Ciudadano"
+                params="controls=0&start=0&modestbranding=2&rel=0&enablejsapi=1"
+                class=""
+              />
         </section>
         <section class="com__section com__section--text">
-          <h1 class="animate slideInLeft">Communication Design</h1>
-          <p class="animate slideInLeft delay-3">
-            Communication design is a mixed discipline between design and
-            information-development which is concerned with how media
-            intermission such as printed, crafted, electronic media or
-            presentations communicate with people.
-          </p>
-        </section>
-        <section class="com__section com__section--text com__section--text-img">
-          <div class="com__section-half">
-            <h1 class="animate slideInLeft">Communication Design</h1>
-            <p class="animate slideInLeft delay-2">
-              Communication design is a mixed discipline between design and
-              information-development which is concerned with how media
-              intermission such as printed, crafted, electronic media or
-              presentations communicate with people.
-            </p>
-          </div>
-          <div class="com__section-half">
-            <img
-              class="animate slideInRight delay-3"
-              src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/45226/ettrics-logo.svg"
-              alt=""
-            />
-          </div>
-        </section>
-        <section class="com__section com__section--text centered">
-          <h1 class="animate scaleIn">Communication Design</h1>
-          <img
-            class="animate scaleIn delay-3"
-            src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/45226/ettrics-logo.svg"
-            alt=""
-          />
-        </section>
-        <section class="com__section com__section--text">
-          <h1 class="animate slideInLeft">Communication Design</h1>
-          <p class="animate slideInLeft delay-3">
-            Communication design is a mixed discipline between design and
-            information-development which is concerned with how media
-            intermission such as printed, crafted, electronic media or
-            presentations communicate with people.
-          </p>
+          <h1 class="animate ">Otro Historia 3</h1>
+          <lite-youtube
+                videoid="l0dDjW70Vuk"
+                playlabel="Escudo Ciudadano"
+                params="controls=0&start=0&modestbranding=2&rel=0&enablejsapi=1"
+                class=""
+              />
         </section>
       </div>
       <nav class="com__nav">
         <ul class="com__nav-list">
           <li class="com__nav-item">
-            <a href="" class="com__nav-link">
-              <span class="animate scaleInLeft delay-2">CONOCE A LA AMEXID</span>
-              <span class="animate scaleInLeft delay-4">Agencia Mexicana de coperación internacional</span>
+            <a class="com__nav-link" @click="activeSection(1)">
+              <span class="animate scaleInLeft delay-2">ESCUDO CIUDADADO</span>
+              <span class="animate scaleInLeft delay-4">Lorem Ipsum</span>
+            </a>
+          </li>
+          <li class="com__nav-item">
+            <a class="com__nav-link flex-row" @click="activeSection(2)">
+              <div class="com__section-half">
+                <span class="blue-line animate scaleInLeft delay-3"></span>
+                <span class="white-line animate scaleInLeft delay-4"></span>
+              </div>
+              <div class="com__section-half">
+                <span class="white-circle animate slideInRight delay-5"></span>
+              </div>
+            </a>
+          </li>
+          <li class="com__nav-item">
+            <a  class="com__nav-link centered" @click="activeSection(3)">
+              <span class="blue-line animate scaleIn delay-3"></span>
+              <span class="white-circle animate scaleIn delay-5"></span>
+            </a>
+          </li>
 
-            </a>
-          </li>
-          <li class="com__nav-item">
-            <a href="" class="com__nav-link flex-row">
-              <div class="com__section-half">
-                <span class="blue-line animate scaleInLeft delay-3"></span>
-                <span class="white-line animate scaleInLeft delay-4"></span>
-              </div>
-              <div class="com__section-half">
-                <span class="white-circle animate slideInRight delay-5"></span>
-              </div>
-            </a>
-          </li>
-          <li class="com__nav-item">
-            <a href="" class="com__nav-link centered">
-              <span class="blue-line animate scaleIn delay-3"></span>
-              <span class="white-circle animate scaleIn delay-5"></span>
-            </a>
-          </li>
-          <li class="com__nav-item">
-            <a href="" class="com__nav-link">
-              <span class="blue-line animate scaleInLeft delay-2"></span>
-              <span class="white-line animate scaleInLeft delay-4"></span>
-              <span class="white-line animate scaleInLeft delay-5"></span>
-            </a>
-          </li>
-          <li class="com__nav-item">
-            <a href="" class="com__nav-link flex-row">
-              <div class="com__section-half">
-                <span class="blue-line animate scaleInLeft delay-3"></span>
-                <span class="white-line animate scaleInLeft delay-4"></span>
-              </div>
-              <div class="com__section-half">
-                <span class="white-circle animate slideInRight delay-5"></span>
-              </div>
-            </a>
-          </li>
-          <li class="com__nav-item">
-            <a href="" class="com__nav-link centered">
-              <span class="blue-line animate scaleIn delay-3"></span>
-              <span class="white-circle animate scaleIn delay-5"></span>
-            </a>
-          </li>
-          <li class="com__nav-item">
-            <a href="" class="com__nav-link">
-              <span class="blue-line animate scaleInLeft delay-2"></span>
-              <span class="white-line animate scaleInLeft delay-4"></span>
-              <span class="white-line animate scaleInLeft delay-5"></span>
-            </a>
-          </li>
         </ul>
       </nav>
     </div>
@@ -149,6 +78,7 @@ export default {
   data() {
     return {
       section:null,
+      activeSec:0,
       link:null
     }
   },
@@ -159,13 +89,20 @@ export default {
   },
   methods: {
     activeSection(section) {
-      this.section = section;
-      this.section.addClass('active');
-      this.section.find('*').css({
-        transform: 'none',
-        opacity: 1
+      this.section[this.activeSec].classList.remove('active');
+      [].forEach.call(this.section[this.activeSec].children, function(child) {
+        child.style.opacity = 0;
+        child.style.transform = 'none';
       });
-      this.section.find('.com__nav-link').addClass('active');
+      this.section[section].classList.add('active');
+      [].forEach.call(this.section[section].children, function(child) {
+        child.style.opacity = 1;
+        child.style.transform = 'none';
+      });
+
+      this.activeSec>0 ?this.link[this.activeSec-1].classList.remove('active') : null;
+      this.link[section-1].classList.add('active');
+      this.activeSec = section;
     },
     activeFirst() {
 
@@ -174,8 +111,8 @@ export default {
         child.style.opacity = 1;
         child.style.transform = 'none';
       });
-
-      this.link[0].classList.add('active');
+      this.activeSec = 0;
+      //this.link[0].classList.add('active');
 
     }
   }
@@ -294,12 +231,7 @@ export default {
 				transform: scaleX(1);
 			}
 
-			.blue-line,
-			.white-line,
-			.white-circle {
-				transform: none;
-				opacity: 1;
-			}
+
 		}
 	}
 
@@ -351,12 +283,12 @@ export default {
 
 .slideInLeft {
 	transform: translate3d(-100%, 0, 0);
-	opacity: 0;
+
 }
 
 .slideInRight {
 	transform: translate3d(100%, 0, 0);
-	opacity: 0;
+
 }
 
 .scaleIn {
