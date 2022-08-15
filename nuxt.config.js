@@ -32,6 +32,7 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
+    '@nuxtjs/google-fonts'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -57,5 +58,14 @@ export default {
         autoprefixer: {},
       },
     },
+  },
+  googleFonts: {
+    display: "swap",
+    families: {
+      Roboto: true,
+      Lato: true,
+      Saira: true,
+      'Saira+Condensed': true,
+    }
   }
 }

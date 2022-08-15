@@ -1,5 +1,5 @@
 <template>
-  <div class="menubar flex items-center justify-between">
+  <div class="menubar flex items-center justify-between saira">
     <div class="brand mr-2 p-3">
       <a href="//ethos.org.mx" target="_blank"> <img src="../assets/images/logo-dark.png" alt="logo ethos"
           class="logo" /></a>

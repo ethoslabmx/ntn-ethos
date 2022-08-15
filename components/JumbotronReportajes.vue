@@ -7,7 +7,7 @@
       <img src="../assets/images/anticorrupcion-thumb.png" alt="" class="h-full w-full object-cover object-left ">
       </div>
       <div class="w-full 2xl:w-1/2 text-right pr-6 pb-6 2xl:pb-0">
-        <h1 class="2xl:text-5xl text-lg title 2xl:mb-6 mb3">ANTICORRUPCIÓN</h1>
+        <h1 class="2xl:text-5xl text-lg big-title 2xl:mb-6 mb3">ANTICORRUPCIÓN</h1>
       <p class="2xl:text-2xl text-sm  uppercase">Reportajes periodísticos</p>
       </div>
     </div>

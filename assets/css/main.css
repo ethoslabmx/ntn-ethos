@@ -1,11 +1,55 @@
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Saira+Semi+Condensed:wght@100;200;300;400;500;600;700;800&family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@100;200;300;400;500;600;700;900&display=swap');
+/* purgecss start ignore */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+/* purgecss end ignore */
+@import 'tailwindcss/utilities';
 
-/* ul.dropdown-menu {
-  top: rem;
-} */
+:root {
+  --main-font-color: #828282;
+  --main-title-color: #5b5b5b;
+  --bg-white: #fff;
+  --bg-white-dark: #efefef;
+  --bg-gray: #5b5b5b;
+  --bg-blue: rgba(116, 177, 180, 0.75);
+  --bg-blue-full: #74b1b4;
+  --bg-orange: #fdbd99;
+  --bg-yellow: rgba(244, 224, 142, 0.65);
+  --bg-brown: #c8bca8;
+  --bg-pink: #f37d89;
+}
+* {
+  box-sizing: inherit;
+}
+
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #c1c1c1;
+}
+
+body{font-family: 'Lato', sans-serif;}
+.big-title, .tag{font-family: 'Saira Condensed', sans-serif;}
+.title,.more-btn{font-family: 'Roboto', sans-serif; font-weight: 600;}
+.saira{font-family: 'Saira', sans-serif;
+}
+
+.tag{
+  font-weight: 700;
+  letter-spacing: 0.44em;
+  text-transform: uppercase;
+}
+.title, .big-title {
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.44em;
+  text-transform: uppercase;
+}
+
+
 ul.dropdown-child-menu {
   right: -16.5rem;
   top: 1rem;
@@ -30,18 +74,7 @@ p {
 li {
   list-style: none;
 }
-.title,
-li.eje .content a,
-.more-btn,
-.list,
-.font {
-  font-family: "Saira Semi Condensed", sans-serif;
 
-  font-style: normal;
-  font-weight: 400;
-  letter-spacing: 0.44em;
-  text-transform: uppercase;
-}
 
 li.eje .content a {
   margin-bottom: 1.5rem;
@@ -52,6 +85,8 @@ button.more-btn {
   align-items: center;
   justify-content: center;
 }
+
+button.more-btn .icon{    margin-left: 0.75rem;}
 
 .separador_header {
   display: flex;
@@ -66,32 +101,6 @@ button.more-btn {
 .separador_header hr {
   width: 100%;
   border-color: #000;
-}
-
-:root {
-  --main-font-color: #828282;
-  --main-title-color: #5b5b5b;
-  --bg-white: #fff;
-  --bg-white-dark: #efefef;
-  --bg-gray: #5b5b5b;
-  --bg-blue: rgba(116, 177, 180, 0.75);
-  --bg-blue-full: #74b1b4;
-  --bg-orange: #fdbd99;
-  --bg-yellow: rgba(244, 224, 142, 0.65);
-  --bg-brown: #c8bca8;
-  --bg-pink: #f37d89;
-}
-
-body,
-html {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  background-color: #c1c1c1;
-}
-
-* {
-  box-sizing: inherit;
 }
 
 .menubar {

@@ -2,10 +2,10 @@
   <footer class="">
     <div class="container mx-auto px-0">
       <div class="header">
-        <h1>CONTACTO</h1>
+        <h1 class="big-title">CONTACTO</h1>
         <div class="right">
           <hr class="bg-white">
-          <div class="mail"><a href="">info@ethos.org.mx</a></div>
+          <div class="mail title"><a href="">info@ethos.org.mx</a></div>
 
         </div>
 

@@ -5,7 +5,7 @@
       <div class="5xl:px-0 5xl:container pl-6 w-full flex items-center">
         <div class="hero w-full p-5 md:p-0   flex items-center">
          <div class="md:w-1/2 w-full text-right md:pr-5">
-           <h1 class="lg:text-5xl text-lg title mb-6">UNIVERSO THINK TANKS</h1>
+           <h1 class="lg:text-5xl text-lg big-title mb-6">UNIVERSO THINK TANKS</h1>
           <p class="xl:text-2xl text-sm  uppercase">Columnas de opinión</p>
          </div>
          <div class="h-image w-full md:w-1/2 self-center flex items-center">

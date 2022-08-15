@@ -59,8 +59,11 @@ module.exports = {
 
     },
     fontFamily: {
-      sans: ['Lato', 'sans-serif'],
-      serif: ['Lato', 'serif'],
+      'saira-semi': ['Saira Semi Condensed'],
+      'saira': ['Saira', 'sans-serif'],
+      'title': ['Roboto', 'sans-serif'],
+      body:['Lato', 'sans-serif'],
+      'lato':['Lato', 'sans-serif'],
     },
     extend: {
       spacing: {

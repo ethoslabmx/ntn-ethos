@@ -4,7 +4,7 @@
     <div class="jumbotron-doc relative flex items-top justify-center min-h-screen  sm:items-center sm:pt-0  bg-gradient-to-b from-yellow-1 to-yellow-2">
       <div class="container flex items-center">
         <div class="hero md:mr-auto md:w-1/2 ">
-          <h1 class="lg:text-5xl text-lg font mb-6 text-white uppercase">Bolsa de trabajo</h1>
+          <h1 class="lg:text-5xl text-lg big-title mb-6 text-white uppercase">Bolsa de trabajo</h1>
           <p class="xl:text-xl text-sm text-white mb-3">
             En Ethos estamos comprometidos con la diversidad
             en nuestro equipo de trabajo.
