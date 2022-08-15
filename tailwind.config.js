@@ -40,10 +40,21 @@ module.exports = {
      '5xl': ['40px', '42px'],
 
     },
+    letterSpacing: {
+      tightest: '-.075em',
+      tighter: '-.05em',
+      tight: '-.025em',
+      normal: '0',
+      wide: '.26em',
+      wider: '.315em',
+      widest: '0.44em',
+      'big-widest': '0.56em',
+    },
     colors: {
       'cyan': '#74B1B4',
       'cyanlight': '#B0D4D4',
       'blue': '#74B1B4BF',
+      'yellow-3': '#F4E08E',
       'yellow': '#F4E08EA6',
       'yellow-1': '#F5D552',
        'yellow-2': '#C3B59E',

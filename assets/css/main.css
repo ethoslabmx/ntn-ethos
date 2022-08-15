@@ -36,7 +36,14 @@ body{font-family: 'Lato', sans-serif;}
 .title,.more-btn{font-family: 'Roboto', sans-serif; font-weight: 600;}
 .saira{font-family: 'Saira', sans-serif;
 }
-
+body{letter-spacing: -0.01em;}
+footer{letter-spacing: 0.055em;}
+.tag{letter-spacing: 0.055em;}
+.big-title{letter-spacing: 0.56em;}
+.title{letter-spacing: 0.265em;}
+.eje p, .post p, .post_content p{
+  letter-spacing: -0.07em;
+}
 .tag{
   font-weight: 700;
   letter-spacing: 0.44em;
@@ -71,6 +78,8 @@ p {
   color: var(--main-font-color);
 }
 
+
+
 li {
   list-style: none;
 }
@@ -84,6 +93,9 @@ button.more-btn {
   display: flex;
   align-items: center;
   justify-content: center;
+  color: var(--main-title-color);
+  letter-spacing: 0.26em;
+
 }
 
 button.more-btn .icon{    margin-left: 0.75rem;}
@@ -190,8 +202,17 @@ li.post:nth-child(odd) {
 
 .brand,
 .nav {
-  flex: 0 1 auto;
+  font-size: .75rem;
+
 }
+@media (min-width:1400px) {
+  .brand,
+  .nav {
+    font-size: 1rem;
+
+  }
+}
+
 
 ul.navbar li {
   padding: 0 0.5rem;

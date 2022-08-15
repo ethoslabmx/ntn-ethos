@@ -2,7 +2,7 @@
   <div class="app home">
     <JumbotronIndex />
     <div class="separador_header container mx-auto p-6 my-6 md:my-14">
-      <h2 class="big-title xl:text-xl text-md text-right pr-3">EJES DE INVESTIGACIÓN</h2>
+      <h2 class="big-title xl:text-xl text-md text-right pr-3 tracking-widest">EJES DE INVESTIGACIÓN</h2>
       <hr>
     </div>
     <div class="ejes container mx-auto">
@@ -74,7 +74,7 @@
     </div>
     <div class="columnas">
       <div class="separador_header container mx-auto p-6 my-6 md:my-14">
-        <h2 class="big-title xl:text-xl text-md text-right pr-3">Columnas de opinion</h2>
+        <h2 class="big-title xl:text-xl text-md text-right pr-3 tracking-widest">Columnas de opinion</h2>
         <hr>
       </div>
       <li v-for="post of posts" :key="post.slug" class="eje container mx-auto px-0">
@@ -93,10 +93,15 @@
         </div>
       </li>
     </div>
+    <div class="more py-10 text-right">
+      <div class="container pr-0">
+        <button class="ml-auto more-btn">ENTRAR <span class="icon"></span></button>
+      </div>
+    </div>
     <div class="twitter bg-white md:py-20 py-10">
       <div class="container mx-auto px-0">
         <div class="flex justify-between align-middle flex-wrap md:flex-nowrap">
-          <div class="separador_header self-start w-full px-6 md:pl-0 md:pr-6 mb-6 md:mb-14">
+          <div class="separador_header self-start w-full px-6 md:pl-0 md:pr-6 mb-6 md:mb-14 tracking-widest">
             <h2 class="big-title xl:text-xl text-md text-right pr-3">ETHOS EN TWITTER</h2>
             <hr>
           </div>

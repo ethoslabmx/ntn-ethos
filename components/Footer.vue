@@ -11,7 +11,7 @@
 
       </div>
       <div class="content text-white">
-        <div class="flex  py-10 flex-wrap">
+        <div class="flex  py-10 flex-wrap justify-between">
           <div class="text-justify lg:text-left mr-auto lg:pr-6 lg:w-1/3">
             Somos un think tank que transforma investigaciones
             y experiencias en recomendaciones claras y acciones
@@ -24,12 +24,12 @@
             Miguel Hidalgo, 11000 CDMX
           </div>
         </div>
-        <div class="flex pt-10 pb-3 flex-wrap">
-          <div class="text-center lg:text-left mx-auto pr-6 lg:w-1/3 mb-6">
+        <div class="flex pt-10 pb-3 flex-wrap justify-between">
+          <div class="text-center lg:text-left mx-auto lg:mx-0 pr-6 lg:w-1/3 mb-6">
             AVISO DE PRIVACIDAD | ETHOS 2022
           </div>
-          <div class="text-center mx-auto lg:text-right lg:ml-auto lg:w-1/3 mb-3">
-            <ul class="flex ai-center">
+          <div class="text-center mx-auto lg:text-right lg:mx-0 lg:ml-auto lg:w-1/3 mb-3">
+            <ul class="flex ai-center lg:justify-end">
               <li class="mr-6"><a href=""><img src="../assets/images/linkedin.png" alt=""></a></li>
               <li class="mr-6"><a href=""><img src="../assets/images/fbb.png" alt=""></a></li>
               <li class="mr-6"><a href=""><img src="../assets/images/insta.png" alt=""></a></li>
@@ -102,8 +102,8 @@ footer {
       }
     }
   }
-  @media (min-width:993px) {
-      height: 50vh;
-  }
+  // @media (min-width:993px) {
+  //     height: 50vh;
+  // }
 }
 </style>
