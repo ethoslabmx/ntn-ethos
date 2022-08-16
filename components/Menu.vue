@@ -8,7 +8,7 @@
       <ul class="navbar  items-center justify-between hidden xl:flex">
         <li><a href="/">INICIO</a></li>
         <li class="dropdown inline-block relative ">
-          <a class=" rounded inline-flex items-center">
+          <a class="  inline-flex items-center">
             <span class="mr-1">ETHOS</span>
             <svg class="fill-current h-4 w-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
               <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
@@ -38,7 +38,7 @@
           </ul>
         </li>
         <li class="dropdown inline-block relative ">
-          <a class=" rounded inline-flex items-center">
+          <a class="  inline-flex items-center">
             <span class="mr-1">EJES DE INVESTIGACIÓN</span>
             <svg class="fill-current h-4 w-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
               <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
@@ -46,7 +46,7 @@
           </a>
           <ul class="dropdown-menu absolute hidden text-gray-700  bg-white shadow-xl p-0 m-0">
             <li class="dropdown-child inline-block relative w-full">
-              <a class=" rounded inline-flex items-center py-3 px-6 w-full block bg-gray-200 hover:bg-primary">
+              <a class="justify-between  inline-flex items-center py-3 px-6 w-full block bg-gray-200 hover:bg-primary">
                 <span class="mr-1">ANTICORRUPCIÓN</span>
                 <svg class="fill-current h-4 w-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
                   <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
@@ -82,7 +82,7 @@
 
 
             <li class="dropdown-child inline-block relative w-full">
-              <a class=" rounded inline-flex items-center py-3 px-6 w-full block bg-gray-200 hover:bg-primary">
+              <a class="justify-between  inline-flex items-center py-3 px-6 w-full block bg-gray-200 hover:bg-primary">
                 <span class="mr-1">FINANZAS PÚBLICAS</span>
                 <svg class="fill-current h-4 w-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
                   <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
@@ -117,7 +117,7 @@
             </li>
 
             <li class="dropdown-child inline-block relative w-full">
-              <a class=" rounded inline-flex items-center py-3 px-6 w-full block bg-gray-200 hover:bg-primary">
+              <a class="justify-between  inline-flex items-center py-3 px-6 w-full block bg-gray-200 hover:bg-primary">
                 <span class="mr-1">DESARROLLO SOSTENIBLE</span>
                 <svg class="fill-current h-4 w-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
                   <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
@@ -152,7 +152,7 @@
             </li>
 
             <li class="dropdown-child inline-block relative w-full">
-              <a class=" rounded inline-flex items-center py-3 px-6 w-full block bg-gray-200 hover:bg-primary">
+              <a class="justify-between  inline-flex items-center py-3 px-6 w-full block bg-gray-200 hover:bg-primary">
                 <span class="mr-1">CIUDADES DEL FUTURO</span>
                 <svg class="fill-current h-4 w-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
                   <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
@@ -187,7 +187,7 @@
             </li>
 
             <li class="dropdown-child inline-block relative w-full">
-              <a class=" rounded inline-flex items-center py-3 px-6 w-full block bg-gray-200 hover:bg-primary">
+              <a class="  inline-flex items-center py-3 px-6 w-full justify-between block bg-gray-200 hover:bg-primary">
                 <span class="mr-1">INCLUSIÓN</span>
                 <svg class="fill-current h-4 w-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
                   <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
@@ -224,7 +224,7 @@
         </li>
 
         <li class="dropdown inline-block relative ">
-          <a class=" rounded inline-flex items-center w-full">
+          <a class="  inline-flex items-center w-full">
             <span class="mr-1">UNIVERSO THINK TANKS</span>
             <svg class="fill-current h-4 w-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
               <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />

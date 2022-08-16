@@ -16,7 +16,8 @@
           <p>Buscamos contribuir al buen funcionamiento del Sistema Nacional Anticorrupción y de los Sistemas Estatales
             Anticorrupción, empoderar a la sociedad civil e involucrar a diversos actores, como el sector privado, para
             que funjan como contrapesos reales de la corrupción. </p>
-          <button class="ml-auto more-btn">ENTRAR <span class="icon"></span></button>
+            <NuxtLink class="ml-auto more-btn" to="/anticorrupcion/publicaciones">ENTRAR <span class="icon"></span></NuxtLink>
+
         </div>
 
       </div>
@@ -28,7 +29,8 @@
           <h2 class="title xl:text-2xl text-lg">Finanzas Públicas</h2>
           <p>Promovemos finanzas públicas sanas, a través de un sistema fiscal bien diseñado, un nivel de ingreso óptimo
             y un ejercicio del gasto eficiente y transparente, tanto a nivel federal como subnacional.</p>
-          <button class="ml-auto more-btn">ENTRAR <span class="icon"></span></button>
+            <NuxtLink class="ml-auto more-btn" to="/finanzas-publicas/publicaciones">ENTRAR <span class="icon"></span></NuxtLink>
+
         </div>
 
 
@@ -41,7 +43,7 @@
           <p>Entendemos que las crecientes alarmas sobre el cambio climático nos muestran que el futuro estará hecho de
             crisis. Buscamos repensar las narrativas de desarrollo desde una perspectiva de crisis incorporando los ejes
             de recuperación justa, sostenible y resiliente. </p>
-          <button class="ml-auto more-btn">ENTRAR <span class="icon"></span></button>
+            <NuxtLink class="ml-auto more-btn" to="/desarrollo-sostenible/publicaciones">ENTRAR <span class="icon"></span></NuxtLink>
         </div>
 
 
@@ -54,7 +56,7 @@
             desarrollo sostenible de servicios públicos e infraestructura, la cual aproveche recursos renovables de
             energía, implemente medidas de eficiencia energética y fortalezca las capacidades institucionales
             gubernamentales en materia energética y ambiental. </p>
-          <button class="ml-auto more-btn">ENTRAR <span class="icon"></span></button>
+            <NuxtLink class="ml-auto more-btn" to="/ciudades-del-futuro/publicaciones">ENTRAR <span class="icon"></span></NuxtLink>
         </div>
 
 
@@ -66,7 +68,7 @@
           <p>Participamos en el debate sobre el rumbo de la política social y buscamos entender las limitaciones del
             modelo económico y político actual. También promovemos agendas de inclusión de poblaciones marginadas y de
             equidad de género desde una perspectiva de derechos humanos. </p>
-          <button class="ml-auto more-btn">ENTRAR <span class="icon"></span></button>
+            <NuxtLink class="ml-auto more-btn" to="/inclusion/publicaciones">ENTRAR <span class="icon"></span></NuxtLink>
         </div>
 
 
@@ -101,11 +103,11 @@
     <div class="twitter bg-white md:py-20 py-10">
       <div class="container mx-auto">
         <div class="flex justify-between align-middle flex-wrap md:flex-nowrap">
-          <div class="separador_header self-start w-full px-6 md:pl-0 md:pr-6 mb-6 md:mb-14 tracking-widest">
+          <div class="separador_header self-start lg:w-2/3 tracking-widest">
             <h2 class="big-title xl:text-xl text-md text-right pr-3">ETHOS EN TWITTER</h2>
             <hr>
           </div>
-          <div class="drop-shadow-xl block shadow mx-auto md:w-72">
+          <div class="ml-6 drop-shadow-xl block shadow widget-twitter">
             <a class="twitter-timeline" data-lang="es" data-width="300" data-height="450" data-theme="light" href="https://twitter.com/ethoslabmx?ref_src=twsrc%5Etfw">Tweets by ethoslabmx</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
           </div>
 
@@ -130,3 +132,6 @@ export default {
   },
 }
 </script>
+<style lang="scss">
+.widget-twitter{width:300px}
+</style>

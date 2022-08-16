@@ -7,12 +7,12 @@
       <li v-for="evento of eventos" :key="evento.slug" class="post md:py-20 py-10">
         <div
           class="flex container px-5 xl:px-28 items-center justify-between flex-wrap md:flex-nowrap md:flex-row-reverse">
-          <div class="right md:p-7 p-5 md:w-1/3  3xl:w-1/4 w-full flex md:flex-col justify-between text-right">
+          <div class="right md:p-7 p-5 md:w-1/3  4xl:w-1/4 w-full flex md:flex-col justify-between text-right">
             <div class="img md:ml-auto content-start my-6">
-              <img :src="evento.img" alt="" class="w-auto h-52 mb-3 shadow-xl" />
+              <img :src="evento.img" alt="" class="w-80 h-auto mb-3 shadow-xl object-cover" />
             </div>
           </div>
-          <div class="left  md:p-7 p-5 md:w-2/3  3xl:w-3/4 w-full flex flex-col justify-between">
+          <div class="left  md:p-7 p-5 md:w-2/3  4xl:w-3/4 w-full flex flex-col justify-between">
             <div class="content-start">
               <NuxtLink :to="'reportajes/'+evento.slug" class="title xl:text-xl text-sm mb-6 block">{{ evento.title }}</NuxtLink>
             </div>

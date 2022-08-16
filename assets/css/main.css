@@ -92,7 +92,7 @@ p {
 
 
 
-li {
+.relacionadas li, .border-primary:not(.privacidad) li {
   list-style: none;
 }
 
@@ -101,16 +101,16 @@ li.eje .content a {
   margin-bottom: 1.5rem;
   display: block;
 }
-button.more-btn {
+.more-btn {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-end;
   color: var(--main-title-color);
   letter-spacing: 0.2em;
 
 }
 
-button.more-btn .icon{    margin-left: 0.75rem;}
+.more-btn .icon{    margin-left: 0.75rem;}
 
 .separador_header {
   display: flex;
