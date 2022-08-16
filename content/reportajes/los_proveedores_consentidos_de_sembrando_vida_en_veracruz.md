@@ -3,7 +3,7 @@ title: Los proveedores consentidos de Sembrando Vida en Veracruz
 date: 2022-08-16T15:01:26.929Z
 img: /img/sembrando-vida-portada-portada-portada-v.2.2.jpg
 autor: Sergio Rincón
-category: desarrollo-sostenible
+category: inclusion
 file: /img/los-proveedores-consentidos-de-sembrando-vida_3.docx.pdf
 ---
 <!--StartFragment-->
