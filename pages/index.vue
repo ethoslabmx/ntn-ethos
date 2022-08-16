@@ -16,7 +16,7 @@
           <p>Buscamos contribuir al buen funcionamiento del Sistema Nacional Anticorrupción y de los Sistemas Estatales
             Anticorrupción, empoderar a la sociedad civil e involucrar a diversos actores, como el sector privado, para
             que funjan como contrapesos reales de la corrupción. </p>
-            <NuxtLink class="ml-auto more-btn" to="/anticorrupcion/publicaciones">ENTRAR <span class="icon"></span></NuxtLink>
+            <NuxtLink class="ml-auto more-btn mt-4" to="/anticorrupcion/publicaciones">ENTRAR <span class="icon"></span></NuxtLink>
 
         </div>
 
@@ -29,7 +29,7 @@
           <h2 class="title xl:text-2xl text-lg">Finanzas Públicas</h2>
           <p>Promovemos finanzas públicas sanas, a través de un sistema fiscal bien diseñado, un nivel de ingreso óptimo
             y un ejercicio del gasto eficiente y transparente, tanto a nivel federal como subnacional.</p>
-            <NuxtLink class="ml-auto more-btn" to="/finanzas-publicas/publicaciones">ENTRAR <span class="icon"></span></NuxtLink>
+            <NuxtLink class="ml-auto more-btn mt-4" to="/finanzas-publicas/publicaciones">ENTRAR <span class="icon"></span></NuxtLink>
 
         </div>
 
@@ -43,7 +43,7 @@
           <p>Entendemos que las crecientes alarmas sobre el cambio climático nos muestran que el futuro estará hecho de
             crisis. Buscamos repensar las narrativas de desarrollo desde una perspectiva de crisis incorporando los ejes
             de recuperación justa, sostenible y resiliente. </p>
-            <NuxtLink class="ml-auto more-btn" to="/desarrollo-sostenible/publicaciones">ENTRAR <span class="icon"></span></NuxtLink>
+            <NuxtLink class="ml-auto more-btn mt-4" to="/desarrollo-sostenible/publicaciones">ENTRAR <span class="icon"></span></NuxtLink>
         </div>
 
 
@@ -56,7 +56,7 @@
             desarrollo sostenible de servicios públicos e infraestructura, la cual aproveche recursos renovables de
             energía, implemente medidas de eficiencia energética y fortalezca las capacidades institucionales
             gubernamentales en materia energética y ambiental. </p>
-            <NuxtLink class="ml-auto more-btn" to="/ciudades-del-futuro/publicaciones">ENTRAR <span class="icon"></span></NuxtLink>
+            <NuxtLink class="ml-auto mt-4 more-btn" to="/ciudades-del-futuro/publicaciones">ENTRAR <span class="icon"></span></NuxtLink>
         </div>
 
 

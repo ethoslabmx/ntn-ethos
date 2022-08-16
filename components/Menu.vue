@@ -1,16 +1,16 @@
 <template>
   <div class="menubar flex items-center justify-between saira font-semibold tracking-wider">
     <div class="brand mr-2 p-3">
-      <a href="//ethos.org.mx" target="_blank"> <img src="../assets/images/logo-dark.png" alt="logo ethos"
+      <a href="/"> <img src="../assets/images/logo-dark.png" alt="logo ethos"
           class="logo" /></a>
     </div>
     <div class="nav  items-center justify-end flex">
       <ul class="navbar  items-center justify-between hidden xl:flex">
         <li><a href="/">INICIO</a></li>
-        <li class="dropdown inline-block relative ">
+        <li class="dropdown inline-block relative ml-3">
           <a class="  inline-flex items-center">
             <span class="mr-1">ETHOS</span>
-            <svg class="fill-current h-4 w-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+            <svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
               <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
             </svg>
           </a>
@@ -37,10 +37,10 @@
             </li>
           </ul>
         </li>
-        <li class="dropdown inline-block relative ">
+        <li class="dropdown inline-block relative ml-3">
           <a class="  inline-flex items-center">
             <span class="mr-1">EJES DE INVESTIGACIÓN</span>
-            <svg class="fill-current h-4 w-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+            <svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
               <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
             </svg>
           </a>
@@ -223,10 +223,10 @@
           </ul>
         </li>
 
-        <li class="dropdown inline-block relative ">
+        <li class="dropdown inline-block relative ml-3">
           <a class="  inline-flex items-center w-full">
             <span class="mr-1">UNIVERSO THINK TANKS</span>
-            <svg class="fill-current h-4 w-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+            <svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
               <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
             </svg>
           </a>
@@ -287,6 +287,12 @@ export default {
     width: 100%;
     height: 2px;
     background-color: #F28F78;
+  }
+
+  li{
+
+    font-weight: 600;
+    color:#5B5B5B;
   }
 }
 </style>

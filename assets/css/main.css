@@ -47,7 +47,7 @@ footer{letter-spacing: 0.055em;}
 .big-title{letter-spacing: 0.56em;}
 .title{letter-spacing: 0.265em;}
 .eje p, .post p, .post_content p{
-  letter-spacing: -0.07em;
+  letter-spacing: 0.01em;
 }
 .tag{
   font-weight: 700;
@@ -215,15 +215,24 @@ li.post:nth-child(odd) {
 .brand,
 .nav {
   font-size: .72rem;
-  letter-spacing: 0.1em;
+  letter-spacing: 0;
 }
+
+@media screen and (min-width: 1200px) {
+  .brand,
+  .nav {
+    font-size: .80rem;
+  }
+}
+
+
 
 
 @media (min-width:1400px) {
   .brand,
   .nav {
     font-size: .85rem;
-    letter-spacing: 0.12em;
+    letter-spacing: 0.05em;
   }
 }
 
