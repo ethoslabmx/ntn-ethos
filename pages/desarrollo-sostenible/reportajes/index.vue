@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-    <JumbotronReportajes/>
+   <JumbotronEje title="DESARROLLO SOSTENIBLE" subtitle="REPORTAJES PERIODÍSTICOS"/>
 
   <div class="bg-white border-b-16 border-primary">
     <ul>
@@ -38,10 +38,10 @@
 </template>
 
 <script>
-import JumbotronReportajes from '~/components/JumbotronReportajes.vue';
+import JumbotronEje from '~/components/JumbotronEje.vue';
 
 export default {
-  components: { JumbotronReportajes },
+  components: { JumbotronEje },
 
   async asyncData({ $content }) {
     const eventos = await $content("reportajes").where({category:"desarrollo-sostenible"}).fetch();
