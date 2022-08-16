@@ -5,7 +5,7 @@ img: /img/migracion1.jpeg
 autor: Jennifer Ruiz y Laure Delalande
 medio: Animal Político
 link: https://www.animalpolitico.com/blog-invitado/las-migrantes-centroamericanas-transitando-la-covid-19/
-category: desarrollo-sostenible
+category: inclusion
 extracto: A pesar de las limitaciones de movilidad implementadas cuando se
   declaró la pandemia por el SARS-CoV-2 en marzo de 20201, muchas mujeres
   centroamericanas han seguido cruzando informalmente las fronteras mexicanas,
