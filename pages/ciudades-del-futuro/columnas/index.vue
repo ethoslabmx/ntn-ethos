@@ -36,7 +36,7 @@ export default {
     components: { JumbotronOpinion },
 
   async asyncData({ $content }) {
-    const columnas = await $content("columnas").where({category:"finanzas-publicas"}).fetch();
+    const columnas = await $content("columnas").where({category:"ciudades-del-futuro"}).fetch();
 
     return {
       columnas,

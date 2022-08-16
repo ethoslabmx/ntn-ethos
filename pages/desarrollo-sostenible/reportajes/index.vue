@@ -44,7 +44,7 @@ export default {
   components: { JumbotronReportajes },
 
   async asyncData({ $content }) {
-    const eventos = await $content("reportajes").where({category:"finanzas-publicas"}).fetch();
+    const eventos = await $content("reportajes").where({category:"desarrollo-sostenible"}).fetch();
 
     return {
       eventos,

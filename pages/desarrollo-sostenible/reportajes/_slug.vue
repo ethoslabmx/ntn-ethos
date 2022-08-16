@@ -84,7 +84,7 @@ export default {
     console.log(params);
     try {
       columnas = await $content("columnas")
-        .where({ category: "anticorrupcion" })
+        .where({ category: "desarrollo-sostenible" })
         .limit(3)
         .fetch();
       post = await $content("reportajes", params.slug).fetch();

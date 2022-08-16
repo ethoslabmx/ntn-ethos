@@ -65,7 +65,7 @@ export default {
   components: { JumbotronEje },
 
   async asyncData({ $content }) {
-    const eventos = await $content("publicaciones").where({category:"finanzas-publicas"}).fetch();
+    const eventos = await $content("publicaciones").where({category:"ciudades-del-futuro"}).fetch();
 
     return {
       eventos,
