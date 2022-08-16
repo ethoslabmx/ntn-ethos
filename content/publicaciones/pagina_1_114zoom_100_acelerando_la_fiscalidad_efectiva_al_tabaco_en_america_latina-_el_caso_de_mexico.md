@@ -1,6 +1,6 @@
 ---
-title: Página 1 / 114Zoom 100% ACELERANDO LA FISCALIDAD EFECTIVA AL TABACO EN
-  AMÉRICA LATINA. EL CASO DE MÉXICO
+title: ACELERANDO LA FISCALIDAD EFECTIVA AL TABACO EN AMÉRICA LATINA. EL CASO DE
+  MÉXICO
 date: 2019-03-01T14:58:35.842Z
 img: /img/impuestos_al_tabaco.jpg
 img-alt: Portada impuestos al tabaco
