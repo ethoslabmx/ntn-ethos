@@ -105,9 +105,8 @@
             <h2 class="big-title xl:text-xl text-md text-right pr-3">ETHOS EN TWITTER</h2>
             <hr>
           </div>
-          <div class="drop-shadow-xl block shadow mx-auto">
-            <img src="../assets/images/widget.png" alt="" class=" md:ml-auto h-auto max-w-full md:w-96">
-
+          <div class="drop-shadow-xl block shadow mx-auto md:w-72">
+            <a class="twitter-timeline" data-lang="es" data-width="300" data-height="450" data-theme="light" href="https://twitter.com/ethoslabmx?ref_src=twsrc%5Etfw">Tweets by ethoslabmx</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
           </div>
 
         </div>
