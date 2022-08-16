@@ -1,11 +1,11 @@
 <!-- Please remove this file from your project -->
 <template>
-  <div class="jumbotron relative flex items-top justify-center min-h-screen bg-gray-100 sm:items-center sm:pt-0">
+  <div class="jumbotron relative flex items-top justify-center bg-gray-100 sm:items-center sm:pt-0">
   </div>
 </template>
 <style lang="scss">
 .jumbotron {
-  min-height: calc(60vh - 80px);
+
   background-size: cover;
   background-repeat: no-repeat;
   background-image: url(../assets/images/jumbotron-index.png);
@@ -56,7 +56,7 @@
     }
   }
   @media (min-width:993px) {
-    min-height: calc(90vh - 200px);
+    min-height: calc(100vw * .5625);
 
     &:hover {
       &:after {
@@ -66,12 +66,7 @@
     }
 
   }
-  @media (min-width:1200px) {
-    min-height: calc(100vh - 100px);
-  }
-  @media (min-width:1400px) {
-    min-height: calc(90vh - 200px);
-  }
+
 
 }
 </style>

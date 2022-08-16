@@ -106,7 +106,7 @@ button.more-btn {
   align-items: center;
   justify-content: center;
   color: var(--main-title-color);
-  letter-spacing: 0.26em;
+  letter-spacing: 0.2em;
 
 }
 
@@ -214,20 +214,22 @@ li.post:nth-child(odd) {
 
 .brand,
 .nav {
-  font-size: .65rem;
-
+  font-size: .72rem;
+  letter-spacing: 0.1em;
 }
+
+
 @media (min-width:1400px) {
   .brand,
   .nav {
     font-size: .85rem;
-
+    letter-spacing: 0.12em;
   }
 }
 
 
 ul.navbar li {
-  padding: 0 0.5rem;
+  padding: 0 0.3rem;
   flex: 1 0 auto;
 }
 

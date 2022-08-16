@@ -81,21 +81,144 @@
             </li>
 
 
-            <li class="">
-              <NuxtLink class=" bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap"
-                to="/finanzas-publicas">FINANZAS PÚBLICAS</NuxtLink>
+            <li class="dropdown-child inline-block relative w-full">
+              <a class=" rounded inline-flex items-center py-3 px-6 w-full block bg-gray-200 hover:bg-primary">
+                <span class="mr-1">FINANZAS PÚBLICAS</span>
+                <svg class="fill-current h-4 w-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                  <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
+                </svg>
+              </a>
+              <ul class="dropdown-child-menu absolute hidden text-gray-700  bg-white shadow-xl p-0 m-0">
+                <li class="">
+                  <NuxtLink class=" bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap"
+                    to="/finanzas-publicas/publicaciones">PUBLICACIONES</NuxtLink>
+                </li>
+                 <li class="">
+                  <NuxtLink class="bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap" to="/finanzas-publicas/reportajes">
+                    REPORTAJES PERÍODISTCOS</NuxtLink>
+                </li>
+                <li class="">
+                  <NuxtLink class="bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap" to="/finanzas-publicas/columnas">
+                    COLUMNAS DE OPINIÓN</NuxtLink>
+                </li>
+                <li class="">
+                  <NuxtLink class=" bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap"
+                    to="/finanzas-publicas/noticias">NOTICIAS</NuxtLink>
+                </li>
+                <li class="">
+                  <NuxtLink class=" bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap"
+                    to="/finanzas-publicas/eventos">EVENTOS</NuxtLink>
+                </li>
+                <li class="">
+                  <NuxtLink class=" bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap"
+                    to="/finanzas-publicas/videos">VIDEOS</NuxtLink>
+                </li>
+              </ul>
             </li>
-            <li class="">
-              <NuxtLink class=" bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap"
-                to="/desarrollo-sostenible">DESARROLLO SOSTENIBLE</NuxtLink>
+
+            <li class="dropdown-child inline-block relative w-full">
+              <a class=" rounded inline-flex items-center py-3 px-6 w-full block bg-gray-200 hover:bg-primary">
+                <span class="mr-1">DESARROLLO SOSTENIBLE</span>
+                <svg class="fill-current h-4 w-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                  <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
+                </svg>
+              </a>
+              <ul class="dropdown-child-menu absolute hidden text-gray-700  bg-white shadow-xl p-0 m-0">
+                <li class="">
+                  <NuxtLink class=" bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap"
+                    to="/desarrollo-sostenible/publicaciones">PUBLICACIONES</NuxtLink>
+                </li>
+                 <li class="">
+                  <NuxtLink class="bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap" to="/desarrollo-sostenible/reportajes">
+                    REPORTAJES PERÍODISTCOS</NuxtLink>
+                </li>
+                <li class="">
+                  <NuxtLink class="bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap" to="/desarrollo-sostenible/columnas">
+                    COLUMNAS DE OPINIÓN</NuxtLink>
+                </li>
+                <li class="">
+                  <NuxtLink class=" bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap"
+                    to="/desarrollo-sostenible/noticias">NOTICIAS</NuxtLink>
+                </li>
+                <li class="">
+                  <NuxtLink class=" bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap"
+                    to="/desarrollo-sostenible/eventos">EVENTOS</NuxtLink>
+                </li>
+                <li class="">
+                  <NuxtLink class=" bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap"
+                    to="/desarrollo-sostenible/videos">VIDEOS</NuxtLink>
+                </li>
+              </ul>
             </li>
-            <li class="">
-              <NuxtLink class=" bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap"
-                to="/ciudades-del-futuro">CIUDADES DEL FUTURO</NuxtLink>
+
+            <li class="dropdown-child inline-block relative w-full">
+              <a class=" rounded inline-flex items-center py-3 px-6 w-full block bg-gray-200 hover:bg-primary">
+                <span class="mr-1">CIUDADES DEL FUTURO</span>
+                <svg class="fill-current h-4 w-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                  <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
+                </svg>
+              </a>
+              <ul class="dropdown-child-menu absolute hidden text-gray-700  bg-white shadow-xl p-0 m-0">
+                <li class="">
+                  <NuxtLink class=" bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap"
+                    to="/ciudades-del-futuro/publicaciones">PUBLICACIONES</NuxtLink>
+                </li>
+                 <li class="">
+                  <NuxtLink class="bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap" to="/ciudades-del-futuro/reportajes">
+                    REPORTAJES PERÍODISTCOS</NuxtLink>
+                </li>
+                <li class="">
+                  <NuxtLink class="bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap" to="/ciudades-del-futuro/columnas">
+                    COLUMNAS DE OPINIÓN</NuxtLink>
+                </li>
+                <li class="">
+                  <NuxtLink class=" bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap"
+                    to="/ciudades-del-futuro/noticias">NOTICIAS</NuxtLink>
+                </li>
+                <li class="">
+                  <NuxtLink class=" bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap"
+                    to="/ciudades-del-futuro/eventos">EVENTOS</NuxtLink>
+                </li>
+                <li class="">
+                  <NuxtLink class=" bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap"
+                    to="/ciudades-del-futuro/videos">VIDEOS</NuxtLink>
+                </li>
+              </ul>
             </li>
-            <li class="">
-              <NuxtLink class=" bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap" to="/inclusion">
-                INCLUSIÓN</NuxtLink>
+
+            <li class="dropdown-child inline-block relative w-full">
+              <a class=" rounded inline-flex items-center py-3 px-6 w-full block bg-gray-200 hover:bg-primary">
+                <span class="mr-1">INCLUSIÓN</span>
+                <svg class="fill-current h-4 w-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                  <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
+                </svg>
+              </a>
+              <ul class="dropdown-child-menu absolute hidden text-gray-700  bg-white shadow-xl p-0 m-0">
+                <li class="">
+                  <NuxtLink class=" bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap"
+                    to="/inclusion/publicaciones">PUBLICACIONES</NuxtLink>
+                </li>
+                 <li class="">
+                  <NuxtLink class="bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap" to="/inclusion/reportajes">
+                    REPORTAJES PERÍODISTCOS</NuxtLink>
+                </li>
+                <li class="">
+                  <NuxtLink class="bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap" to="/inclusion/columnas">
+                    COLUMNAS DE OPINIÓN</NuxtLink>
+                </li>
+                <li class="">
+                  <NuxtLink class=" bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap"
+                    to="/inclusion/noticias">NOTICIAS</NuxtLink>
+                </li>
+                <li class="">
+                  <NuxtLink class=" bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap"
+                    to="/inclusion/eventos">EVENTOS</NuxtLink>
+                </li>
+                <li class="">
+                  <NuxtLink class=" bg-gray-200 hover:bg-primary py-3 px-6 block whitespace-no-wrap"
+                    to="/inclusion/videos">VIDEOS</NuxtLink>
+                </li>
+              </ul>
             </li>
           </ul>
         </li>
