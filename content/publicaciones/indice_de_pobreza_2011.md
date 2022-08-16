@@ -4,7 +4,7 @@ date: 2011-07-15T14:59:11.888Z
 img: /img/portada_indice_pobreza.jpg
 autor: Alicia Santana Cartas, Liliana Alvarado Baena, Carlos Gaitán Lastras,
   Stephen Birtwistle
-category: desarrollo-sostenible
+category: inclusion
 file: /img/indice-porbreza-2011.pdf
 ---
 <!--StartFragment-->
