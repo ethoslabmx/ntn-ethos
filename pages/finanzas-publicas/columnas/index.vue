@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-   <JumbotronOpinion/>
+    <JumbotronEje title="Finanzas públicas" subtitle="Columnas de opinión" image="writer.jpg"/>
     <ul class="border-b-16 border-primary">
       <li v-for="col of columnas" :key="col.slug" class="post md:py-20 py-10">
         <div
@@ -30,10 +30,10 @@
 </template>
 
 <script>
-import JumbotronOpinion from '~/components/JumbotronOpinion.vue';
+import JumbotronEje from '~/components/JumbotronEje.vue';
 
 export default {
-    components: { JumbotronOpinion },
+    components: { JumbotronEje },
 
   async asyncData({ $content }) {
     const columnas = await $content("columnas").where({category:"finanzas-publicas"}).fetch();

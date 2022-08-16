@@ -1,6 +1,6 @@
 <template>
   <div class="border-b-16 border-primary app">
-    <JumbotronNoticiasTanks />
+    <JumbotronEje title="Universo Think Tanks" subtitle="Noticias" image="anticorrupcion-thumb.png"/>
     <div class="bg-white">
       <li v-for="col of columnas" :key="col.slug" class="">
         <div
@@ -42,10 +42,10 @@
 </template>
 
 <script>
-import JumbotronNoticiasTanks from '~/components/JumbotronNoticiasTanks.vue';
+import JumbotronEje from '~/components/JumbotronEje.vue';
 
 export default {
-  components: { JumbotronNoticiasTanks },
+  components: { JumbotronEje },
 
   async asyncData({ $content }) {
     const columnas = await $content("noticias").where({ category: "think-tanks" }).fetch();

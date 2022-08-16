@@ -1,6 +1,7 @@
 <template>
   <div class="app">
-    <JumbotronEventos />
+    <JumbotronEje title="ANTICORRUPCIÓN" subtitle="Eventos" image="eventos-jumbo.jpg"/>
+
     <div class="bg-white border-b-16 border-primary">
       <li v-for="evento of eventos" :key="evento.slug" class="">
         <div
@@ -42,11 +43,11 @@
 </template>
 
 <script>
-import JumbotronEventos from '~/components/JumbotronEventos.vue';
+import JumbotronEje from '~/components/JumbotronEje.vue';
 
 export default {
 
-  components: { JumbotronEventos },
+  components: { JumbotronEje },
 
   async asyncData({ $content }) {
     const eventos = await $content("eventos").where({category:"anticorrupcion"}).fetch();

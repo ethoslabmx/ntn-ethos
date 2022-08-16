@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-   <JumbotronOpinion/>
+    <JumbotronEje title="Ciudades del futuro" subtitle="Columnas de opinión" image="writer.jpg"/>
     <ul class="border-b-16 border-primary">
       <li v-for="col of columnas" :key="col.slug" class="post md:py-20 py-10">
         <div

@@ -4,7 +4,7 @@
   <div class="5xl:px-0 5xl:container lg:pl-6 w-full flex items-center">
     <div class="hero w-full p-0   flex items-center flex-wrap flex-col lg:flex-nowrap lg:flex-row-reverse">
       <div class="h-image w-full 2xl:w-1/2 self-center flex items-center">
-      <img src="../assets/images/anticorrupcion-thumb.png" alt="" class="h-full w-full object-cover object-left ">
+      <img :src="require(`../assets/images/${image}`)" alt="" class="h-full w-full object-cover object-left ">
       </div>
       <div class="w-full 2xl:w-1/2 text-right pr-6 pb-6 2xl:pb-0">
         <h1 class="2xl:text-5xl text-lg big-title 2xl:mb-6 mb3">{{title}}</h1>

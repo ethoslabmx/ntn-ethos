@@ -1,6 +1,7 @@
 <template>
   <div class="app">
-    <JumbotronEje title="CIUDADES DEL FUTURO" subtitle="REPORTAJES PERIODÍSTICOS"/>
+
+    <JumbotronEje title="CIUDADES DEL FUTURO" subtitle="REPORTAJES PERIODÍSTICOS" image="anticorrupcion-thumb.png"/>
 
   <div class="bg-white border-b-16 border-primary">
     <ul>

@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-    <JumbotronVideos />
+    <JumbotronEje title="Ciudades del futuro" subtitle="Videos" image="videos-jumbo.jpg"/>
 
   <div class="bg-white border-b-16 border-primary">
               <li v-for="evento of eventos" :key="evento.slug" class="">
@@ -51,10 +51,10 @@
 </template>
 
 <script>
-import JumbotronVideos from '~/components/JumbotronVideos.vue';
+import JumbotronEje from '~/components/JumbotronEje.vue';
 
 export default {
-  components: { JumbotronVideos },
+  components: { JumbotronEje },
 
   async asyncData({ $content }) {
     const eventos = await $content("videos").where({category:"ciudades-del-futuro"}).fetch();
