@@ -71,6 +71,7 @@
 </template>
 
 <script>
+import { pipelinePrimaryTopicReference } from '@babel/types';
 import { mounted } from 'vue';
 
 export default {
@@ -87,7 +88,18 @@ export default {
     this.activeFirst();
   },
   methods: {
+    stopVids(){
+      var frames = document.getElementsByTagName("iframe");
+      if(frames){
+        for (var i = 0; i < frames.length; i++) {
+          frames[i].contentWindow.postMessage('{"event":"command","func":"pauseVideo","args":""}', '*');
+        }
+      }
+
+
+    },
     activeSection(section) {
+      this.stopVids();
       this.section[this.activeSec].classList.remove('active');
       [].forEach.call(this.section[this.activeSec].children, function (child) {
         child.style.opacity = 0;
