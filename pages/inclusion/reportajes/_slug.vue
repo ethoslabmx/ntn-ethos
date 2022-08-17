@@ -14,7 +14,7 @@
         </div>
       </div>
       <div class="container flex flex-wrap lg:flex-nowrap">
-        <div class="pdf-container">
+        <div class="pdf-container" v-if="post.file">
           <vue-pdf-embed :source="post.file" />
         </div>
         <div class="w-full lg:w-3/4 p-5">
