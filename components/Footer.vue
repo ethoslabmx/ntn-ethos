@@ -4,38 +4,65 @@
       <div class="header">
         <h1 class="big-title">CONTACTO</h1>
         <div class="right">
-          <hr class="bg-white">
-          <div class="mail title"><a href="">info@ethos.org.mx</a></div>
-
+          <hr class="bg-white" />
+          <div class="mail"><a href="mailto:info@ethos.org.mx">info@ethos.org.mx</a></div>
         </div>
-
       </div>
       <div class="content text-white">
-        <div class="flex  py-10 flex-wrap justify-between">
+
+        <div class="flex py-10 flex-wrap justify-between">
           <div class="text-justify lg:text-left mr-auto lg:pr-6 lg:w-1/3">
-            Somos un think tank que transforma investigaciones
-            y experiencias en recomendaciones claras y acciones
-            concretas de política pública que atienden algunos de
-            los principales retos para el desarrollo de México.
+            Somos un think tank que transforma investigaciones y experiencias en
+            recomendaciones claras y acciones concretas de política pública que
+            atienden algunos de los principales retos para el desarrollo de
+            México.
           </div>
-          <div class="text-justify lg:text-left  lg:text-right lg:ml-auto lg:w-1/3">
-            Ethos Innovación en Políticas Públicas
-            Montes Urales 424, Lomas Virreyes
-            Miguel Hidalgo, 11000 CDMX
+          <div
+            class="text-justify lg:text-left lg:text-right lg:ml-auto lg:w-1/3"
+          >
+            Ethos Innovación en Políticas Públicas Montes Urales 424, Lomas
+            Virreyes Miguel Hidalgo, 11000 CDMX
           </div>
         </div>
         <div class="flex pt-10 pb-3 flex-wrap justify-between items-center">
-          <div class="text-center lg:text-left mx-auto lg:mx-0 pr-6 lg:w-1/3 lg:flex-nowrap flex items-center">
-             <NuxtLink class="block whitespace-no-wrap mr-3"
-                to="/privacidad">AVISO DE PRIVACIDAD</NuxtLink> | ETHOS 2022
+          <div
+            class="text-center lg:text-left mx-auto lg:mx-0 pr-6 lg:w-1/3 lg:flex-nowrap flex items-center"
+          >
+            <NuxtLink class="block whitespace-no-wrap mr-3" to="/privacidad"
+              >AVISO DE PRIVACIDAD</NuxtLink
+            >
+            | ETHOS 2022
           </div>
-          <div class="text-center mx-auto lg:text-right lg:mx-0 lg:ml-auto lg:w-1/3 mb-3">
+          <div
+            class="text-center mx-auto lg:text-right lg:mx-0 lg:ml-auto lg:w-1/3 mb-3"
+          >
             <ul class="flex ai-center lg:justify-end">
-              <li class="mr-6"><a href="https://mx.linkedin.com/company/fundaci-n-ethos"><img src="../assets/images/linkedin.png" alt=""></a></li>
-              <li class="mr-6"><a href="https://www.facebook.com/ethoslaboratorio"><img src="../assets/images/fbb.png" alt=""></a></li>
-              <li class="mr-6"><a href="https://www.instagram.com/ethoslabmx/"><img src="../assets/images/insta.png" alt=""></a></li>
-              <li class="mr-6"><a href="https://twitter.com/ethoslabmx"><img src="../assets/images/twwt.png" alt=""></a></li>
-              <li><a href="https://www.youtube.com/channel/UCnMvGlzchLKDs9-I9v9_2iw"><img src="../assets/images/youtube.png" alt=""></a></li>
+              <li class="mr-6">
+                <a href="https://mx.linkedin.com/company/fundaci-n-ethos"
+                  ><img src="../assets/images/linkedin.png" alt=""
+                /></a>
+              </li>
+              <li class="mr-6">
+                <a href="https://www.facebook.com/ethoslaboratorio"
+                  ><img src="../assets/images/fbb.png" alt=""
+                /></a>
+              </li>
+              <li class="mr-6">
+                <a href="https://www.instagram.com/ethoslabmx/"
+                  ><img src="../assets/images/insta.png" alt=""
+                /></a>
+              </li>
+              <li class="mr-6">
+                <a href="https://twitter.com/ethoslabmx"
+                  ><img src="../assets/images/twwt.png" alt=""
+                /></a>
+              </li>
+              <li>
+                <a
+                  href="https://www.youtube.com/channel/UCnMvGlzchLKDs9-I9v9_2iw"
+                  ><img src="../assets/images/youtube.png" alt=""
+                /></a>
+              </li>
             </ul>
           </div>
         </div>
@@ -46,27 +73,46 @@
 
 <style lang="scss">
 hr.bg-white {
+  border: 0;
   background-color: #fff;
-  height: 2px;
+  height: 3px;
+
 }
 
 footer {
-  background-color: #5B5B5B;
+  background-color: #5b5b5b;
   padding: 3rem;
 
   display: flex;
   flex-direction: column;
-  align-items: stretch;
+  align-items: flex-end;
   justify-content: space-between;
+
+  @media screen and (min-width: 768px) {
+    padding: 5rem;
+  }
+
+  .mail{
+    font-family: Robot, sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+  }
 
   .header {
     display: flex;
-    align-items: center;
+    align-items: flex-end;
+    flex-direction: row;
     flex-wrap: wrap;
+
 
     h1 {
       font-size: 2rem;
       color: #fff;
+      align-self: start;
+
+      @media screen and (min-width: 768px) {
+        margin-top: -30px;
+      }
 
     }
 
@@ -84,27 +130,21 @@ footer {
         a {
           color: #fff;
           font-size: 1.5rem;
-
         }
       }
-
     }
 
-    @media (min-width:768px) {
+    @media (min-width: 768px) {
       flex-wrap: wrap;
+      margin-bottom: 100px;
 
       .right {
         width: 75%;
         margin-left: auto;
         display: flex;
         flex-direction: column;
-
-
       }
     }
   }
-  // @media (min-width:993px) {
-  //     height: 50vh;
-  // }
 }
 </style>

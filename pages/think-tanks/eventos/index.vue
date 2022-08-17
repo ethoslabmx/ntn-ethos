@@ -3,7 +3,7 @@
     <JumbotronEje title="Universo Think Tanks" subtitle="Eventos" image="eventos-jumbo.jpg"/>
 
     <div class="bg-white">
-          <li v-for="col of columnas" :key="col.slug" class="">
+          <li v-for="col of columnas" :key="col.slug" class="post">
         <div
           class="py-10 border-b 4 border-gray-dark flex container px-5 xl:px-28 items-center justify-between flex-wrap md:flex-nowrap md:flex-row-reverse">
 

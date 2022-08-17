@@ -2,7 +2,7 @@
   <div class="app">
     <JumbotronEje title="ANTICORRUPCIÓN" subtitle="REPORTAJES PERIODÍSTICOS" image="anticorrupcion-thumb.png"/>
 
-  <div class="bg-white border-b-16 border-primary">
+  <div class="bg-white border-b-16 border-primary app">
     <ul>
       <li v-for="evento of eventos" :key="evento.slug" class="post md:py-20 py-10">
         <div

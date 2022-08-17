@@ -63,11 +63,13 @@ export default {
     display: "swap",
     prefetch: true,
     preconnect: true,
+    download: true,
+    overwriting: false,
     families: {
       Roboto: true,
       Lato: true,
       Saira: true,
-      'Saira+Condensed': true,
+      'Saira Condensed': true,
     }
   }
 }

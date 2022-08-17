@@ -6,7 +6,7 @@
     </div>
     <div class="nav  items-center justify-end flex">
       <ul class="navbar  items-center justify-between hidden xl:flex">
-        <li><a href="/">INICIO</a></li>
+        <li class="mr-1"><a href="/">INICIO</a></li>
         <li class="dropdown inline-block relative ml-3">
           <a class="  inline-flex items-center">
             <span class="mr-1">ETHOS</span>
@@ -44,7 +44,7 @@
               <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
             </svg>
           </a>
-          <ul class="dropdown-menu absolute hidden text-gray-700  bg-white shadow-xl p-0 m-0">
+          <ul class="dropdown-menu absolute hidden text-gray-dark  bg-white shadow-xl p-0 m-0">
             <li class="dropdown-child inline-block relative w-full">
               <a class="justify-between  inline-flex items-center py-3 px-6 w-full block bg-gray-200 hover:bg-primary">
                 <span class="mr-1">ANTICORRUPCIÓN</span>
@@ -280,6 +280,16 @@ export default {
 .menubar {
   position: relative;
 
+  ul.dropdown-menu{
+    min-width: 220px;
+
+    li{
+      letter-spacing: 2px;
+    }
+
+
+  }
+
   &:after {
     content: "";
     position: absolute;
@@ -294,5 +304,7 @@ export default {
     font-weight: 600;
     color:#5B5B5B;
   }
+
+
 }
 </style>

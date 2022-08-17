@@ -41,10 +41,42 @@ export default {
   background-repeat: no-repeat;
   z-index: 0;
 
+  h1{
+    font-family: 'Saira Condensed', sans-serif;
+    letter-spacing: 2px;
+    @media screen and (min-width: 768px) {
+      font-size: 3rem;
+      letter-spacing: 12px;
+      line-height: 3.5rem;
+      text-align: right;
+      max-width: 500px;}
+
+
+  }
+
+  .slider::-webkit-scrollbar {
+    width: 4px;
+    background-color: var(--bg-orange);
+  }
+
+  .slider::-webkit-scrollbar-track {
+    background-color: var(--bg-blue-full);
+    border-radius: 4px;
+  }
+
+  .slider::-webkit-scrollbar-thumb {
+    background-color: var(--bg-orange);
+    box-shadow: inset 2px 2px 5px 0 rgba(#fff, 0.5);
+    border-radius: 100px;
+  }
+
+
   .slider {
     width: 100vw;
     overflow-x: auto;
     margin-left:auto;
+    scrollbar-color: #6969dd #e0e0e0;
+    scrollbar-width: thin;
 
     li {
 

@@ -18,6 +18,7 @@
   --bg-brown: #c8bca8;
   --bg-pink: #f37d89;
 }
+
 * {
   box-sizing: inherit;
 }
@@ -32,29 +33,71 @@ html {
 
 }
 
-.app{
+.app {
   background-color: #eee;
 }
 
-body{font-family: 'Lato', sans-serif;}
-.big-title, .tag{font-family: 'Saira Condensed', sans-serif;}
-.title,.more-btn{font-family: 'Roboto', sans-serif; font-weight: 600;}
-.saira{font-family: 'Saira', sans-serif;
+body {
+  font-family: 'Lato', sans-serif;
 }
-body{letter-spacing: -0.01em;}
-footer{letter-spacing: 0.055em;}
-.tag{letter-spacing: 0.055em;}
-.big-title{letter-spacing: 0.56em;}
-.title{letter-spacing: 0.265em;}
-.eje p, .post p, .post_content p{
+
+.big-title,
+.tag {
+  font-family: 'Saira Condensed', sans-serif;
+}
+
+.title,
+.more-btn {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+}
+
+.saira {
+  font-family: 'Saira', sans-serif;
+}
+
+body {
+  letter-spacing: -0.01em;
+}
+
+footer {
+  letter-spacing: 0.055em;
+}
+
+.tag {
+  letter-spacing: 0.055em;
+}
+
+.big-title {
+  letter-spacing: 0.56em;
+}
+
+.title {
+  letter-spacing: 0.265em;
+}
+
+.eje p {
+  font-weight: 600;
+  line-height: 1.5rem;
+  text-align: justify;
+}
+
+.eje p,
+.post p,
+.post_content p {
   letter-spacing: 0.01em;
 }
-.tag{
+
+
+.tag {
   font-weight: 700;
   letter-spacing: 0.44em;
   text-transform: uppercase;
 }
-.title, .big-title {
+
+
+.title,
+.big-title {
   font-style: normal;
   font-weight: 400;
   letter-spacing: 0.44em;
@@ -66,6 +109,7 @@ ul.dropdown-child-menu {
   right: -115%;
   top: 1rem;
 }
+
 @media (min-width:1400px) {
   ul.dropdown-child-menu {
     right: -113%;
@@ -76,6 +120,7 @@ ul.dropdown-child-menu {
 .dropdown:hover .dropdown-menu {
   display: block;
   z-index: 3;
+
 }
 
 .dropdown-child:hover .dropdown-child-menu {
@@ -84,15 +129,34 @@ ul.dropdown-child-menu {
 }
 
 .title {
+  font-family: 'Saira Condensed', 'sans-serif';
+  font-weight: 600;
   color: var(--main-title-color);
 }
+
+.content-start .title {
+  font-family: Roboto, 'sans-serif';
+}
+
+.post p {
+  font-weight: 500;
+}
+
+.subtitle {
+  text-align: right;
+  font-family: Lato, 'sans-serif';
+  font-weight: 400;
+  font-size: 1rem;
+}
+
 p {
   color: var(--main-font-color);
 }
 
 
 
-.relacionadas li, .border-primary:not(.privacidad) li {
+.relacionadas li,
+.border-primary:not(.privacidad) li {
   list-style: none;
 }
 
@@ -101,6 +165,7 @@ li.eje .content a {
   margin-bottom: 1.5rem;
   display: block;
 }
+
 .more-btn {
   display: flex;
   align-items: center;
@@ -110,7 +175,9 @@ li.eje .content a {
 
 }
 
-.more-btn .icon{    margin-left: 0.75rem;}
+.more-btn .icon {
+  margin-left: 0.75rem;
+}
 
 .separador_header {
   display: flex;
@@ -135,12 +202,14 @@ li.eje .content a {
   top: 0;
   left: 0;
 }
+
 .eje {
   display: flex;
   margin-bottom: 2rem;
   border-radius: 0.1px;
   box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.05);
 }
+
 li.eje {
   margin-bottom: 0;
 }
@@ -148,9 +217,11 @@ li.eje {
 li.eje:nth-child(3n + 2) {
   background-color: var(--bg-blue-full);
 }
+
 li.eje:nth-child(3n + 1) {
   background-color: var(--bg-orange);
 }
+
 li.eje:nth-child(3n + 0) {
   background-color: var(--bg-yellow);
 }
@@ -158,6 +229,7 @@ li.eje:nth-child(3n + 0) {
 li.post:nth-child(even) {
   background-color: var(--bg-white);
 }
+
 li.post:nth-child(odd) {
   background-color: var(--bg-white-dark);
 }
@@ -165,6 +237,7 @@ li.post:nth-child(odd) {
 .eje {
   position: relative;
 }
+
 .eje .tag {
   position: absolute;
   height: 30px;
@@ -181,12 +254,19 @@ li.post:nth-child(odd) {
   .eje .tag {
     top: 65%;
   }
+
+  .subtitle{
+    font-size: 1.4rem;
+    line-height: 2rem;
+  }
+
 }
 
 .eje:nth-child(odd) .tag {
   background-color: #f28f78;
   color: white;
 }
+
 .eje:nth-child(even) .tag {
   background-color: #f4e08e;
   color: var(--main-title-color);
@@ -195,6 +275,7 @@ li.post:nth-child(odd) {
 .eje .img {
   height: auto;
 }
+
 .eje .img img {
   height: 100%;
   width: 100%;
@@ -204,9 +285,11 @@ li.post:nth-child(odd) {
 .eje .content .title {
   margin-bottom: 1rem;
 }
+
 .eje.bg-white {
   background-color: var(--bg-white);
 }
+
 .brand img {
   width: auto;
   height: 60px;
@@ -219,9 +302,11 @@ li.post:nth-child(odd) {
 }
 
 @media screen and (min-width: 1200px) {
+
   .brand,
   .nav {
     font-size: .80rem;
+    letter-spacing: 2px;
   }
 }
 
@@ -229,10 +314,11 @@ li.post:nth-child(odd) {
 
 
 @media (min-width:1400px) {
+
   .brand,
   .nav {
     font-size: .85rem;
-    letter-spacing: 0.05em;
+    letter-spacing: 2px;
   }
 }
 
@@ -249,9 +335,11 @@ ul.navbar li ul li {
 .shadow {
   box-shadow: -1px 4px 6px 1px rgba(0, 0, 0, 0.35);
 }
+
 .twitter {
   border-top: 20px solid var(--bg-gray);
 }
+
 .more-btn .icon {
   background-image: url("../images/clickMore.png");
   background-repeat: no-repeat;
@@ -261,25 +349,37 @@ ul.navbar li ul li {
   display: block;
 
 }
-.share ul{
+
+.share ul {
   display: flex;
   flex-wrap: nowrap;
   width: 300px;
 }
-.share ul li ,.share ul li a{width: 25px; height: 25px;
+
+.share ul li,
+.share ul li a {
+  width: 25px;
+  height: 25px;
   display: block;
   cursor: pointer;
   margin-right: 0.5rem;
 }
 
-.share ul li:last-child ,.share ul li a:last-child{
+.share ul li:last-child,
+.share ul li a:last-child {
   margin-right: 0;
 
 }
-.share ul li a img{width: 100%; height: 100%; object-fit: contain;}
+
+.share ul li a img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
 /* ¿adrian, así? */
 
-#__layout{
+#__layout {
   position: relative;
   max-width: 95%;
   overflow: hidden;
@@ -287,20 +387,20 @@ ul.navbar li ul li {
 }
 
 
-@media (min-width:993px)  {
-  #__layout{
+@media (min-width:993px) {
+  #__layout {
     max-width: 90%;
   }
 }
 
-@media (min-width:1200px)  {
-  #__layout{
+@media (min-width:1200px) {
+  #__layout {
     max-width: 95%;
   }
 }
 
-@media (min-width:1400px)  {
-  #__layout{
+@media (min-width:1400px) {
+  #__layout {
     max-width: 1336px;
   }
 }

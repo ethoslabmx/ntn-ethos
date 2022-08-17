@@ -3,7 +3,7 @@
     <JumbotronEje title="Ciudades del futuro" subtitle="Videos" image="videos-jumbo.jpg"/>
 
   <div class="bg-white border-b-16 border-primary">
-              <li v-for="evento of eventos" :key="evento.slug" class="">
+              <li v-for="evento of eventos" :key="evento.slug" class="post">
         <div
           class="py-10 flex container px-5 xl:px-28 items-center justify-between flex-wrap md:flex-nowrap md:flex-row-reverse">
 

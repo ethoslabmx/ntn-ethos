@@ -11,8 +11,9 @@
           </div>
 
           <div class="ml-auto p-5 md:p-0">
-
+            <!--
             <button class="bg-gray-dark font py-2 px-3 rounded-md my-3 text-white">Leer</button>
+
 
             <div class="share content-end flex justify-end lg:items-center md:flex-wrap xl:flex-nowrap">
 
@@ -26,6 +27,7 @@
                 <li class=""><a href=""><img src="../../../assets/images/letter.png" alt="" class="h-5 w-5"></a></li>
               </ul>
             </div>
+            -->
           </div>
 
         </div>
