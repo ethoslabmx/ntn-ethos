@@ -20,7 +20,7 @@
         </div>
         <div class="w-full lg:w-3/4 p-5">
           <nuxt-content :document="post" />
-          <button class="btn ml-auto my-3 block underline">Descargar</button>
+          <button class="block ml-auto bg-gray-dark font py-2 px-7 rounded-md my-3 text-white">Descargar</button>
           <div
             class="share my-20 content-end flex justify-end lg:items-center md:flex-wrap xl:flex-nowrap"
           >

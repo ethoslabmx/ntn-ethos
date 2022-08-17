@@ -10,7 +10,8 @@
         <div class="col">
           <img :src="d.img" alt="" class="">
 
-          <a href="d.link" class="bg-gray-dark font py-2 px-3 rounded-md my-3 text-white">Descargar</a>
+          <a href="d.link" class="block ml-auto bg-gray-dark font py-2 px-7 rounded-md my-3 text-white">Descargar</a>
+
         </div>
       </div>
     </div>

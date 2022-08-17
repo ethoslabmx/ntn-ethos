@@ -133,6 +133,9 @@ ul.dropdown-child-menu {
   font-weight: 600;
   color: var(--main-title-color);
 }
+.title.font-light{
+  font-weight: 300;
+}
 
 .content-start .title {
   font-family: Roboto, 'sans-serif';
@@ -148,6 +151,7 @@ ul.dropdown-child-menu {
   font-weight: 400;
   font-size: 1rem;
 }
+
 
 p {
   color: var(--main-font-color);
@@ -353,7 +357,7 @@ ul.navbar li ul li {
 .share ul {
   display: flex;
   flex-wrap: nowrap;
-  width: 300px;
+  max-width: 300px;
 }
 
 .share ul li,
@@ -407,13 +411,13 @@ ul.navbar li ul li {
 
 
 .nuxt-content  p{
-  margin: 10px auto;
+  margin: 10px 0;
   max-width: 700px;
   font-family: Roboto, Helvetica, Arial, sans-serif;
 }
 
 .nuxt-content ul{
-  margin: 10px auto;
+  margin: 10px 0;
   max-width: 700px;
   font-family: Roboto, Helvetica, Arial, sans-serif;
   color: var(--main-font-color);
@@ -426,12 +430,12 @@ ul.navbar li ul li {
 
 .nuxt-content h4, .nuxt-content h3{
   font-size: 1.2rem;
-  margin: 15px auto;
+  margin: 15px 0;
   max-width: 700px;
 }
 
 .nuxt-content h2{
   font-size: 1.4rem;
-  margin: 15px auto;
+  margin: 15px 0;
   max-width: 700px;
 }
