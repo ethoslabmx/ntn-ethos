@@ -3,8 +3,8 @@
 <div>
     <div class="jumbotron-bolsa relative flex items-top justify-center min-h-screen bg-gray-100 sm:items-center sm:pt-0  bg-gradient-to-b from-cyan to-cyanlight">
       <div class="container flex items-center">
-        <div class="hero md:mr-auto md:w-1/2 ">
-          <h1 class="lg:text-5xl text-lg big-title mb-6 text-white uppercase">Bolsa de trabajo</h1>
+        <div class="hero lg:mr-auto lg:w-1/2 ">
+          <h1 class="lg:text-5xl sm:text-3xl text-xl big-title mb-6 text-white uppercase text-right">Bolsa de trabajo</h1>
           <p class="subtitle text-white mb-3">
             En Ethos estamos comprometidos con la diversidad
             en nuestro equipo de trabajo.
@@ -23,7 +23,7 @@
 
 
 .jumbotron-bolsa {
-  min-height: calc(40vh - 100px);
+  min-height: calc(60vh - 100px);
   background-size: cover;
   background-repeat: no-repeat;
   background-size: cover;
@@ -32,10 +32,12 @@
   z-index: 0;
 
 
-  @media (min-width:993px) {
+  @media (min-width:768px) {
+    min-height: calc(90vh - 100px);
+
+  }
+  @media (min-width:1400px) {
     min-height: calc(70vh - 100px);
-
-
 
   }
 }

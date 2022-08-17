@@ -11,14 +11,14 @@
       <div class="content text-white">
 
         <div class="flex py-10 flex-wrap justify-between">
-          <div class="text-justify lg:text-left mr-auto lg:pr-6 lg:w-1/3">
+          <div class="text-justify xl:text-left mr-auto xl:pr-6 xl:w-1/3">
             Somos un think tank que transforma investigaciones y experiencias en
             recomendaciones claras y acciones concretas de política pública que
             atienden algunos de los principales retos para el desarrollo de
             México.
           </div>
           <div
-            class="text-justify lg:text-left lg:text-right lg:ml-auto lg:w-1/3"
+            class="text-justify xl:text-left xl:text-right xl:ml-auto xl:w-1/3"
           >
             Ethos Innovación en Políticas Públicas Montes Urales 424, Lomas
             Virreyes Miguel Hidalgo, 11000 CDMX
@@ -26,12 +26,12 @@
         </div>
         <div class="flex pt-10 pb-3 flex-wrap justify-between items-center">
           <div
-            class="text-center lg:text-left mx-auto lg:mx-0 pr-6 lg:w-1/3 lg:flex-nowrap flex items-center"
+            class="text-center sm:text-left pr-6 4xl:w-1/3 4xl:flex-nowrap flex items-center"
           >
             <NuxtLink class="block whitespace-no-wrap mr-3" to="/privacidad"
               >AVISO DE PRIVACIDAD</NuxtLink
             >
-            | ETHOS 2022
+            |  <span class="ml-3">ETHOS 2022</span>
           </div>
           <div
             class="text-center mx-auto lg:text-right lg:mx-0 lg:ml-auto lg:w-1/3 mb-3"
