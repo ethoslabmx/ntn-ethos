@@ -1,6 +1,6 @@
 ---
 title: "Ethos presenta: Experiencia Internacional con los Bonos de Impacto Social"
-date: 2022-08-17T20:42:03.014Z
+date: 2015-09-09T20:42:03.014Z
 autor: "Ethos Laboratorio de Politicas Publicas "
 video: https://www.youtube.com/watch?v=TOo-c-bH74g
 category: desarrollo-sostenible
