@@ -125,6 +125,7 @@ collections:
       - { label: 'Financiador', name: 'nombre', widget: 'string' }
       - { label: 'Logo', name: 'logo', widget: 'image' }
       - { label: 'Url', name: 'link', widget: 'string', required: false }
+      - { label: 'Fecha Publicación', name: 'date', widget: 'datetime' }
   - name: 'personal'
     label: 'Equipo'
     folder: 'content/personal'

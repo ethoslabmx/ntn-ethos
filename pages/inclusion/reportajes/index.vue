@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-    <JumbotronEje title="INCLUSIÓN" subtitle="REPORTAJES PERIODÍSTICOS" image="anticorrupcion-thumb.png"/>
+    <JumbotronEje title="INCLUSIÓN" subtitle="REPORTAJES PERIODÍSTICOS" image="inclusion-thumb.png"/>
 
   <div class="bg-white border-b-16 border-primary">
     <ul>

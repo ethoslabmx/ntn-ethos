@@ -4,16 +4,8 @@
     <div class="jumbotron-doc relative flex items-top justify-center min-h-screen  sm:items-center sm:pt-0  bg-gradient-to-b from-yellow-1 to-yellow-2">
       <div class="container flex items-center">
         <div class="hero md:mr-auto md:w-1/2 ">
-          <h1 class="lg:text-5xl text-lg big-title mb-6 text-white uppercase">Bolsa de trabajo</h1>
-          <p class="xl:text-xl text-sm text-white mb-3">
-            En Ethos estamos comprometidos con la diversidad
-            en nuestro equipo de trabajo.
-          </p>
-          <p class="xl:text-xl text-sm text-white mb-3">
-            Creemos en la igualdad de oportunidades y de
-            condiciones de empleo.
-          </p>
-          <p class="xl:text-xl text-sm text-white">¡Únete a nuestro equipo!</p>
+          <h1 class="lg:text-5xl text-lg big-title mb-6 text-white uppercase">DOCUMENTOS INSTITUCIONALES</h1>
+          <p class="subtitle text-white">Encuentra aquí nuestras políticas organizacionales.</p>
         </div>
       </div>
   </div>
@@ -30,6 +22,10 @@
   background-position: center center;
   background-repeat: no-repeat;
   z-index: 0;
+
+  h1{
+    text-align: right;
+  }
 
 
   @media (min-width:993px) {

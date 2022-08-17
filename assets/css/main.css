@@ -404,3 +404,34 @@ ul.navbar li ul li {
     max-width: 1336px;
   }
 }
+
+
+.nuxt-content  p{
+  margin: 10px auto;
+  max-width: 700px;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+.nuxt-content ul{
+  margin: 10px auto;
+  max-width: 700px;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  color: var(--main-font-color);
+}
+
+.nuxt-content ul li{
+  margin-left: 10px;
+  list-style: disc!important;
+}
+
+.nuxt-content h4, .nuxt-content h3{
+  font-size: 1.2rem;
+  margin: 15px auto;
+  max-width: 700px;
+}
+
+.nuxt-content h2{
+  font-size: 1.4rem;
+  margin: 15px auto;
+  max-width: 700px;
+}

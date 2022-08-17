@@ -1,8 +1,7 @@
 <template>
-  <div class="border-b-16 border-primary app">
-    <JumbotronEje title="Universo Think Tanks" subtitle="Columnas de opinión" image="writer.jpg"/>
-    <div>
-          <ul>
+  <div class="app">
+    <JumbotronEje title="Finanzas públicas" subtitle="Columnas de opinión" image="writer.jpg"/>
+    <ul class="border-b-16 border-primary">
       <li v-for="col of columnas" :key="col.slug" class="post md:py-20 py-10">
         <div
           class="flex container px-5 xl:px-28 items-center justify-between flex-wrap md:flex-nowrap md:flex-row-reverse">
@@ -16,7 +15,7 @@
               <NuxtLink :to="'columnas/'+col.slug" class="title xl:text-xl text-sm mb-6 block">{{ col.title }}</NuxtLink>
             </div>
               <div class="content-center mb-10">
-                <p>{{col.body.children[1]}}</p>
+                <p>{{col.extracto}}</p>
               </div>
             </div>
           </div>
@@ -27,12 +26,6 @@
           </div>
         </li>
     </ul>
-    <!-- <li v-for="col of columnas" :key="col.slug">
-        <NuxtLink :to="'columnas/'+col.slug">{{ col.title }}</NuxtLink>
-        <img :src="col.img" alt="">
-        <p>{{col.body.children[1]}}</p>
-      </li> -->
-    </div>
   </div>
 </template>
 
@@ -40,10 +33,10 @@
 import JumbotronEje from '~/components/JumbotronEje.vue';
 
 export default {
-  components: { JumbotronEje },
+    components: { JumbotronEje },
 
   async asyncData({ $content }) {
-    const columnas = await $content("columnas").where({category:"think-tanks"}).fetch();
+    const columnas = await $content("columnas").where({category:"finanzas-publicas"}).fetch();
 
     return {
       columnas,

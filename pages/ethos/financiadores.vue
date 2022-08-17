@@ -23,7 +23,7 @@
 export default {
 
   async asyncData({ $content }) {
-    const financiadores = await $content("financiadores").fetch();
+    const financiadores = await $content("financiadores").sortBy('date','desc').fetch();
 
     return {
       financiadores,

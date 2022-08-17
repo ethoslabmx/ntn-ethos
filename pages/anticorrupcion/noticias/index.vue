@@ -9,7 +9,9 @@
           <div class="right md:p-7 p-5  xl:w-1/3  4xl:w-1/4 w-full flex md:flex-col justify-between text-right">
             <div class="img md:ml-auto content-start my-6">
               <img :src="col.img" alt="" class="w-80 h-auto mb-3 shadow-xl object-cover" />
-
+              <NuxtLink :to="'noticias/' + col.slug">
+              <button class="bg-gray-dark font py-2 px-7 rounded-md my-3 text-white">Leer</button>
+              </NuxtLink>
             </div>
 
 

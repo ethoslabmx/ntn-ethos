@@ -123,3 +123,18 @@ export default {
 
 }
 </script>
+
+
+<style lang="scss">
+.quienes{
+  h2.title{
+    font-weight: 400;
+  }
+
+  h3{
+    font-family: Roboto, 'sans-serif';
+    font-size: 1.2rem;
+    letter-spacing: 7px;
+  }
+}
+</style>

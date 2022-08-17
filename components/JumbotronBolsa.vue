@@ -5,15 +5,15 @@
       <div class="container flex items-center">
         <div class="hero md:mr-auto md:w-1/2 ">
           <h1 class="lg:text-5xl text-lg big-title mb-6 text-white uppercase">Bolsa de trabajo</h1>
-          <p class="xl:text-xl text-sm text-white mb-3">
+          <p class="subtitle text-white mb-3">
             En Ethos estamos comprometidos con la diversidad
             en nuestro equipo de trabajo.
           </p>
-          <p class="xl:text-xl text-sm text-white mb-3">
+          <p class="subtitle text-white mb-3">
             Creemos en la igualdad de oportunidades y de
             condiciones de empleo.
           </p>
-          <p class="xl:text-xl text-sm text-white">¡Únete a nuestro equipo!</p>
+          <p class="subtitle text-white">¡Únete a nuestro equipo!</p>
         </div>
       </div>
   </div>

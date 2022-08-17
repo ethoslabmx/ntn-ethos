@@ -80,15 +80,15 @@
         <hr>
       </div>
       <li v-for="post of posts" :key="post.slug" class="eje">
-        <div class="container mx-auto  flex  2xl:px-10 py-10 justify-between items-center lg:flex-row-reverse flex-col">
+        <div class="container mx-auto  flex 10 justify-between items-center lg:flex-row-reverse flex-col">
 
           <div class="lg:w-1/2 xl:w-1/3 lg:ml-10 self-center">
-            <img :src="post.img" alt="" class="w-full object-cover h-60">
+            <img :src="post.img" alt="" class="w-full object-cover col-img">
              <div class="tag">{{post.category.replace("-"," ").toUpperCase()}}</div>
           </div>
 
           <div class="content lg:w-1/2  xl:w-2/3 mt-6 lg:mt-0">
-            <NuxtLink :to="post.slug" class="xl:text-lg title">{{ post.title }}</NuxtLink>
+            <NuxtLink :to="post.category +'/columnas/'+post.slug" class="xl:text-lg title">{{ post.title }}</NuxtLink>
             <p class="text-gray-dark">{{ post.extracto }}</p>
           </div>
 
@@ -134,4 +134,39 @@ export default {
 </script>
 <style lang="scss">
 .widget-twitter{width:300px}
+
+li.eje{
+  padding: 20px 20px 20px 30px;
+  @media screen and (min-width: 768px) {
+    padding: 30px 30px 30px 40px;
+  }
+
+  @media screen and (min-width: 1024px) {
+    padding: 40px 40px 40px 60px;
+  }
+
+}
+
+.col-img{
+  width: 100%;
+  height: 100px;
+  object-fit: cover;
+  @media screen and (min-width: 768px) {
+    height: 150px;
+  }
+  @media screen and (min-width: 1024px) {
+    height: 200px;
+  }
+}
+
+.columnas {
+  a{
+    letter-spacing: 5px;
+  }
+  p{
+    font-family: Lato, sans-serif;
+    font-weight: 500;
+  }
+}
+
 </style>
