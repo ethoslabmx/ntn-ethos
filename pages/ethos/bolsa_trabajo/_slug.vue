@@ -1,5 +1,6 @@
 <template>
   <div class="app">
+    <JumbotronBolsa />
      <div class="bg-white border-b-16 border-primary">
       <div class="container py-20">
         <div class="vacantes mb-6">
@@ -35,7 +36,9 @@
 </template>
 
 <script>
+import JumbotronBolsa from '~/components/JumbotronBolsa.vue';
 export default {
+  components: { JumbotronBolsa },
   async asyncData({ $content, params, error }) {
     let post;
     const vacantes = await $content("bolsatrabajo").where({ category: 'vacantes' }).limit(3).fetch();

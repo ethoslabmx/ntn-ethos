@@ -29,7 +29,7 @@
 
 
   @media (min-width:993px) {
-    min-height: calc(80vh - 100px);
+    min-height: calc(70vh - 100px);
 
 
 
