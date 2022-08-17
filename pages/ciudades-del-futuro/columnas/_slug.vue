@@ -4,8 +4,8 @@
       <div class="container  flex ">
         <div class="w-full lg:w-3/4 p-5">
           <h1 class="2xl:text-xl text-lg title">{{ post.title }}</h1>
-          <p class="my-6 font-bold">Fecha de publicación: {{ new Date(post.date).toLocaleDateString('es-MX', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })  }}</p>
-          <p class="my-6">Por: {{ post.autor }} <span v-if="post.medio">Para: <a :href="post.link">{{ post.medio
+          <p class="my-6 font-bold"> {{ new Date(post.date).toLocaleDateString('es-MX', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })  }}</p>
+          <p class="my-6">Por: {{ post.autor }} <br/><span v-if="post.medio">Para: <a :href="post.link">{{ post.medio
           }}</a></span>
           </p>
         </div>
@@ -29,8 +29,8 @@
          <div class="relacionadas flex flex-wrap xl:flex-nowrap">
           <li v-for="col of columnas" :key="col.slug" class="px-8 w-full xl:w-1/3">
             <img :src="col.img" alt="" class="mb-3 h-auto w-full">
-            <NuxtLink :to="'columnas/' + col.slug" class="my-3 md:text-lg text-sm block">{{ col.title }}</NuxtLink>
-            <p class="text-white mb-8 xl:mb-0">{{ col.extracto }}</p>
+            <NuxtLink :to="col.slug" class="my-3 md:text-lg text-sm block">{{ col.title }}</NuxtLink>
+            <!--<p class="text-white mb-8 xl:mb-0">{{ col.extracto }}</p>-->
           </li>
         </div>
        </div>
@@ -46,7 +46,7 @@ export default {
     console.log(params)
     try {
       columnas = await $content("columnas")
-        .where({ category: "finanzas-publicas" })
+        .where({ category: "ciudades-del-futuro" })
         .limit(3)
         .fetch();
       post = await $content("columnas", params.slug).fetch();
