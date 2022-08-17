@@ -80,14 +80,14 @@
         <hr>
       </div>
       <li v-for="post of posts" :key="post.slug" class="eje">
-        <div class="container mx-auto  flex 10 justify-between items-center lg:flex-row-reverse flex-col">
+        <div class="container mx-0 ml-auto  flex 10 justify-between items-center lg:flex-row-reverse flex-col">
 
-          <div class="lg:w-1/2 xl:w-1/3 lg:ml-10 self-center">
-            <img :src="post.img" alt="" class="w-full object-cover col-img">
+          <div class="lg:w-1/2 3xl:w-1/3 lg:ml-10 self-center tag-container">
+            <img :src="post.img" alt="" class="w-auto object-cover col-img">
              <div class="tag">{{post.category.replace("-"," ").toUpperCase()}}</div>
           </div>
 
-          <div class="content lg:w-1/2  xl:w-2/3 mt-6 lg:mt-0">
+          <div class="content lg:w-1/2  3xl:w-2/3 mt-6 lg:mt-0">
             <NuxtLink :to="post.category +'/columnas/'+post.slug" class="xl:text-lg title">{{ post.title }}</NuxtLink>
             <p class="text-gray-dark">{{ post.extracto }}</p>
           </div>
@@ -107,7 +107,7 @@
             <h2 class="big-title xl:text-xl text-md text-right pr-3">ETHOS EN TWITTER</h2>
             <hr>
           </div>
-          <div class="ml-6 drop-shadow-xl block shadow widget-twitter">
+          <div class="lg:ml-6 drop-shadow-xl block shadow widget-twitter mt-6 lg:mt-0 mx-auto">
             <a class="twitter-timeline" data-lang="es" data-width="300" data-height="450" data-theme="light" href="https://twitter.com/ethoslabmx?ref_src=twsrc%5Etfw">Tweets by ethoslabmx</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
           </div>
 
@@ -136,27 +136,54 @@ export default {
 .widget-twitter{width:300px}
 
 li.eje{
-  padding: 20px 20px 20px 30px;
-  @media screen and (min-width: 768px) {
-    padding: 30px 30px 30px 40px;
+  padding: 40px 20px;
+
+
+  // decidi hacer una caja para que el tag se ubique bien en el bottom junto con la imagen,
+  // veras tanto el right de tag por el padding de container y eje.
+  //
+
+  .tag{
+    right: calc(-1rem - 20px);
   }
 
-  @media screen and (min-width: 1024px) {
-    padding: 40px 40px 40px 60px;
+  @media (min-width: 580px) {
+    .tag{
+      right: calc(-2rem - 20px);
+    }
   }
+  @media (min-width: 800px) {
+        padding: 30px;
 
+    .tag{
+      right: calc(-3rem - 30px);
+    }
+  }
+  @media (min-width: 1040px) {
+    .tag{
+      right: calc(-5rem - 40px);
+    }
+  }
+    @media (min-width: 1100px) {
+    .tag{
+      right: calc(-6rem - 40px);
+    }
+  }
+    @media (min-width: 1200px) {
+    padding: 40px;
+
+  }
 }
 
 .col-img{
   width: 100%;
-  height: 100px;
+  height: 150px;
   object-fit: cover;
-  @media screen and (min-width: 768px) {
-    height: 150px;
-  }
-  @media screen and (min-width: 1024px) {
+
+  @media screen and (min-width: 800px) {
     height: 200px;
   }
+
 }
 
 .columnas {

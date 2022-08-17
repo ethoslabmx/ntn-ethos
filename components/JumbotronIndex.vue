@@ -12,6 +12,7 @@
   background-position: center center;
   background-repeat: no-repeat;
   border-bottom: 2rem solid #F28F78;
+  min-height: calc(100vw * .5625);
 
   &:after {
     content: "";
@@ -56,7 +57,7 @@
     }
   }
   @media (min-width:993px) {
-    min-height: calc(100vw * .5625);
+   // min-height: calc(100vw * .5625);
 
     &:hover {
       &:after {
