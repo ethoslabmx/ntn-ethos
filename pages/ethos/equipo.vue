@@ -7,7 +7,12 @@
 
           <div class="w-full lg:w-1/2">
             <ul class="list puestos">
-              <li v-for="puesto in puestos" :key="puesto" @click="selectEmployee(puesto)">{{ puesto }}</li>
+              <li @click="selectEmployee(puesto)">
+                <div>{{ puesto }}</div>
+                <ul>
+                  <li v-for="e in dg" :key="e">{{e.nombre}}</li>
+                </ul>
+              </li>
             </ul>
           </div>
           <div class="w-full  h-0.5  my-7   lg:w-0.5 lg:h-screen lg:mx-5 bg-gray-dark "></div>
@@ -42,9 +47,11 @@ export default {
   components: { JumbotronEquipo },
   async asyncData({ $content }) {
     const personal = await $content("personal").fetch();
+    const dg = await $content("personal").where({area:'dirección general'}).only('nombre').fetch();
 
     return {
       personal,
+      dg
     };
   },
   mounted(){

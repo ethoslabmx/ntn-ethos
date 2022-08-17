@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-    <JumbotronEje title="Finanzas públicas" subtitle="Eventos" image="eventos-jumbo.jpg"/>
+    <JumbotronEje title="Think Tanks" subtitle="Eventos" image="eventos-jumbo.jpg"/>
     <div class="bg-white border-b-16 border-primary">
       <li v-for="evento of eventos" :key="evento.slug" class="post">
         <div
