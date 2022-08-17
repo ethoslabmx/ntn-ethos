@@ -1,6 +1,6 @@
 ---
 nombre: "JAVIER GONZÁLEZ "
-foto: /img/javier_gonzalez_.jpg
+foto: /img/javier-gonzalez2.jpg
 puesto: "Director de Desarrollo Institucional "
 area: dirección de desarrollo institucional
 semblanza: Maestro en Políticas Públicas y Administración (LSE) y licenciado en
