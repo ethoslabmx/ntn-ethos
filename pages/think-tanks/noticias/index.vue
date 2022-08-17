@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-    <JumbotronEje title="Finanzas públicas" subtitle="Noticias" image="finanzas-publicas-thumb.png"/>
+    <JumbotronEje title="Think Tanks" subtitle="Noticias" image="finanzas-publicas-thumb.png"/>
     <div class="bg-white border-b-16 border-primary">
       <li v-for="col of columnas" :key="col.slug" class="post">
         <div
@@ -26,7 +26,7 @@
             </div>
 
             <div class="content content-center mb-10">
-              <p>{{ col.body.children[1].children[0].value }}</p>
+              <p>{{  }}</p>
             </div>
 
 
@@ -50,11 +50,14 @@ export default {
   components: { JumbotronEje },
 
   async asyncData({ $content }) {
-    const columnas = await $content("noticias").where({category:"finanzas-publicas"}).fetch();
+    const columnas = await $content("noticias").where({category:"think-tanks"}).fetch();
 
     return {
       columnas,
     };
   },
+  mounted(){
+    console.log(this.columnas);
+  }
 }
 </script>

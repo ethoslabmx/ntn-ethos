@@ -1,7 +1,7 @@
 ---
 title: Ethos un think tank innovador entre los mejores de América Latina
 date: 2018-12-02T00:10:11.469Z
-img: /img/ranking-2019-facebook.jpg
+img: https://ucarecdn.com/edced476-b1f4-44b1-9103-338af41147eb/
 autor: Ethos
 category: think-tanks
 ---
