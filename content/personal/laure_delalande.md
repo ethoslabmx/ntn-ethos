@@ -1,6 +1,6 @@
 ---
 nombre: LAURE DELALANDE
-foto: /img/01_laure_delalande.png
+foto: /img/laure_delalande.jpg
 puesto: Directora de Inclusión y Desarrollo Sostenible
 area: inclusión y desarrollo sostenible
 semblanza: Doctora en Ciencias Políticas con Mención Honorífica por la Facultad
