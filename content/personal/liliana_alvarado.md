@@ -1,6 +1,6 @@
 ---
 nombre: LILIANA ALVARADO
-foto: /img/liliana_alvarado.jpg
+foto: /img/liliana-alvarado2.jpg
 puesto: Directora General
 area: dirección general
 semblanza: Maestra en Políticas Públicas y Administración (LSE) y licenciada en
