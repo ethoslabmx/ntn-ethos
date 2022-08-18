@@ -20,44 +20,59 @@
         <div class="w-full lg:w-3/4 p-5">
           <nuxt-content :document="post" />
           <button class="block ml-auto bg-gray-dark font py-2 px-7 rounded-md my-3 text-white">Descargar</button>
-          <div
-            class="share my-20 content-end flex justify-end lg:items-center md:flex-wrap xl:flex-nowrap"
-          >
-            <small class="title mb-3 xl:mb-0">COMPARTIR</small>
-            <ul class="flex items-center ml-3 flex-nowrap">
-              <li class="mr-3">
-                <a href=""
-                  ><img
-                    src="../../../assets/images/linkedin-gray.png"
-                    alt=""
-                    class="h-5 w-5"
-                /></a>
-              </li>
-              <li class="mr-3">
-                <a href=""
-                  ><img
-                    src="../../../assets/images/fbb-gray.png"
-                    alt=""
-                    class="h-5 w-5"
-                /></a>
-              </li>
-              <li class="mr-3">
-                <a href=""
-                  ><img
-                    src="../../../assets/images/twwt-gray.png"
-                    alt=""
-                    class="v"
-                /></a>
-              </li>
-              <li class="">
-                <a href=""
-                  ><img
-                    src="../../../assets/images/letter.png"
-                    alt=""
-                    class="h-5 w-5"
-                /></a>
-              </li>
-            </ul>
+          <div class="share content-end flex justify-end lg:items-center md:flex-wrap xl:flex-nowrap">
+
+            <ShareNetwork
+                network="LinkedIn"
+                :url="currentUrl"
+                :title="post.title"
+                :description="post.extracto"
+                :media="post.img"
+                class="mr-3"
+              >
+                <img src="../../../assets/images/linkedin-gray.png" alt=""
+                      class="h-7 w-7">
+            </ShareNetwork>
+            <ShareNetwork
+                network="facebook"
+                :url="currentUrl"
+                :title="post.title"
+                :description="post.extracto"
+                :media="post.img"
+                class="mr-3"
+              >
+                <img src="../../../assets/images/fbb-gray.png" alt="" class="h-7 w-7">
+            </ShareNetwork>
+            <ShareNetwork
+                network="Twitter"
+                :url="currentUrl"
+                :title="post.title"
+                :description="post.extracto"
+                :media="post.img"
+                class="mr-3"
+              >
+                <img src="../../../assets/images/twwt-gray.png" alt="" class="h-7 w-7">
+            </ShareNetwork>
+            <ShareNetwork
+                network="Email"
+                :url="currentUrl"
+                :title="post.title"
+                :description="post.extracto"
+                :media="post.img"
+                class="mr-3"
+              >
+                <img src="../../../assets/images/letter.png" alt="" class="h-6 w-9">
+            </ShareNetwork>
+            <ShareNetwork
+                network="WhatsApp"
+                :url="currentUrl"
+                :title="post.title"
+                :description="post.extracto"
+                :media="post.img"
+              >
+                <img src="../../../assets/images/whatsapp.svg" alt="" class="h-8 w-8">
+            </ShareNetwork>
+
           </div>
         </div>
       </div>
@@ -76,7 +91,8 @@ export default {
   },
   data(){
     return {
-      source:''
+      source:'',
+      currentUrl:'https://radiant-semifreddo-901f94.netlify.app/anticorrupcion/columnas/'+this.$route.params.slug
     };
   },
   async asyncData({ $content, params, error }) {
@@ -98,6 +114,7 @@ export default {
       columnas,
     };
   },
+
 };
 </script>
 
