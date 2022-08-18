@@ -15,7 +15,8 @@
     "lite-youtube-embed": "^0.2.0",
     "nuxt": "^2.15.7",
     "vue-pdf": "^4.3.0",
-    "vue-pdf-embed": "^1.1.4"
+    "vue-pdf-embed": "^1.1.4",
+    "vue-social-sharing": "^3.0.9"
   },
   "devDependencies": {
     "@nuxtjs/google-fonts": "^3.0.0-0",
