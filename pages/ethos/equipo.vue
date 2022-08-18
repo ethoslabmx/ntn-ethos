@@ -7,10 +7,64 @@
 
           <div class="w-full lg:w-1/2">
             <ul class="list puestos">
-              <li @click="selectEmployee(puesto)">
-                <div>{{ puesto }}</div>
-                <ul>
-                  <li v-for="e in dg" :key="e">{{e.nombre}}</li>
+              <li >
+                <div @click="p1 = !p1">DIRECCIÓN GENERAL</div>
+                <ul class="nombres" v-if="p1">
+                  <li v-for="e in dg" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
+                </ul>
+              </li>
+              <li >
+                <div @click="p2 = !p2">DIRECCIÓN DE DESARROLLO INSTITUCIONAL</div>
+                <ul class="nombres" v-if="p2">
+                  <li v-for="e in di" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
+                </ul>
+              </li>
+              <li >
+                <div @click="p3 = !p3">FINANZAS PÚBLICAS Y ANTICORRUPCIÓN</div>
+                <ul class="nombres" v-if="p3">
+                  <li v-for="e in fp" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
+                </ul>
+              </li>
+              <li >
+                <div @click="p4 = !p4">INCLUSIÓN Y DESARROLLO SOSTENIBLE</div>
+                <ul class="nombres" v-if="p4">
+                  <li v-for="e in id" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
+                </ul>
+              </li>
+              <li >
+                <div @click="p5 = !p5">CIUDADES DEL FUTURO</div>
+                <ul class="nombres" v-if="p5">
+                  <li v-for="e in cf" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
+                </ul>
+              </li>
+              <li >
+                <div @click="p6 = !p6">COMUNICACIÓN Y PRENSA</div>
+                <ul class="nombres" v-if="p6">
+                  <li v-for="e in cp" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
+                </ul>
+              </li>
+              <li >
+                <div @click="p7 = !p7">ADMINISTRACIÓN Y RECURSOS HUMANOS</div>
+                <ul class="nombres" v-if="p7">
+                  <li v-for="e in ar" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
+                </ul>
+              </li>
+              <li >
+                <div @click="p8 = !p8">PROGRAMA DE INTERNSHIP</div>
+                <ul class="nombres" v-if="p8">
+                  <li v-for="e in pi" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
+                </ul>
+              </li>
+              <li >
+                <div @click="p9 = !p9">ASAMBLEA DE ASOCIADOS</div>
+                <ul class="nombres" v-if="p9">
+                  <li v-for="e in aa" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
+                </ul>
+              </li>
+              <li >
+                <div @click="p10 = !p10">CONSEJO DIRECTIVO</div>
+                <ul class="nombres" v-if="p10">
+                  <li v-for="e in cd" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
                 </ul>
               </li>
             </ul>
@@ -48,14 +102,22 @@ export default {
   async asyncData({ $content }) {
     const personal = await $content("personal").fetch();
     const dg = await $content("personal").where({area:'dirección general'}).only('nombre').fetch();
-
+    const di = await $content("personal").where({area:'dirección de desarrollo institucional'}).only('nombre').fetch();
+    const fp = await $content("personal").where({area:'finanzas públicas y anticorrupción'}).only('nombre').fetch();
+    const id = await $content("personal").where({area:'inclusión y desarrollo sostenible'}).only('nombre').fetch();
+    const cf = await $content("personal").where({area:'ciudades del futuro'}).only('nombre').fetch();
+    const cp = await $content("personal").where({area:'comunicación y prensa'}).only('nombre').fetch();
+    const ar = await $content("personal").where({area:'administración y recursos humanos'}).only('nombre').fetch();
+    const pi = await $content("personal").where({area:'programa de internship'}).only('nombre').fetch();
+    const aa = await $content("personal").where({area:'asamblea de asociados'}).only('nombre').fetch();
+    const cd = await $content("personal").where({area:'consejo directivo'}).only('nombre').fetch();
     return {
       personal,
-      dg
+      dg,di,fp,id,cf,cp,ar,pi,aa,cd
     };
   },
   mounted(){
-    this.selectEmployee('dirección general');
+    this.selectEmployee(this.dg[0].nombre);
   },
 
 
@@ -70,7 +132,16 @@ export default {
         twitter:"",
         img:""
       },
-
+      p1:false,
+      p2:false,
+      p3:false,
+      p4:false,
+      p5:false,
+      p6:false,
+      p7:false,
+      p8:false,
+      p9:false,
+      p10:false,
       puestos: ["DIRECCIÓN GENERAL", "DIRECCIÓN DE DESARROLLO INSTITUCIONAL", "FINANZAS PÚBLICAS Y ANTICORRUPCIÓN", "INCLUSIÓN Y DESARROLLO SOSTENIBLE", "CIUDADES DEL FUTURO", "COMUNICACIÓN Y PRENSA", "ADMINISTRACIÓN Y RECURSOS HUMANOS", "PROGRAMA DE INTERNSHIP", "ASAMBLEA DE ASOCIADOS", "CONSEJO DIRECTIVO"],         // all of the tabs
       personal: [
         { nombre: "Liliana Alvarado", puesto: "DIRECTORA GENERAL", semblanza: "Maestra en Políticas Públicas y Administración (LSE) y licenciada en Relaciones Internacionales por el ITAM. Colaboró en la SHCP, donde adquirió una amplia experiencia en materia fiscal. Asimismo, trabajó en FUNDAR en el área de presupuestos públicos, en transparencia presupuestaria y rendición de cuentas. Durante los últimos años ha recibido diversas capacitaciones en la Universidad de Harvard en temas tributarios, en la International Anti-Corruption Academy de Austria en anticorrupción, en economía del comportamiento en el CIDE, entre otras. En Ethos tiene una larga trayectoria y actualmente se desempeña como Directora General, en donde ha coordinado diversos proyectos en materia de transparencia y rendición de cuentas, anticorrupción, gasto y política fiscal. Adicionalmente, es comentarista para Grupo Fórmula en el noticiero de Eduardo Ruiz Healy y columnista invitada en el periódico El Economista.", email: "liliana.alvarado@ethos.org.mx", twitter: "" },
@@ -88,11 +159,14 @@ export default {
   },
 
   methods: {
-    selectEmployee(area) {
+    showPersonal(){
+
+    },
+    selectEmployee(nombre) {
       this.personal.filter(function(item) {
 
-        if (item.area.toLowerCase() == area.toLowerCase()) {
-          console.log(item.img);
+        if (item.nombre.toLowerCase() == nombre.toLowerCase()) {
+          //console.log(item.img);
           this.$set(this.seleccionado,'nombre',item.nombre);
           this.$set(this.seleccionado,'puesto',item.puesto);
           this.$set(this.seleccionado,'semblanza',item.semblanza);
@@ -127,10 +201,29 @@ export default {
   background-color: #fff;
 }
 
+.nombres{
+  color:#4294AE;
+  font-family: 'Saira', sans-serif;
+  font-weight: 700;
+  text-align: right;
+
+    li{
+      font-size: 1rem !important;
+      margin:5px 0!important;
+    }
+}
+
+.list{
+  margin-top: 2rem;
+  margin-right: 2rem;
+}
+
 .list li {
   font-size: 20px;
   margin-bottom: 1rem;
   cursor: pointer;
+  text-align: right;
+
 
   @media(min-width: 768px) {
     font-size: 22px;

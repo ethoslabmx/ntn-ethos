@@ -29,7 +29,7 @@
             </div>
 
             <div class="content content-center mb-10">
-              <p>{{ evento.body.children[1].children[0].value }}</p>
+              <p>{{ }}</p>
             </div>
 
 
