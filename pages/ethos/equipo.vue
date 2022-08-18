@@ -7,62 +7,62 @@
 
           <div class="w-full lg:w-1/2">
             <ul class="list puestos">
-              <li @click="p1 = !p1">
-                <div>DIRECCIÓN GENERAL</div>
+              <li >
+                <div @click="p1 = !p1">DIRECCIÓN GENERAL</div>
                 <ul class="nombres" v-if="p1">
                   <li v-for="e in dg" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
                 </ul>
               </li>
-              <li @click="p2 = !p2">
-                <div>DIRECCIÓN DE DESARROLLO INSTITUCIONAL</div>
+              <li >
+                <div @click="p2 = !p2">DIRECCIÓN DE DESARROLLO INSTITUCIONAL</div>
                 <ul class="nombres" v-if="p2">
                   <li v-for="e in di" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
                 </ul>
               </li>
-              <li @click="p3 = !p3">
-                <div>FINANZAS PÚBLICAS Y ANTICORRUPCIÓN</div>
+              <li >
+                <div @click="p3 = !p3">FINANZAS PÚBLICAS Y ANTICORRUPCIÓN</div>
                 <ul class="nombres" v-if="p3">
                   <li v-for="e in fp" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
                 </ul>
               </li>
-              <li @click="p4 = !p4">
-                <div>INCLUSIÓN Y DESARROLLO SOSTENIBLE</div>
+              <li >
+                <div @click="p4 = !p4">INCLUSIÓN Y DESARROLLO SOSTENIBLE</div>
                 <ul class="nombres" v-if="p4">
                   <li v-for="e in id" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
                 </ul>
               </li>
-              <li @click="p5 = !p5">
-                <div>CIUDADES DEL FUTURO</div>
+              <li >
+                <div @click="p5 = !p5">CIUDADES DEL FUTURO</div>
                 <ul class="nombres" v-if="p5">
                   <li v-for="e in cf" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
                 </ul>
               </li>
-              <li @click="p6 = !p6">
-                <div>COMUNICACIÓN Y PRENSA</div>
+              <li >
+                <div @click="p6 = !p6">COMUNICACIÓN Y PRENSA</div>
                 <ul class="nombres" v-if="p6">
                   <li v-for="e in cp" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
                 </ul>
               </li>
-              <li @click="p7 = !p7">
-                <div>ADMINISTRACIÓN Y RECURSOS HUMANOS</div>
+              <li >
+                <div @click="p7 = !p7">ADMINISTRACIÓN Y RECURSOS HUMANOS</div>
                 <ul class="nombres" v-if="p7">
                   <li v-for="e in ar" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
                 </ul>
               </li>
-              <li @click="p8 = !p8">
-                <div>PROGRAMA DE INTERNSHIP</div>
+              <li >
+                <div @click="p8 = !p8">PROGRAMA DE INTERNSHIP</div>
                 <ul class="nombres" v-if="p8">
                   <li v-for="e in pi" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
                 </ul>
               </li>
-              <li @click="p9 = !p9">
-                <div>ASAMBLEA DE ASOCIADOS</div>
+              <li >
+                <div @click="p9 = !p9">ASAMBLEA DE ASOCIADOS</div>
                 <ul class="nombres" v-if="p9">
                   <li v-for="e in aa" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
                 </ul>
               </li>
-              <li @click="p10 = !p10">
-                <div>CONSEJO DIRECTIVO</div>
+              <li >
+                <div @click="p10 = !p10">CONSEJO DIRECTIVO</div>
                 <ul class="nombres" v-if="p10">
                   <li v-for="e in cd" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
                 </ul>
@@ -107,7 +107,7 @@ export default {
     const id = await $content("personal").where({area:'inclusión y desarrollo sostenible'}).only('nombre').fetch();
     const cf = await $content("personal").where({area:'ciudades del futuro'}).only('nombre').fetch();
     const cp = await $content("personal").where({area:'comunicación y prensa'}).only('nombre').fetch();
-    const ar = await $content("personal").where({area:'administración y recursos humanosn'}).only('nombre').fetch();
+    const ar = await $content("personal").where({area:'administración y recursos humanos'}).only('nombre').fetch();
     const pi = await $content("personal").where({area:'programa de internship'}).only('nombre').fetch();
     const aa = await $content("personal").where({area:'asamblea de asociados'}).only('nombre').fetch();
     const cd = await $content("personal").where({area:'consejo directivo'}).only('nombre').fetch();
@@ -209,6 +209,7 @@ export default {
 
     li{
       font-size: 1rem !important;
+      margin:5px 0!important;
     }
 }
 

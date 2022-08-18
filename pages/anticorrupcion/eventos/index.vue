@@ -50,7 +50,7 @@ export default {
   components: { JumbotronEje },
 
   async asyncData({ $content }) {
-    const eventos = await $content("eventos").where({category:"anticorrupcion"}).limit(6).fetch();
+    const eventos = await $content("eventos").where({category:"anticorrupcion"}).limit(8).fetch();
 
     return {
       eventos,
