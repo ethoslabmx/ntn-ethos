@@ -5,7 +5,7 @@
         <section
           class="com__section com__section--text com__hero com__bg bg-gradient-to-b from-primary to-primarylight">
           <div class="container flex flex-col justify-start items-end px-0">
-            <div class="md:w-1/3 heading">
+            <div class="xl:w-1/3 lg:w-1/2 md:w-2/3 w-3/4 heading">
               <h1 class="big-title">HISTORIAS DE ÉXITO</h1>
               <p class="">
                 Nuestros casos de éxito con origen en la investigación que se enfoncan en casos específicos.
@@ -138,9 +138,13 @@ export default {
   height: calc(100vh - 85px);
 
   lite-youtube {
-    width: 50vw;
-    height: 50vh;
+    width: 70vw;
     margin: 0;
+
+    @media (min-width: 700px) {
+      width: 50vw;
+
+    }
 
   }
 
@@ -163,10 +167,17 @@ export default {
       position: absolute;
       height: 100%;
       width: 100%;
-      background-size: 90%;
+      background-size: 100%;
       background-repeat: no-repeat;
-      background-position: top right;
+      background-position:  center 0%;
+      mix-blend-mode: soft-light;
       z-index: -1;
+        @media (min-width: 1100px) {
+          background-size: 90%;
+          background-position: top right;
+          mix-blend-mode:normal;
+
+    }
     }
   }
 
@@ -204,16 +215,23 @@ export default {
 
       h1 {
         margin-bottom: 3vh;
-        font-size: 48px;
+        font-size: 28px;
         font-weight: 300;
+        color: rgba(white, 1);
+        @media(min-width: 1100px){
+        font-size: 48px;
         color: rgba(white, 0.9);
+        }
       }
 
       p {
         margin: 0;
-        color: rgba(white, 0.9);
+        color: rgba(white, 1);
         max-width: 600px;
         font-size: 20px;
+        @media(min-width: 1100px){
+        color: rgba(white, 0.9);
+        }
       }
 
       img {
@@ -240,9 +258,30 @@ export default {
       justify-content: flex-start;
 
       .heading {
-        margin-top: 18vh;
-        margin-right: 30vh;
+
+        margin-top:22vh;
+        margin-right: auto;
+        margin-right: left;
         text-align: right;
+        padding: 1rem;
+        @media (max-height: 480px) {
+          margin-top:10vh;
+
+         }
+        @media (min-width: 370px) {
+        margin-right: auto;
+        margin-left: 0;
+
+        }
+        @media (min-width: 700px) {
+
+        margin-top:18vh;
+
+        }
+        @media (min-width: 1020px) {
+        margin-right: 30vh;
+
+        }
 
         .animate {
           transform: translate3d(0%, 0, 0);
@@ -279,7 +318,7 @@ export default {
   }
 
   &__nav-item {
-    width: 10vw;
+    width: 12vw;
     cursor: pointer;
     position: relative;
     overflow: visible;
@@ -299,7 +338,7 @@ export default {
       content: "";
       position: absolute;
       background-image: url(../../assets/images/arosblancos.png);
-      background-size: 80px;
+      background-size: 30px;
       background-repeat: no-repeat;
       background-position: center;
       height: 100%;
@@ -308,6 +347,11 @@ export default {
       bottom:0;
       margin: auto;
       z-index: 1;
+
+      @media (min-width: 768px) {
+        background-size: 80px;
+
+      }
     }
 
     &:last-child {
@@ -328,6 +372,10 @@ export default {
       }
 
     }
+     @media (min-width: 768px) {
+        width:10vw;
+
+      }
   }
 
   &__nav-link {
@@ -337,7 +385,7 @@ export default {
     align-items: flex-end;
     padding: 7%;
     position: relative;
-    width: 20vw;
+    width: 70vw;
     text-align: right;
     height: 100%;
     // left: calc(-280% + 90px);
@@ -355,13 +403,16 @@ export default {
       align-items: center;
     }
 
-    // .com__section-half {
-    // 	height: auto;
+      @media (min-width: 700px) {
+            width: 50vw;
 
-    // 	&:nth-child(2) {
-    // 		align-items: center;
-    // 	}
-    // }
+
+      }
+      @media (min-width: 1200px) {
+            width: 20vw;
+
+
+      }
   }
 }
 

@@ -4,7 +4,7 @@
      <div class="bg-white border-b-16 border-primary">
       <div class="container py-20">
         <div class="vacantes mb-6">
-          <h2 class="lg:text-2xl text-lg title mb-6 tracking-wide">{{post.puesto}}</h2>
+          <h2 class="lg:text-2xl text-lg title mb-10 2xl:mb-20 tracking-wide">{{post.puesto}}</h2>
           <nuxt-content :document="post" />
         </div>
 

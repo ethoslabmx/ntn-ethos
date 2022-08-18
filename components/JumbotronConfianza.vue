@@ -11,24 +11,4 @@
 
 </div>
 </template>
-<style lang="scss">
 
-.jumbotron-confianza {
-  min-height: calc(40vh - 100px);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-  z-index: 0;
-
-
-
-  @media (min-width:993px) {
-    min-height: calc(80vh - 100px);
-
-
-
-  }
-}
-</style>

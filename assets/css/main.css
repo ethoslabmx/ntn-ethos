@@ -429,13 +429,13 @@ ul.navbar li ul li {
 .nuxt-content  p{
   margin: 10px 0;
   max-width: 700px;
-  font-family: Roboto, Helvetica, Arial, sans-serif;
+  font-family: Lato, Helvetica, Arial, sans-serif;
 }
 
 .nuxt-content ul{
   margin: 10px 0;
   max-width: 700px;
-  font-family: Roboto, Helvetica, Arial, sans-serif;
+  font-family: Lato, Helvetica, Arial, sans-serif;
   color: var(--main-font-color);
 }
 
@@ -443,6 +443,10 @@ ul.navbar li ul li {
   margin-left: 10px;
   list-style: disc!important;
 }
+
+
+.nuxt-content h1,.nuxt-content h2,.nuxt-content h3,.nuxt-content h4,
+.nuxt-content h5,.nuxt-content h6{font-family: Roboto, Helvetica, Arial, sans-serif; color: var(--main-title-color);}
 
 .nuxt-content h4, .nuxt-content h3{
   font-size: 1.2rem;
@@ -454,4 +458,8 @@ ul.navbar li ul li {
   font-size: 1.4rem;
   margin: 15px 0;
   max-width: 700px;
+
 }
+
+.vacantes .nuxt-content h1,.nuxt-content h2,.nuxt-content h3,.nuxt-content h4,
+.nuxt-content h5,.nuxt-content h6{ margin-top: 3rem;}
