@@ -157,6 +157,19 @@ p {
   color: var(--main-font-color);
 }
 
+a.bg-gray-dark{
+  text-align: center;
+  font-family: 'Saira Condensed', 'sans-serif';
+  font-weight: 600;
+  font-size: 1.2rem;
+  width: fit-content;
+}
+
+button.bg-gray-dark{
+  text-align: center;
+  font-family: 'Saira Condensed', 'sans-serif';
+  font-weight: 600;
+}
 
 
 .relacionadas li,

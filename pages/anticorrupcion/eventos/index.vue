@@ -25,7 +25,7 @@
             </div>
 
             <div class="content content-center mb-10">
-              <p>{{ evento.body.children[1].children[0].value }}</p>
+              <p>{{ evento.extracto }}</p>
             </div>
 
 
@@ -50,7 +50,7 @@ export default {
   components: { JumbotronEje },
 
   async asyncData({ $content }) {
-    const eventos = await $content("eventos").where({category:"anticorrupcion"}).fetch();
+    const eventos = await $content("eventos").where({category:"anticorrupcion"}).limit(6).fetch();
 
     return {
       eventos,
