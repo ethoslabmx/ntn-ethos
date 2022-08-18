@@ -97,7 +97,9 @@
     </div>
     <div class="more py-10 text-right">
       <div class="container">
+        <!--
         <button class="ml-auto more-btn">VER MÁS <span class="icon"></span></button>
+        -->
       </div>
     </div>
     <div class="twitter bg-white md:py-20 py-10">
