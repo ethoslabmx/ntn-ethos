@@ -4,6 +4,7 @@
     <div class="bg-white border-b-16 border-primary">
       <div class="container py-20">
 
+        <!--
         <div class="content flex items-start  flex-wrap">
 
           <div class="detalles 2xl:w-3/4 xl:w-2/3 w-full">
@@ -108,7 +109,7 @@
             <div class="bg-gray-dark h-px w-full my-20 2xl:w-3/4 xl:w-2/3 w-full"></div>
 
         </div>
-
+        -->
 
 
 
