@@ -251,25 +251,28 @@ li.post:nth-child(odd) {
   background-color: var(--bg-white-dark);
 }
 
-.eje {
+.eje ,.tag-container{
   position: relative;
 }
-
+.tag-container{width: 100%;}
 .eje .tag {
   position: absolute;
   height: 30px;
   line-height: 30px;
   padding: 0 2rem;
-  top: 35%;
-  right: 0;
+  bottom: 0%;;
+  right: calc(-1rem - 20px);
   margin: auto;
   border-top-left-radius: 0.5rem;
   border-bottom-left-radius: 0.5rem;
+  font-size: .75rem;
+  white-space: nowrap;
 }
 
 @media (min-width: 768px) {
   .eje .tag {
-    top: 65%;
+    bottom: 10%;
+    font-size: 1rem;
   }
 
   .subtitle{

@@ -34,7 +34,7 @@
             |  <span class="ml-3">ETHOS 2022</span>
           </div>
           <div
-            class="text-center mx-auto lg:text-right lg:mx-0 lg:ml-auto lg:w-1/3 mb-3"
+            class="text-center mx-auto lg:text-right lg:mx-0 lg:ml-auto lg:w-1/3 mb-3 mt-6 4xl:mt-0"
           >
             <ul class="flex ai-center lg:justify-end">
               <li class="mr-6">
