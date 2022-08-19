@@ -34,11 +34,11 @@
 
         </div>
       </li>
-      <!-- <li v-for="col of columnas" :key="col.slug">
-          <NuxtLink :to="'noticias/'+col.slug">{{ col.title }}</NuxtLink>
-          <img :src="col.img" alt="">
-          <p>{{col.body.children[1].children[0].value}}</p>
-        </li> -->
+      <li class="post last">
+          <div class="container px-5 xl:px-28 py-10">
+            <button class="ml-auto more-btn bold" @click="loadPosts">VER MÁS <span class="icon"></span></button>
+          </div>
+        </li>
     </div>
   </div>
 </template>
@@ -50,7 +50,7 @@ export default {
   components: { JumbotronEje },
 
   async asyncData({ $content }) {
-    const columnas = await $content("noticias").where({category:"think-tanks"}).fetch();
+    const columnas = await $content("noticias").where({category:"think-tanks"}).limit(8).fetch();
 
     return {
       columnas,
@@ -58,6 +58,15 @@ export default {
   },
   mounted(){
     console.log(this.columnas);
+  },
+  methods:{
+    loadPosts(){
+      this.getNext();
+    },
+    async getNext(){
+      const newEvents = await this.$content("noticias").where({category:"think-tanks"}).skip(this.columnas.length).limit(8).fetch();
+      this.columnas = this.columnas.concat(newEvents);
+    }
   }
 }
 </script>

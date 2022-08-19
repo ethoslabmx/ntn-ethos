@@ -25,7 +25,7 @@
         </li>
         <li class="post last">
           <div class="container px-5 xl:px-28 py-10">
-            <button class="ml-auto more-btn bold">VER MÁS <span class="icon"></span></button>
+            <button class="ml-auto more-btn bold" @click="loadPosts">VER MÁS <span class="icon"></span></button>
           </div>
         </li>
     </ul>
@@ -45,11 +45,20 @@ export default {
   components: { JumbotronEje },
 
   async asyncData({ $content }) {
-    const eventos = await $content("reportajes").where({category:"ciudades-del-futuro"}).fetch();
+    const eventos = await $content("reportajes").where({category:"ciudades-del-futuro"}).limit(8).fetch();
 
     return {
       eventos,
     };
   },
+  methods:{
+    loadPosts(){
+      this.getNext();
+    },
+    async getNext(){
+      const newEvents = await this.$content("reportajes").where({category:"ciudades-del-futuro"}).skip(this.eventos.length).limit(8).fetch();
+      this.eventos = this.eventos.concat(newEvents);
+    }
+  }
 }
 </script>

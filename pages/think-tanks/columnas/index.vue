@@ -36,7 +36,7 @@ export default {
     components: { JumbotronEje },
 
   async asyncData({ $content }) {
-    const columnas = await $content("columnas").where({category:"think-tanks"}).fetch();
+    const columnas = await $content("columnas").where({category:"think-tanks"}).limit(8).fetch();
 
     return {
       columnas,
