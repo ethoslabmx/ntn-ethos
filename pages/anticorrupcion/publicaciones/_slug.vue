@@ -20,6 +20,11 @@
         </div>
         <div class="w-full lg:w-3/4 p-5">
           <nuxt-content :document="post" />
+          <div class="galeria" v-if="post.galeria">
+            <div class="galeria-item" v-for="(image, index) in post.galeria" :key="index">
+              <img :src="image" alt="">
+            </div>
+          </div>
           <button class="block ml-auto bg-gray-dark font py-2 px-7 rounded-md my-3 text-white">Descargar</button>
 
           <div class="share content-end flex justify-end lg:items-center md:flex-wrap xl:flex-nowrap">
