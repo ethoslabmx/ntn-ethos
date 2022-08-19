@@ -31,6 +31,7 @@ collections:
       - { label: 'Categoria', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion"]}
       - { label: 'Contenido', name: 'body', widget: 'markdown' }
       - { label: 'Archivo Adjunto', name: 'file', widget: 'file', required: false }
+      - { label: 'Galería', label_singular: 'imagen', name: 'imgGallery', widget: 'list', summary: '{{fields.image}}', field: {label: Imagen, name: image, widget: image}, required: false }
   - name: 'reportajes'
     label: 'Reportajes Periodísticos'
     folder: 'content/reportajes'
@@ -48,6 +49,7 @@ collections:
       - { label: 'Categoria', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion"]}
       - { label: 'Contenido', name: 'body', widget: 'markdown' }
       - { label: 'Archivo Adjunto', name: 'file', widget: 'file', required: false }
+      - { label: 'Galería', label_singular: 'imagen', name: 'imgGallery', widget: 'list', summary: '{{fields.image}}', field: {label: Imagen, name: image, widget: image}, required: false }
   - name: 'columnas'
     label: 'Columnas de Opinión'
     folder: 'content/columnas'
@@ -67,6 +69,7 @@ collections:
       - { label: 'Categoria', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion","think-tanks"]}
       - { label: 'Extracto', name: 'extracto', widget: 'string', required: false }
       - { label: 'Contenido', name: 'body', widget: 'markdown' }
+      - { label: 'Galería', name: 'imgGallery', widget: 'list', summary: '{{fields.image}}', field: {label: Imagen, name: image, widget: image}, required: false }
   - name: 'noticias'
     label: 'Noticias'
     folder: 'content/noticias'
@@ -84,6 +87,7 @@ collections:
       - { label: 'Enlace artículo', name: 'link', widget: 'string', required: false }
       - { label: 'Categoria', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion","think-tanks"]}
       - { label: 'Contenido', name: 'body', widget: 'markdown' }
+      - { label: 'Galería', label_singular: 'imagen', name: 'imgGallery', widget: 'list', summary: '{{fields.image}}', field: {label: Imagen, name: image, widget: image}, required: false }
   - name: 'eventos'
     label: 'Eventos'
     folder: 'content/eventos'
@@ -102,6 +106,7 @@ collections:
       - { label: 'Categoria', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion","think-tanks"]}
       - { label: 'Extracto', name: 'extracto', widget: 'string', required: false }
       - { label: 'Contenido', name: 'body', widget: 'markdown' }
+      - { label: 'Galería', label_singular: 'imagen', name: 'imgGallery', widget: 'list', summary: '{{fields.image}}', field: {label: Imagen, name: image, widget: image}, required: false }
   - name: 'videos'
     label: 'Videos'
     folder: 'content/videos'
