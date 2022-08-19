@@ -18,9 +18,9 @@
             <ShareNetwork
                 network="LinkedIn"
                 :url="currentUrl"
-                :title="post.title"
-                :description="post.extracto"
-                :media="post.img"
+                :title="vid.title"
+                :description="vid.extracto"
+                :media="vid.img"
                 class="mr-3"
               >
                 <img src="../../../assets/images/linkedin-gray.png" alt=""
@@ -29,9 +29,9 @@
             <ShareNetwork
                 network="facebook"
                 :url="currentUrl"
-                :title="post.title"
-                :description="post.extracto"
-                :media="post.img"
+                :title="vid.title"
+                :description="vid.extracto"
+                :media="vid.img"
                 class="mr-3"
               >
                 <img src="../../../assets/images/fbb-gray.png" alt="" class="h-7 w-7">
@@ -39,9 +39,9 @@
             <ShareNetwork
                 network="Twitter"
                 :url="currentUrl"
-                :title="post.title"
-                :description="post.extracto"
-                :media="post.img"
+                :title="vid.title"
+                :description="vid.extracto"
+                :media="vid.img"
                 class="mr-3"
               >
                 <img src="../../../assets/images/twwt-gray.png" alt="" class="h-7 w-7">
@@ -49,9 +49,9 @@
             <ShareNetwork
                 network="Email"
                 :url="currentUrl"
-                :title="post.title"
-                :description="post.extracto"
-                :media="post.img"
+                :title="vid.title"
+                :description="vid.extracto"
+                :media="vid.img"
                 class="mr-3"
               >
                 <img src="../../../assets/images/letter.png" alt="" class="h-6 w-9">
@@ -59,9 +59,9 @@
             <ShareNetwork
                 network="WhatsApp"
                 :url="currentUrl"
-                :title="post.title"
-                :description="post.extracto"
-                :media="post.img"
+                :title="vid.title"
+                :description="vid.extracto"
+                :media="vid.img"
               >
                 <img src="../../../assets/images/whatsapp.svg" alt="" class="h-8 w-8">
             </ShareNetwork>
@@ -92,7 +92,7 @@ export default {
   },
   data() {
     return {
-      currentUrl:'https://radiant-semifreddo-901f94.netlify.app/anticorrupcion/columnas/'+this.$route.params.slug
+      currentUrl:'https://radiant-semifreddo-901f94.netlify.app/anticorrupcion/videos/'+this.$route.params.slug
     }
   },
 };

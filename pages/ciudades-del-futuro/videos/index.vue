@@ -24,7 +24,9 @@
             <div class="header content-start">
 
 
-              <h2 class="title xl:text-xl text-sm mb-6 block"><a :href="evento.video">{{ evento.title }}</a></h2>
+              <h2 class="title xl:text-xl text-sm mb-6 block">
+                 <NuxtLink :to="'videos/'+evento.slug">  {{ evento.title }}</NuxtLink>
+              </h2>
 
             </div>
 
