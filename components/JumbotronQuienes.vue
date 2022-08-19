@@ -18,7 +18,7 @@
 
 .jumbotron-quienes_down {
     height: 33vw;
-    z-index: 1;
+    z-index: 0;
     position: relative;
     .aros{
       top: -2rem;
