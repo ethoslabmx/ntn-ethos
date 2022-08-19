@@ -33,11 +33,11 @@
 
         </div>
       </li>
-      <!-- <li v-for="evento of eventos" :key="evento.slug">
-          <NuxtLink :to="'eventos/'+evento.slug">{{ evento.title }}</NuxtLink>
-          <img :src="evento.img" alt="">
-          <p>{{evento.body.children[1].children[0].value}}</p>
-        </li> -->
+      <li class="post last">
+          <div class="container px-5 xl:px-28 py-10">
+            <button class="ml-auto more-btn bold" @click="loadPosts">VER MÁS <span class="icon"></span></button>
+          </div>
+        </li>
     </div>
   </div>
 </template>
@@ -56,5 +56,14 @@ export default {
       eventos,
     };
   },
+  methods:{
+    loadPosts(){
+      this.getNext();
+    },
+    async getNext(){
+      const newEvents = await this.$content("eventos").where({category:"anticorrupcion"}).skip(this.eventos.length).limit(8).fetch();
+      this.eventos = this.eventos.concat(newEvents);
+    }
+  }
 }
 </script>

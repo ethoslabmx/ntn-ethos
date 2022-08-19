@@ -39,15 +39,11 @@
 
         </div>
       </li>
-      <!-- <li v-for="evento of eventos" :key="evento.slug">
-          <h2><a :href="evento.video">{{ evento.title }}</a></h2>
-          <p>{{evento.body.children[1].children[0].value}}</p>
-          <lite-youtube
-            :videoid="evento.video.slice(evento.video.indexOf('v=')+2)"
-            :playlabel="evento.title"
-            params="controls=0&start=0&modestbranding=2&rel=0&enablejsapi=1"
-          />
-        </li> -->
+      <li class="post last">
+          <div class="container px-5 xl:px-28 py-10">
+            <button class="ml-auto more-btn bold" @click="loadPosts">VER MÁS <span class="icon"></span></button>
+          </div>
+        </li>
     </div>
   </div>
 </template>
@@ -65,5 +61,15 @@ export default {
       eventos,
     };
   },
+  methods:{
+    loadPosts(){
+      this.getNext();
+    },
+    async getNext(){
+      const newEvents = await this.$content("videos").where({category:"finanzas-publicas"}).skip(this.eventos.length).limit(6).fetch();
+      console.log(newEvents);
+      this.eventos = this.eventos.concat(newEvents);
+    }
+  }
 }
 </script>
