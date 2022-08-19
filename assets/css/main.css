@@ -143,6 +143,7 @@ ul.dropdown-child-menu {
 }
 
 .galeria-item img{
+  margin: 0 auto;
   min-width: 100px;
   max-width: 500px;
   width: 100%;
