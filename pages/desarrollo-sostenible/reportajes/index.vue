@@ -24,7 +24,7 @@
         </li>
         <li class="post last">
           <div class="container px-5 xl:px-28 py-10">
-            <button class="ml-auto more-btn bold">VER MÁS <span class="icon"></span></button>
+            <button class="ml-auto more-btn bold" @click="loadPosts">VER MÁS <span class="icon"></span></button>
           </div>
         </li>
     </ul>
@@ -50,5 +50,14 @@ export default {
       eventos,
     };
   },
+  methods:{
+    loadPosts(){
+      this.getNext();
+    },
+    async getNext(){
+      const newEvents = await this.$content("reportajes").where({category:"desarrollo-sostenible"}).skip(this.eventos.length).limit(8).fetch();
+      this.eventos = this.eventos.concat(newEvents);
+    }
+  }
 }
 </script>
