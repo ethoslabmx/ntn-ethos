@@ -298,7 +298,7 @@ export default {
   &__nav {
     width: auto;
     position: absolute;
-    z-index: 2;
+    z-index: 0;
     right: 0;
     flex: 2;
     height: 100%;

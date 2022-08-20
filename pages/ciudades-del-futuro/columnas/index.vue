@@ -30,10 +30,10 @@
 </template>
 
 <script>
-import JumbotronOpinion from '~/components/JumbotronOpinion.vue';
+import JumbotronEje from '~/components/JumbotronEje.vue';
 
 export default {
-    components: { JumbotronOpinion },
+    components: { JumbotronEje },
 
   async asyncData({ $content }) {
     const columnas = await $content("columnas").where({category:"ciudades-del-futuro"}).fetch();
