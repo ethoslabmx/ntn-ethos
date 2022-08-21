@@ -77,8 +77,19 @@
         </div>
       </div>
     </div>
-    <div class="relacionadas">
-      <h2>Artículos Relacionados</h2>
+    <div class="relacionadas bg-cyan py-20 text-white">
+      <div class="container flex items-start flex-wrap xl:flex-nowrap">
+        <div class="w-full xl:w-1/6"><h2 class="font md:text-lg text-sm mb-3 xl:mb-0">Artículos relacionadas</h2></div>
+       <div class="w-full xl:w-5/6">
+         <div class="relacionadas flex flex-wrap xl:flex-nowrap">
+          <li v-for="p of articulos" :key="p.slug" class="px-8 w-full xl:w-1/3">
+            <img :src="p.img" alt="" class="mb-3 h-auto w-full">
+            <NuxtLink :to=" p.slug" class="my-3 md:text-lg text-sm block">{{ p.title }}</NuxtLink>
+            <!--<p class="text-white mb-8 xl:mb-0">{{ col.extracto }}</p>-->
+          </li>
+        </div>
+       </div>
+      </div>
     </div>
   </div>
 </template>
@@ -91,19 +102,19 @@ export default {
   },
   data() {
     return {
-      currentUrl:'https://radiant-semifreddo-901f94.netlify.app/anticorrupcion/columnas/'+this.$route.params.slug,
+      currentUrl:'https://radiant-semifreddo-901f94.netlify.app/desarrollo-sostenible/reportajes/'+this.$route.params.slug,
       source:''
     }
   },
   async asyncData({ $content, params, error }) {
-    let post, columnas;
-    console.log(params);
+
+    let post, articulos;
+    //console.log(params);
     try {
-      columnas = await $content("columnas")
-        .where({ category: "desarrollo-sostenible" })
-        .limit(3)
-        .fetch();
+
+      articulos = await $content('reportajes').where({category:'desarrollo-sostenible'}).limit(3).fetch();
       post = await $content("reportajes", params.slug).fetch();
+
       // OR const article = await $content(`articles/${params.slug}`).fetch()
     } catch (e) {
       error({ message: "Blog Post not found" });
@@ -111,7 +122,7 @@ export default {
 
     return {
       post,
-      columnas,
+      articulos
     };
   },
 };

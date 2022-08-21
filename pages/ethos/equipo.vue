@@ -99,6 +99,7 @@ import JumbotronEquipo from '~/components/JumbotronEquipo.vue';
 
 export default {
   components: { JumbotronEquipo },
+  transition: 'slide-bottom',
   async asyncData({ $content }) {
     const personal = await $content("personal").fetch();
     const dg = await $content("personal").where({area:'dirección general'}).only('nombre').fetch();
