@@ -51,6 +51,10 @@ export default {
     // Options
   },
 
+  router: {
+    middleware: ['menu-class']
+  },
+
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
     postcss: {

@@ -275,7 +275,7 @@
         <div class="search w-6 h-6 mx-6"><img src="../assets/images/lupa.png" alt="logo ethos"
             class="object-cover w-full h-full" /></div>
 
-        <div class="menu xl:hidden">
+        <div class="menu xl:hidden" :class="[`${$store.state.menu.menuClass}`]">
           <button class="nav-tgl" type="button" aria-label="toggle menu" @click="addActive">
             <!-- this span just for the three dividers in the hamburger button--><span aria-hidden="true"></span>
           </button>
@@ -546,11 +546,8 @@ export default {
   methods: {
 
     addActive() {
-      const menu = document.querySelector('.menu');
-      const btn = menu.querySelector('.nav-tgl');
-      btn.addEventListener('click', () => {
-        menu.classList.toggle('active');
-      })
+      let mclass = this.$store.state.menu.menuClass == 'active' ? 'inavtive' : 'active';
+      this.$store.commit('menu/SetClass', mclass)
     },
 
   },
