@@ -78,8 +78,19 @@
         </div>
       </div>
     </div>
-    <div class="relacionadas">
-      <h2>Artículos Relacionados</h2>
+    <div class="relacionadas bg-cyan py-20 text-white">
+      <div class="container flex items-start flex-wrap xl:flex-nowrap">
+        <div class="w-full xl:w-1/6"><h2 class="font md:text-lg text-sm mb-3 xl:mb-0">Artículos relacionadas</h2></div>
+       <div class="w-full xl:w-5/6">
+         <div class="relacionadas flex flex-wrap xl:flex-nowrap">
+          <li v-for="p of publicaciones" :key="p.slug" class="px-8 w-full xl:w-1/3">
+            <img :src="p.img" alt="" class="mb-3 h-auto w-full">
+            <NuxtLink :to=" p.slug" class="my-3 md:text-lg text-sm block">{{ p.title }}</NuxtLink>
+            <!--<p class="text-white mb-8 xl:mb-0">{{ col.extracto }}</p>-->
+          </li>
+        </div>
+       </div>
+      </div>
     </div>
   </div>
 
@@ -92,11 +103,11 @@ export default {
 
   async asyncData({ $content, params, error }) {
 
-    let post, columnas;
+    let post, publicaciones;
     //console.log(params);
     try {
 
-
+      publicaciones = await $content('publicaciones').where({category:'ciudades-del-futuro'}).limit(3).fetch();
       post = await $content("publicaciones", params.slug).fetch();
       console.log(post);
       // OR const article = await $content(`articles/${params.slug}`).fetch()
@@ -106,11 +117,12 @@ export default {
 
     return {
       post,
+      publicaciones
     };
   },
   data() {
     return {
-      currentUrl:'https://radiant-semifreddo-901f94.netlify.app/anticorrupcion/columnas/'+this.$route.params.slug
+      currentUrl:'https://radiant-semifreddo-901f94.netlify.app/anticorrupcion/publicaciones/'+this.$route.params.slug
     }
   },
 };
