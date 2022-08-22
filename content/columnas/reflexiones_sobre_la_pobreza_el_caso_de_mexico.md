@@ -1,0 +1,34 @@
+---
+title: "Reflexiones sobre la pobreza: el caso de México"
+date: 2016-06-29T19:38:16.037Z
+img: https://ucarecdn.com/87178ce0-ec54-454c-91c4-8d769de5fcf7/
+autor: Ethos Laboratorio de Políticas Públicas
+medio: "Arena Publica "
+link: https://www.arenapublica.com/blogs/ethos-laboratorio/2016/06/29/4866
+category: inclusion
+extracto: México está experimentando cambios sociodemográficos importantes. Los
+  avances de los últimos 15 años en cuanto al acceso a la salud, esperanza de
+  vida, educación e infraestructura de la vivienda son indiscutibles. Sin
+  embargo, todavía existe un gran porcentaje de la población que carece de
+  seguridad social y/o que no cuenta con el ingreso necesario para llevar una
+  vida digna.
+---
+*Algunas consideraciones sobre los principales factores que han influido en la evolución de la pobreza en México y Brasil.*
+
+México está experimentando cambios sociodemográficos importantes. Los avances de los últimos 15 años en cuanto al acceso a la salud, esperanza de vida, educación e infraestructura de la vivienda son indiscutibles. Sin embargo, todavía existe un gran porcentaje de la población que carece de seguridad social y/o que no cuenta con el ingreso necesario para llevar una vida digna. 
+
+Hace algunos días el Programa de las Naciones Unidas para el Desarrollo (PNUD), publicó el informe “[Progreso Multidimensional: bienestar más allá del ingreso](http://www.pnud.org.br/Arquivos/HDR2016ExeSumEsp.pdf)”, los principales resultados indican que, entre 2003 y 2013, la mayor parte de los países de América Latina fueron capaces de reducir significativamente la pobreza, siendo México una de las pocas excepciones. De acuerdo con este informe, el país logró sacar de la pobreza a solo 2.9 millones de personas, mientras que, por ejemplo, Brasil consiguió que 37.5 millones de personas salieran de esta condición.
+
+Así, en 2013, en México había 34 millones de personas en pobreza por ingresos (aquellos que sobreviven con 4 dólares diarios); 30 millones en pobreza extrema (vivían con más de 1.25 y menos de 4 dólares); y 4 millones sufrían de pobreza “ultraextrema” (vivían con menos de 1.25 dólares diarios). Además, conforme a este estudio, el 43% de los mexicanos corre el riesgo de caer en la pobreza por ingresos, es decir, se encuentra en una situación de vulnerabilidad. Estos resultados invitan a cuestionar: *¿Por qué aparentemente México no avanza y otros países, como Brasil, sí lo han hecho?*
+
+Uno de los principales mecanismos para disminuir la pobreza es el crecimiento económico. México, a pesar de los esfuerzos implementados, no ha logrado crecer a un ritmo acelerado  y sostenido, lo que ha impedido mejorar el nivel de empleos de calidad y los salarios. De esta manera, el estancamiento de los ingresos ha hecho que, por un lado, la pobreza medida a través del ingreso no muestre cambios significativos y, que por otro en [tiempos de crisis, la población se encuentre en una situación de vulnerabilidad](http://www.noticiasmvs.com/#!/noticias/desarrollo-economico-prioridad-para-reducir-pobreza-hernandez-licona-388). 
+
+Asimismo, tal y como lo señala el informe del PNUD, el crecimiento económico es necesario para elevar los ingresos de las personas, pero no es suficiente para atacar a la pobreza de manera integral. Este informe destaca la necesidad de enfocarse en el bienestar de la población en sus diversas dimensiones, ya que el crecimiento económico por sí solo no basta para mejorar las condiciones de vida, además de que considerar exclusivamente esta variable no deja ver otros logros alcanzados en términos de desarrollo social. Al respecto, el PNUD encuentra que todos los países, sin excepción, han experimentado transformaciones sociales significativas en los últimos años. 
+
+Por ejemplo, en México, a pesar de que el bajo dinamismo económico ha impactado a la pobreza medida por ingreso, hemos tenido avances cuando la medimos de manera integral. Según datos del[Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL)](http://www.coneval.org.mx/), entre el año 2000 y 2015, el porcentaje de viviendas sin drenaje pasó de 26.9% a 7.9, el de viviendas sin agua entubada pasó de 15.8 a 5.4%, la población con carencia a servicios de salud disminuyó de 58.6% a 16.7%, el rezago educativo bajó de 22.5% a 18.6% entre estos años, lo que se traduce en mejores condiciones de vida
+
+En el otro extremo se encuentra Brasil. Hasta el 2013, este país experimentó un periodo de bonanza debido, principalmente a los altos precios de las materias primas. Entre el 2005 y 2010, Brasil [creció a una tasa promedio de casi 5%](http://eleconomista.com.mx/columnas/columna-especial-valores/2012/03/13/que-le-paso-crecimiento-brasil), siendo el 2010 el año más próspero (7.5%). Este crecimiento vino acompañado de aumentos en el nivel de empleo, la demanda interna y los salarios, además de un mayor gasto público en desarrollo social, lo cual fue determinante para el combate a la pobreza. Sin embargo, esta época de abundancia llegó a su fin en 2013, cuando se estancaron los precios de las materias primas. La economía brasileña entró en una fuerte recesión desde 2014, con tasas negativas de crecimiento, alta inflación y desempleo, lo cual ha impactado las condiciones de vida de millones de brasileños. Según cifras del Instituto de Investigación Económica de Brasil, la [pobreza extrema creció en 3.7% en 2015 y, se estima que en 2016, habrá 1.1 millones más de personas en pobreza extrema](https://internacional.elpais.com/internacional/2014/11/07/actualidad/1415323121_850212.html).
+
+Es cierto que hay diferencias significativas en cuanto a la evolución de la pobreza entre estos dos países, pero también lo es, que el apostarle a una economía basada en la producción y exportación de materias primas y a políticas de expansión de gasto público genera “beneficios” de corto plazo insostenibles en el tiempo. México, se ha enfocado en tratar de elevar el crecimiento económico mediante el fortalecimiento de la industria, el aumento de la competitividad y productividad, la inversión productiva, entre otros. Si bien con ello no se ha logrado alcanzar las tasas de crecimiento deseadas, si ha permitido tener estabilidad, inflación baja y altas reservas internacionales. 
+
+Además, [los analistas económicos](https://www.bbc.com/mundo/noticias/2012/09/120914_economia_brasil_vs_mexico_yv) afirman que este tipo de modelos basados en la industria producen más avances tecnológicos y mayor competitividad respecto a los modelos que dependen del sector primario. De esta manera, las expectativas de crecimiento económico para México son alentadoras, ello, en combinación con políticas que fortalezcan los  factores que impiden a las personas caer en la pobreza como educación, acceso a bienes físicos y financieros y acceso a la protección social, permitirá obtener resultados más exitosos en el combate a la pobreza.
