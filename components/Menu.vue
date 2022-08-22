@@ -272,8 +272,10 @@
         </ul>
       </div>
       <div class="flex items-center mx-6 xl:mx-0  flex-nowrap justify-end">
-        <div class="search w-6 h-6 mx-6"><img src="../assets/images/lupa.png" alt="logo ethos"
-            class="object-cover w-full h-full" /></div>
+        <div class="search w-6 h-6 mx-6">
+           <NuxtLink to="/buscador">
+          <img src="../assets/images/lupa.png" alt="logo ethos"
+            class="object-cover w-full h-full" /></NuxtLink></div>
 
         <div class="menu xl:hidden" :class="[`${$store.state.menu.menuClass}`]">
           <button class="nav-tgl" type="button" aria-label="toggle menu" @click="addActive">
