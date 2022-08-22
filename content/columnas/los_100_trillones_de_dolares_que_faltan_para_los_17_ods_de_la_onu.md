@@ -1,0 +1,38 @@
+---
+title: Los 100 trillones de dólares que faltan para los 17 ODS de la ONU
+date: 2018-05-12T19:36:13.880Z
+img: https://ucarecdn.com/f159c6c7-ea51-4fa2-80e5-3947b79c999b/
+autor: José Luis Chicoma
+medio: Ethos
+category: inclusion
+extracto: Los ODS conforman la agenda conjunta más ambiciosa de la historia.
+  Está compuesta de 17 objetivos en temas diversos, desde la pobreza y el
+  hambre, al cambio climático y la innovación, pasando por casi cualquier sector
+  que se pueda imaginar cuando se piensa en desarrollo. Presenta indicadores
+  claros de cumplimiento que se van a medir periódicamente hasta el 2030.
+---
+*El gran dilema es de dónde conseguir la cantidad que representa más de lo que produce en un año ¡todo el mundo!*
+
+**Cien trillones de dólares es lo que se [requiere](https://www.cfr.org/backgrounder/sustainable-development-goals) globalmente al 2030** para cumplir con los[ Objetivos de Desarrollo Sostenible (ODS)](http://www.undp.org/content/undp/es/home/sustainable-development-goals.html), que promueve las Naciones Unidas, junto con una extensa red de gobiernos, organismos internacionales y otros actores. Es una cifra difícil de imaginar. Tiene muchos ceros para contarlos, es más de lo que produce en un año ¡todo el mundo!
+
+Los **ODS conforman la agenda conjunta más ambiciosa** de la historia. Está compuesta de 17 objetivos en temas diversos, desde la pobreza y el hambre, al cambio climático y la innovación, pasando por casi cualquier sector que se pueda imaginar cuando se piensa en desarrollo. Presenta indicadores claros de cumplimiento que se van a medir periódicamente hasta el 2030.
+
+Sin embargo, esa meta de financiamiento pareciera imposible. **No alcanza con la tradicional combinación de fuentes** que se usó para la agenda previa, los Objetivos de Desarrollo del Milenio: recursos públicos, cooperación internacional y programas de alivio de deuda. Ahora, el requerimiento ha pasado de billones a trillones.
+
+**¿Dónde buscar más recursos?** Algunas de las principales fuentes son el sector privado, la inversión de impacto social y la filantropía. Los ODS incluyen uno dedicado justamente al desarrollo de alianzas y asociaciones, entre actores diversos, para promover que muchas partes colaboren con recursos para su cumplimiento, y que también aporten conocimientos e innovación para mejorar la eficiencia y resultados. Las condiciones básicas para facilitar estas inversiones son muy conocidas: estado de derecho, estabilidad y medidas anticorrupción.
+
+Sin embargo, **se necesita mucho más**, como facilitar **asociaciones público privadas** (APP) para grandes inversiones, más allá de los sectores tradicionales (carreteras, puertos y aeropuertos). Las APP pueden implementarse en [innovación, ciencia y tecnología, eficiencia energética](https://www.ethos.org.mx/es/ethos-publications/hacia-mexico-sostenible-app-eficiencia-energetica/), entre otros. Representan el coctel ideal para promover inversiones sostenibles: largo plazo, coinversión y distribución de riesgo. Fuerzan a políticos, burócratas e inversionistas a pensar en un horizonte largo de tiempo y en resultados. Sin embargo, tienen un problema de simpatía en América Latina: muchos las detestan. Años de malos usos, opacidad y casos de corrupción en torno a ellas han generado un rechazo que se podría revertir con su correcta implementación, más fiscalización y difusión de su impacto.
+
+Se deben seguir explorando otros instrumentos novedosos, que han acaparado la atención de los debates de cómo innovar para promover y apalancar inversiones con resultados. Los [bonos de impacto social](https://www.ethos.org.mx/es/ethos-publications/bonos-de-impacto-en-mexico-oportunidades-y-retos/), esa herramienta para que los gobiernos paguen por inversiones privadas con resultados, [todavía tienen mucho que probar de su potencial](https://ssir.org/articles/entry/a_critical_reflection_on_social_impact_bonds). Sus costos de transacción, por estudios y procesos de diseño y negociación muy largos, han sido un gran obstáculo para su implementación, particularmente en países en desarrollo. Sin embargo, todavía son un esquema conceptualmente fuerte para asociar a públicos y privados e impulsar resultados.
+
+También se debe acelerar el uso de* **[blended finance](https://s3.amazonaws.com/aws-bsdc/BFT_BetterFinance_final_01192018.pdf#asset:614:url)***, el instrumento sexy del momento, que aplica estratégicamente fondos para el desarrollo para movilizar recursos financieros privados. Ha existido una gran fragmentación durante décadas entre los recursos públicos y de cooperación internacional, con respecto a las inversiones privadas. El apalancamiento que se puede dar con una coordinación e inversión conjunta y/o secuencial de estas inversiones puede atender de eficiente las metas de desarrollo globales. El tamaño del mercado se ha duplicado en los últimos 5 años, llegando a [50 billones de dólares](https://s3.amazonaws.com/aws-bsdc/BFT_BetterFinance_final_01192018.pdf#asset:614:url) y se espera que siga acelerando su crecimiento.
+
+Por otro lado, hay una ola de esperanza con respecto a una **nueva filosofía de la inversión de impacto** y su preocupación por el desarrollo sostenible. Su mercado ha crecido y [el 60% de inversionistas ](https://thegiin.org/assets/GIIN_AnnualImpactInvestorSurvey_2017_Web_Final.pdf)de impacto afirmaron en una encuesta que toman en cuenta los ODS (o lo piensan hacer en el futuro) en el seguimiento del resultado de sus inversiones. Otros hablan de la [“mayor transferencia generacional de riqueza”](https://www.ubs.com/global/en/about_ubs/follow_ubs/highlights/mobilizing-private-wealth-for-public-good.html): más de 400 billonarios van a dar 2.1 trillones de dólares a sus herederos en los siguientes 20 años. Se asume que esta nueva generación tiene un conjunto de valores más emparejado con el desarrollo.
+
+Esta combinación de instrumentos, colaboración y nuevos inversionistas suena muy prometedora. Sin embargo, **no hay que ser ciegos frente a ciertas realidades**. Hablar de impacto social puede ser la mejor estrategia de *marketing*. 78% de esos inversionistas que afirmaron tomar en cuenta los ODS, lo hicieron para comunicar mejor. No necesariamente atrae nuevas inversiones, sino es un instrumento para mejorar su imagen.
+
+**Tampoco hay pruebas de cambios reales** en los valores de las nuevas generaciones. ¿Qué responderían si les preguntan si les interesa la sustentabilidad y el desarrollo? Es como decir que nos importa la paz mundial. Mientras no haya un cambio significativo en las decisiones (no aspiraciones) de inversión, no se puede hablar de una generación distinta.
+
+Por último, es claro que sin **el sector privado es imposible alcanzar los ODS al 2030.** Pero en muchos casos ciertos intereses privados están divorciados de la agenda de desarrollo. Piensen en una empresa de bebidas que quiere contribuir con los ODS promoviendo más ejercicio físico para una mejor salud, pero a la vez sus productos son causa de obesidad y diabetes a nivel mundial. U otra empresa que dice que quiere contribuir a eliminar el hambre, aumentando la productividad de la tierra con sus productos genéticamente modificados, pero a la vez, perjudica la pequeña agricultura, promueve el monocultivo en detrimento de la biodiversidad y genera dependencia de pesticidas que pueden ser perjudiciales para agricultores y público en general.
+
+La **agenda 2030 puede ser el real catalizador de la colaboración público privada**, para encontrar los 100 trillones de dólares y para juntos pensar en otras maneras para lograrlo. Sólo hay que estar atentos para que no la aprovechen como un caballo de troya de otros intereses.
