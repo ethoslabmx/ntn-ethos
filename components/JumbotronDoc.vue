@@ -4,7 +4,7 @@
     <div class="jumbotron-doc relative flex items-top justify-center min-h-screen  sm:items-center sm:pt-0  bg-gradient-to-b from-yellow-1 to-yellow-2">
       <div class="container flex items-center">
         <div class="hero md:mr-auto md:w-1/2 ">
-          <h1 class="lg:text-5xl text-lg big-title mb-6 text-white uppercase">DOCUMENTOS INSTITUCIONALES</h1>
+          <h1 class="3xl:text-5xl md:text-4xl text-3xl big-title mb-6 text-white uppercase">DOCUMENTOS INSTITUCIONALES</h1>
           <p class="subtitle text-white">Encuentra aquí nuestras políticas organizacionales.</p>
         </div>
       </div>
@@ -28,11 +28,8 @@
   }
 
 
-  @media (min-width:993px) {
-    min-height: calc(70vh - 100px);
-
-
-
+  @media (min-width:700px) {
+    min-height: calc(65vh - 100px);
   }
 }
 </style>

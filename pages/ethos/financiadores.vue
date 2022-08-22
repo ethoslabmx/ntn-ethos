@@ -3,7 +3,7 @@
     class="app jumbotron-confianza  border-b-16 border-primary relative flex flex-col items-top justify-center min-h-screen  sm:items-center sm:pt-0  bg-gradient-to-b from-cyan to-cyanlight">
       <div class="container pr-0 2xl:py-24 py-16">
             <div class="mr-auto hero pl-10 pb-10">
-      <h1 class="2xl:text-5xl text-2xl font text-white">¿QUIÉNES
+      <h1 class="3xl:text-7xl md:text-6xl text-3xl font text-white">¿QUIÉNES
         HAN CONFIADO
         EN NOSOTROS?
       </h1>
@@ -39,24 +39,19 @@ export default {
   z-index: 0;
   position: relative;
 
+
   h1{
     font-family: 'Saira Condensed', sans-serif;
     letter-spacing: 2px;
-    font-size: 2rem;
-    line-height: 2.5rem;
+      text-align: right;
+
+    // font-size: 2rem;
+    // line-height: 2.5rem;
     max-width: 70%;
 
     @media screen and (min-width: 700px) {
-      font-size: 3rem;
       letter-spacing: 12px;
-      line-height: 3.5rem;
-      text-align: right;
-      max-width: 500px;}
-
- @media screen and (min-width: 1200px) {
-    font-size: 4rem;
       max-width: 500px;
-      line-height: 4.5rem;
       }
   }
 

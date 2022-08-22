@@ -3,8 +3,8 @@
 <div>
     <div class="jumbotron-bolsa relative flex items-top justify-center min-h-screen bg-gray-100 sm:items-center sm:pt-0  bg-gradient-to-b from-cyan to-cyanlight">
       <div class="container flex items-center">
-        <div class="hero lg:mr-auto lg:w-1/2 ">
-          <h1 class="lg:text-5xl sm:text-3xl text-xl big-title mb-6 text-white uppercase text-right">Bolsa de trabajo</h1>
+        <div class="hero lg:mr-auto lg:w-1/2 md:2/3">
+          <h1 class="3xl:text-5xl md:text-4xl text-3xl big-title mb-6 text-white uppercase text-right">Bolsa de trabajo</h1>
           <p class="subtitle text-white mb-3">
             En Ethos estamos comprometidos con la diversidad
             en nuestro equipo de trabajo.

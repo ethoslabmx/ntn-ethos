@@ -8,7 +8,7 @@ module.exports = {
   ],
   theme: {
     screens: {
-      sm: '580px',
+      sm: '540px',
       md: '700px',
       lg: '800px',
       xl: '1040px',
@@ -35,9 +35,11 @@ module.exports = {
       lg: ['20px', '28px'],
       xl: ['24px', '32px'],
      '2xl': ['28px', '32px'],
-     '3xl': ['32px', '35px'],
+     '3xl': ['32px', '40px'],
      '4xl': ['35px', '37px'],
      '5xl': ['40px', '42px'],
+     '6xl': ['48px', '56px'],
+     '7xl': ['64px', '72px'],
 
     },
     letterSpacing: {

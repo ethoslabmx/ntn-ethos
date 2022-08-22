@@ -109,7 +109,7 @@
             <h2 class="big-title xl:text-xl text-md text-right pr-3">ETHOS EN TWITTER</h2>
             <hr>
           </div>
-          <div class="lg:ml-6 drop-shadow-xl block shadow widget-twitter mt-6 lg:mt-0 mx-auto">
+          <div class="lg:ml-6  block  widget-twitter mt-6 lg:mt-0 mx-auto">
             <a class="twitter-timeline" data-lang="es" data-width="300" data-height="450" data-theme="light" href="https://twitter.com/ethoslabmx?ref_src=twsrc%5Etfw">Tweets by ethoslabmx</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
           </div>
 
@@ -135,7 +135,18 @@ export default {
 }
 </script>
 <style lang="scss">
-.widget-twitter{width:300px}
+.widget-twitter{
+
+  width:300px;
+
+  .twitter-timeline{
+    border-radius:12px;
+    overflow: hidden;
+    box-shadow: -1px 4px 6px 1px rgba(0 ,0 ,0 , .35);
+    --tw-drop-shadow: drop-shadow(0 20px 13px rgba(0, 0, 0, 0.03)) drop-shadow(0 8px 5px rgba(0, 0, 0, 0.08));
+  }
+}
+
 
 li.eje{
   padding: 40px 20px;
