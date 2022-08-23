@@ -1,10 +1,21 @@
 ---
+autor: Ethos
 title: "Control del tabaco: Resumen ejecutivo"
 date: 2021-03-02T04:16:06.968Z
 img:
   - https://ucarecdn.com/1b7568eb-f857-42d4-95e9-dba96483833e/
-autor: Ethos
+autores:
+  - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: anticorrupcion
+extracto: "Este documento es un resumen del reporte técnico “Mecanismos de
+  transparencia y rendición de cuentas en el diseño e implementación de
+  políticas públicas para el control del tabaco: recomendaciones para una
+  perspectiva gubernamental” (disponible
+  en [https://www.ethos.org.mx](https://www.ethos.org.mx/)), el cual presenta un
+  análisis de las principales vulnerabilidades del marco jurídico mexicano para
+  la aplicación del Convenio Marco de la OMS para el Control del Tabaco (CMCT
+  OMS), las cuales permiten la interferencia indebida de la industria tabacalera
+  (IT)."
 file: https://ucarecdn.com/e8a3ff9c-7cc3-4107-97d4-154b2e44d60e/
 ---
 <!--StartFragment-->
