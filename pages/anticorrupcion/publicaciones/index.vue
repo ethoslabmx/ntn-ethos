@@ -77,7 +77,7 @@ export default {
       this.getNext();
     },
     autores(evento){
-      return evento.autores.flatMap(a=>a.autor).join(', ');
+      return evento.autores ? evento.autores.flatMap(a=>a.autor).join(', ') : '';
     },
     async getNext(){
       const newEvents = await this.$content("publicaciones").where({category:"anticorrupcion"}).sortBy('date','desc').skip(this.eventos.length).limit(8).fetch();

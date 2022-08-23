@@ -126,7 +126,7 @@ import JumbotronIndex from '~/components/JumbotronIndex.vue';
 export default {
   components: { JumbotronIndex },
   async asyncData({ $content }) {
-    const posts = await $content("columnas").limit(3).fetch();
+    const posts = await $content("columnas").sortBy('date','desc').limit(3).fetch();
 
     return {
       posts,

@@ -3,6 +3,8 @@ title: "Desde lo local: CDMX Documenta"
 date: 2020-10-01T21:42:14.906Z
 img: https://ucarecdn.com/e184ff88-ab2e-4442-b963-a110ec5414c3/
 category: anticorrupcion
+autores:
+  - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 extracto: Actualmente en México hay más de doscientas mil personas en situación
   de cárcel, lo más alarmante es que según el comisionado de Prevención y
   Readaptación Social del Gobierno Federal, José Ángel Ávila Pérez, del total de
@@ -17,7 +19,7 @@ file: https://ucarecdn.com/c93e037f-6a2c-4978-9093-6bd738171347/
 
 ![](https://ucarecdn.com/c7a1edc7-7f44-4b10-8a1e-ced7d420faf2/)
 
-[](https://www.ethos.org.mx/wp-content/uploads/2020/10/Logo-transp-gde.png)**Documenta**
+**Documenta**
 
 *“Por una sociedad más justa e incluyente y un sistema de justicia que respete los derechos humanos ”*
 
@@ -25,8 +27,7 @@ Actualmente en México hay más de doscientas mil personas en situación de cár
 
 Es por ello que hace 10 años surgió “Documenta”, como una organización civil que busca fortalecer el sistema de justicia penal y penitenciario, además de construir políticas públicas para el respeto de los derechos humanos de personas con discapacidad y privadas de la libertad, así como de sus familias. 
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2020/10/Taller-Observatorio-de-Prisiones-Nuevo-Leon.jpeg)](https://www.ethos.org.mx/wp-content/uploads/2020/10/Taller-Observatorio-de-Prisiones-Nuevo-Leon.jpeg)
-
+![](https://ucarecdn.com/a8fc0e16-be77-4c70-a390-158aff0baeb3/)
 El sistema penitenciario mexicano lejos de ser un centro de reabilitacion, se ha convertido en un mecanismo de discriminación y exclusión, y como prueba de ello es que ante una disminución presupuestal, se sacrifican primero los proyectos que atienden a esta población, esto sucedió con la cancelación de la Encuesta Nacional de Población Privada de la Libertad (ENPOL) el año pasado. 
 
 Ante esta situación, en el marco del proyecto de Integridad y Fortalecimiento de la Transparencia del Programa de las Naciones Unidas para el Desarrollo (PNUD) en México y con el apoyo de la Agencia de los Estados Unidos para el Desarrollo Internacional (USAID), Documenta, en alianza con *SocialTic,* realizó el primer “Datatón Carcelario” con el fin de crear iniciativas que a partir del uso de datos y tecnología visibilizan la situación de las prisiones, las personas privadas de la libertad y sus familias.

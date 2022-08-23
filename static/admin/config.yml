@@ -25,14 +25,13 @@ collections:
     fields:
       - { label: 'Título', name: 'title', widget: 'string' }
       - { label: 'Fecha Publicación', name: 'date', widget: 'datetime' }
-      - { label: 'Imagen Principal', name: 'img', widget: 'image', media_library: { config: { multiple: true}}, required: false }
+      - { label: 'Imagen Principal', name: 'img', widget: 'image',  required: false }
       - { label: 'Imagen Alt', name: 'img-alt', widget: 'string' , required: false }
       - label: "Autores"
         name: "autores"
         widget: "list"
         minimize_collapsed: true
         allow_add: true
-        default: ["Ethos"]
         fields:
           - { label: "Autor", name: "autor", widget: "relation", collection: "autores", search_fields: ["autor", "medio"], value_field: "autor", display_fields: ["autor", "medio"]}
       - { label: 'Categoria', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion"]}
@@ -45,7 +44,6 @@ collections:
         widget: "list"
         minimize_collapsed: true
         allow_add: true
-        default: ["publicaciones"]
         fields:
           - { label: 'Etiqueta', name: 'tag', widget: 'string' }
   - name: 'reportajes'
