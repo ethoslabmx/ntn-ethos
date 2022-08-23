@@ -3,6 +3,7 @@ nombre: LAURE DELALANDE
 foto: /img/laure_delalande.jpg
 puesto: Directora de Inclusión y Desarrollo Sostenible
 area: inclusión y desarrollo sostenible
+pos: 1
 semblanza: Doctora en Ciencias Políticas con Mención Honorífica por la Facultad
   de Ciencias Políticas y Sociales de la Universidad Nacional Autónoma de México
   e ingeniera agrónoma por el Instituto Nacional de Agronomía de París. De
