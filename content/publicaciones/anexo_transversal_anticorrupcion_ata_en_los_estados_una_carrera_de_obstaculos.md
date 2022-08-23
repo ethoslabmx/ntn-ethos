@@ -1,10 +1,12 @@
 ---
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 title: "ANEXO TRANSVERSAL ANTICORRUPCIÓN (ATA) EN LOS ESTADOS: UNA CARRERA DE
   OBSTÁCULOS"
 date: 2021-08-02T18:55:04.155Z
 img: /img/anexo.jpg
 img-alt: "Portada ANEXO TRANSVERSAL ANTICORRUPCIÓN "
-autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autores:
+  - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: anticorrupcion
 file: /img/anexo.pdf
 ---
