@@ -1,6 +1,6 @@
 ---
 title: "Desde lo local: CDMX Documenta"
-date: 2020-10-01T21:42:14.906Z
+date: 2020-10-21T21:42:14.906Z
 img: https://ucarecdn.com/e184ff88-ab2e-4442-b963-a110ec5414c3/
 category: anticorrupcion
 extracto: Actualmente en México hay más de doscientas mil personas en situación
