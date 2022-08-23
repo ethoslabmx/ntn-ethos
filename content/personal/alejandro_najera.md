@@ -3,6 +3,7 @@ nombre: ALEJANDRO NÁJERA
 foto: https://ucarecdn.com/9ffd16d1-98f2-41da-8952-aac5de76b48d/
 puesto: Contador
 area: administración y recursos humanos
+pos: 2
 semblanza: "Licenciado en Contabilidad Pública y Finanzas por la Universidad del
   Valle de México, con diplomados en auditoría y administración de proyectos.
   Trabajó como auditor financiero en Grupo Orbia y Robert Bosch, liderando
