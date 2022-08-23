@@ -3,6 +3,7 @@ nombre: BEATRIZ GÓMEZ
 foto: https://ucarecdn.com/dd93923f-4fe6-447b-96a6-888ded3ef24e/
 puesto: RH
 area: administración y recursos humanos
+pos: 3
 semblanza: Cuenta con estudios secretariales y de Contabilidad, así como un
   diplomado en Calidad Administrativa en la Universidad Iberoamericana en el año
   2000, en donde prestó sus servicios administrativos dentro de las Direcciones
