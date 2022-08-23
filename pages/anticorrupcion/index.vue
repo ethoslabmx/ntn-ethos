@@ -21,7 +21,7 @@
 <script>
 export default {
   async asyncData({ $content }) {
-    const columnas = await $content("columnas").fetch();
+    const columnas = await $content("video").sortBy('date','desc').fetch();
 
     return {
       columnas,

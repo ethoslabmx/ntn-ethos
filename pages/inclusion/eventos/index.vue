@@ -49,7 +49,7 @@ export default {
   components: { JumbotronEje },
 
   async asyncData({ $content }) {
-    const eventos = await $content("eventos").where({category:"inclusion"}).limit(6).fetch();
+    const eventos = await $content("eventos").where({category:"inclusion"}).sortBy('date','desc').limit(6).fetch();
 
     return {
       eventos,
@@ -60,7 +60,7 @@ export default {
       this.getNext();
     },
     async getNext(){
-      const newEvents = await this.$content("eventos").where({category:"inclusion"}).skip(this.eventos.length).limit(8).fetch();
+      const newEvents = await this.$content("eventos").where({category:"inclusion"}).sortBy('date','desc').skip(this.eventos.length).limit(8).fetch();
       this.eventos = this.eventos.concat(newEvents);
     }
   }

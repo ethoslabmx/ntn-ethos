@@ -50,7 +50,7 @@ export default {
   components: { JumbotronEje },
 
   async asyncData({ $content }) {
-    const columnas = await $content("noticias").where({category:"desarrollo-sostenible"}).limit(8).fetch();
+    const columnas = await $content("noticias").where({category:"desarrollo-sostenible"}).sortBy('date','desc').limit(8).fetch();
 
     return {
       columnas,
@@ -61,7 +61,7 @@ export default {
       this.getNext();
     },
     async getNext(){
-      const newEvents = await this.$content("noticias").where({category:"desarrollo-sostenible"}).skip(this.columnas.length).limit(8).fetch();
+      const newEvents = await this.$content("noticias").where({category:"desarrollo-sostenible"}).sortBy('date','desc').skip(this.columnas.length).limit(8).fetch();
       this.columnas = this.columnas.concat(newEvents);
     }
   }

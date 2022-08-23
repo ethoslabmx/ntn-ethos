@@ -55,7 +55,7 @@ export default {
   components: { JumbotronEje },
 
   async asyncData({ $content }) {
-    const eventos = await $content("videos").where({category:"finanzas-publicas"}).limit(6).fetch();
+    const eventos = await $content("videos").where({category:"finanzas-publicas"}).sortBy('date','desc').limit(6).fetch();
 
     return {
       eventos,
@@ -66,7 +66,7 @@ export default {
       this.getNext();
     },
     async getNext(){
-      const newEvents = await this.$content("videos").where({category:"finanzas-publicas"}).skip(this.eventos.length).limit(6).fetch();
+      const newEvents = await this.$content("videos").where({category:"finanzas-publicas"}).sortBy('date','desc').skip(this.eventos.length).limit(6).fetch();
       console.log(newEvents);
       this.eventos = this.eventos.concat(newEvents);
     }

@@ -102,16 +102,16 @@ export default {
   transition: 'slide-bottom',
   async asyncData({ $content }) {
     const personal = await $content("personal").fetch();
-    const dg = await $content("personal").where({area:'dirección general'}).only('nombre').fetch();
-    const di = await $content("personal").where({area:'dirección de desarrollo institucional'}).only('nombre').fetch();
-    const fp = await $content("personal").where({area:'finanzas públicas y anticorrupción'}).only('nombre').fetch();
-    const id = await $content("personal").where({area:'inclusión y desarrollo sostenible'}).only('nombre').fetch();
-    const cf = await $content("personal").where({area:'ciudades del futuro'}).only('nombre').fetch();
-    const cp = await $content("personal").where({area:'comunicación y prensa'}).only('nombre').fetch();
-    const ar = await $content("personal").where({area:'administración y recursos humanos'}).only('nombre').fetch();
-    const pi = await $content("personal").where({area:'programa de internship'}).only('nombre').fetch();
-    const aa = await $content("personal").where({area:'asamblea de asociados'}).only('nombre').fetch();
-    const cd = await $content("personal").where({area:'consejo directivo'}).only('nombre').fetch();
+    const dg = await $content("personal").where({area:'dirección general'}).only('nombre').sortBy('pos').fetch();
+    const di = await $content("personal").where({area:'dirección de desarrollo institucional'}).only('nombre').sortBy('pos').fetch();
+    const fp = await $content("personal").where({area:'finanzas públicas y anticorrupción'}).only('nombre').sortBy('pos').fetch();
+    const id = await $content("personal").where({area:'inclusión y desarrollo sostenible'}).only('nombre').sortBy('pos').fetch();
+    const cf = await $content("personal").where({area:'ciudades del futuro'}).only('nombre').sortBy('pos').fetch();
+    const cp = await $content("personal").where({area:'comunicación y prensa'}).only('nombre').sortBy('pos').fetch();
+    const ar = await $content("personal").where({area:'administración y recursos humanos'}).only('nombre').sortBy('pos').fetch();
+    const pi = await $content("personal").where({area:'programa de internship'}).only('nombre').sortBy('pos').fetch();
+    const aa = await $content("personal").where({area:'asamblea de asociados'}).only('nombre').sortBy('pos').fetch();
+    const cd = await $content("personal").where({area:'consejo directivo'}).only('nombre').sortBy('pos').fetch();
     return {
       personal,
       dg,di,fp,id,cf,cp,ar,pi,aa,cd

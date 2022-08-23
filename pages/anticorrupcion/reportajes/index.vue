@@ -44,7 +44,7 @@ export default {
   components: { JumbotronEje },
 
   async asyncData({ $content }) {
-    const eventos = await $content("reportajes").where({category:"anticorrupcion"}).limit(8).fetch();
+    const eventos = await $content("reportajes").where({category:"anticorrupcion"}).sortBy('date','desc').limit(8).fetch();
 
     return {
       eventos,
@@ -55,7 +55,7 @@ export default {
       this.getNext();
     },
     async getNext(){
-      const newEvents = await this.$content("reportajes").where({category:"anticorrupcion"}).skip(this.eventos.length).limit(8).fetch();
+      const newEvents = await this.$content("reportajes").where({category:"anticorrupcion"}).sortBy('date','desc').skip(this.eventos.length).limit(8).fetch();
       this.eventos = this.eventos.concat(newEvents);
     }
   }

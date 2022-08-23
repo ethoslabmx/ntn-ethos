@@ -122,6 +122,20 @@ collections:
       - { label: 'Enlace video', name: 'video', widget: 'string' }
       - { label: 'Categoria', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion"]}
       - { label: 'Contenido', name: 'body', widget: 'markdown', required: false }
+  - name: 'micrositios'
+    label: 'Micrositios'
+    folder: 'content/micrositios'
+    format: 'frontmatter'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Título', name: 'title', widget: 'string' }
+      - { label: 'Fecha Publicación', name: 'date', widget: 'datetime' }
+      - { label: 'Enlace', name: 'link', widget: 'string' }
+      - { label: 'Categoria', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion"]}
+      - { label: 'Extracto', name: 'extracto', widget: 'string', required: false }
   - name: 'financiadores'
     label: 'Financiadores'
     folder: 'content/financiadores'
@@ -148,6 +162,7 @@ collections:
       - { label: 'Foto', name: 'foto', widget: 'image', required: false }
       - { label: 'Puesto', name: 'puesto', widget: 'string' }
       - { label: 'Area', name: 'area', widget: 'select', options: ["dirección general","dirección de desarrollo institucional","finanzas públicas y anticorrupción","inclusión y desarrollo sostenible","ciudades del futuro","comunicación y prensa","administración y recursos humanos","programa de internship","asamblea de asociados","consejo directivo"] }
+      - { label: 'Orden', name: 'pos', widget: 'number'}
       - { label: 'Semblanza', name: 'semblanza', widget: 'string' }
       - { label: 'Email', name: 'email', widget: 'string', required: false }
       - { label: 'Twitter', name: 'twitter', widget: 'string', required: false }

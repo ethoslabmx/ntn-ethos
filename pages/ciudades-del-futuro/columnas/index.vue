@@ -36,7 +36,7 @@ export default {
     components: { JumbotronEje },
 
   async asyncData({ $content }) {
-    const columnas = await $content("columnas").where({category:"ciudades-del-futuro"}).limit(8).fetch();
+    const columnas = await $content("columnas").where({category:"ciudades-del-futuro"}).sortBy('date','desc').limit(8).fetch();
 
     return {
       columnas,
@@ -47,7 +47,7 @@ export default {
       this.getNext();
     },
     async getNext(){
-      const newEvents = await this.$content("columnas").where({category:"ciudades-del-futuro"}).skip(this.columnas.length).limit(8).fetch();
+      const newEvents = await this.$content("columnas").where({category:"ciudades-del-futuro"}).sortBy('date','desc').skip(this.columnas.length).limit(8).fetch();
       this.columnas = this.columnas.concat(newEvents);
     }
   }
