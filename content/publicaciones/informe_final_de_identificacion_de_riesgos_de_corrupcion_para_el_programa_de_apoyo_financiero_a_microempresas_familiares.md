@@ -1,10 +1,14 @@
 ---
+autor: Ethos
 title: INFORME FINAL DE IDENTIFICACIÓN DE RIESGOS DE CORRUPCIÓN PARA EL PROGRAMA
   DE APOYO FINANCIERO A MICROEMPRESAS FAMILIARES
 date: 2020-12-01T15:43:44.180Z
 img: /img/portada_informe_final_de_identificacion_de_riesgos.jpg
-autor: Ethos
+autores:
+  - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: inclusion
+extracto: Los programas presupuestarios, específicamente los de corte social,
+  tienen como destinatarias\ a las poblaciones más vulnerables del país
 file: /img/informe-final-de-identificacio_n-de-riesgos-de-corrupcio_n-para-el-programa-de-apoyo-financiero-a-microempresas-familiares-2.pdf
 ---
 <!--StartFragment-->
