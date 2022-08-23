@@ -3,6 +3,7 @@ nombre: DALIA TOLEDO
 foto: /img/dalia-toledo2.jpg
 puesto: "Directora de Finanzas Públicas y Anticorrupción "
 area: finanzas públicas y anticorrupción
+pos: 1
 semblanza: Maestra en Administración y Políticas Públicas (CIDE) y licenciada en
   Administración Pública (Unistmo). Ha sido consultora para el Banco Mundial en
   temas de gasto público y en evaluación de programas sociales para Civicus,
