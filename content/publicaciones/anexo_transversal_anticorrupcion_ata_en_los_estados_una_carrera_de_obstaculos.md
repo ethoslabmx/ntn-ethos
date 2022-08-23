@@ -8,6 +8,10 @@ img-alt: "Portada ANEXO TRANSVERSAL ANTICORRUPCIÓN "
 autores:
   - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: anticorrupcion
+extracto: Transparentar cuánto gastan los gobiernos subnacionales en el combate
+  de la corrupción debería ser un ejercicio cotidiano. Sin embargo, la creación
+  de un Anexo Transversal Anticorrupción (ATA) en las entidades federativas se
+  asemeja más a una carrera de obstáculos. Conoce aquí nuestras recomendaciones.
 file: /img/anexo.pdf
 ---
 <!--StartFragment-->
