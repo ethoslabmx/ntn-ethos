@@ -96,9 +96,9 @@ export default {
 
         img{
           object-fit: cover;
-          width:100%;
           height: 100%;
-
+          max-height: 130px;
+          width: auto;
         }
       }
     }
