@@ -3,6 +3,7 @@ nombre: EMILIANO MONTES DE OCA
 foto: https://ucarecdn.com/55fb6c56-7ba7-4c3d-a444-f8081f985495/
 puesto: Investigador Anticorrupción
 area: finanzas públicas y anticorrupción
+pos: 2
 semblanza: Licenciado en Derecho por la UNAM, con estudios en Ciencias Sociales
   y Humanidades por el Instituto de Estudios Políticos de París (Sciences Po),
   así como en Litigio Estratégico y defensa de los DESCA por el Instituto de
