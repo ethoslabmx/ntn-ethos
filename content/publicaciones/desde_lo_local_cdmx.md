@@ -1,6 +1,6 @@
 ---
 title: "Desde lo local: CDMX"
-date: 2020-10-01T21:39:41.700Z
+date: 2020-10-21T21:39:41.700Z
 img: https://ucarecdn.com/924a8702-bf42-49af-bd93-86759dbfd777/
 img-alt: "Desde lo local: CDMX"
 autores:
