@@ -3,6 +3,7 @@ nombre: LILIANA ALVARADO
 foto: /img/liliana-alvarado2.jpg
 puesto: Directora General
 area: dirección general
+pos: 1
 semblanza: Maestra en Políticas Públicas y Administración (LSE) y licenciada en
   Relaciones Internacionales por el ITAM. Colaboró en la SHCP, donde adquirió
   una amplia experiencia en materia fiscal. Asimismo, trabajó en FUNDAR en el
