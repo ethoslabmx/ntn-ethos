@@ -3,6 +3,7 @@ nombre: ANDRÉS MORALES
 foto: https://ucarecdn.com/0d0215a6-2297-4377-8153-0f7aa697a35e/
 puesto: Diseño gráfico
 area: comunicación y prensa
+pos: 4
 semblanza: "Licenciado en Diseño y Comunicación Visual por la Universidad
   Nacional Autónoma de México (UNAM). Cuenta con un diplomado en Medios
   Digitales Forenses, Fotografía, Video y Acústica en la Investigación
