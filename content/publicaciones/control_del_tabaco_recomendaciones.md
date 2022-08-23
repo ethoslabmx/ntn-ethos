@@ -1,7 +1,7 @@
 ---
 autor: Ethos
 title: "Control del tabaco: Recomendaciones"
-date: 2021-03-02T04:00:39.129Z
+date: 2021-03-24T04:00:39.129Z
 img:
   - https://ucarecdn.com/f3cc8bbb-1369-434a-9af9-8fdeea564247/
 autores:

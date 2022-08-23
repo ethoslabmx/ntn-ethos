@@ -1,7 +1,7 @@
 ---
 autor: Ethos
 title: "Control del tabaco: Resumen ejecutivo"
-date: 2021-03-02T04:16:06.968Z
+date: 2021-03-24T04:16:06.968Z
 img:
   - https://ucarecdn.com/1b7568eb-f857-42d4-95e9-dba96483833e/
 autores:

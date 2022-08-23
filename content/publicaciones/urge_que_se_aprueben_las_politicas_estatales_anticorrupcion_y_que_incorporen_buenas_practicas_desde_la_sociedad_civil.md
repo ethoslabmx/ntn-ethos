@@ -2,7 +2,7 @@
 autor: Ethos
 title: URGE QUE SE APRUEBEN LAS POLÍTICAS ESTATALES ANTICORRUPCIÓN Y QUE
   INCORPOREN BUENAS PRÁCTICAS DESDE LA SOCIEDAD CIVIL
-date: 2020-04-01T19:57:01.757Z
+date: 2020-04-16T18:57:01.757Z
 img: /img/portada_fuerza_ciudadana.jpg
 img-alt: portada fuerza ciudadana anticorrupción
 autores:
