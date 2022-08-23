@@ -39,11 +39,11 @@
           </div>
 
           <div class="content content-center mb-10">
-            <p>{{ evento.body.children[1].children[0].value }}</p>
+            <p>{{ evento.extracto }}</p>
           </div>
 
           <div class="footer content-end">
-            <p>{{evento.autor}}</p>
+            <p>{{autores(evento)}}</p>
             <p class="font-bold uppercase">{{new Date(evento.date).toLocaleDateString()}}</p>
           </div>
         </div>
@@ -74,6 +74,9 @@ export default {
   methods:{
     loadPosts(){
       this.getNext();
+    },
+    autores(evento){
+      return evento.autores.flatMap(a=>a.autor).join(', ');
     },
     async getNext(){
       const newEvents = await this.$content("publicaciones").where({category:"inclusion"}).sortBy('date','desc').skip(this.eventos.length).limit(8).fetch();
