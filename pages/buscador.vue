@@ -10,11 +10,11 @@
         <div class="busqueda-ejes mb-10">
           <h2 class="title">EJES</h2>
           <ul class="title">
-            <li>Anticorrupción y transparencia</li>
-            <li>Finanzas Públicas</li>
-            <li>Inclusión</li>
-            <li>Desarrollo Sostenible</li>
-            <li>Ciudades del Futuro</li>
+            <li> <input type="checkbox" id="cbox1" value="first_checkbox"> <label>Anticorrupción y transparencia</label></li>
+            <li><input type="checkbox" id="cbox1" value="first_checkbox"> <label>Finanzas Públicas</label></li>
+            <li><input type="checkbox" id="cbox1" value="first_checkbox"> <label>Inclusión</label></li>
+            <li><input type="checkbox" id="cbox1" value="first_checkbox"> <label>Desarrollo Sostenible</label></li>
+            <li><input type="checkbox" id="cbox1" value="first_checkbox"> <label>Ciudades del Futuro</label></li>
           </ul>
         </div>
         <div class="busqueda-categorias">
@@ -70,6 +70,12 @@ export default {
 </script>
 <style lang="scss">
 $black: #1F1F1F;
+
+.busqueda{
+  input[type="checkbox"]{
+    display:inline-block;
+  }
+}
 
 input[type="text"] {
   border: 1px solid $black;
