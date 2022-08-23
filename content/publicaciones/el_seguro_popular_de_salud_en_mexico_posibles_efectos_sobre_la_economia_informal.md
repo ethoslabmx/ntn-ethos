@@ -1,10 +1,16 @@
 ---
+autor: Ethos
 title: "El Seguro Popular de salud en México: posibles efectos sobre la economía
   informal"
 date: 2011-02-01T15:47:13.927Z
 img: /img/portada_el_seguro_popular_de_salud.jpg
-autor: Ethos
+autores:
+  - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: inclusion
+extracto: La economía informal es un fenómeno en la historia de México que ha
+  adquirido importancia en las últimas décadas. Consecuencia de ello es la
+  preocupación de ciertos sectores de la sociedad por aminorar su peso dentro de
+  la economía.
 file: /img/el-seguro-popular-de-salud-en-mexico.pdf
 ---
 <!--StartFragment-->
