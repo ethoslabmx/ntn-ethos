@@ -3,6 +3,7 @@ nombre: LUIS ÁNGEL MARTÍNEZ
 foto: https://ucarecdn.com/3419d83c-3f13-4cb3-8fbb-ac69102bf7f4/
 puesto: Investigador Anticorrupción
 area: finanzas públicas y anticorrupción
+pos: 3
 semblanza: Economista por el ITAM. Fue asesor legislativo en la presidencia de
   la Junta de Coordinación Política en la LXIII Legislatura de la Cámara de
   Diputados, donde adquirió una amplia experiencia en la elaboración del
