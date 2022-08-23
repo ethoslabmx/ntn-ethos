@@ -1,6 +1,6 @@
 ---
 title: "Desde lo local: CDMX Arkemetría"
-date: 2022-08-23T22:15:05.032Z
+date: 2020-09-30T22:15:05.032Z
 img: https://ucarecdn.com/d9f24048-d8f3-498b-bcc2-1100f624db34/
 autores:
   - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
