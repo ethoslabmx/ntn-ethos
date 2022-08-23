@@ -3,6 +3,7 @@ nombre: IRLANDA GALICIA
 foto: https://ucarecdn.com/7bdc9f16-f25f-4814-af6c-374de41737f1/
 puesto: IRLANDA GALICIA
 area: comunicación y prensa
+pos: 3
 semblanza: Licenciada en Diseño y Comunicación Visual por la Universidad
   Nacional Autónoma de México (UNAM). Cuenta con un Diplomado en Modelado y
   Animación en 3D por la Academia de San Carlos, de la UNAM. Trabajó en diversos
