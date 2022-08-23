@@ -3,6 +3,7 @@ nombre: YAHIR ACOSTA
 foto: /img/yahir_acosta.jpg
 puesto: Director de Ciudades del Futuro
 area: ciudades del futuro
+pos: 1
 semblanza: "Doctor en Derecho (UNAM), maestro en Derecho Internacional Público
   (Queen Mary, University of London) y licenciado en Derecho (ITAM). Es abogado
   experto en finanzas públicas y en el financiamiento de proyectos de ciudades
