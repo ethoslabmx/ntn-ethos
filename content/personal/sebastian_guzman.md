@@ -3,6 +3,7 @@ nombre: SEBASTIÁN GUZMÁN
 foto: https://ucarecdn.com/1c145420-0f19-48a7-b780-f86c6a199f36/
 puesto: Investigador Ciudades del Futuro
 area: ciudades del futuro
+pos: 2
 semblanza: Maestro en Administración por la Universidad Europea del Atlántico e
   ingeniero en Energía por la Universidad Nacional Autónoma de México. Cuenta
   con una especialidad en Planeación Estratégica y Desarrollo de Negocios por la
