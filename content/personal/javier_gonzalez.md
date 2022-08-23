@@ -3,6 +3,7 @@ nombre: "JAVIER GONZÁLEZ "
 foto: /img/javier-gonzalez2.jpg
 puesto: "Director de Desarrollo Institucional "
 area: dirección de desarrollo institucional
+pos: 1
 semblanza: Maestro en Políticas Públicas y Administración (LSE) y licenciado en
   Administración Pública por El Colegio de México. Realizó cursos de
   especialización en políticas públicas en Hungría, Francia y Alemania. Fue
