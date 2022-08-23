@@ -1,3 +1,0 @@
----
-autor: Alicia Santana Cartas
----
