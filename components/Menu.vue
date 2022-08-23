@@ -683,7 +683,7 @@ input[type="radio"] {
     left: 0;
     content: '';
     width: 100vw;
-    height: 100vh;
+    height: 100%;
     background: darken($color: $midnight, $amount: .35%);
     transition: all 500ms ease-in-out;
 

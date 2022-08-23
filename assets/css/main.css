@@ -374,10 +374,6 @@ ul.navbar li ul li {
   padding: 0;
 }
 
-.shadow {
-  box-shadow: -1px 4px 6px 1px rgba(0, 0, 0, 0.35);
-}
-
 .twitter {
   border-top: 20px solid var(--bg-gray);
 }
@@ -419,6 +415,26 @@ ul.navbar li ul li {
   object-fit: contain;
 }
 
+
+
+.relacionadas img{
+    height: 150px;
+    object-fit: contain;
+    width: auto;
+    display: block;
+    margin: auto;
+}
+
+
+@media (min-width:700px) {
+  .relacionadas{
+    flex-wrap: nowrap;
+    align-items: flex-start;
+  }
+  .relacionadas img{
+    height: 150px;
+  }
+}
 /* ¿adrian, así? */
 
 #__layout {

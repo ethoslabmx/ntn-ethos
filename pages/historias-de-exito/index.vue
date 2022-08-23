@@ -5,7 +5,7 @@
         <section
           class="com__section com__section--text com__hero com__bg bg-gradient-to-b from-primary to-primarylight">
           <div class="container flex flex-col justify-start items-end px-0">
-            <div class="xl:w-1/3 lg:w-1/2 md:w-2/3 w-3/4 heading">
+            <div class="3xl:w-1/3  md:w-1/2  w-3/4 heading">
               <h1 class="big-title">HISTORIAS DE ÉXITO</h1>
               <p class="">
                 Nuestros casos de éxito con origen en la investigación que se enfoncan en casos específicos.
@@ -169,7 +169,7 @@ export default {
       width: 100%;
       background-size: 100%;
       background-repeat: no-repeat;
-      background-position:  center 0%;
+      background-position: center -25%;
       mix-blend-mode: soft-light;
       z-index: -1;
         @media (min-width: 1100px) {
@@ -256,12 +256,12 @@ export default {
       position: absolute;
       align-items: flex-end;
       justify-content: flex-start;
+      margin-left: 1rem;
 
       .heading {
 
         margin-top:22vh;
         margin-right: auto;
-        margin-right: left;
         text-align: right;
         padding: 1rem;
         @media (max-height: 480px) {
@@ -270,12 +270,12 @@ export default {
          }
         @media (min-width: 370px) {
         margin-right: auto;
-        margin-left: 0;
 
         }
         @media (min-width: 700px) {
 
         margin-top:18vh;
+        margin-left: auto;
 
         }
         @media (min-width: 1020px) {

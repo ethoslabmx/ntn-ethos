@@ -87,12 +87,12 @@
     </div>
     <div class="relacionadas bg-cyan py-20 text-white">
       <div class="container flex items-start flex-wrap xl:flex-nowrap">
-        <div class="w-full xl:w-1/6"><h2 class="font md:text-lg text-sm mb-3 xl:mb-0">Artículos relacionadas</h2></div>
+        <div class="w-full xl:w-1/6"><h2 class="saira uppercase text-sm mb-3 xl:mb-0 text-white">Artículos relacionados</h2></div>
        <div class="w-full xl:w-5/6">
          <div class="relacionadas flex flex-wrap xl:flex-nowrap">
           <li v-for="p of publicaciones" :key="p.slug" class="px-8 w-full xl:w-1/3">
             <img :src="p.img" alt="" class="mb-3 h-auto w-full">
-            <NuxtLink :to=" p.slug" class="my-3 md:text-lg text-sm block">{{ p.title }}</NuxtLink>
+            <NuxtLink :to=" p.slug" class="my-3 block saira uppercase text-sm">{{ p.title }}</NuxtLink>
             <!--<p class="text-white mb-8 xl:mb-0">{{ col.extracto }}</p>-->
           </li>
         </div>
