@@ -3,6 +3,7 @@ nombre: SILVIA MÁRQUEZ
 foto: /img/silvia_marquez.jpg
 puesto: Coordinadora de Comunicación y Prensa
 area: comunicación y prensa
+pos: 1
 semblanza: Maestrante en Periodismo Político (Carlos Septién) y licenciada en
   Comunicación (UAEMéx) y. Trabajó en prensa escrita, radio y televisión donde
   se desempeñó como reportera, jefa de información, productora y conductora. Fue
