@@ -182,7 +182,7 @@ Una acción fundamental para combatir la corrupción en el sector energético es
 
 El registro abarca aproximadamente 3.9 millones de empresas, asociaciones u otros cuerpos corporativos registrados en Reino Unido. **Al final del 2016, más del 98% de las empresas cumplieron con sus obligaciones**. Dado que la información es gratuita y accesible, las personas la consultan alrededor de dos millones de veces al año.40
 
-![](https://www.ethos.org.mx/wp-content/uploads/2018/04/Portadillas-3-publicacion-web.jpg)
+![](https://ucarecdn.com/d8ded79e-fcd8-4258-bbda-7bca2e5f01d8/)
 
 # Noruega
 
@@ -288,7 +288,5 @@ En los últimos años, México ha avanzado en su política de datos abiertos, es
 **4. Establecer en ley la obligatoriedad de informar sobre los beneficiarios reales de las empresas.**
 
 **5. Fortalecer las capacidades de servidores públicos y sociedad civil en el manejo y explotación de los datos abiertos, para favorecer la detección de actos de corrupción.**
-
-
 
 <!--EndFragment-->
