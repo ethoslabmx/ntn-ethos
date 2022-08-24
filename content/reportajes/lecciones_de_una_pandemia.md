@@ -4,6 +4,12 @@ date: 2021-02-10T16:36:22.570Z
 img: /img/lecciones-de-una-pandemia-bannerwebethos-2021.png
 autor: Ethos
 category: desarrollo-sostenible
+extracto: Como resultado del COVID-19, el sector pesquero mexicano está
+  enfrentando un gran desafío que ha puesto a prueba su resistencia,
+  adaptabilidad y transformación. Para cultivar y fortalecer la capacidad de
+  recuperación del sector, es necesario hacer una pausa y reflexionar acerca del
+  mosaico de realidades que han tanto permitido como obstaculizado hacer frente
+  a la actual crisis.
 file: /img/lecciones-de-una-pandemia-web.pdf
 ---
 <!--StartFragment-->
