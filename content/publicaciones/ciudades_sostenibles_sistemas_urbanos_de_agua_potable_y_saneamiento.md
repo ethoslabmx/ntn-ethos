@@ -1,15 +1,15 @@
 ---
-autor: Ethos
 title: "CIUDADES SOSTENIBLES: SISTEMAS URBANOS DE AGUA POTABLE Y SANEAMIENTO"
-date: 2022-02-09T16:54:58.665Z
+date: 2022-02-03T16:54:58.665Z
 img: /img/portada-ciudades-sostenibles-agua.jpg
-autores:
-  - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
-category: desarrollo-sostenible
+autor: Ethos
 extracto: En México, se enfrenta el gran desafío de proveer servicios de agua
   potable, alcantarillado y saneamiento a la población, debido principalmente
   al crecimiento demográfico acelerado y a las dificultades técnicas y de
   gestión operativa que conlleva hacerlo.
+autores:
+  - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+category: desarrollo-sostenible
 file: /img/ciudades-sostenibles-agua.pdf
 ---
 <!--StartFragment-->
