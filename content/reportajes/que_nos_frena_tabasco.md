@@ -4,10 +4,11 @@ date: 2019-06-27T18:43:06.631Z
 img: https://ucarecdn.com/d005dca6-4741-4641-b17c-08d1d2f2f041/
 autor: Ethos
 category: anticorrupcion
-extracto: Del 17 de junio al 4 de julio, en alianza con Reforma y once medios de
-  comunicación estatales, Ethos publicó una serie de reportajes que documentan
-  las razones que impiden el funcionamiento total de los Sistemas Estatales
-  Anticorrupción en diez estados.
+extracto: En la tierra del presidente, la llegada de la ola morenista obliga a
+  replantear metas y planes, pues los integrantes ciudadanos del sistema
+  anticorrupción pegan pocos jonrones. ¿Qué viene ahora? El SEA deberá
+  arreglárselas con menos presupuesto y una sociedad irritada por los altos
+  sueldos de los funcionarios.
 ---
 <!--StartFragment-->
 
@@ -19,32 +20,12 @@ Lo más lamentable es que los Sistemas Estatales no han atendido una serie de ca
 
 *«¿Qué nos frena? El bloqueo político del combate a la corrupción», es un proyecto de Ethos Laboratorio de Políticas Públicas, que contó con la coordinación general de Salvador Frausto, José Luis Chicoma, Liliana Alvarado, Dalia Toledo, Isaak Pacheco, César Sánchez y Silvia Márquez. Investigación sobre los SEA: Inés García Ramos (Baja California), Maurizio Montes de Oca (Ciudad de México), Gabriela Coutiño (Chiapas), Marco Antonio López (Chihuahua), David Espino (Guerrero), Melva Frutos (Nuevo León), Adriana Varillas (Quintana Roo), Alejandro Torres (San Luis Potosí), Alexis Pérez (Tabasco) e Israel Hernández (Veracruz). Verificación de datos: Osvaldo Anaya.*
 
-[¿Qué nos frena? General](https://www.ethos.org.mx/es/ethos-publications/que-nos-frena-el-bloqueo-politico-del-combate-a-la-corrupcion/)
-
-[¿Qué nos frena? Ciudad de México](https://www.ethos.org.mx/es/ethos-publications/que-nos-frena-ciudad-de-mexico/)
-
-[¿Qué nos frena? Guerrero](https://www.ethos.org.mx/es/ethos-publications/que-nos-frena-guerrero/)
-
-[¿Qué nos frena? Chihuahua](https://www.ethos.org.mx/es/ethos-publications/que-nos-frena-chihuahua/)
-
-[¿Qué nos frena? Chiapas](https://www.ethos.org.mx/es/ethos-publications/que-nos-frena-chiapas/)
-
-[¿Qué nos frena? Baja California](https://www.ethos.org.mx/es/ethos-publications/que-nos-frena-baja-california/)
-
-[¿Qué nos frena? Nuevo León](https://www.ethos.org.mx/es/ethos-publications/que-nos-frena-nuevo-leon/)
-
-[¿Qué nos frena? San Luis Potosi](https://www.ethos.org.mx/es/ethos-publications/que-nos-frena-san-luis-potosi/)
-
-[¿Qué nos frena? Veracruz](https://www.ethos.org.mx/es/ethos-publications/que-nos-frena-veracruz/)
-
-[¿Qué nos frena? Quintana Roo](https://www.ethos.org.mx/es/ethos-publications/que-nos-frena-quintana-roo/)
+![](https://ucarecdn.com/c9e9c3c7-22a7-4cc2-944c-c4261870153c/)
 
 # Tabasco batea de foul en el combate a la corrupción
 
 *\
 En la tierra del presidente, la llegada de la ola morenista obliga a replantear metas y planes, pues los integrantes ciudadanos del sistema anticorrupción pegan pocos jonrones. ¿Qué viene ahora? El SEA deberá arreglárselas con menos presupuesto y una sociedad irritada por los altos sueldos de los funcionarios.*
-
-**Por Alexis Pérez / Ethos Laboratorio de Políticas Públicas \[*]**
 
 A casi dos años de su creación y uno de su conformación, el Sistema Estatal Anticorrupción de Tabasco (SEA) enfrentó la renuncia del secretario técnico y dos de los cinco integrantes del Comité de Participación Ciudadana (CPC), en medio de cuestionamientos por altos salarios, al tiempo que la sociedad civil acusa que no se han investigado casos de corrupción por falta de voluntad política.
 
@@ -166,6 +147,6 @@ Algunos de los miembros coinciden en que la principal virtud es poder dar result
 
 Los involucrados refieren que el presupuesto de 22 millones de pesos aprobado para el año en curso no es una limitante para realizar acciones que permitan limpiar la imagen que el SEA se ha ganado desde el año 2017, un sistema local envuelto en escándalos debido a los perfiles de sus autoridades, la cercanía de éstas con el grupo gobernante en turno, sus altos salarios, la presión mediática y política sobre algunos de sus representantes, las renuncias de éstos, la falta de mecanismos eficientes para la presentación y atención de denuncias, y la parálisis política para investigar presuntos casos de corrupción.
 
-*\[*] Este reportaje forma parte de “¿Qué nos frena? El bloqueo político del combate a la corrupción”, un proyecto de Ethos Laboratorio de Políticas Públicas, que contó con la coordinación general de Salvador Frausto, Liliana Alvarado, Dalia Toledo, Isaak Pacheco, César Sánchez y Silvia Márquez. Investigación sobre los SEA: Inés García Ramos (Baja California), Maurizio Montes de Oca (Ciudad de México), Gabriela Coutiño (Chiapas), Marco Antonio López (Chihuahua), David Espino (Guerrero), Melva Frutos (Nuevo León), Adriana Varillas (Quintana Roo), Alejandro Torres (San Luis Potosí), Alexis Pérez (Tabasco) e Israel Hernández (Veracruz). Verificación de datos: Osvaldo Anaya.*
+*[*] Este reportaje forma parte de “¿Qué nos frena? El bloqueo político del combate a la corrupción”, un proyecto de Ethos Laboratorio de Políticas Públicas, que contó con la coordinación general de Salvador Frausto, Liliana Alvarado, Dalia Toledo, Isaak Pacheco, César Sánchez y Silvia Márquez. Investigación sobre los SEA: Inés García Ramos (Baja California), Maurizio Montes de Oca (Ciudad de México), Gabriela Coutiño (Chiapas), Marco Antonio López (Chihuahua), David Espino (Guerrero), Melva Frutos (Nuevo León), Adriana Varillas (Quintana Roo), Alejandro Torres (San Luis Potosí), Alexis Pérez (Tabasco) e Israel Hernández (Veracruz). Verificación de datos: Osvaldo Anaya.*
 
 <!--EndFragment-->
