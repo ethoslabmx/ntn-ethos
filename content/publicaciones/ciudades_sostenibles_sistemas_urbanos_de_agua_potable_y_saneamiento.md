@@ -9,7 +9,7 @@ extracto: En México, se enfrenta el gran desafío de proveer servicios de agu
   gestión operativa que conlleva hacerlo.
 autores:
   - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
-category: desarrollo-sostenible
+category: ciudades-del-futuro
 file: /img/ciudades-sostenibles-agua.pdf
 ---
 <!--StartFragment-->
