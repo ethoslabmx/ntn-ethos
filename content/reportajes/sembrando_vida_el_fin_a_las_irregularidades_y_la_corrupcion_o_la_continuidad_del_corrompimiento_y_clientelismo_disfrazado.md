@@ -4,7 +4,7 @@ title: Sembrando Vida el fin a las irregularidades y la corrupción o la
 date: 2022-08-16T15:05:24.157Z
 img: /img/sembrando-vida-filtro.color_.diluido-1-scaled.jpg
 autor: Andrés M. Estrada
-category: desarrollo-sostenible
+category: inclusion
 file: /img/sembrando-vida_-_el-fin-a-las-irregularidades-y-la-corrupcion-o-la-continuidad-del-corrompimiento.pdf
 ---
 <!--StartFragment-->
