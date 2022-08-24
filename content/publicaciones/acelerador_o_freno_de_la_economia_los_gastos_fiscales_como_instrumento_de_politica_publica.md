@@ -419,7 +419,9 @@ La reducción de 2014 respecto al año previo en el monto total se debe a la eli
 
 El dato más reciente, correspondiente al año 2021, señala que hubo un incremento de 81,930 mdp respecto a 2020, sin embargo, la proporción correspondiente a los decretos presidenciales también aumentó. De los gastos fiscales por estímulos, los otorgados a los contribuyentes de la región fronteriza norte del país, en materia de IVA e ISR, representaron el 34.1% del total (SHCP, 2021).
 
-**Gráfica 13. Gastos fiscales por actividad económica, 2021 (%)**![](https://www.ethos.org.mx/wp-content/uploads/2021/07/Artboard-3-copy-13-100.jpg)
+**Gráfica 13. Gastos fiscales por actividad económica, 2021 (%)**
+
+![](https://ucarecdn.com/23ea1d41-5f75-494a-94d9-aa24270d2854/)
 
 *Fuente: elaboración propia con base en SHCP (2021)*
 
