@@ -144,7 +144,7 @@ Como se verá a continuación, las adecuaciones al PGF se prolongaron por varios
 | **Año**         | **Cambios y/o adecuaciones**                                                                                                                                                                                                                                                                                                                                                                                                          |
 | **2002**        | Se publicó por primera vez el PGF, donde se establecieron los montos que dejaba de recaudar el erario federal por las tasas diferenciadas en los impuestos, exenciones, subsidios y créditos fiscales, tratamientos y regímenes especiales.                                                                                                                                                                                           |
 |                 |                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| **2004**        | Por única ocasión se incluyó un rubro llamado “Resoluciones particulares”.[\[1]](https://www.ethos.org.mx/ethos-publications/acelerador-o-freno-de-la-economia-los-gastos-fiscales-como-instrumento-de-politica-publica/#_ftn1) La LIF amplió el horizonte temporal de la estimación de la pérdida recaudatoria, pues se estableció la obligación de realizar este cálculo para el año en curso y para el siguiente ejercicio fiscal. |
+| **2004**        | Por única ocasión se incluyó un rubro llamado “Resoluciones particulares”.\[[1]](https://www.ethos.org.mx/ethos-publications/acelerador-o-freno-de-la-economia-los-gastos-fiscales-como-instrumento-de-politica-publica/#_ftn1) La LIF amplió el horizonte temporal de la estimación de la pérdida recaudatoria, pues se estableció la obligación de realizar este cálculo para el año en curso y para el siguiente ejercicio fiscal. |
 | **2005**        | El PGF incorpora la estimación de la pérdida recaudatoria para el año fiscal siguiente y se eliminó la tabla de comparación entre países.                                                                                                                                                                                                                                                                                             |
 |                 |                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | **2007**        | Se incluyen tres secciones nuevas: a) Presentación, b) Definición y medición de Gastos Fiscales y c) Principales resultados. En ellas se indica el sustento jurídico y la función del PGF, así como las definiciones, cobertura y métodos de medición de los gastos fiscales.                                                                                                                                                         |
@@ -155,7 +155,7 @@ Como se verá a continuación, las adecuaciones al PGF se prolongaron por varios
 | **2012 a 2020** | La estructura del reporte no ha mostrado variaciones importantes.                                                                                                                                                                                                                                                                                                                                                                     |
 | **2021**        | El documento conocido como “Presupuesto de Gastos Fiscales” cambió de nombre y ahora es conocido como “Renuncias Recaudatorias”.                                                                                                                                                                                                                                                                                                      |
 
-*[\[1]](https://www.ethos.org.mx/ethos-publications/acelerador-o-freno-de-la-economia-los-gastos-fiscales-como-instrumento-de-politica-publica/#_ftnref1) De acuerdo con la SHCP, estas resoluciones se refieren a las facilidades administrativas y para la condonación de multas cuya atención correspondía a la Administración General Jurídica del SAT, así como a todas aquellas resoluciones otorgadas y negadas por la Administración General de Grandes Contribuyentes.*
+*\[[1]](https://www.ethos.org.mx/ethos-publications/acelerador-o-freno-de-la-economia-los-gastos-fiscales-como-instrumento-de-politica-publica/#_ftnref1) De acuerdo con la SHCP, estas resoluciones se refieren a las facilidades administrativas y para la condonación de multas cuya atención correspondía a la Administración General Jurídica del SAT, así como a todas aquellas resoluciones otorgadas y negadas por la Administración General de Grandes Contribuyentes.*
 
 *Fuente: elaboración propia con base en la ASF (2019).*
 
@@ -248,7 +248,9 @@ Otra manera de dimensionar este tema es conociendo la proporción que representa
 
 **Gráfica 2. Pérdida recaudatoria de los gastos fiscales como porcentaje del PIB nacional (2012-2021)**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/07/Gastos-Fisclaes-2021-Graficas2.png)](https://www.ethos.org.mx/wp-content/uploads/2021/07/Gastos-Fisclaes-2021-Graficas2.png)
+![](https://ucarecdn.com/601fd8dc-1acf-4663-9c34-446ed1f2903b/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/07/Gastos-Fisclaes-2021-Graficas2.png)
 
 *Fuente: elaboración propia con base en el Presupuesto de Gastos Fiscales de 2012 a 2021 de la SHCP y la LIF de 2012 a 2021.*
 
@@ -258,7 +260,7 @@ Como se puede ver en la gráfica 3, México se encuentra ligeramente por encima 
 
 **Gráfica 3. Pérdida recaudatoria de los Gastos fiscales en América Latina como porcentaje del PIB en 2017**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/07/Gastos-Fisclaes-2021-Graficas3.png)](https://www.ethos.org.mx/wp-content/uploads/2021/07/Gastos-Fisclaes-2021-Graficas3.png)
+![](https://ucarecdn.com/3b00b7fb-a822-4924-a781-6c58eb0988f3/)
 
 *Fuente: elaboración propia con base en CEPAL (2019).*
 
@@ -290,7 +292,7 @@ En la gráfica 6 también es posible ver que, a partir de 2017, los estímulos f
 
 **Gráfica 6. pérdida recaudatoria de los Gastos fiscales por impuesto y estímulos fiscales (mdp)**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/07/Artboard-3-copy-6-100.jpg)](https://www.ethos.org.mx/wp-content/uploads/2021/07/Artboard-3-copy-6-100.jpg)
+![](https://ucarecdn.com/0b270b1b-2bd2-45c7-bebb-c303bb605d03/)
 
 *Fuente: elaboración propia con base en el Presupuesto de Gastos Fiscales de 2012 a 2021 de la SHCP.*\
 *Nota: precios constantes de 2020.*
