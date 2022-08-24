@@ -76,7 +76,7 @@ export default {
       this.getNext();
     },
     autores(evento){
-      return evento.autores.flatMap(a=>a.autor).join(', ');
+      return evento.autores ? evento.autores.flatMap(a=>a.autor).join(', ') : evento.autor ? evento.autor : '';
     },
     async getNext(){
       const newEvents = await this.$content("publicaciones").where({category:"desarrollo-sostenible"}).sortBy('date','desc').skip(this.eventos.length).limit(8).fetch();

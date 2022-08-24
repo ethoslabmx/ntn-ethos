@@ -2,12 +2,15 @@
 
   <div>
     <div class="post_content pt-10 pb-20 xl:py-24  bg-white">
+      <img class="img-header" :src="post.img" alt="" v-if="!post.file">
       <div class="container  flex">
+
         <div class="w-full lg:w-3/4 p-5">
+
           <h1 class="2xl:text-xl text-lg title">{{ post.title }}</h1>
           <p class="my-6 font-bold"> {{ new Date(post.date).toLocaleDateString('es-MX', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })  }}</p>
           <p class="my-6">
-            Por: {{ post.autores ? post.autores.map(a => a.autor).join(', ') : '' }}
+            Por: {{ post.autores ? post.autores.map(a => a.autor).join(', ') : post.autor }}
             <span v-if="post.medio"
               >Para: <a :href="post.link">{{ post.medio }}</a></span
             >
@@ -26,9 +29,9 @@
               <img :src="image" alt="">
             </div>
           </div>
-          <button class="block ml-auto bg-gray-dark font py-2 px-7 rounded-md my-3 text-white">Descargar</button>
+          <button v-if="post.file" class="block ml-auto bg-gray-dark font py-2 px-7 rounded-md  my-3 text-white">Descargar</button>
 
-          <div class="share content-end flex justify-end lg:items-center md:flex-wrap xl:flex-nowrap">
+          <div class="share content-end flex justify-end lg:items-center my-2 md:flex-wrap xl:flex-nowrap">
 
             <ShareNetwork
                 network="LinkedIn"
