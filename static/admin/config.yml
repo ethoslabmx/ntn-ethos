@@ -55,6 +55,7 @@ collections:
       - { label: 'Imagen Alt', name: 'img-alt', widget: 'string', required: false }
       - { label: 'Autor', name: 'autor', widget: 'string' }
       - { label: 'Categoria', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion"]}
+      - { label: 'Extracto', name: 'extracto', widget: 'string', required: false }
       - { label: 'Contenido', name: 'body', widget: 'markdown' }
       - { label: 'Archivo Adjunto', name: 'file', widget: 'file', required: false }
       - { label: 'Galería', name: 'galeria', widget: 'image', media_library: { config: { multiple: true}}, required: false }
@@ -94,6 +95,7 @@ collections:
       - { label: 'Autor', name: 'autor', widget: 'string' }
       - { label: 'Enlace artículo', name: 'link', widget: 'string', required: false }
       - { label: 'Categoria', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion","think-tanks"]}
+      - { label: 'Extracto', name: 'extracto', widget: 'string', required: false }
       - { label: 'Contenido', name: 'body', widget: 'markdown' }
       - { label: 'Galería', name: 'galeria', widget: 'image', media_library: { config: { multiple: true}}, required: false }
   - name: 'eventos'
@@ -129,6 +131,7 @@ collections:
       - { label: 'Autor', name: 'autor', widget: 'string' }
       - { label: 'Enlace video', name: 'video', widget: 'string' }
       - { label: 'Categoria', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion"]}
+      - { label: 'Extracto', name: 'extracto', widget: 'string', required: false }
       - { label: 'Contenido', name: 'body', widget: 'markdown', required: false }
   - name: 'micrositios'
     label: 'Micrositios'

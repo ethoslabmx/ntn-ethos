@@ -20,12 +20,12 @@
         <div class="busqueda-categorias">
           <h2 class="title">CATEGORÍAS</h2>
           <ul class="title">
-            <li>Publicaciones</li>
-            <li>Reportajes Periodísticos</li>
-            <li>Columnas de Opinión</li>
-            <li>Noticias</li>
-            <li>Eventos</li>
-            <li>Videos</li>
+            <li><input type="checkbox" id="cbox1" value="first_checkbox"> <label>Publicaciones</label></li>
+            <li><input type="checkbox" id="cbox1" value="first_checkbox"> <label>Reportajes Periodísticos</label></li>
+            <li><input type="checkbox" id="cbox1" value="first_checkbox"> <label>Columnas de Opinión</label></li>
+            <li><input type="checkbox" id="cbox1" value="first_checkbox"> <label>Noticias</label></li>
+            <li><input type="checkbox" id="cbox1" value="first_checkbox"> <label>Eventos</label></li>
+            <li><input type="checkbox" id="cbox1" value="first_checkbox"> <label>Videos</label></li>
           </ul>
         </div>
       </div>

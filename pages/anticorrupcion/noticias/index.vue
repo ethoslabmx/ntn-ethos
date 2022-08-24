@@ -26,7 +26,7 @@
             </div>
 
             <div class="content content-center mb-10">
-              <p>{{ col.body.children[1].children[0].value }}</p>
+              <p>{{ col.body.children[1] ? col.body.children[0].value : '' }}</p>
             </div>
 
 

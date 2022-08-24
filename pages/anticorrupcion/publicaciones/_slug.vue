@@ -29,7 +29,7 @@
               <img :src="image" alt="">
             </div>
           </div>
-          <button v-if="post.file" class="block ml-auto bg-gray-dark font py-2 px-7 rounded-md  my-3 text-white">Descargar</button>
+          <button v-if="post.file" class="block ml-auto bg-gray-dark font py-2 px-7 rounded-md  my-3 text-white" @click="download(post.file)">Descargar</button>
 
           <div class="share content-end flex justify-end lg:items-center my-2 md:flex-wrap xl:flex-nowrap">
 
@@ -135,6 +135,11 @@ export default {
       currentUrl:'https://radiant-semifreddo-901f94.netlify.app/anticorrupcion/publicaciones/'+this.$route.params.slug
     }
   },
+  methods:{
+    download(file){
+      window.open(file);
+    }
+  }
 };
 </script>
 

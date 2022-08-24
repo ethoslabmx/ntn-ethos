@@ -10,7 +10,7 @@
         <div class="col mt-6 2xl:mt-0 mx-auto 2xl:ml-auto 2xl:mr-0">
           <img :src="d.img" alt="" class="">
 
-          <a href="d.link" class="block mx-auto bg-gray-dark py-2 px-7 rounded-md my-3 text-white">Descargar</a>
+          <a href="" @click="download(d.file)" class="block mx-auto bg-gray-dark py-2 px-7 rounded-md my-3 text-white">Descargar</a>
 
         </div>
       </div>
@@ -31,5 +31,11 @@ export default {
       documentos
     };
   },
+  methods:{
+    download(url){
+      console.log(url);
+      window.open(url);
+    }
+  }
 }
 </script>

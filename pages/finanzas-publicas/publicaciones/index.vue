@@ -5,9 +5,9 @@
       <div
         class="flex container px-5 xl:px-28 items-center justify-between flex-wrap md:flex-nowrap md:flex-row-reverse">
 
-        <div class="right md:p-7 p-5 md:w-1/3  3xl:w-1/4 w-full flex md:flex-col justify-between text-right">
+        <div class="right md:py-7 py-5 md:w-1/3  3xl:w-1/4 w-full flex md:flex-col justify-between text-right">
           <div class="img md:ml-auto content-start my-6">
-            <img :src="evento.img" alt="" class="w-auto h-52 mb-3 shadow-xl" />
+            <img :src="evento.img" alt="" class="w-auto h-50 mb-2 shadow-xl" />
 
           </div>
 

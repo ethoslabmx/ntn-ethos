@@ -1,6 +1,7 @@
 <template>
   <div>
     <div class="post_content pt-10 pb-20 xl:py-24  bg-white">
+      <img class="img-header" :src="post.img" alt="" v-if="!post.file">
       <div class="container flex">
         <div class="w-full lg:w-3/4 p-5">
           <h1 class="2xl:text-xl text-lg title">{{ post.title }}</h1>
@@ -19,7 +20,7 @@
         </div>
         <div class="w-full lg:w-3/4 p-5">
           <nuxt-content :document="post" />
-          <button class="block ml-auto bg-gray-dark font py-2 px-7 rounded-md my-3 text-white">Descargar</button>
+          <button v-if="post.file" class="block ml-auto bg-gray-dark font py-2 px-7 rounded-md my-3 text-white"  @click="download(post.file)">Descargar</button>
           <div class="share content-end flex justify-end lg:items-center md:flex-wrap xl:flex-nowrap">
 
             <ShareNetwork
@@ -125,6 +126,11 @@ export default {
       articulos
     };
   },
+  methods:{
+    download(file){
+      window.open(file);
+    }
+  }
 
 };
 </script>
