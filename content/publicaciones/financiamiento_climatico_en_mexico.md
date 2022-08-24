@@ -1,20 +1,15 @@
 ---
-autor: Ethos
 title: Financiamiento climático en México
-date: 2020-11-01T16:32:53.150Z
+date: 2021-01-26T16:32:53.150Z
 img: /img/financiamiento-climatico-latinoame_rica-sostenible-horizontal-redes-02-07.jpg
+autor: Ethos
+extracto: Una recuperación justa y resiliente implica promover medidas que
+  reflejen la interdependencia entre la economía, la salud y la sociedad con el
+  ambiente para aumentar la inclusión social y el bienestar de las personas,
+  especialmente las más vulnerables.
 autores:
   - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: desarrollo-sostenible
-extracto: "**Una recuperación justa y resiliente implica promover medidas que
-  reflejen la interdependencia entre la economía, la salud y la sociedad con el
-  ambiente para aumentar la inclusión social y el bienestar de las personas,
-  especialmente las más vulnerables**. Requiere transformar los sistemas de
-  producción y consumo, reconociendo que es necesario cambiar el modelo
-  socioeconómico actual por uno que contribuya a los Objetivos de Desarrollo
-  Sostenible (ODS) y a transitar hacia una **economía carbono
-  neutral** con **impactos reducidos en la naturaleza** (Alianza Latinoamérica
-  Sostenible, 2020)."
 file: /img/latinoame_rica-sostenible-_co_mo-impulsar-una-recuperacio_n-justa-y-resiliente-a-partir-del-financiamiento-clima_tico-en-me_xico_-2.pdf
 ---
 <!--StartFragment-->

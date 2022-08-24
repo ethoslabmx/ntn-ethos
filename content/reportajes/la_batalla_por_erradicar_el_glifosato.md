@@ -9,9 +9,7 @@ extracto: En abril de 2020, el presidente de la república, Andrés Manuel Lópe
   redactaran un decreto presidencial. En esa ocasión, López Obrador les indicó
   que el decreto debía prohibir el maíz transgénico y el glifosato, un
   agroquímico que ha sido señalado por la Organización Mundial de la Salud como
-  probable carcinógeno en humanos, entre otros [daños serios a la
-  salud](https://conacyt.mx/cibiogem/images/cibiogem/comunicacion/MONOGRAFIA_SOBRE_GLIFOSATO_19.pdf) y
-  al medio ambiente.
+  probable carcinógeno en humanos, entre otros y al medio ambiente.
 file: https://ucarecdn.com/cc1fe7c3-0810-499f-86a2-3587c2eb9c97/
 ---
 <!--StartFragment-->
