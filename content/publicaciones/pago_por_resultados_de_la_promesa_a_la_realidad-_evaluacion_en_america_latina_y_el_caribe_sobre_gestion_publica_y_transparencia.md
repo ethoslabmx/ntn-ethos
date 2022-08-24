@@ -1,7 +1,7 @@
 ---
 title: Pago por Resultados, de la promesa a la realidad. Evaluación en América
   Latina y el Caribe sobre gestión pública y transparencia
-date: 2022-08-16T15:34:55.865Z
+date: 2020-01-24T16:34:55.865Z
 img: /img/pagoporresultados.jpeg
 autor: Ethos
 autores:
