@@ -4,12 +4,12 @@ title: Sembrando Vida el fin a las irregularidades y la corrupción o la
 date: 2022-08-16T15:05:24.157Z
 img: /img/sembrando-vida-filtro.color_.diluido-1-scaled.jpg
 autor: Andrés M. Estrada
-category: desarrollo-sostenible
+category: inclusion
 file: /img/sembrando-vida_-_el-fin-a-las-irregularidades-y-la-corrupcion-o-la-continuidad-del-corrompimiento.pdf
 ---
 <!--StartFragment-->
 
- ***pesar del discurso de la eliminación de intermediarios para poner fin a la corrupción, persisten vicios en la operación del programa Sembrando Vida por parte de técnicos que tienen  mucha influencia y poder de decisión, sin una supervisión, aunado a que son el personal más vulnerable en términos económicos y de inseguridad; así como, indicios de un clientelismo disfrazado. Aunque otros riesgos son el conflicto de interés con viveros privados por la adjudicación directa de contratos, ante el desabasto de árboles; la ausencia de información sobre las plantas de mejor rendimiento y utilidad, y la falta de un programa de integración comercial para los productos forestales. Estos riesgos, de no ser atendidos de forma urgente, podrían llevar al fracaso del programa.***
+ ***Apesar del discurso de la eliminación de intermediarios para poner fin a la corrupción, persisten vicios en la operación del programa Sembrando Vida por parte de técnicos que tienen  mucha influencia y poder de decisión, sin una supervisión, aunado a que son el personal más vulnerable en términos económicos y de inseguridad; así como, indicios de un clientelismo disfrazado. Aunque otros riesgos son el conflicto de interés con viveros privados por la adjudicación directa de contratos, ante el desabasto de árboles; la ausencia de información sobre las plantas de mejor rendimiento y utilidad, y la falta de un programa de integración comercial para los productos forestales. Estos riesgos, de no ser atendidos de forma urgente, podrían llevar al fracaso del programa.***
 
 El polvo se levanta a cada paso que da en su parcela, hasta impregnarse en la cobriza piel de su cara y adherirse en las uñas de sus callosos dedos. Don Neftaly Sánchez es un campesino de 55 años de edad que pasa largas jornadas de trabajo sembrando maíz, arando surcos y deshierbando su milpa bajo el sol desde las primeras horas del día. Un par de años atrás, al finalizar el primer ciclo de siembra, el de primavera-verano, cosechaba las mazorcas de sus 5 hectáreas. Tres de ellas se destinaban para consumo propio. El resto se vendía y generaba un ‘dinerito’ para gastos personales y de la familia.
 
