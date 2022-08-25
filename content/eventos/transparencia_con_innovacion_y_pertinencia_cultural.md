@@ -5,6 +5,12 @@ img: /img/pertinencia-cultural.jpg
 img-alt: Pertinencia Cultural
 autor: Ethos
 category: anticorrupcion
+extracto: Para combatir la corrupción, es indispensable que en cada estado del
+  país haya un ecosistema de organizaciones de la sociedad civil (OSC) que
+  detecte y denuncie actos de corrupción, pero desafortunadamente, no todas las
+  entidades federativas cuentan con ello, afirmó Liliana Alvarado durante la
+  presentación del micrositio «Transparencia con Pertinencia Cultural»,
+  elaborado por nuestra organización aliada Kintiltik.
 ---
 <!--StartFragment-->
 
