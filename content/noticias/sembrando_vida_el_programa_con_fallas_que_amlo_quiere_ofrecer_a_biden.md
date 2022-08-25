@@ -5,6 +5,10 @@ img: /img/campesinosembrando-vida.png
 autor: Expansión
 link: https://politica.expansion.mx/mexico/2021/04/22/sembrando-vida-el-programa-con-fallas-que-amlo-quiere-ofrecer-a-biden
 category: desarrollo-sostenible
+extracto: Mientras caminaba entre grandes árboles, el presidente Andrés Manuel
+  López Obrador anunció que prevé presentar “Sembrando Vida”, uno de los
+  programas estrella de su gobierno, a su homólogo estadounidense Joe Biden,
+  durante la Cumbre de Líderes sobre el Clima.
 ---
 <!--StartFragment-->
 

@@ -1,9 +1,15 @@
 ---
 title: Ethos un think tank innovador entre los mejores de América Latina
-date: 2018-12-02T00:10:11.469Z
+date: 2019-02-01T00:10:11.469Z
 img: https://ucarecdn.com/edced476-b1f4-44b1-9103-338af41147eb/
 autor: Ethos
 category: think-tanks
+extracto: Ethos Laboratorio de Políticas Públicas es uno de los think tanks más
+  relevantes e innovadores de México y América Latina, según el Índice Global de
+  Think Tanks 2018. Dicho reporte, elaborado cada año por el Think tanks and
+  Civil Societies Program (TTCSP) de la Universidad de Pensilvania, muestra un
+  panorama de los think tanks a nivel mundial y sirve como referente para
+  promover la evaluación y mejora continua de dichas instituciones.
 ---
 * **Ethos Laboratorio de Políticas Públicas** figura entre los mejores *think tanks* de México, según el Índice Global de Think Tanks 2018.
 * **A nivel mundial,** Ethos destaca por sus propuestas de políticas más innovadoras y como un *think tank* independiente.

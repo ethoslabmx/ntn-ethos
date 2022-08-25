@@ -5,6 +5,10 @@ img: /img/inseeguridad-alimentaria.png
 autor: La Jornada
 link: https://www.jornada.com.mx/notas/2021/02/11/politica/inseguridad-alimentaria-en-casi-60-de-los-hogares-mexicanos-revela-encuesta/
 category: desarrollo-sostenible
+extracto: Lisa Grabinsky, coordinadora de sistemas alimentarios de Ethos
+  Laboratorio de Políticas Públicas, indicó que la pandemia fomentó un “círculo
+  vicioso” que involucra desempleo y crisis económica, así como desequilibrios
+  en las cadenas productivas, con inseguridad alimentaria y malnutrición.
 ---
 <!--StartFragment-->
 

@@ -6,6 +6,13 @@ img: /img/empresa-social.png
 autor: Ethos
 link: https://www.facebook.com/ethoslaboratorio/videos/2518124251822889/
 category: desarrollo-sostenible
+extracto: "Con un análisis de la situación en la que se encuentran las empresas
+  sociales en México y la experiencia de este modelo en Latinoamérica inició la
+  serie de webinarios «Empresa social: una propuesta para las problemáticas
+  sociales y ambientales en América Latina», organizado de manera coordinada por
+  Ethos Laboratorio de políticas Públicas, la Red de Investigación para una
+  Nueva Economía (Redine) y la Alianza para la Inversión de Impacto en México
+  (AIIM)."
 ---
 <!--StartFragment-->
 

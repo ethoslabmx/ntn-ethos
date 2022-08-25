@@ -1,9 +1,15 @@
 ---
 title: "SALUD PÚBLICA Y TABACO: ÁREAS DE MEJORA EN EL ÁMBITO LOCAL"
-date: 2021-02-09T16:50:57.637Z
+date: 2021-06-10T15:50:57.637Z
 img: /img/salud-publica-webinar.png
 autor: Ethos
 category: desarrollo-sostenible
+extracto: La normalización del consumo del tabaco es una problemática que se
+  debe atender desde el ámbito social, pero también desde el marco regulatorio y
+  mecanismos de prevención, no solo a nivel federal, sino considerando a
+  estados, municipios y comunidades indígenas del país, afirmaron especialistas,
+  activistas, académicos y representantes de ONG locales convocados por Ethos
+  Laboratorio de Políticas Públicas.
 ---
 <!--StartFragment-->
 

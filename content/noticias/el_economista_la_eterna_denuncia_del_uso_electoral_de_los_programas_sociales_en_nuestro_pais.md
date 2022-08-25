@@ -1,11 +1,15 @@
 ---
 title: "EL ECONOMISTA: LA ETERNA DENUNCIA DEL USO ELECTORAL DE LOS PROGRAMAS
   SOCIALES EN NUESTRO PAÍS"
-date: 2022-01-21T16:17:28.575Z
+date: 2021-01-21T16:17:28.575Z
 img: /img/programas_sociales_uso_electoral.jpg
 autor: El Economista
 link: https://www.eleconomista.com.mx/politica/La-eterna-denuncia-del-uso-electoral-de-los-programas-sociales-en-nuestro-pais-20210121-0003.html
 category: inclusion
+extracto: En un reciente estudio realizado por la organización Ethos,
+  Laboratorio de Políticas Públicas se advirtió que cualquier programa de
+  subsidios tiene que extremar sus medidas precautorias para evitar la
+  reproducción de problemas e inercias de las prácticas corruptas tradicionales.
 ---
 <!--StartFragment-->
 

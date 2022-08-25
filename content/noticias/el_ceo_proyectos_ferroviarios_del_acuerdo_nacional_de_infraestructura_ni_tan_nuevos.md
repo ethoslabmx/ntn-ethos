@@ -6,6 +6,10 @@ img: /img/ferrocarril-viejo-bosque-otono-nublado_118086-1262.jpg
 autor: "El CEO "
 link: https://elceo.com/bienes-raices/proyectos-ferroviarios-del-acuerdo-nacional-de-infraestructura-ni-tan-nuevos/
 category: ciudades-del-futuro
+extracto: El Acuerdo Nacional de Infraestructura, firmado por la iniciativa
+  privada y el gobierno federal, incluye entre los 147 proyectos el desarrollo
+  de ocho ferrocarriles y trenes suburbanos a lo largo de la República Mexicana,
+  para los cuales se invertirán 67, 544 millones de pesos entre 2020 y el 2024.
 ---
 <!--StartFragment-->
 

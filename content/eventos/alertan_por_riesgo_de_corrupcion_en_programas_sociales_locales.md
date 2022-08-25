@@ -1,10 +1,14 @@
 ---
 title: ALERTAN POR RIESGO DE CORRUPCIÓN EN PROGRAMAS SOCIALES LOCALES
-date: 2021-08-31T15:23:36.367Z
+date: 2021-09-02T15:23:36.367Z
 img: /img/programa_social_o.jpg_1093282975.jpg
 autor: Maritza Pérez
 link: https://www.eleconomista.com.mx/politica/Alertan-por-riesgo-de-corrupcion-en-programas-sociales-locales-20210831-0136.html
 category: inclusion
+extracto: En México, los programas de desarrollo social a nivel estatal y
+  municipal operan bajo múltiples riesgos de corrupción derivado de carencias en
+  transparencia, rendición de cuentas e incorporación de la participación
+  ciudadana, con al menos un 61% de sus procesos y operaciones presenta riesgos.
 ---
 <!--StartFragment-->
 

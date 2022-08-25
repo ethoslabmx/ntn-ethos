@@ -1,9 +1,13 @@
 ---
 title: "THINK TANKS FUERTES, NECESARIOS PARA LA DEMOCRACIA: ETHOS"
-date: 2022-08-14T23:13:31.598Z
+date: 2019-10-25T23:13:31.598Z
 img: /img/tt-fuertes-necesarios.jpeg
 img-alt: Think Tanks Fuertes son necesarios
 autor: Ethos
+link: Ana Paula Sandoval, asesora de Ethos, participó en el Segundo Foro
+  Internacional “Democracia y Elecciones”, convocado por el Instituto Electoral
+  del Estado de Querétaro (IEEQ), y al que asistieron más de mil 800 jóvenes de
+  11 universidades.
 category: think-tanks
 ---
 <!--StartFragment-->

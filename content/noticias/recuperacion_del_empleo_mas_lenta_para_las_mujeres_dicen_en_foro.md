@@ -1,10 +1,17 @@
 ---
 title: RECUPERACIÓN DEL EMPLEO, MÁS LENTA PARA LAS MUJERES, DICEN EN FORO
-date: 2021-06-21T15:18:59.362Z
+date: 2021-06-04T15:18:59.362Z
 img: /img/empleo-mujeres.png
 autor: La Jornada.
 link: https://www.jornada.com.mx/notas/2021/06/04/politica/recuperacion-del-empleo-mas-lenta-para-las-mujeres-dicen-en-foro/
 category: inclusion
+extracto: Al participar en el foro organizado por Ethos Laboratorio de Políticas
+  Públicas, Annabelle Sulmont, coordinadora del Proyecto de Políticas Generales
+  del Programa de Naciones Unidas para el Desarrollo (PNUD), expuso que, para la
+  mayoría de trabajadores, quienes están en la informalidad, quedarse en casa no
+  es opción ya que les generaría no percibir ingresos, pero en caso de
+  contagiarse de coronavirus o cualquier enfermedad, la afectación económica es
+  mayor, ya que no cuentan con ningún tipo de protección social.
 ---
 <!--StartFragment-->
 

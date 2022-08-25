@@ -5,6 +5,12 @@ img: /img/financiamiento-social-webinar.png
 autor: Ethos
 link: https://www.facebook.com/ethoslaboratorio/videos/434911900957544/
 category: desarrollo-sostenible
+extracto: "Como parte de la serie «Empresa social: una propuesta para las
+  problemáticas sociales y ambientales», organizada por la Red de Red de
+  Investigación para una Nueva Economía, la Alianza por la Inversión de Impacto
+  en México y Ethos Laboratorio de Políticas Públicas se realizó el segundo
+  webinario, enfocado al análisis de los mecanismos de financiamiento de las
+  también llamadas empresas de triple impacto,"
 ---
 <!--StartFragment-->
 
