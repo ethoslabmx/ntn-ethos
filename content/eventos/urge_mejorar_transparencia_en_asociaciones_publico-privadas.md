@@ -5,6 +5,11 @@ img: /img/panel_transparencia_asociaciones.jpg
 autor: Excélsior
 link: https://www.excelsior.com.mx/nacional/urge-mejorar-transparencia-en-asociaciones-publico-privadas/1349012
 category: ciudades-del-futuro
+extracto: Si bien hay una necesidad urgente del presidente Andrés Manuel López
+  Obrador por reactivar la inversión, su gobierno ha sido cauteloso en la
+  implementación de los esquemas Asociaciones Público Privadas (APP) por temas
+  de transparencia y posibles actos de corrupción en el pasado, señaló Ana Laura
+  Barrón, investigadora de Ethos Laboratorio de Políticas Públicas.
 ---
 <!--StartFragment-->
 
