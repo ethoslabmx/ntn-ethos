@@ -1,10 +1,12 @@
 ---
 title: PRESENTACIÓN RIESGOS DE CORRUPCIÓN EN PROGRAMAS SOCIALES
-date: 2020-07-01T15:21:47.278Z
+date: 2021-09-03T15:21:47.278Z
 img: /img/riesgos_de_corrupcion.jpg
 autor: Ethos
 link: https://www.ethos.org.mx/wp-content/uploads/2021/09/Presentacion-Evento-Riesgos-de-Corrupcion-2021-31-08.pdf
 category: inclusion
+extracto: "Los programas sociales es que son instrumentos de políticas públicas
+  pensados para resolver los problemas sociales y, en particular, la pobreza. "
 ---
 <!--StartFragment-->
 
