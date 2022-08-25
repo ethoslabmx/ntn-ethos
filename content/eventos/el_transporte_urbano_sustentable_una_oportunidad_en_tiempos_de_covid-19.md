@@ -5,6 +5,11 @@ img: /img/zoom-transporte-urbano.png
 autor: Ethos
 link: https://www.youtube.com/watch?v=lJuy4Lwttjg
 category: ciudades-del-futuro
+extracto: En la actualidad, ante la crisis provocada por la pandemia de
+  COVID-19, surgen varios retos, pero también oportunidades en distintas áreas,
+  como el transporte urbano; estamos en un momento crucial para volver la mirada
+  hacia la movilidad sustentable, que contribuya a su vez a la recuperación
+  económica y resiliente de las ciudades.
 ---
 <!--StartFragment-->
 
