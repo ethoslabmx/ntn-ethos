@@ -5,6 +5,12 @@ date: 2021-08-31T15:25:10.932Z
 img: /img/riesgos-de-corrupcio_n.jpeg
 autor: Ethos
 category: inclusion
+extracto: Con el objetivo de dar a conocer el trabajo realizado desde la
+  sociedad civil para desarrollar metodologías que permitan identificar riesgos
+  de corrupción en programas sociales, se ha trabajado en el diseño de
+  herramientas amigables para que la ciudadanía pueda realizar este tipo de
+  acciones de vigilancia, y el propósito final es incentivar que los programas
+  sociales tengan mejores resultados.
 ---
 <!--StartFragment-->
 
