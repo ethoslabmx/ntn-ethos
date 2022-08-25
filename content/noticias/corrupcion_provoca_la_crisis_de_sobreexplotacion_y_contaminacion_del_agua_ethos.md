@@ -1,10 +1,16 @@
 ---
 title: "Corrupción provoca la crisis de sobreexplotación y contaminación del
   agua: Ethos"
-date: 2022-08-24T02:01:33.650Z
+date: 2019-10-02T02:01:33.650Z
 img: https://ucarecdn.com/f7ce880e-3668-49e5-ab58-5700d267fcbd/
 autor: Ethos Laboratorio de Políticas Públicas
+link: ""
 category: anticorrupcion
+extracto: La corrupción en la gestión del agua es un tema poco atendido y con
+  consecuencias directas sobre la calidad de vida de las personas y el medio
+  ambiente, explicó Dalia Toledo, coordinadora anticorrupción de Ethos, durante
+  la presentación del estudio «La corrupción en el sector agua. ¿Quién es
+  responsable de la crisis?» en el Huerto Roma Verde.
 ---
 La corrupción en la gestión del agua **es un tema poco atendido y con consecuencias directas**sobre la calidad de vida de las personas y el medio ambiente, explicó Dalia Toledo, coordinadora anticorrupción de Ethos, durante la presentación del estudio **«La corrupción en el sector agua. ¿Quién es responsable de la crisis?»** en el Huerto Roma Verde.
 
