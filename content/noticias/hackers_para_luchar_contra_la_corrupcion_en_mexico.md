@@ -1,0 +1,46 @@
+---
+title: Hackers para luchar contra la corrupción en México
+date: 2016-12-13T02:32:05.386Z
+img: https://ucarecdn.com/ff487396-3126-4839-9ef2-ce33c84ff6f7/
+autor: " Andrea Fernández"
+category: anticorrupcion
+extracto: "Ethos y Hackers and Founders han lanzado una convocatoria para su
+  Hackathon Anticorrupción. La idea es que los interesados en tecnología,
+  programación y hackers desarrollen aplicaciones móviles o web que ayuden a
+  combatir uno de los problemas más destacados de México: la corrupción."
+---
+*Abren la convocatoria para el Hackathon Ethos Anticorrupción, con el que buscan desarrollar una app que ayude a combatir el problema de corrupción.*
+
+Ethos y Hackers and Founders han lanzado una convocatoria para su [*Hackathon Anticorrupción*.](http://www.hackathonethos.org/) La idea es que los interesados en tecnología, programación y hackers **desarrollen aplicaciones móviles o web** que ayuden a combatir uno de los problemas más destacados de México: **la corrupción.**
+
+El evento se realizará los días 28 y 29 de enero, y la convocatoria de inscripción de equipos está abierta hasta el día antes del *hackathon*. La dinámica es la siguiente: el primer día se hace el registro de equipo, comienza el *brainstorming* y se hace oficial el proyecto de cada participante. Después, y hasta las 00:00 horas, los equipos pueden programar. Al día siguiente se realizarán los *demo* de ocho equipos, la revisión técnica y se procederá a las presentaciones finales. Después de esto se premiarán a las tres mejores ideas. **El primer lugar recibirá un premio de $300,000** (casi US$15,000) para que pueda desarrollar el proyecto durante tres meses. El segundo y tercer lugar recibirán reconocimientos y “regalos “sorpresas” de los organizadores.
+
+Ethos ha lanzado esa convocatoria porque cree firmemente en que la [tecnología](http://ebusinesshoy.com/hacklloween-el-hackathon-de-bbva-bancomer-con-todo-y-fiesta-de-disfraces/ "Hacklloween: el hackathon de BBVA Bancomer (con todo y fiesta de disfraces)") es una buena herramienta para cambiar algunas condiciones de México, aunque de momento no se han aplicado con éxito en el país. “Sabemos que se han hecho esfuerzos para impulsar la transparencia en el ejercicio de los gobiernos, así como compartir, diseñar y desarrollar soluciones tecnológicas innovadoras a los problemas de corrupción en México; **sin embargo, no se han podido articular de manera adecuada** para tener un impacto considerable”, señala **Alejandro Pulido García**, coordinador de Anticorrupción y Transparencia en Ethos.
+
+Es por esa realidad frustrada que ven con buenos ojos su convocatoria. “El Hackathon Ethos Anticorrupción ha logrado en sus primeros días la**alianza con más de 20 organizaciones de la sociedad civil**, y esperamos en enero la integración de las principales universidades de la Ciudad de México, **a fin de lograr una gran difusión**; de la misma forma, se integrarán estrategias para la **viralización de la aplicación**una vez que se encuentre concluida, aproximadamente en mayo de 2017. El objetivo es lograr la participación y posteriormente dar un seguimiento e impulso al desarrollo hasta su implementación”, relata este ex asesor de la Cámara de Senadores.
+
+## MILLONES Y MILLONES DE PESOS EN CORRUPCIÓN
+
+La corrupción es uno de los problemas más evidentes a los ojos de los mexicanos de a pie. En el Índice de Transparencia Internacional 2015, México consiguió unos escasos 35 puntos, que indican un nivel alto de percepción de la corrupción en el sector público (0=muy corrupto y 100= muy transparente). El país azteca logró la misma puntuación que **Armenia, Mali y Filipinas.** Estos dos últimos países, además de compartir la corrupción como uno de sus principales problemas, también se caracterizan por la ineficiencia en los procesos gubernamentales, altos índices de pobreza, fallos en el sistema educativo, crimen organizado y violencia doméstica. ¿Suena familiar?
+
+Pulido García maneja algunas cifras alarmantes sobre la corrupción en México: por ejemplo que de cada 100,000 contactos que se hacen con servidores públicos se producen 12,590 actos de corrupción. **Es decir un 12,6% de los contactos están manchados**. Por otra parte, Pulido recuerda que según la Encuesta Global sobre Fraude (2016) un 82% de los empresarios encuestados reconocía que los **sobornos y la corrupción son “prácticas habituales para hacer negocios en México”**.
+
+Esto se traduce en mucho, mucho dinero. Pulido sostiene que según el [INEGI](http://ebusinesshoy.com/peligra-el-futuro-del-empleo-en-mexico-con-el-ia-y-el-machine-learning/ "¿Peligra el futuro del empleo en México con la IA y el machine learning?") la corrupción se podría cotizar sobre los $347,000 millones, lo que equivaldría a un 2% del PIB de 2013 de México. Por otra parte, el Banco Mundial aumenta esa cifra, y considera que la corrupción le estaría costando a México el 9% de su PIB y un 80% de la recaudación de impuestos.
+
+“Según la Auditoría Superior de la Federación, la falta de sanciones a los actos corruptos costó a México 86 mil millones de dólares, que se atribuyen a desvíos, subejercicios y despilfarros de recursos públicos, así como pagos indebidos en el gobierno”, finaliza el recuento Pulido del impacto económico de las [prácticas corruptas en México.](http://ebusinesshoy.com/mexico-a-punto-de-ingresar-a-los-paises-mas-innovadores/ "México a punto de ingresar a los países más innovadores")
+
+## EL PODER DE LAS NUEVAS TECNOLOGÍAS
+
+Sí, la corrupción es un gran problema, pero esto no es un impedimento para que los ciudadanos le hagan frente. Según el Foro Económico Mundial, la tecnología se usa en partes del mundo para mejorar la visibilidad en los procesos gubernamentales, y como herramienta de denuncia de situaciones irregulares con funcionarios públicos. Hay diferentes aplicaciones, como el Big Data, que mediante el análisis masivo de datos destapa escándalos.
+
+Lauren Silveira, de la Iniciativa de Asociación contra la Corrupción del Foro Económico Mundial publicaba en un artículo que tradicionalmente la exposición de la corrupción se complicaba debido a la cantidad masiva de datos que ésta implicaba. Pero gracias a la digitalización y procesos de gestión de datos ahora es más sencillo encontrar patrones de transacciones de dudosa, evasión de impuestos o cualquier jugarreta sucia.
+
+Otra potente opción son las aplicaciones móviles, **que dan poder al ciudadano.** En India desarrollaron una plataforma (disponible en IOS, Android y Windows Phone) a través de la cual los ciudadanos pueden informar a una asociación si las autoridades les exigieron un soborno (y lo pagaron), si se negaron a pagar un soborno e incluso si han conocido funcionarios honestos. El proyecto se llama [ipaidabribe.com](http://ipaidabribe.com/#gsc.tab=0) y hasta la fecha han recibido 114,000 informes. Esta iniciativa se encuentra disponible en **Colombia y Guyana, y se implementará “próximamente” en Brasil, Argentina y ¡México!.** Por ejemplo, en el territorio mexicano según The CIU (The Competitive Intelligence Unit) hay 88.9 millones de smartphones. ¿Se imagina que cada uno de esos usuarios tuviese descargada una aplicación para reportar actos de corrupción?
+
+Por su parte Pulido se apoya en cifras de la AMIPCI sobre el uso de la tecnología en México. “El 52% de los accesos a internet se produce a través de un [teléfono móvil, ](http://ebusinesshoy.com/el-mercado-mobile-en-mexico/ "El mercado mobile en México")principalmente para acceso a redes sociales. La gran participación en redes sociales **abre la puerta a una viralización** de las aplicaciones tecnológicas, con lo que se buscaría llegar a diversos segmentos de la población. Nos queda claro que **los jóvenes son el segmento clave y los principales activistas que podría tener el Sistema Nacional Anticorrupción**”.
+
+Con todo este escenario planteado, la intención del *Hackathon Ethos Anticorrupción* no es sólo hacer un concurso, dar un premio y que después todos se vayan a casa. No, esta propuesta está planificada para dar apoyo a los ganadores en la ejecución de la idea y llevarla a la vida (mayo 2017, aproximadamente), así como también lanzar una estrategia digital de difusión.
+
+“**El equipo ganador contará con un espacio en Wayra**, para ser guiados a manera de emprendimiento social. Adicionalmente contarán con una serie de capacitaciones en diferentes materias que les permitan trabajar bajo ciertos **estándares de calidad en el desarrollo de la aplicación**”, relata Pulido.
+
+El experto en Anticorrupción señala también que durante los tres meses de desarrollo de la aplicación ganadora, Ethos tendrá juntas quincenales con el equipo. “Además de que los integraremos en dinámicas que tengan que ver con **la difusión de la aplicación y posteriormente su presentación pública y lanzamiento**”, estima. Su plan a *posteriori* es fortalecer las alianzas con las organizaciones universidades y medios de comunicación, y también trabajar “de cerca con influenciadores en redes sociales para lograr que la aplicación llegue al mayor número posible de ciudadanos”.
