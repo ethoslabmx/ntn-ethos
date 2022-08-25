@@ -1,9 +1,15 @@
 ---
 title: RECONOCEN A ETHOS COMO UNO DE LOS THINK TANKS MÁS INNOVADORES DE AMÉRICA LATINA
-date: 2019-12-02T00:09:00.581Z
+date: 2020-01-31T00:09:00.581Z
 img: /img/ranking-2020-infografia.jpg
 autor: Ethos
 category: think-tanks
+extracto: "Ethos Laboratorio de Políticas Públicas ha sido reconocido como uno
+  de los think tanks más innovadores de México y América Latina, según el Índice
+  Global de Think Tanks 2019. Dicho reporte es elaborado cada año por el Think
+  tanks and Civil Societies Program (TTCSP) de la Universidad de Pensilvania y
+  sirve como referente para promover la mejora continua de los think tanks a
+  nivel mundial. "
 ---
 
 Ethos Laboratorio de Políticas Públicas ha sido reconocido como uno de los ***think tanks* más innovadores de México y América Latina**, según el **Índice Global de Think Tanks 2019**. Dicho reporte es elaborado cada año por el [Think tanks and Civil Societies Program](https://www.gotothinktank.com/) (TTCSP) de la [Universidad de Pensilvania](https://www.upenn.edu/) y sirve como referente para promover la mejora continua de los *think tanks* a nivel mundial. 
