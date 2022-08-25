@@ -1,16 +1,16 @@
 ---
-autor: Ethos
 title: "Control del tabaco: Recomendaciones"
 date: 2021-03-24T04:00:39.129Z
 img:
   - https://ucarecdn.com/f3cc8bbb-1369-434a-9af9-8fdeea564247/
+autor: Ethos
+extracto: El tabaquismo es una de las principales causas de morbilidad y
+  mortalidad evitable en el mundo. Sus efectos ocasionan daños graves a la salud
+  de las personas alrededor del mundo, generando a su vez un impacto negativo en
+  la economía por los elevados costos en salud pública (WHO, 2008)
 autores:
   - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: anticorrupcion
-extracto: "**El tabaquismo es una de las principales causas de morbilidad y
-  mortalidad evitable en el mundo.** Sus efectos ocasionan daños graves a la
-  salud de las personas alrededor del mundo, generando a su vez un impacto
-  negativo en la economía por los elevados costos en salud pública (WHO, 2008)"
 file: https://ucarecdn.com/a527476a-80d5-4afe-9493-51241c421764/
 ---
 **Introducción** 

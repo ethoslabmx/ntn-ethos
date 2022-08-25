@@ -1,9 +1,13 @@
 ---
 title: Justifica SLP atraso en plan anticorrupción
-date: 2022-08-24T03:28:46.217Z
+date: 2019-06-18T03:28:46.217Z
 img: https://ucarecdn.com/76fd4891-60e8-4c08-9e83-086aa0c8d36d/
-autor: "Ethos "
+autor: Zócalo
+link: http://www.zocalo.com.mx/reforma/detail/justifica-slp-atraso-en-plan-anticorrupcion
 category: anticorrupcion
+extracto: El Gobierno de San Luis Potosí adjudicó a problemas internos la
+  tardanza en la construcción de un Sistema Estatal Anticorrupción (SEA), como
+  lo mandata la Ley General del Sistema Nacional Anticorrupción.
 ---
 *Gobierno de SLP achacó tardanza en implementación de Sistema Estatal Anticorrupción a problemas internos, como vacantes en comité ciudadano.*
 
