@@ -1,11 +1,30 @@
 <template>
   <div>
     <JumbotronEquipo />
-    <div class="equipo py-20 border-b-16 border-primary app">
-      <section class="container  mx-auto">
-        <div class="flex flex-wrap lg:flex-nowrap">
+    <div class="equipo py-10 md:py-20 border-b-16 border-primary app">
+      <section class="container">
+        <div class="flex flex-wrap md:flex-nowrap md:flex-row-reverse">
 
-          <div class="w-full lg:w-1/2">
+          <div class="w-full xl:w-1/2 md:2/3 flex items-start border-b-2 md:border-l-2 md:border-b-0 border-gray-dark">
+            <div class="content md:px-5 pb-10 md:pb-0 w-full">
+               <div class="avatar">
+              <img :src="seleccionado.img" alt="" class="w-96 h-auto mx-auto"/>
+            </div>
+            <p class="title mt-6 text-right">{{ seleccionado.nombre}}</p>
+            <p class="title mb-6 text-right">{{ seleccionado.puesto }}</p>
+            <p class="desc">
+              {{ seleccionado.semblanza }}
+            </p>
+            <div class="h-0.5 w-full my-5 bg-gray-dark "></div>
+            <div class="contacto mt-6 flex flex-col ">
+              <div class="mail title xl:text-sm text-xs">
+                <a :href="'mailto:'+seleccionado.email"> {{ seleccionado.email }}</a></div>
+              <a v-show="seleccionado.twitter" :href="'//twitter.com/'+seleccionado.twitter" target="_blank" class="ml-auto block mt-3"><img src="../../assets/images/twwt-orange.png" alt="" class="w-30 h-auto"></a>
+            </div>
+            </div>
+
+          </div>
+          <div class="w-full xl:w-1/2 md:1/3">
             <ul class="list puestos">
               <li >
                 <div @click="p1 = !p1">DIRECCIÓN GENERAL</div>
@@ -69,23 +88,7 @@
               </li>
             </ul>
           </div>
-          <div class="w-full  h-0.5  my-7   lg:w-0.5 lg:h-screen lg:mx-5 bg-gray-dark "></div>
-          <div class="w-full lg:w-1/2 px-10">
-            <div class="avatar">
-              <img :src="seleccionado.img" alt="" class="w-96 h-auto mx-auto"/>
-            </div>
-            <p class="title mt-6 text-right">{{ seleccionado.nombre}}</p>
-            <p class="title mb-6 text-right">{{ seleccionado.puesto }}</p>
-            <p class="desc">
-              {{ seleccionado.semblanza }}
-            </p>
-            <div class="h-0.5 w-full my-5 bg-gray-dark "></div>
-            <div class="contacto mt-6 flex flex-col ">
-              <div class="mail title xl:text-sm text-xs">
-                <a :href="'mailto:'+seleccionado.email"> {{ seleccionado.email }}</a></div>
-              <a v-show="seleccionado.twitter" :href="'//twitter.com/'+seleccionado.twitter" target="_blank" class="ml-auto block mt-3"><img src="../../assets/images/twwt-orange.png" alt="" class="w-30 h-auto"></a>
-            </div>
-          </div>
+
 
         </div>
       </section>
@@ -214,22 +217,37 @@ export default {
     }
 }
 
-.list{
-  margin-top: 2rem;
-  margin-right: 2rem;
-}
 
-.list li {
-  font-size: 20px;
+
+.list {
+   margin-top: 1rem;
+  margin-right: 0rem;
+  li {
+  font-size: 14px;
   margin-bottom: 1rem;
   cursor: pointer;
   text-align: right;
 
+}
+  @media(min-width:700px) {
+  margin-right: 2rem;
 
-  @media(min-width: 768px) {
-    font-size: 22px;
+  }
+  @media(min-width: 1100px) {
+
+ margin-top: 2rem;
+
+    li{
+      font-size: 22px;
     margin-bottom: 1.5rem;
+    }
 
+  }
+}
+
+@media (max-width:400px) {
+  .mail.text-xs{
+    font-size: 10px;
   }
 }
 </style>

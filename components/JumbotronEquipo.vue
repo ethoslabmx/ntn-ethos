@@ -6,7 +6,7 @@
       <div class="container flex items-center">
         <div class="hero w-full p-5 md:p-0  text-center lg:mr-auto lg:w-1/2 text-white text-right">
           <h1 class="3xl:text-5xl md:text-4xl text-3xl big-title mb-6 text-white">EQUIPO</h1>
-          <p class="subtitle text-white">Contamos con un equipo multidisciplinario e internacional de economistas,
+          <p class="4xl:text-xl text-lg text-right text-white font-normal">Contamos con un equipo multidisciplinario e internacional de economistas,
             abogados, politólogos, comunicadores y diseñadores, con experiencia variada en el gobierno y la política, la
             academia y el sector social, motivados para producir investigaciones y propuestas integrales e innovadoras.
           </p>
@@ -24,6 +24,7 @@
   background-position: center center;
   background-repeat: no-repeat;
   z-index: 0;
+  padding: 2rem 0;
 
   &:after {
     content: "";
@@ -41,7 +42,7 @@
 
   }
 
-  @media (min-width:700px) {
+  @media (min-width:1100px) {
     min-height: calc(65vh - 100px);
 
   }

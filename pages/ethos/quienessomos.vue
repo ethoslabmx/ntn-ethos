@@ -6,7 +6,8 @@
       <div class="container pt-10 pb-20 xl:py-24 flex justify-start flex-col">
         <section class="lg:w-2/3 w-full">
           <div class="2xl:mb-20 mb-10">
-            <h2 class="2xl:text-5xl text-2xl  title mb-6">EQUIPO</h2>
+            <h2 class="2xl:text-5xl text-2xl  title mb-6"> <NuxtLink class="hover:text-primary"
+                  to="/ethos/equipo">EQUIPO</NuxtLink></h2>
             <p>Contamos con un equipo multidisciplinario e internacional con experiencia variada en el gobierno, la academia y el sector social, motivados para realizar investigaciones e iniciativas integrales.</p>
           </div>
           <div class="2xl:mb-20 mb-10">

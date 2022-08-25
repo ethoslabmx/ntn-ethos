@@ -11,17 +11,16 @@
       <div class="content text-white">
 
         <div class="flex py-10 flex-wrap justify-between">
-          <div class="text-justify xl:text-left mr-auto xl:pr-6 xl:w-1/3">
-            Somos un think tank que transforma investigaciones y experiencias en
-            recomendaciones claras y acciones concretas de política pública que
-            atienden algunos de los principales retos para el desarrollo de
-            México.
+          <div class="text-justify   mr-auto  lg:w-80">
+            Somos un <span class="italic">think tank</span> que genera recomendaciones innovadoras y acciones concretas de política pública con el objeto de
+            atender algunos de los principales retos para el desarrollo de México.
           </div>
           <div
-            class="text-justify xl:text-left xl:text-right xl:ml-auto xl:w-1/3"
+            class="text-justify  xl:ml-auto lg:w-52 mt-10 lg:mt-0"
           >
-            Ethos Innovación en Políticas Públicas Montes Urales 424, Lomas
-            Virreyes Miguel Hidalgo, 11000 CDMX
+            <p class="text-white">Ethos Innovación en Políticas Públicas</p>
+            <p class="text-white ">Monte Urales 424, Lomas
+            Virreyes Miguel Hidalgo, 11000 CDMX</p>
           </div>
         </div>
         <div class="flex pt-10 pb-3 flex-wrap justify-between items-center">

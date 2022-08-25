@@ -3,9 +3,13 @@
 <div>
     <div class="jumbotron-quienes relative flex items-top justify-center bg-gray-100 sm:items-center sm:pt-0  bg-gradient-to-b from-cyan to-cyanlight">
       <div class="container flex items-center">
-        <div class="hero mt-5 md:mr-auto md:w-1/2 sm:w-2/3">
-          <h1 class="3xl:text-5xl md:text-4xl text-3xl big-title mb-6 text-white text-right">¿QUIÉNES SOMOS?</h1>
-          <p class="subtitle text-white">Somos un <i>think tank</i> que transforma investigaciones y experiencias en recomendaciones claras y acciones concretas de política pública que atienden algunos de los principales retos para el desarrollo de México.</p>
+        <div class="hero mt-5 md:mr-auto lg:w-1/2 md:w-2/3">
+          <h1 class="4xl:text-5xl  lg:text-3xl text-2xl big-title mb-6 text-white text-right">¿QUIÉNES <br> SOMOS?</h1>
+          <p class="4xl:text-xl text-lg text-right text-white font-normal">
+            Somos un <span class="italic">think tank</span> que genera recomendaciones innovadoras y acciones concretas de política pública con el objeto de
+            atender algunos de los principales retos para el desarrollo de México.
+          </p>
+
         </div>
       </div>
   </div>
@@ -17,17 +21,39 @@
 <style lang="scss">
 
 .jumbotron-quienes_down {
-    height: 33vw;
+    height: 20vw;
+    top: -2rem;
+    margin-bottom: -2rem;
     z-index: 0;
     position: relative;
     .aros{
       top: -2rem;
       position: relative;
-      width: 40vw;
+      width: 35vw;
+    }
+  @media (min-width:500px) {
+        height: 15vw;
+      .aros{
+      width: 25vw;
+    }
+  }
+  @media (min-width:1200px) {
+      .aros{
+      width: 18vw;
+    }
+  }
+    @media (min-width:1400px) {
+    height: 18vw;
+    top: -3rem;
+    margin-bottom: -3rem;
+    .aros{
+      top: -1rem;
+      width: 20vw;
+    }
     }
 }
 .jumbotron-quienes {
-  padding-top: 30px;
+  padding: 2rem 0 5rem;
   min-height: calc(45vh - 100px);
   background-size: cover;
   background-repeat: no-repeat;
@@ -36,9 +62,11 @@
   background-repeat: no-repeat;
   z-index: 0;
 
-   @media (min-width:700px) {
-    min-height: calc(65vh - 100px);
+
+   @media (min-width:1400px) {
+    min-height: calc(50vh - 100px);
   }
+
 
 }
 </style>
