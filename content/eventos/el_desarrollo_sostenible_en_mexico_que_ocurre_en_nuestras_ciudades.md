@@ -1,9 +1,13 @@
 ---
 title: "EL DESARROLLO SOSTENIBLE EN MÉXICO: ¿QUÉ OCURRE EN NUESTRAS CIUDADES?"
-date: 2021-09-01T16:26:12.032Z
+date: 2021-08-18T16:26:12.032Z
 img: /img/reunio_n-ciudades-sostenibles.png
 autor: Ethos
 category: ciudades-del-futuro
+extracto: Entre los diversos proyectos que Ethos Laboratorio de Políticas
+  Públicas desarrollará durante el segundo semestre de 2021, se encuentra
+  Ciudades Sostenibles, que tiene como objetivo generar propuestas de política
+  pública que contribuyan al desarrollo sostenible a nivel local en México.
 ---
 <!--StartFragment-->
 
