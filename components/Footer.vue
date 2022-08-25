@@ -16,11 +16,10 @@
             atender algunos de los principales retos para el desarrollo de México.
           </div>
           <div
-            class="text-justify  xl:ml-auto lg:w-52 mt-10 lg:mt-0"
+            class="text-justify  xl:ml-auto lg:w-62 mt-10 lg:mt-0"
           >
             <p class="text-white">Ethos Innovación en Políticas Públicas</p>
-            <p class="text-white ">Monte Urales 424, Lomas
-            Virreyes Miguel Hidalgo, 11000 CDMX</p>
+            <p class="text-white ">Monte Urales 424,<br> Lomas Virreyes Miguel Hidalgo,<br> 11000 CDMX</p>
           </div>
         </div>
         <div class="flex pt-10 pb-3 flex-wrap justify-between items-center">
