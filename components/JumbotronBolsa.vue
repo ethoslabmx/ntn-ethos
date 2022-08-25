@@ -11,7 +11,6 @@
           <p class="subtitle text-white mb-3">
             Creemos en la igualdad de oportunidades. ¡Únete a nuestro equipo!
           </p>
-          <p class="subtitle text-white">¡Únete a nuestro equipo!</p>
         </div>
       </div>
   </div>

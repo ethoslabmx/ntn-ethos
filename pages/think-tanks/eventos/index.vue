@@ -1,6 +1,7 @@
 <template>
   <div class="app">
     <JumbotronEje title="Think Tanks" subtitle="Eventos" image="eventos-jumbo.jpg"/>
+
     <div class="bg-white border-b-16 border-primary">
       <li v-for="evento of eventos" :key="evento.slug" class="post">
         <div
@@ -9,7 +10,9 @@
           <div class="right md:p-7 p-5  xl:w-1/3  4xl:w-1/4 w-full flex md:flex-col justify-between text-right">
             <div class="img md:ml-auto content-start my-6">
               <img :src="evento.img" alt="" class="w-80 h-auto mb-3 shadow-xl object-cover" />
-
+              <NuxtLink :to="'eventos/' + evento.slug">
+                <button class="bg-gray-dark font py-2 px-7 rounded-md my-3 text-white">Leer</button>
+              </NuxtLink>
             </div>
 
 
@@ -33,7 +36,7 @@
         </div>
       </li>
       <li class="post last">
-          <div class="container px-5 xl:px-28 py-10">
+          <div class="container px-5 xl:px-28 py-10" v-if="more">
             <button class="ml-auto more-btn bold" @click="loadPosts">VER MÁS <span class="icon"></span></button>
           </div>
         </li>
@@ -55,13 +58,27 @@ export default {
       eventos,
     };
   },
+  data(){
+    return {
+      loading: false,
+      total: 0,
+      more:true,
+    }
+  },
   methods:{
     loadPosts(){
       this.getNext();
     },
     async getNext(){
-      const newEvents = await this.$content("eventos").where({category:"think-tanks"}).sortBy('date','desc').skip(this.eventos.length).limit(8).fetch();
-      this.eventos = this.eventos.concat(newEvents);
+      const newPosts = await this.$content("eventos").where({category:"think-tanks"}).sortBy('date','desc').skip(this.eventos.length).limit(8).fetch();
+      if(newPosts.length == 8){
+        this.eventos = this.eventos.concat(newPosts);
+      }  else if(newPosts.length > 0 && newPosts.length < 8){
+        this.eventos = this.eventos.concat(newPosts);
+        this.more = false;
+      } else  {
+        this.more = false;
+      }
     }
   }
 }

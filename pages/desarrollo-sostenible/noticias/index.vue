@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-   <JumbotronEje title="DESARROLLO SOSTENIBLE" subtitle="Noticias" image="desarollo-sostenible-thumb.png"/>
+    <JumbotronEje title="Desarrollo Sostenible" subtitle="Noticias" image="desarollo-sostenible-thumb.png"/>
     <div class="bg-white border-b-16 border-primary">
       <li v-for="col of columnas" :key="col.slug" class="post">
         <div
@@ -10,7 +10,7 @@
             <div class="img md:ml-auto content-start my-6">
               <img :src="col.img" alt="" class="w-80 h-auto mb-3 shadow-xl object-cover" />
               <NuxtLink :to="'noticias/' + col.slug">
-              <button class="bg-gray-dark font py-2 px-7 rounded-md my-3 text-white">Leer</button>
+                <button class="bg-gray-dark font py-2 px-7 rounded-md my-3 text-white">Leer</button>
               </NuxtLink>
             </div>
 
@@ -26,16 +26,19 @@
             </div>
 
             <div class="content content-center mb-10">
-              <p>{{ col.body.children[1].children[0].value }}</p>
+              <p>{{ col.extracto}}</p>
             </div>
-
+            <div class="footer content-end">
+                <p>{{col.autor}}</p>
+                <p class="font-bold uppercase">{{new Date(col.date).toLocaleDateString()}}</p>
+            </div>
 
           </div>
 
         </div>
       </li>
       <li class="post last">
-          <div class="container px-5 xl:px-28 py-10">
+          <div class="container px-5 xl:px-28 py-10" v-if="more">
             <button class="ml-auto more-btn bold" @click="loadPosts">VER MÁS <span class="icon"></span></button>
           </div>
         </li>
@@ -50,19 +53,33 @@ export default {
   components: { JumbotronEje },
 
   async asyncData({ $content }) {
-    const columnas = await $content("noticias").where({category:"desarrollo-sostenible"}).sortBy('date','desc').limit(8).fetch();
+    const columnas = await $content("noticias").where({ category: "desarrollo-sostenible" }).sortBy('date','desc').limit(8).fetch();
 
     return {
       columnas,
     };
+  },
+  data(){
+    return {
+      loading: false,
+      total: 0,
+      more:true,
+    }
   },
   methods:{
     loadPosts(){
       this.getNext();
     },
     async getNext(){
-      const newEvents = await this.$content("noticias").where({category:"desarrollo-sostenible"}).sortBy('date','desc').skip(this.columnas.length).limit(8).fetch();
-      this.columnas = this.columnas.concat(newEvents);
+      const newPosts = await this.$content("noticias").where({category:"desarrollo-sostenible"}).sortBy('date','desc').skip(this.columnas.length).limit(8).fetch();
+      if(newPosts.length == 8){
+        this.columnas = this.columnas.concat(newPosts);
+      }  else if(newPosts.length > 0 && newPosts.length < 8){
+        this.columnas = this.columnas.concat(newPosts);
+        this.more = false;
+      } else  {
+        this.more = false;
+      }
     }
   }
 }

@@ -10,7 +10,7 @@
             <div class="img md:ml-auto content-start my-6">
               <img :src="col.img" alt="" class="w-80 h-auto mb-3 shadow-xl object-cover" />
               <NuxtLink :to="'noticias/' + col.slug">
-              <button class="bg-gray-dark font py-2 px-7 rounded-md my-3 text-white">Leer</button>
+                <button class="bg-gray-dark font py-2 px-7 rounded-md my-3 text-white">Leer</button>
               </NuxtLink>
             </div>
 
@@ -26,16 +26,19 @@
             </div>
 
             <div class="content content-center mb-10">
-              <p>{{ col.body.children[1] ? col.body.children[0].value : '' }}</p>
+              <p>{{ col.extracto}}</p>
             </div>
-
+            <div class="footer content-end">
+                <p>{{col.autor}}</p>
+                <p class="font-bold uppercase">{{new Date(col.date).toLocaleDateString()}}</p>
+            </div>
 
           </div>
 
         </div>
       </li>
       <li class="post last">
-          <div class="container px-5 xl:px-28 py-10">
+          <div class="container px-5 xl:px-28 py-10" v-if="more">
             <button class="ml-auto more-btn bold" @click="loadPosts">VER MÁS <span class="icon"></span></button>
           </div>
         </li>
@@ -56,13 +59,27 @@ export default {
       columnas,
     };
   },
+  data(){
+    return {
+      loading: false,
+      total: 0,
+      more:true,
+    }
+  },
   methods:{
     loadPosts(){
       this.getNext();
     },
     async getNext(){
-      const newEvents = await this.$content("noticias").where({category:"anticorrupcion"}).sortBy('date','desc').skip(this.columnas.length).limit(8).fetch();
-      this.columnas = this.columnas.concat(newEvents);
+      const newPosts = await this.$content("noticias").where({category:"anticorrupcion"}).sortBy('date','desc').skip(this.columnas.length).limit(8).fetch();
+      if(newPosts.length == 8){
+        this.columnas = this.columnas.concat(newPosts);
+      }  else if(newPosts.length > 0 && newPosts.length < 8){
+        this.columnas = this.columnas.concat(newPosts);
+        this.more = false;
+      } else  {
+        this.more = false;
+      }
     }
   }
 }

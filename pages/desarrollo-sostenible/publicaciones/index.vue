@@ -13,8 +13,11 @@
 
           <div class="ml-auto p-5 md:p-0">
 
-            <button class="bg-gray-dark font py-2 px-3 rounded-md my-3 text-white">Leer</button>
+            <NuxtLink :to="'publicaciones/'+evento.slug" class="title xl:text-xl text-sm mb-6 block">
+              <button class="bg-gray-dark font py-2 px-3 rounded-md my-3 text-white">Leer</button>
+            </NuxtLink>
 
+            <!--
             <div class="share content-end flex justify-end lg:items-center md:flex-wrap xl:flex-nowrap">
 
               <small class="title mb-3 xl:mb-0">COMPARTIR</small>
@@ -27,6 +30,7 @@
                 <li class=""><a href=""><img src="../../../assets/images/letter.png" alt="" class="h-5 w-5"></a></li>
               </ul>
             </div>
+            -->
           </div>
 
         </div>
