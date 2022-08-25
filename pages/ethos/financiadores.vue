@@ -1,7 +1,7 @@
 <template>
   <div
     class="app jumbotron-confianza  border-b-16 border-primary relative flex flex-col items-top justify-center min-h-screen  sm:items-center sm:pt-0  bg-gradient-to-b from-cyan to-cyanlight">
-      <div class="container pr-0 2xl:py-24 py-16">
+      <div class="container lg:pr-0 2xl:py-24 py-16 lg:ml-auto lg:mr-0">
             <div class="mr-auto hero pl-10 pb-10">
       <h1 class="3xl:text-7xl md:text-6xl text-3xl font text-white">¿QUIÉNES
         HAN CONFIADO
@@ -9,7 +9,7 @@
       </h1>
     </div>
     <div class="slider bg-white flex items-center space-between shadow-xl">
-      <li v-for="f in financiadores" :key="f.nombre" class="p-6">
+      <li v-for="f in financiadores" :key="f.nombre" class="lg:p-4 p-3">
         <a :href="f.link" class="">
           <img :src="f.logo" alt="">
         </a>
@@ -73,11 +73,12 @@ export default {
 
 
   .slider {
-    width: 100vw;
-    overflow-x: auto;
-    margin-left:auto;
+    width: 100%;
+    overflow-x: visible;
     scrollbar-color: #6969dd #e0e0e0;
     scrollbar-width: thin;
+    flex-wrap: wrap;
+    justify-content: center;
 
     li {
 
@@ -90,21 +91,33 @@ export default {
       // }
       a {
         display: block;
-        width: 300px;
-        height: auto;
-        display: block;
+        width: auto;
+        height: 75px;
 
         img{
-          object-fit: cover;
+          object-fit: contain;
           height: 100%;
-          max-height: 130px;
-          width: auto;
+          width: 100%;
         }
       }
     }
 
-    @media (min-width:993px) {
-      width: 60vw;
+    @media (min-width:800px) {
+      width: 85%;
+      margin-left: auto;
+
+       li{
+        a{
+        max-width: 300px;
+        height: auto;
+
+          img{
+          height: 120px;
+          width: 280px;
+        }
+       }
+       }
+
     }
   }
 
