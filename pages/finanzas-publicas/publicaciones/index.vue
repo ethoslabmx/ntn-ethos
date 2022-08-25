@@ -51,7 +51,7 @@
       </div>
     </li>
     <li class="post last">
-          <div class="container px-5 xl:px-28 py-10">
+          <div class="container px-5 xl:px-28 py-10" v-if="more">
             <button class="ml-auto more-btn bold" @click="loadPosts">VER MÁS <span class="icon"></span></button>
           </div>
         </li>
@@ -63,7 +63,13 @@ import JumbotronEje from '~/components/JumbotronEje.vue';
 
 export default {
   components: { JumbotronEje },
-
+  data(){
+    return {
+      loading: false,
+      total: 0,
+      more:true,
+    }
+  },
   async asyncData({ $content }) {
     const eventos = await $content("publicaciones").where({category:"finanzas-publicas"}).sortBy('date','desc').limit(8).fetch();
 
@@ -80,6 +86,9 @@ export default {
     },
     async getNext(){
       const newEvents = await this.$content("publicaciones").where({category:"finanzas-publicas"}).sortBy('date','desc').skip(this.eventos.length).limit(8).fetch();
+      if(newEvents.length < 8){
+        this.more = false;
+      }
       this.eventos = this.eventos.concat(newEvents);
     }
   }

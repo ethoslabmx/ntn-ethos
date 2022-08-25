@@ -50,7 +50,7 @@
                 </ul>
               </li>
               <li >
-                <div @click="p8 = !p8">PROGRAMA DE INTERNSHIP</div>
+                <div @click="p8 = !p8">PROGRAMA DE PASANTÍAS</div>
                 <ul class="nombres" v-if="p8">
                   <li v-for="e in pi" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
                 </ul>

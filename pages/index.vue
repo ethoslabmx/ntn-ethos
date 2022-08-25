@@ -13,9 +13,7 @@
         <div class="content md:w-1/2 p-8 self-center">
 
           <h2 class="title xl:text-2xl text-lg">Anticorrupción</h2>
-          <p>Buscamos contribuir al buen funcionamiento del Sistema Nacional Anticorrupción y de los Sistemas Estatales
-            Anticorrupción, empoderar a la sociedad civil e involucrar a diversos actores, como el sector privado, para
-            que funjan como contrapesos reales de la corrupción. </p>
+          <p>Buscamos contribuir al buen funcionamiento del Sistema Nacional Anticorrupción y de los Sistemas Estatales Anticorrupción, empoderar a la sociedad civil e involucrar a diversos actores, para que funjan como contrapesos reales de la corrupción.</p>
             <NuxtLink class="ml-auto more-btn mt-4" to="/anticorrupcion/publicaciones">ENTRAR <span class="icon"></span></NuxtLink>
 
         </div>
@@ -27,8 +25,7 @@
 
         <div class="content md:w-1/2 p-8 self-center">
           <h2 class="title xl:text-2xl text-lg">Finanzas Públicas</h2>
-          <p>Promovemos finanzas públicas sanas, a través de un sistema fiscal bien diseñado, un nivel de ingreso óptimo
-            y un ejercicio del gasto eficiente y transparente, tanto a nivel federal como subnacional.</p>
+          <p>Promovemos finanzas públicas sanas, a través de un sistema fiscal con un diseño adecuado, un nivel de ingreso óptimo y un ejercicio del gasto eficiente y transparente, tanto a nivel federal como subnacional.</p>
             <NuxtLink class="ml-auto more-btn mt-4" to="/finanzas-publicas/publicaciones">ENTRAR <span class="icon"></span></NuxtLink>
 
         </div>
@@ -40,9 +37,7 @@
 
         <div class="content md:w-1/2 p-8 self-center">
           <h2 class="title xl:text-2xl text-lg">Desarrollo Sostenible</h2>
-          <p>Entendemos que las crecientes alarmas sobre el cambio climático nos muestran que el futuro estará hecho de
-            crisis. Buscamos repensar las narrativas de desarrollo desde una perspectiva de crisis incorporando los ejes
-            de recuperación justa, sostenible y resiliente. </p>
+          <p>Las cambiantes dinámicas sociales, económicas y ambientales nos obligan a analizar los procesos de desarrollo desde una perspectiva de crisis. Por ello, buscamos impulsar modelos de desarrollo con enfoques de justicia, sostenibilidad y resiliencia.</p>
             <NuxtLink class="ml-auto more-btn mt-4" to="/desarrollo-sostenible/publicaciones">ENTRAR <span class="icon"></span></NuxtLink>
         </div>
 
@@ -52,10 +47,7 @@
         <div class="img md:w-1/2"><img src="../assets/images/ciudades-del-futuro-thumb.png" alt=""></div>
         <div class="content md:w-1/2 p-8 self-center">
           <h2 class="title xl:text-2xl text-lg">Ciudades del futuro</h2>
-          <p>Generamos propuestas que permitan consolidar estrategias, programas públicos y proyectos que promuevan el
-            desarrollo sostenible de servicios públicos e infraestructura, la cual aproveche recursos renovables de
-            energía, implemente medidas de eficiencia energética y fortalezca las capacidades institucionales
-            gubernamentales en materia energética y ambiental. </p>
+          <p>Generamos estrategias y proyectos que promuevan el desarrollo sostenible de servicios públicos e infraestructura urbanos que aprovechen recursos renovables, implementen medidas de eficiencia energética y fortalezcan las capacidades institucionales en materia ambiental.</p>
             <NuxtLink class="ml-auto mt-4 more-btn" to="/ciudades-del-futuro/publicaciones">ENTRAR <span class="icon"></span></NuxtLink>
         </div>
 
@@ -65,9 +57,7 @@
         <div class="img md:w-1/2"><img src="../assets/images/inclusion-thumb.png" alt=""></div>
         <div class="content md:w-1/2 p-8 self-center">
           <h2 class="title xl:text-2xl text-lg">Inclusión</h2>
-          <p>Participamos en el debate sobre el rumbo de la política social y buscamos entender las limitaciones del
-            modelo económico y político actual. También promovemos agendas de inclusión de poblaciones marginadas y de
-            equidad de género desde una perspectiva de derechos humanos. </p>
+          <p>Analizamos y proponemos soluciones a los desafíos estructurales del desarrollo social, incluyendo iniciativas de igualdad de género y que aseguren los derechos de poblaciones en situación de vulnerabilidad.</p>
             <NuxtLink class="ml-auto more-btn" to="/inclusion/publicaciones">ENTRAR <span class="icon"></span></NuxtLink>
         </div>
 
@@ -79,12 +69,12 @@
         <h2 class="big-title xl:text-xl text-md text-right pr-3 tracking-widest">Columnas de opinion</h2>
         <hr>
       </div>
-      <li v-for="post of posts" :key="post.slug" class="eje">
+      <li v-for="post of columnas" :key="post.slug" class="eje">
         <div class="container mx-0 ml-auto  flex 10 justify-between items-center lg:flex-row-reverse flex-col">
 
           <div class="lg:w-1/2 3xl:w-1/3 lg:ml-10 self-center tag-container">
             <img :src="post.img" alt="" class="w-auto object-cover col-img">
-             <div class="tag">{{post.category.replace("-"," ").toUpperCase()}}</div>
+             <div class="tag">{{nombreEje(post.category)}}</div>
           </div>
 
           <div class="content lg:w-1/2  3xl:w-2/3 mt-6 lg:mt-0">
@@ -97,9 +87,7 @@
     </div>
     <div class="more py-10 text-right">
       <div class="container">
-        <!--
-        <button class="ml-auto more-btn">VER MÁS <span class="icon"></span></button>
-        -->
+        <button class="ml-auto more-btn" v-if="more" @click="loadPosts">VER MÁS <span class="icon"></span></button>
       </div>
     </div>
     <div class="twitter bg-white md:py-20 py-10">
@@ -126,12 +114,52 @@ import JumbotronIndex from '~/components/JumbotronIndex.vue';
 export default {
   components: { JumbotronIndex },
   async asyncData({ $content }) {
-    const posts = await $content("columnas").sortBy('date','desc').limit(3).fetch();
+    const columnas = await $content("columnas").sortBy('date','desc').limit(3).fetch();
 
     return {
-      posts,
+      columnas,
     };
   },
+  data(){
+    return {
+      loading: false,
+      total: 0,
+      more:true,
+    }
+  },
+  methods:{
+    loadPosts(){
+      this.getNext();
+    },
+    async getNext(){
+      const newCols = await this.$content("columnas").sortBy('date','desc').skip(this.columnas.length).limit(8).fetch();
+      if(newCols.length < 8){
+        this.more = false;
+      }
+      this.columnas = this.columnas.concat(newCols);
+    },
+    nombreEje(eje){
+      let nombre = '';
+      switch(eje){
+         case "anticorrupcion":
+           nombre = "Anticorrupción";
+           break;
+        case "ciudades-del-futuro":
+          nombre = "Ciudades del Futuro";
+          break;
+        case "inclusion":
+          nombre = "Inclusión";
+          break;
+        case "finanzas-publicas":
+          nombre = "Finanzas Públicas";
+          break;
+        case "desarrollo-sostenible":
+          nombre = "Desarrollo Sostenible";
+          break;
+      }
+      return nombre;
+    }
+  }
 }
 </script>
 <style lang="scss">

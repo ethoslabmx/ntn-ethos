@@ -7,9 +7,9 @@
       <li v-for="evento of eventos" :key="evento.slug" class="post md:py-20 py-10">
         <div
           class="flex container px-5 xl:px-28 items-center justify-between flex-wrap md:flex-nowrap md:flex-row-reverse">
-          <div class="right md:p-7 p-5 md:w-1/3  4xl:w-1/4 w-full flex md:flex-col justify-between text-right">
+          <div class="right md:py-7 py-5 md:w-1/3  3xl:w-1/4 w-full flex md:flex-col justify-between text-right">
             <div class="img md:ml-auto content-start my-6">
-              <img :src="evento.img" alt="" class="w-80 h-auto mb-3 shadow-xl object-cover" />
+            <img :src="evento.img" alt="" class="w-auto h-50 mb-2 shadow-xl" />
             </div>
           </div>
           <div class="left  md:p-7 p-5 md:w-2/3  4xl:w-3/4 w-full flex flex-col justify-between">
@@ -23,7 +23,7 @@
           </div>
         </li>
          <li class="post last">
-          <div class="container px-5 xl:px-28 py-10">
+          <div class="container px-5 xl:px-28 py-10" v-if="more">
             <button class="ml-auto more-btn bold" @click="loadPosts">VER MÁS <span class="icon"></span></button>
           </div>
         </li>
@@ -42,7 +42,13 @@ import JumbotronEje from '~/components/JumbotronEje.vue';
 
 export default {
   components: { JumbotronEje },
-
+  data(){
+    return {
+      loading: false,
+      total: 0,
+      more:true,
+    }
+  },
   async asyncData({ $content }) {
     const eventos = await $content("reportajes").where({category:"inclusion"}).sortBy('date','desc').limit(8).fetch();
 
@@ -56,6 +62,9 @@ export default {
     },
     async getNext(){
       const newEvents = await this.$content("reportajes").where({category:"inclusion"}).sortBy('date','desc').skip(this.eventos.length).limit(8).fetch();
+      if(newEvents.length < 8){
+        this.more = false;
+      }
       this.eventos = this.eventos.concat(newEvents);
     }
   }

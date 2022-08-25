@@ -8,7 +8,7 @@
             <div class="3xl:w-1/3  md:w-1/2  w-3/4 heading">
               <h1 class="big-title">HISTORIAS DE ÉXITO</h1>
               <p class="">
-                Nuestros casos de éxito con origen en la investigación que se enfoncan en casos específicos.
+                Desde Ethos asumimos el compromiso de asegurar el impacto de nuestro trabajo en la sociedad y directamente en los actores con los que colaboramos. Aquí te compartimos algunas de esas historias de éxito.
               </p>
             </div>
           </div>

@@ -7,16 +7,12 @@
         <section class="lg:w-2/3 w-full">
           <div class="2xl:mb-20 mb-10">
             <h2 class="2xl:text-5xl text-2xl  title mb-6">EQUIPO</h2>
-            <p>Ethos cuenta con un equipo multidisciplinario de especialistas en Economía, Derecho, Ciencias Políticas,
-              Comunicación, Periodismo y Diseño, con experiencia variada en el gobierno, la academia y el sector social,
-              motivados por generar investigaciones y propuestas que sean integrales y a su vez innovadoras.</p>
+            <p>Contamos con un equipo multidisciplinario e internacional con experiencia variada en el gobierno, la academia y el sector social, motivados para realizar investigaciones e iniciativas integrales.</p>
           </div>
           <div class="2xl:mb-20 mb-10">
 
             <h2 class="2xl:text-5xl text-2xl  title mb-6">CONSEJO ASESOR</h2>
-            <p>El Consejo Asesor de Ethos está compuesto por distinguidas figuras de la academia, la comunicación y el
-              sector privado, que brindan una perspectiva variada en nuestros temas de investigación, y que contribuyen
-              con la definición de los lineamientos estratégicos de impacto de nuestra organización.</p>
+            <p>El Consejo Asesor de Ethos está compuesto por distinguidas figuras de la academia, el sector social y el sector privado, que contribuyen con la definición de los lineamientos estratégicos de nuestra organización.</p>
 
           </div>
 
@@ -62,6 +58,7 @@
               externas. No nos guía el compromiso con algún actor o sector en particular. Ello nos permite realizar
               nuestro trabajo libremente.</p>
           </div>
+          <!--
           <div class="2xl:mb-20 mb-10">
             <h3 class="md:text-lg text-md  mb-6">Modelo de Gobierno Responsable</h3>
             <p>El modelo guía nuestras acciones, al recoger un conjunto de parámetros que configuran una gestión
@@ -72,6 +69,7 @@
               técnicos,
               con un alto grado de sensibilidad social.</p>
           </div>
+          -->
 
 
 

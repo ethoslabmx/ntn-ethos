@@ -6,12 +6,10 @@
         <div class="hero lg:mr-auto lg:w-1/2 md:2/3">
           <h1 class="3xl:text-5xl md:text-4xl text-3xl big-title mb-6 text-white uppercase text-right">Bolsa de trabajo</h1>
           <p class="subtitle text-white mb-3">
-            En Ethos estamos comprometidos con la diversidad
-            en nuestro equipo de trabajo.
+            En Ethos estamos comprometidos con la diversidad en nuestro equipo de trabajo.
           </p>
           <p class="subtitle text-white mb-3">
-            Creemos en la igualdad de oportunidades y de
-            condiciones de empleo.
+            Creemos en la igualdad de oportunidades. ¡Únete a nuestro equipo!
           </p>
           <p class="subtitle text-white">¡Únete a nuestro equipo!</p>
         </div>
