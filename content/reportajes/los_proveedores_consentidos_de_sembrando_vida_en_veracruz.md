@@ -4,6 +4,13 @@ date: 2022-08-16T15:01:26.929Z
 img: /img/sembrando-vida-portada-portada-portada-v.2.2.jpg
 autor: Sergio Rincón
 category: inclusion
+extracto: Han pasado nueve meses desde que Gonzalo compró cerca de cinco kilos
+  de semillas de jamaica. El tiempo no ha logrado aminorar su enojo y decepción.
+  Desde que recibió los paquetes, se le hizo extraño que no tuvieran etiquetado
+  o marca; que solo estuvieran envueltos con plástico negro y papel de estraza.
+  Al abrir el primer empaque, percibió un olor agrio. Al extender el contenido,
+  se indignó aún más al ver que eso parecía un montón de cáscaras de pepita,
+  abiertas y mojadas. Eran 12 mil pesos de semillas pudriéndose entre sus dedos.
 file: /img/los-proveedores-consentidos-de-sembrando-vida_3.docx.pdf
 ---
 <!--StartFragment-->
