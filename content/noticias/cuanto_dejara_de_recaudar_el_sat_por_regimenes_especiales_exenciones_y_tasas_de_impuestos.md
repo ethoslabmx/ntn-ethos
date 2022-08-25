@@ -1,11 +1,15 @@
 ---
 title: ¿CUÁNTO DEJARÁ DE RECAUDAR EL SAT POR REGÍMENES ESPECIALES, EXENCIONES Y
   TASAS DE IMPUESTOS?
-date: 2022-08-16T14:16:07.843Z
+date: 2021-08-25T14:16:07.843Z
 img: /img/sat_gastos-fiscales.png
 autor: El Universal
 link: https://www.eluniversal.com.mx/cartera/sat-cuanto-dejara-de-recaudar-por-regimenes-especiales-exenciones-y-tasas-de-impuestos
 category: finanzas-publicas
+extracto: En el 2021 el gobierno federal dejará de recaudar 994 mil 368 millones
+  de pesos por diversos regímenes fiscales especiales, beneficios, exenciones y
+  tasas de impuestos diferenciadas, señaló Ethos Laboratorio de Políticas
+  Públicas.
 ---
 <!--StartFragment-->
 
