@@ -5,6 +5,10 @@ img: /img/corrupcion.jpeg
 autor: Forbes
 link: https://www.forbes.com.mx/noticias-mexico-combate-corrupcion-mucha-retorica-pocos-resultados-expertos/
 category: anticorrupcion
+extracto: México conmemora este jueves el Día Internacional contra la Corrupción
+  con la persistente retórica del presidente Andrés Manuel López Obrador de
+  acabar con esta “peste”, aunque, según expertos, con los mismos resultados e
+  incluso retrocesos en transparencia.
 ---
 <!--StartFragment-->
 
