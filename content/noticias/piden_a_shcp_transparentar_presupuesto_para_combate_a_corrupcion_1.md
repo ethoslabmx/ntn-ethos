@@ -1,6 +1,7 @@
 ---
 title: Piden a SHCP transparentar presupuesto para combate a corrupción
 date: 2016-09-05T06:42:52.121Z
+img: https://ucarecdn.com/6d8047a5-3d17-46c9-9843-ac8602e45439/
 autor: Leonor Flores
 link: https://www.eluniversal.com.mx/articulo/cartera/economia/2016/09/5/piden-shcp-transparentar-presupuesto-para-combate-corrupcion
 category: finanzas-publicas

@@ -1,9 +1,14 @@
 ---
 title: "EL IMPUESTO PREDIAL: UNA OPORTUNIDAD QUE SE DEBE APROVECHAR"
-date: 2022-01-01T15:19:33.312Z
+date: 2021-02-12T15:19:33.312Z
 img: /img/impuesto_predial.png
 autor: Ethos
 category: finanzas-publicas
+extracto: Ante la situación económica actual, urge reavivar la discusión sobre
+  la sostenibilidad financiera de los municipios y buscar alternativas que
+  lleven a una menor dependencia de los recursos que provienen de la federación
+  —casi tres cuartas de sus ingresos provienen de participaciones y aportaciones
+  del gobierno federal —.
 ---
 <!--StartFragment-->
 

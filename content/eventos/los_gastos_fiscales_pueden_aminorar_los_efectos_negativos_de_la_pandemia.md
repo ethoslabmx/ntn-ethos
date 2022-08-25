@@ -1,9 +1,15 @@
 ---
 title: LOS GASTOS FISCALES PUEDEN AMINORAR LOS EFECTOS NEGATIVOS DE LA PANDEMIA
-date: 2022-01-01T15:18:40.323Z
+date: 2021-08-25T14:18:40.323Z
 img: /img/gastos-fiscales.jpeg
 autor: Ethos
 category: finanzas-publicas
+extracto: "Recientemente, Ethos Laboratorio de Políticas Públicas dio a conocer
+  el reporte «Acelerador o freno de la economía: los gastos fiscales como
+  instrumento de política pública», en el que se hace un análisis de la
+  evolución de los gastos fiscales en México desde 2012 hasta 2021, y se
+  incluyen algunas recomendaciones para eficientar y transparentar estos
+  instrumentos."
 ---
 <!--StartFragment-->
 

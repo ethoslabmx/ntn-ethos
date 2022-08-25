@@ -5,6 +5,12 @@ date: 2022-08-13T19:21:25.257Z
 img: /img/sna.jpeg
 img-alt: Liliana Alvarado Zoom
 autor: Ethos
+link: Al participar en el Encuentro Nacional de Comités de Participación
+  Ciudadana 2022,en el panel «Retos del programa de la implementación de la
+  Política Nacional Anticorrupción» la directora de Ethos, Liliana Alvarado
+  comentó que en un momento en el que la participación de la ciudadanía y de las
+  organizaciones de la sociedad civil (OSC) pudiera estar en juego, es deseable
+  que la participación ciudadana se dé en todas las fases de la política pública
 category: anticorrupcion
 ---
 <!--StartFragment-->
