@@ -6,6 +6,13 @@ img-alt: Amlo no más corrupción
 autor: El Debate
 link: https://www.debate.com.mx/politica/No-mas-corrupcion-dice-AMLO-pero-su-gobierno-no-la-combate-20211221-0055.html
 category: anticorrupcion
+extracto: Luis Ángel Martínez, investigador en anticorrupción de Ethos
+  Laboratorio de Políticas Públicas, dijo que pasamos de un caudillismo del
+  siglo XX a un presidencialismo donde el presidente es el que decide todo.
+  “Creo que AMLO quiere regresar a este pasado no tan lejano, donde el
+  presidente es la única institución que manda y en este punto también
+  podemos remarcar sobre cómo no ha usado correctamente o no ha dejado que el
+  mismo sistema anticorrupción se desarrolle”.
 ---
 <!--StartFragment-->
 
