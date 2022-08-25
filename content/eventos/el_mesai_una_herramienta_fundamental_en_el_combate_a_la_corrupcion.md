@@ -5,6 +5,12 @@ img: /img/mesai.jpg
 autor: " Secretaría Ejecutiva del SNA"
 link: https://www.youtube.com/watch?v=DqyzYO-ocYs
 category: anticorrupcion
+extracto: A seis años de que se hizo la reforma constitucional que originó el
+  Sistema Nacional Anticorrupción (SNA), es necesario medir e informar los
+  resultados que se han alcanzado para conocer los aciertos, las fallas y
+  realizar los ajustes y adecuaciones pertinentes, afirmó nuestra directora
+  Liliana Alvarado, al participar en la mesa «Rumbo al seguimiento y evaluación
+  del fenómeno de la corrupción en México»
 ---
 <!--StartFragment-->
 
