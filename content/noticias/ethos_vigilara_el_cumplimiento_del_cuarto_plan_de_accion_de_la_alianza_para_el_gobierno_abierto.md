@@ -1,10 +1,14 @@
 ---
 title: Ethos vigilará el cumplimiento del Cuarto Plan de Acción de la Alianza
   para el Gobierno Abierto
-date: 2022-08-24T01:23:14.275Z
+date: 2019-12-10T02:23:14.275Z
 img: https://ucarecdn.com/7030e560-f44a-4137-8258-48eefb8e04c2/
 autor: "Ethos "
 category: anticorrupcion
+extracto: "Ethos Laboratorio de Políticas Públicas será una de las
+  organizaciones que estará a cargo de la implementación de uno de los trece
+  compromisos planteados en el Cuarto Plan de Acción 2019-2021 (4PA) de la
+  Alianza para el Gobierno Abierto, presentado el pasado 10 de diciembre.  "
 ---
 Ethos Laboratorio de Políticas Públicas será una de las organizaciones que estará a cargo de la implementación de uno de los trece compromisos planteados en el Cuarto [Plan de Acción 2019-2021 (4PA)](https://gobabiertomx.org/presentacion-del-cuarto-plan-de-accion-de-la-alianza-para-el-gobierno-abierto-en-mexico-2/) de la [Alianza para el Gobierno Abierto](http://dgti-transparencia-gobierno-abierto-staging.k8s.funcionpublica.gob.mx/), presentado el pasado 10 de diciembre.[  ](https://gobabiertomx.org/presentacion-del-cuarto-plan-de-accion-de-la-alianza-para-el-gobierno-abierto-en-mexico-2/)
 
