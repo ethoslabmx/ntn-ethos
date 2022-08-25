@@ -4,6 +4,13 @@ date: 2022-08-16T14:17:41.814Z
 img: /img/img-1804.jpg
 autor: Ethos
 category: finanzas-publicas
+extracto: "La mayoría de las entidades federativas dependen altamente de las
+  transferencias federales para cumplir con sus obligaciones de gasto, y la
+  disminución de estas pone en riesgo la capacidad de algunos gobiernos
+  subnacionales para financiar las necesidades de su población, situación que se
+  ha visto empeorada por la pandemia, afirmó Liliana Alvarado, directora de
+  Ethos, al presentar el webinario «Nuevos impuestos para un nuevo contexto»,
+  del que fue moderadora. "
 ---
 <!--StartFragment-->
 
