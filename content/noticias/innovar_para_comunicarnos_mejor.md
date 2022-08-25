@@ -4,6 +4,9 @@ date: 2021-01-01T16:47:05.577Z
 img: /img/personal-2923048_1280.jpg
 autor: Ethos
 category: desarrollo-sostenible
+extracto: Los think tanks somos entes comunicantes. Está en nuestra naturaleza
+  difundir el conocimiento y las propuestas que generamos, para apoyar en la
+  construcción de una mejor sociedad.
 ---
 <!--StartFragment-->
 
