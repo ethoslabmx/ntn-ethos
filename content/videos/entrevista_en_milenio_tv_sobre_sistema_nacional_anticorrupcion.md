@@ -4,6 +4,9 @@ date: 2016-10-26T20:30:20.742Z
 autor: Ethos
 video: https://www.youtube.com/watch?v=fwT5W5s2_DA
 category: anticorrupcion
+extracto: Rodrigo Bolaños, investigador en temas de anticorrupción,
+  transparencia y rendición de cuentas de Ethos fue entrevistado por Héctor
+  Zamarrón en Milenio TV para hablar sobre nuestro trabajo en este rubro.
 ---
 *Rodrigo Bolaños, investigador en anticorrupción de Ethos platica con Héctor Zamarrón en su noticiero de Milenio TV*
 
