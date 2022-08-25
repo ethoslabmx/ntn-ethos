@@ -1,10 +1,15 @@
 ---
 title: DESTACAN EFICIENCIA ENERGÉTICA PARA LA RECUPERACIÓN ECONÓMICA
-date: 2022-08-16T16:19:27.716Z
+date: 2021-02-03T17:19:27.716Z
 img: /img/energia-verde.png
 autor: ": Energía a Debate"
 link: https://energiaadebate.com/energia-limpia/destacan-eficiencia-energetica-para-la-recuperacion-economica/
 category: ciudades-del-futuro
+extracto: Ante la crisis económica derivada de la pandemia provocada por el
+  COVID-19, la Eficiencia Energética (EE) debe ser un elemento prioritario en
+  los planes de recuperación del gobierno federal y los gobiernos subnacionales
+  porque contribuye a la generación de empleos y, de ser bien dirigida, crea
+  inclusión y justicia social, entre otros beneficios.
 ---
 <!--StartFragment-->
 
