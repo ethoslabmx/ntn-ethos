@@ -5,6 +5,11 @@ date: 2022-08-16T15:05:24.157Z
 img: /img/sembrando-vida-filtro.color_.diluido-1-scaled.jpg
 autor: Andrés M. Estrada
 category: inclusion
+extracto: Apesar del discurso de la eliminación de intermediarios para poner fin
+  a la corrupción, persisten vicios en la operación del programa Sembrando Vida
+  por parte de técnicos que tienen  mucha influencia y poder de decisión, sin
+  una supervisión, aunado a que son el personal más vulnerable en términos
+  económicos y de inseguridad; así como, indicios de un clientelismo disfrazado.
 file: /img/sembrando-vida_-_el-fin-a-las-irregularidades-y-la-corrupcion-o-la-continuidad-del-corrompimiento.pdf
 ---
 <!--StartFragment-->
