@@ -4,6 +4,12 @@ date: 2022-08-16T15:03:35.577Z
 img: /img/vacante-sistemas-alimentarios.jpg
 autor: "Andrés M. Estrada "
 category: inclusion
+extracto: La tarde que la amenazó no se sintió intimidada. Tampoco le dio mayor
+  importancia. “Está ardido porque no metí a su familia al programa”, pensó, ya
+  que no contaban con los requisitos. A la mañana siguiente varios pobladores le
+  advirtieron que tuviera mucho cuidado, pues el sujeto, un cacique de la región
+  muy conocido por sus vínculos con autoridades locales y otros expresidentes
+  municipales, era peligroso.
 ---
 <!--StartFragment-->
 
