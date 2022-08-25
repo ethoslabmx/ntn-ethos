@@ -1,9 +1,14 @@
 ---
 title: Comparten experiencias con especialistas internacionales en anticorrupción
-date: 2022-08-24T02:47:47.596Z
+date: 2019-07-19T02:47:47.596Z
 img: https://ucarecdn.com/cd806e4c-0326-466b-ad64-b4c9d4ce5b59/
 autor: "Ethos "
 category: anticorrupcion
+extracto: "Con el objetivo de enriquecer el conocimiento y aplicarlo en
+  propuestas de políticas públicas que combatan la corrupción en el país,
+  Liliana Alvarado y Dalia Toledo participaron en diversos talleres, pláticas y
+  conferencias realizadas en la Novena Academia de Verano de la Academia
+  Internacional Anticorrupción (IACA,  por sus siglas en inglés) de Viena. "
 ---
 *Liliana Alvarado y Dalia Toledo de Ethos participaron en la Academia Internacional Anticorrupción de Viena donde intercambiaron puntos de vista con expertos internacionales en torno al problema de la corrupción y cómo aplicar soluciones adecuadas para México.*
 
