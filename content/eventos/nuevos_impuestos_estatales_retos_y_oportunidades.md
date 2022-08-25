@@ -1,6 +1,6 @@
 ---
 title: "NUEVOS IMPUESTOS ESTATALES: RETOS Y OPORTUNIDADES"
-date: 2022-08-16T14:17:41.814Z
+date: 2022-02-03T15:17:41.814Z
 img: /img/img-1804.jpg
 autor: Ethos
 category: finanzas-publicas
