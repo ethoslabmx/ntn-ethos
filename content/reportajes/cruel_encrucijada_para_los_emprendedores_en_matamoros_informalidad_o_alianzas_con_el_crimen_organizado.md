@@ -2,7 +2,7 @@
 title: "CRUEL ENCRUCIJADA PARA LOS EMPRENDEDORES EN MATAMOROS: INFORMALIDAD O
   ALIANZAS CON EL CRIMEN ORGANIZADO"
 date: 2022-02-28T19:59:21.415Z
-img: /img/curel_encrucijada.jpg
+img: https://ucarecdn.com/d1f06423-fddd-438f-99d4-e95ce239906c/
 img-alt: Portada CRUEL ENCRUCIJADA PARA LOS EMPRENDEDORES
 autor: Ethos
 category: anticorrupcion
