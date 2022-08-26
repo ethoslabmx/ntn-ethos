@@ -1,6 +1,6 @@
 ---
 title: "Multilateralismo, la mejor solución global: Angela Merkel"
-date: 2022-08-18T21:27:04.043Z
+date: 2019-04-30T21:27:04.043Z
 img: https://ucarecdn.com/814cc41a-b91d-45cf-918a-b3ecc3568ec4/
 autor: Ethos
 category: anticorrupcion
