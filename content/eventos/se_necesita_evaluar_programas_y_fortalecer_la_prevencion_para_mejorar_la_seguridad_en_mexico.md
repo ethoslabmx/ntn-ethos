@@ -1,7 +1,7 @@
 ---
 title: Se necesita evaluar programas y fortalecer la prevención para mejorar la
   seguridad en México
-date: 2022-08-18T04:01:41.502Z
+date: 2019-08-22T04:01:41.502Z
 img: https://ucarecdn.com/ce3cee57-d2b1-46cf-9710-ed4652ba8840/
 autor: Ethos
 category: anticorrupcion
