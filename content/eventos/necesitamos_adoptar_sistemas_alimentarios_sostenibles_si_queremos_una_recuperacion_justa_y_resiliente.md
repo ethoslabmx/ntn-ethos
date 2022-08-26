@@ -1,7 +1,7 @@
 ---
 title: Necesitamos adoptar Sistemas Alimentarios Sostenibles si queremos una
   recuperación justa y resiliente
-date: 2022-08-19T00:36:07.468Z
+date: 2021-02-13T01:36:07.468Z
 img: https://ucarecdn.com/0d8b7f53-1b01-41f2-9647-3b55c7f54bc1/
 autor: Ethos Laboratorio de Políticas Públicas
 category: desarrollo-sostenible
