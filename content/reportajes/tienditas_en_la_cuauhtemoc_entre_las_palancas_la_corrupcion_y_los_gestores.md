@@ -1,7 +1,7 @@
 ---
 title: TIENDITAS EN LA CUAUHTÉMOC, ENTRE LAS PALANCAS, LA CORRUPCIÓN Y LOS GESTORES
 date: 2022-02-24T20:10:10.616Z
-img: /img/portada_tienditas_en_la_cuahutemoc.jpg
+img: https://ucarecdn.com/d1f06423-fddd-438f-99d4-e95ce239906c/
 img-alt: portada tiendas corrupción
 autor: Ethos
 category: anticorrupcion
