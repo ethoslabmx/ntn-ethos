@@ -1,6 +1,6 @@
 ---
 title: "Democracia y las leyes que queremos: un análisis de cara al proceso electoral"
-date: 2022-08-18T18:12:06.860Z
+date: 2021-04-15T18:12:06.860Z
 img: https://ucarecdn.com/d019013e-dd2a-4e93-a404-cdd7689c7ba9/
 autor: Ethos
 category: anticorrupcion
