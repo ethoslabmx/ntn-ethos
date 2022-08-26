@@ -3,7 +3,7 @@ title: Aumenta violencia pese a inversión en seguridad
 date: 2017-08-11T05:36:35.041Z
 img: https://ucarecdn.com/6ce8972b-ccab-4108-ac74-5bddc2a4eb76/
 autor: El Sol de México
-category: anticorrupcion
+category: finanzas-publicas
 extracto: Dalia Toledo, coordinadora de Seguridad Pública de Ethos, advirtió que
   la  violencia en México va en aumento a pesar de que el gasto en seguridad
   interior creció 61% entre 2008 y 2015, pasando de invertir 27 mil 259 millones
