@@ -1,7 +1,7 @@
 ---
 title: IMPORTANTE ESCUCHAR LAS VOCES DE LA CIUDADANÍA EN LA IMPLEMENTACIÓN DE
   LAS POLÍTICAS ANTICORRUPCIÓN
-date: 2022-08-13T19:21:25.257Z
+date: 2022-01-31T20:21:25.257Z
 img: /img/sna.jpeg
 img-alt: Liliana Alvarado Zoom
 autor: Ethos
