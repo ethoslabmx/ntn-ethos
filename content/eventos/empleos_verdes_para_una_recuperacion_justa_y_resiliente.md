@@ -1,6 +1,6 @@
 ---
 title: Empleos verdes para una Recuperación Justa y Resiliente
-date: 2022-08-18T22:36:50.228Z
+date: 2021-01-28T23:36:50.228Z
 img: https://ucarecdn.com/a080162b-d24b-4b23-8639-937701280721/
 autor: Ethos Laboratorio de Políticas Públcias
 category: inclusion
