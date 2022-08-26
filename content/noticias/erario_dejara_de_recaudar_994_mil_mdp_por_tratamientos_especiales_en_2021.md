@@ -3,7 +3,7 @@ title: Erario dejará de recaudar 994 mil mdp por tratamientos especiales en 202
 date: 2021-08-26T02:13:44.582Z
 img: https://ucarecdn.com/d9b1d8a5-8581-493d-a479-1f737eabf2c5/
 autor: La Razón
-category: anticorrupcion
+category: finanzas-publicas
 extracto: A causa de tratamientos fiscales especiales, el erario federal dejaría
   de recaudar este año 994 mil 368 millones de pesos, monto que representa a 4.1
   por ciento del Producto Interno Bruto (PIB), con lo cual será la pérdida
