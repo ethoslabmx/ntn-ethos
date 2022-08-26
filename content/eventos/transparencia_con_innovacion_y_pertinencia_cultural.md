@@ -1,6 +1,6 @@
 ---
 title: TRANSPARENCIA CON INNOVACIÓN Y PERTINENCIA CULTURAL
-date: 2022-08-13T19:23:07.361Z
+date: 2021-12-11T20:23:07.361Z
 img: /img/pertinencia-cultural.jpg
 img-alt: Pertinencia Cultural
 autor: Ethos
