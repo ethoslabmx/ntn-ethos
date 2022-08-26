@@ -1,6 +1,6 @@
 ---
 title: El futuro que alcanzó a los transgénicos
-date: 2022-08-19T01:39:23.405Z
+date: 2020-09-02T01:39:23.405Z
 img: https://ucarecdn.com/7cb4d782-16b1-419e-9a28-2a59f42bd786/
 autor: Ethos Laboratorio de Políticas Públicas
 link: https://www.youtube.com/watch?v=JBBM4YaiKeM
