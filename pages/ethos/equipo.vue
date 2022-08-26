@@ -6,10 +6,10 @@
         <div class="flex flex-wrap md:flex-nowrap md:flex-row-reverse">
 
           <div class="w-full xl:w-1/2 md:2/3 flex items-start border-b-2 md:border-l-2 md:border-b-0 border-gray-dark">
-            <div class="content md:px-5 pb-10 md:pb-0 w-full">
+            <div class="content md:px-5 pb-10 md:pb-0 w-full"  v-if="seleccionado.img">
                <div class="avatar">
-              <img :src="seleccionado.img" alt="" class="w-96 h-auto mx-auto"/>
-            </div>
+                <img :src="seleccionado.img" alt="" class="w-96 h-auto mx-auto"/>
+              </div>
             <p class="title mt-6 text-right">{{ seleccionado.nombre}}</p>
             <p class="title mb-6 text-right">{{ seleccionado.puesto }}</p>
             <p class="desc">
@@ -22,7 +22,6 @@
               <a v-show="seleccionado.twitter" :href="'//twitter.com/'+seleccionado.twitter" target="_blank" class="ml-auto block mt-3"><img src="../../assets/images/twwt-orange.png" alt="" class="w-30 h-auto"></a>
             </div>
             </div>
-
           </div>
           <div class="w-full xl:w-1/2 md:1/3">
             <ul class="list puestos">
@@ -121,7 +120,7 @@ export default {
     };
   },
   mounted(){
-    this.selectEmployee(this.dg[0].nombre);
+    //this.selectEmployee(this.dg[0].nombre);
   },
 
 

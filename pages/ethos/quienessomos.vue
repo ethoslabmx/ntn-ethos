@@ -41,20 +41,20 @@
               problemáticas que afectan al país.</p>
           </div>
           <div class="2xl:mb-20 mb-10">
-            <h3 class="md:text-lg text-md  mb-6">Responsabilidad</h3>
+            <h3 class="md:text-lg text-md  mb-6">RESPONSABILIDAD</h3>
             <p>Actuamos conscientes de la importancia de nuestro quehacer y estamos atentos al impacto de nuestra voz,
               pues sabemos que esta labor nos permite influir en la ciudadanía, sociedad civil organizada, y en los
               sectores público y privado.</p>
           </div>
           <div class="2xl:mb-20 mb-10">
-            <h3 class="md:text-lg text-md  mb-6">Cooperación</h3>
+            <h3 class="md:text-lg text-md  mb-6">COOPERACIÓN</h3>
             <p>Buscamos la transformación de nuestra realidad, colaborando y tejiendo alianzas con otras organizaciones
               de
               sociedad civil, sector público, privado, organismos internacionales y universidades que son afines a
               nuestros proyectos e iniciativas. La incidencia se facilita cuando trabajamos de manera conjunta. </p>
           </div>
           <div class="2xl:mb-20 mb-10">
-            <h3 class="md:text-lg text-md  mb-6">Independencia</h3>
+            <h3 class="md:text-lg text-md  mb-6">INDEPENDENCIA</h3>
             <p>Nuestro quehacer es valioso porque, entre otras cuestiones, se encuentra desligado de intereses y agendas
               externas. No nos guía el compromiso con algún actor o sector en particular. Ello nos permite realizar
               nuestro trabajo libremente.</p>

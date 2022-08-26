@@ -4,7 +4,7 @@
     <div class="jumbotron-quienes relative flex items-top justify-center bg-gray-100 sm:items-center sm:pt-0  bg-gradient-to-b from-cyan to-cyanlight">
       <div class="container flex items-center">
         <div class="hero mt-5 md:mr-auto lg:w-1/2 md:w-2/3">
-          <h1 class="4xl:text-5xl  lg:text-3xl text-2xl big-title mb-6 text-white text-right">¿QUIÉNES <br> SOMOS?</h1>
+          <h1 class="4xl:text-5xl  lg:text-3xl text-2xl big-title mb-6 text-white text-right">¿QUIÉNES SOMOS?</h1>
           <p class="4xl:text-xl text-lg text-right text-white font-normal">
             Somos un <span class="italic">think tank</span> que genera recomendaciones innovadoras y acciones concretas de política pública con el objeto de
             atender algunos de los principales retos para el desarrollo de México.
@@ -67,6 +67,13 @@
     min-height: calc(50vh - 100px);
   }
 
+  .hero p{
+    margin: 10px 0;
+    line-height: 1.5rem;
+    @media  screen and (min-width: 768px) {
+      line-height: 2.2rem;
+    }
+  }
 
 }
 </style>

@@ -173,6 +173,9 @@ export default {
         case "desarrollo-sostenible":
           nombre = "Desarrollo Sostenible";
           break;
+        case "think-tanks":
+          nombre = "Think Tanks";
+          break;
       }
       return nombre;
     }

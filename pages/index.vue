@@ -58,7 +58,7 @@
         <div class="content md:w-1/2 p-8 self-center">
           <h2 class="title xl:text-2xl text-lg">Inclusión</h2>
           <p>Analizamos y proponemos soluciones a los desafíos estructurales del desarrollo social, incluyendo iniciativas de igualdad de género y que aseguren los derechos de poblaciones en situación de vulnerabilidad.</p>
-            <NuxtLink class="ml-auto more-btn" to="/inclusion/publicaciones">ENTRAR <span class="icon"></span></NuxtLink>
+            <NuxtLink class="ml-auto mt-4 more-btn" to="/inclusion/publicaciones">ENTRAR <span class="icon"></span></NuxtLink>
         </div>
 
 
@@ -155,6 +155,9 @@ export default {
           break;
         case "desarrollo-sostenible":
           nombre = "Desarrollo Sostenible";
+          break;
+        case "think-tanks":
+          nombre = "Think Tanks";
           break;
       }
       return nombre;

@@ -8,7 +8,7 @@
           <p>{{d.autor}}</p>
         </div>
         <div class="col mt-6 2xl:mt-0 mx-auto 2xl:ml-auto 2xl:mr-0">
-          <img :src="d.img" alt="" class="">
+          <img :src="d.img" alt="" class="doc-cover">
 
           <a href="" @click="download(d.file)" class="block mx-auto bg-gray-dark py-2 px-7 rounded-md my-3 text-white">Descargar</a>
 
@@ -39,3 +39,12 @@ export default {
   }
 }
 </script>
+
+<style lang="scss">
+.doc-cover {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  object-position: 50% 50%;
+}
+</style>

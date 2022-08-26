@@ -73,9 +73,9 @@ export default {
     },
     async getNext(){
       const newPosts= await this.$content("videos").where({category:"desarrollo-sostenible"}).sortBy('date','desc').skip(this.posts.length).limit(6).fetch();
-      if(newPosts.length == 8){
+      if(newPosts.length == 6){
         this.posts = this.posts.concat(newPosts);
-      }  else if(newPosts.length > 0 && newPosts.length < 8){
+      }  else if(newPosts.length > 0 && newPosts.length < 6){
         this.posts = this.posts.concat(newPosts);
         this.more = false;
       } else  {
