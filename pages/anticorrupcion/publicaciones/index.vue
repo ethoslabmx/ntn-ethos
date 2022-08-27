@@ -1,6 +1,7 @@
 <template>
   <div class="border-b-16 border-primary app">
-    <JumbotronEje title="ANTICORRUPCIÓN" subtitle="Publicaciones" image="anticorrupcion-thumb.png"/>    <li v-for="evento of eventos" :key="evento.slug" class="post md:py-20 py-10">
+    <JumbotronEje title="ANTICORRUPCIÓN" subtitle="Publicaciones" image="anticorrupcion-thumb.png"/>
+    <li v-for="evento of eventos" :key="evento.slug" class="post md:py-20 py-10">
       <div
         class="flex container px-5 xl:px-28 items-center justify-between flex-wrap md:flex-nowrap md:flex-row-reverse">
 
@@ -54,10 +55,10 @@
       </div>
     </li>
     <li class="post last">
-          <div class="container px-5 xl:px-28 py-10" v-if="more">
-            <button class="ml-auto more-btn bold" @click="loadPosts">VER MÁS <span class="icon"></span></button>
-          </div>
-        </li>
+      <div class="container px-5 xl:px-28 py-10" v-if="more">
+        <button class="ml-auto more-btn bold" @click="loadPosts">VER MÁS <span class="icon"></span></button>
+      </div>
+    </li>
   </div>
 </template>
 
