@@ -8,7 +8,7 @@ category: anticorrupcion
 extracto: En el corazón de la capital mexicana la digitalización de trámites no
   arraiga en el pequeño comercio, lo cual propicia la injerencia
   de coyotes formales e informales.
-file: /img/tienditas-en-la-cuauhte_moc-entre-las-palancas-la-corrupcio_n-y-los-gestores-.docx.pdf
+file: https://ucarecdn.com/413f1665-85d1-494a-ba90-1c95a955327c/
 ---
 <!--StartFragment-->
 
