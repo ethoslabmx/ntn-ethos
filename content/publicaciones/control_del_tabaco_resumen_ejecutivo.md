@@ -1,8 +1,7 @@
 ---
 title: "Control del tabaco: Resumen ejecutivo"
 date: 2021-03-24T04:16:06.968Z
-img:
-  - https://ucarecdn.com/1b7568eb-f857-42d4-95e9-dba96483833e/
+img: https://ucarecdn.com/1b7568eb-f857-42d4-95e9-dba96483833e/
 autor: Ethos
 extracto: "Este documento es un resumen del reporte técnico “Mecanismos de
   transparencia y rendición de cuentas en el diseño e implementación de
