@@ -402,6 +402,10 @@ ul.navbar li ul li {
 
 }
 
+.share{
+  margin-top: 25px;
+}
+
 .share ul {
   display: flex;
   flex-wrap: nowrap;

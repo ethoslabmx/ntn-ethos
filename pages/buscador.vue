@@ -64,7 +64,7 @@ export default {
     filteredResults(){
       let r = this.resultados
       if(this.ejes.length > 0){
-        console.log(this.ejes);
+        //console.log(this.ejes);
         r = r.filter(r => this.ejes.includes(r.category))
       } else {
         r = this.resultados.sort((a,b) => a.category - b.category);

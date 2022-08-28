@@ -74,7 +74,7 @@ export default {
     }
   },
   async asyncData({ $content }) {
-    const eventos = await $content("publicaciones").where({category:"finanzas-publicas"}).sortBy('date','desc').limit(8).fetch();
+    const eventos = await $content("publicaciones").where({category:"finanzas-publicas"}).without(['body']).sortBy('date','desc').limit(8).fetch();
 
     return {
       eventos,
@@ -88,7 +88,7 @@ export default {
       return evento.autores ? evento.autores.flatMap(a=>a.autor).join(', ') : evento.autor ? evento.autor : '';
     },
     async getNext(){
-      const newEvents = await this.$content("publicaciones").where({category:"finanzas-publicas"}).sortBy('date','desc').skip(this.eventos.length).limit(8).fetch();
+      const newEvents = await this.$content("publicaciones").where({category:"finanzas-publicas"}).without(['body']).sortBy('date','desc').skip(this.eventos.length).limit(8).fetch();
       if(newEvents.length < 8){
         this.more = false;
       }

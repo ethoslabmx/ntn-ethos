@@ -53,7 +53,7 @@ export default {
   components: { JumbotronEje },
 
   async asyncData({ $content }) {
-    const columnas = await $content("noticias").where({ category: "inclusion" }).sortBy('date','desc').limit(8).fetch();
+    const columnas = await $content("noticias").where({ category: "inclusion" }).without(['body']).sortBy('date','desc').limit(8).fetch();
 
     return {
       columnas,
@@ -71,7 +71,7 @@ export default {
       this.getNext();
     },
     async getNext(){
-      const newPosts = await this.$content("noticias").where({category:"inclusion"}).sortBy('date','desc').skip(this.columnas.length).limit(8).fetch();
+      const newPosts = await this.$content("noticias").where({category:"inclusion"}).without(['body']).sortBy('date','desc').skip(this.columnas.length).limit(8).fetch();
       if(newPosts.length == 8){
         this.columnas = this.columnas.concat(newPosts);
       }  else if(newPosts.length > 0 && newPosts.length < 8){

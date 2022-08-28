@@ -52,7 +52,7 @@ export default {
   components: { JumbotronEje },
 
   async asyncData({ $content }) {
-    const eventos = await $content("eventos").where({category:"desarrollo-sostenible"}).sortBy('date','desc').limit(8).fetch();
+    const eventos = await $content("eventos").where({category:"desarrollo-sostenible"}).without(['body']).sortBy('date','desc').limit(8).fetch();
 
     return {
       eventos,
@@ -70,7 +70,7 @@ export default {
       this.getNext();
     },
     async getNext(){
-      const newPosts = await this.$content("eventos").where({category:"desarrollo-sostenible"}).sortBy('date','desc').skip(this.eventos.length).limit(8).fetch();
+      const newPosts = await this.$content("eventos").where({category:"desarrollo-sostenible"}).without(['body']).sortBy('date','desc').skip(this.eventos.length).limit(8).fetch();
       if(newPosts.length == 8){
         this.eventos = this.eventos.concat(newPosts);
       }  else if(newPosts.length > 0 && newPosts.length < 8){

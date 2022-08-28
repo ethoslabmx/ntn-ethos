@@ -19,7 +19,7 @@
 
           <div class="ml-auto p-5 md:p-0">
 
-            <NuxtLink :to="'publicaciones/'+pub.slug" class="title xl:text-xl text-sm mb-6 block">
+            <NuxtLink :to="'/anticorrupcion/publicaciones/'+pub.slug" class="title xl:text-xl text-sm mb-6 block">
               <button class="bg-gray-dark font py-2 px-3 rounded-md my-3 text-white">Leer</button>
             </NuxtLink>
 
@@ -30,7 +30,7 @@
 
           <div class="header content-start">
 
-            <NuxtLink :to="'publicaciones/'+pub.slug" class="title xl:text-xl text-sm mb-6 block">{{ pub.title }}</NuxtLink>
+            <NuxtLink :to="'/anticorrupcion/publicaciones/'+pub.slug" class="title xl:text-xl text-sm mb-6 block">{{ pub.title }}</NuxtLink>
 
           </div>
 
@@ -48,7 +48,7 @@
     </li>
     <li class="post last">
       <div class="container px-5 xl:px-28 py-10" >
-        <NuxtLink :to="'publicaciones'" class="ml-auto more-btn bold">VER MÁS <span class="icon"></span></NuxtLink>
+        <NuxtLink :to="'/anticorrupcion/publicaciones'" class="ml-auto more-btn bold">VER MÁS <span class="icon"></span></NuxtLink>
       </div>
     </li>
     <div class="columnas 2xl:pr-20">
@@ -74,14 +74,14 @@
             </div>
             <div class="ml-auto p-5 md:p-0">
 
-              <NuxtLink :to="'columnas/'+col.slug" class="title xl:text-xl text-sm mb-6 block">
+              <NuxtLink :to="'/anticorrupcion/columnas/'+col.slug" class="title xl:text-xl text-sm mb-6 block">
                 <button class="bg-gray-dark font py-2 px-3 rounded-md my-3 text-white">Leer</button>
               </NuxtLink>
             </div>
           </div>
           <div class="left  md:p-7 p-5 md:w-2/3  4xl:w-3/4 w-full flex flex-col justify-between">
             <div class="content-start">
-              <NuxtLink :to="'columnas/'+col.slug" class="title xl:text-xl text-sm mb-6 block">{{ col.title }}</NuxtLink>
+              <NuxtLink :to="'/anticorrupcion/columnas/'+col.slug" class="title xl:text-xl text-sm mb-6 block">{{ col.title }}</NuxtLink>
             </div>
               <div class="content-center mb-10">
                 <p>{{col.extracto}}</p>
@@ -95,7 +95,7 @@
         </li>
         <li class="post last">
       <div class="container px-5 xl:px-28 py-10" >
-        <NuxtLink :to="'columnas'" class="ml-auto more-btn bold">VER MÁS <span class="icon"></span></NuxtLink>
+        <NuxtLink :to="'/anticorrupcion/columnas'" class="ml-auto more-btn bold">VER MÁS <span class="icon"></span></NuxtLink>
       </div>
     </li>
     </ul>

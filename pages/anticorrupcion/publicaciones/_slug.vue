@@ -147,7 +147,7 @@ export default {
 .pdf-container {
   width: 80%;
   margin: 20px auto;
-  max-width: 700px;
+  max-width: 600px;
   height: 70vh;
   overflow: auto;
 }
