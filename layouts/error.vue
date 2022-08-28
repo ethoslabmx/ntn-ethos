@@ -2,7 +2,9 @@
   <div class="container">
     <h1 v-if="error.statusCode === 404">No encontramos la página</h1>
     <h1 v-else>Ocurrió un error</h1>
-    <NuxtLink to="/">INICIO</NuxtLink>
+    <h2>Ir al
+      <NuxtLink to="/">INICIO</NuxtLink>
+    </h2>
   </div>
 </template>
 
