@@ -2,7 +2,7 @@
 title: ACELERANDO LA FISCALIDAD EFECTIVA AL TABACO EN AMÉRICA LATINA. EL CASO DE
   MÉXICO
 date: 2019-08-25T13:58:35.842Z
-img: /img/impuestos_al_tabaco.jpg
+img: https://ucarecdn.com/4ecef13f-133d-46c0-879c-f8bd65f1eeda/
 img-alt: Portada impuestos al tabaco
 autor: Liliana Alvarado, Dalia Toledo, Rodrigo Bolaños, Alejandro Alegría Matus,
   Claudia Cordova
