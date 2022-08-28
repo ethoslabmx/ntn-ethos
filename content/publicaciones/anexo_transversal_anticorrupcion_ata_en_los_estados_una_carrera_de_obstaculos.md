@@ -2,7 +2,7 @@
 title: "ANEXO TRANSVERSAL ANTICORRUPCIÓN (ATA) EN LOS ESTADOS: UNA CARRERA DE
   OBSTÁCULOS"
 date: 2021-08-20T18:55:04.155Z
-img: /img/anexo.jpg
+img: https://ucarecdn.com/124aea22-a85a-4bdc-ad1b-94237dcdf235/
 img-alt: "Portada ANEXO TRANSVERSAL ANTICORRUPCIÓN "
 autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 extracto: Transparentar cuánto gastan los gobiernos subnacionales en el combate
