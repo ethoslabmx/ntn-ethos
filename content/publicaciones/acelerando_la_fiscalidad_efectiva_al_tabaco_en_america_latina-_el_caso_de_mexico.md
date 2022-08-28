@@ -10,8 +10,6 @@ extracto: Este estudio analiza las políticas de control del tabaco que se han
   implementado en México, enfocándose, en particular, en la efectividad que ha
   tenido la política tributaria para reducir el consumo de cigarrillos y en el
   impacto que el tabaquismo ha tenido sobre las finanzas públicas.
-autores:
-  - autor: Liliana Alvarado
 category: finanzas-publicas
 file: /img/ep6_ethos_2019.pdf
 ---
