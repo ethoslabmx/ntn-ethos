@@ -1,7 +1,7 @@
 ---
 title: Lecciones de una pandemia
 date: 2021-02-10T16:36:22.570Z
-img: /img/lecciones-de-una-pandemia-bannerwebethos-2021.png
+img: https://ucarecdn.com/6ae5a25d-7892-4298-a55d-40ead3789f54/
 autor: Ethos
 category: desarrollo-sostenible
 extracto: Como resultado del COVID-19, el sector pesquero mexicano está
@@ -10,7 +10,7 @@ extracto: Como resultado del COVID-19, el sector pesquero mexicano está
   recuperación del sector, es necesario hacer una pausa y reflexionar acerca del
   mosaico de realidades que han tanto permitido como obstaculizado hacer frente
   a la actual crisis.
-file: /img/lecciones-de-una-pandemia-web.pdf
+file: https://ucarecdn.com/01704687-8c6e-4f3e-a855-625ea8dd6f59/
 ---
 <!--StartFragment-->
 
