@@ -9,7 +9,7 @@ category: anticorrupcion
 extracto: Los pequeños empresarios en esta frontera abren sus negocios y van
   tramitando permisos con la esperanza de que la delincuencia no toque a su
   puerta.
-file: /img/cruel-encrucijada-para-los-emprendedores-en-matamoros_-informalidad-o-alianzas-con-el-crimen-organizado.docx.pdf
+file: https://ucarecdn.com/0dcb98a7-8084-419b-88a8-49c7d77bb4fc/
 ---
 <!--StartFragment-->
 
