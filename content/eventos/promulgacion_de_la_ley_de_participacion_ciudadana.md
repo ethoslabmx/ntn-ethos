@@ -7,6 +7,12 @@ category: anticorrupcion
 extracto: Ethos participó en el evento de la Promulgación de la Ley de
   Participación Ciudadana en el Foro Anticorrupción 2018, el cual fue organizado
   por la Secretaría de la Función Pública del Gobierno del Estado de Chihuahua.
+galeria:
+  - https://ucarecdn.com/a384338b-65e4-49af-bbb0-45356281018b/
+  - https://ucarecdn.com/9fbd4c2a-a299-4f52-9386-cc361c6d64f9/
+  - https://ucarecdn.com/83dd0a73-3b0d-43d2-997f-d8c3c5451bac/
+  - https://ucarecdn.com/00757757-169b-4536-aa2d-8b466737a1fe/
+  - https://ucarecdn.com/c6a6a970-8212-43f6-a18a-2bde6e21ed26/
 ---
 *Ethos participó en la Promulgación de la Ley de Participación Ciudadana en Chihuahua y expuso los contenidos del Manual del Sistema Nacional Anticorrupción y de la Guía Ciudadana del Sistema Nacional Anticorrupción.*
 
