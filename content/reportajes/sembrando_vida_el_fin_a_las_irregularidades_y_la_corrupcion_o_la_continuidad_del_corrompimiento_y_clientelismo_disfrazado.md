@@ -2,7 +2,7 @@
 title: Sembrando Vida el fin a las irregularidades y la corrupción o la
   continuidad del corrompimiento y clientelismo disfrazado
 date: 2022-08-16T15:05:24.157Z
-img: /img/sembrando-vida-filtro.color_.diluido-1-scaled.jpg
+img: https://ucarecdn.com/d8b518c7-60cd-4a27-904f-5f81043869c8/
 autor: Andrés M. Estrada
 category: inclusion
 extracto: Apesar del discurso de la eliminación de intermediarios para poner fin
@@ -10,7 +10,7 @@ extracto: Apesar del discurso de la eliminación de intermediarios para poner fi
   por parte de técnicos que tienen  mucha influencia y poder de decisión, sin
   una supervisión, aunado a que son el personal más vulnerable en términos
   económicos y de inseguridad; así como, indicios de un clientelismo disfrazado.
-file: /img/sembrando-vida_-_el-fin-a-las-irregularidades-y-la-corrupcion-o-la-continuidad-del-corrompimiento.pdf
+file: https://ucarecdn.com/cdc4c447-9090-452a-8e7a-1b606db52d3f/
 ---
 <!--StartFragment-->
 
