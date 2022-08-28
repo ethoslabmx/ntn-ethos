@@ -2,15 +2,15 @@
 title: "El Seguro Popular de salud en México: posibles efectos sobre la economía
   informal"
 date: 2011-02-01T15:47:13.927Z
-img: /img/portada_el_seguro_popular_de_salud.jpg
+img: https://ucarecdn.com/9fad819f-509d-482c-a742-2390b145e21a/
 autor: Alicia Santana Cartas, Liliana Alvarado Baena, Stephen Birtwistle y
   Carlos Demian Rivera Saldaña
+category: inclusion
 extracto: La economía informal es un fenómeno en la historia de México que ha
   adquirido importancia en las últimas décadas. Consecuencia de ello es la
   preocupación de ciertos sectores de la sociedad por aminorar su peso dentro de
   la economía.
-category: inclusion
-file: /img/el-seguro-popular-de-salud-en-mexico.pdf
+file: https://ucarecdn.com/b6bdcf0a-3d62-4d08-b4fc-be722d29eec3/
 ---
 <!--StartFragment-->
 
