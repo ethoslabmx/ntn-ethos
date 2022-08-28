@@ -1,7 +1,7 @@
 ---
 title: Los proveedores consentidos de Sembrando Vida en Veracruz
 date: 2022-08-16T15:01:26.929Z
-img: /img/sembrando-vida-portada-portada-portada-v.2.2.jpg
+img: https://ucarecdn.com/11ec39f0-286f-437e-b0fc-06573da8db46/
 autor: Sergio Rincón
 category: inclusion
 extracto: Han pasado nueve meses desde que Gonzalo compró cerca de cinco kilos
@@ -11,7 +11,7 @@ extracto: Han pasado nueve meses desde que Gonzalo compró cerca de cinco kilos
   Al abrir el primer empaque, percibió un olor agrio. Al extender el contenido,
   se indignó aún más al ver que eso parecía un montón de cáscaras de pepita,
   abiertas y mojadas. Eran 12 mil pesos de semillas pudriéndose entre sus dedos.
-file: /img/los-proveedores-consentidos-de-sembrando-vida_3.docx.pdf
+file: https://ucarecdn.com/f13b6737-c2e6-49bd-82a2-c8e82dbc24db/
 ---
 <!--StartFragment-->
 
