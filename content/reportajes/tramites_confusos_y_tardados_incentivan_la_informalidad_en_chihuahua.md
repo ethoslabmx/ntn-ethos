@@ -8,7 +8,7 @@ category: anticorrupcion
 extracto: Los nuevos emprendedores prefieren abrir sus locales sin los permisos
   debidos, y a veces con acuerdos extraoficiales, en lugar de atravesar el
   calvario de al menos cinco oficinas diferentes.
-file: /img/tra_mites-confusos-y-tardados-incentivan-la-informalidad-en-chihuahua-.docx.pdf
+file: https://ucarecdn.com/6622fe91-0fb9-428f-b08a-6d53e230e584/
 ---
 <!--StartFragment-->
 
