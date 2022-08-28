@@ -22,7 +22,7 @@ export default {
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: ['~/plugins/youtube.client.js','~/plugins/pdfviewer.client.js'],
+  plugins: ['~/plugins/youtube.client.js',{src:'~/plugins/pdfviewer.client.js',ssr: false, mode: 'client' }],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
@@ -56,6 +56,7 @@ export default {
   router: {
     middleware: ['menu-class']
   },
+  generate: { fallback: '404.html' },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
