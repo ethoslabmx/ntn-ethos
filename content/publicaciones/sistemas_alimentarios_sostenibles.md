@@ -3,14 +3,14 @@ title: Sistemas Alimentarios Sostenibles
 date: 2021-02-02T16:30:27.946Z
 img: https://ucarecdn.com/0cba4f86-77f2-4e17-9cb5-6adda4f0635e/
 autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+category: desarrollo-sostenible
 extracto: En el contexto de la pandemia del COVID-19, la tasa de desempleo en
   México subió a 5.5% en junio 2020, y se estima que el 44% del empleo total (≥
   24 millones de empleos) podría verse afectado (OIT, 2020). Además, entre el
   primer y tercer trimestre de 2020, el ingreso laboral real tuvo una
   disminución de 12.3%, mientras que se vio un aumento de la pobreza laboral de
   35.7% a 44.5% (CONEVAL, 2020).
-category: desarrollo-sostenible
-file: /img/brief-sistemas-alimentarios.pdf
+file: https://ucarecdn.com/9b7a0075-593e-4866-b5c1-3b54768aed8c/
 ---
 <!--StartFragment-->
 
