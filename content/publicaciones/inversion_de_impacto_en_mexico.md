@@ -2,7 +2,7 @@
 title: Inversión de Impacto en México
 date: 2018-10-12T21:22:11.624Z
 img: https://ucarecdn.com/525c1ea4-da14-4772-849e-466f1db74929/
-autor: Ethos
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: desarrollo-sostenible
 extracto: "La inversión de impacto es un fenómeno emergente que se ha
   posicionado dentro de la agenda de la innovación social de los países

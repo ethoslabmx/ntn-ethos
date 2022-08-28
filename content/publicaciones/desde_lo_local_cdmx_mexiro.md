@@ -2,8 +2,7 @@
 title: "Desde lo local: CDMX Mexiro"
 date: 2020-09-23T22:18:01.551Z
 img: https://ucarecdn.com/51d70974-b756-45d1-9769-d134cb8ad23b/
-autores:
-  - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: anticorrupcion
 extracto: "Según Eistein, “locura es hacer lo mismo una y otra vez esperando
   obtener resultados diferentes”. En el siglo XXI, esta máxima sigue vigente,

@@ -3,8 +3,7 @@ title: "Desde lo local: CDMX Documenta"
 date: 2020-10-21T21:42:14.906Z
 img: https://ucarecdn.com/e184ff88-ab2e-4442-b963-a110ec5414c3/
 category: anticorrupcion
-autores:
-  - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 extracto: Actualmente en México hay más de doscientas mil personas en situación
   de cárcel, lo más alarmante es que según el comisionado de Prevención y
   Readaptación Social del Gobierno Federal, José Ángel Ávila Pérez, del total de

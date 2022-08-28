@@ -3,6 +3,7 @@ title: "Desde lo local: Nuevo León"
 date: 2020-08-17T23:00:08.668Z
 img: https://ucarecdn.com/6fd48301-3644-4e94-a018-199346032836/
 category: anticorrupcion
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 extracto: En la década de los setenta, Nuevo León vivió una de sus épocas más
   oscuras; la sociedad estaba polarizada política y socialmente, y el estado
   vivía una crisis de seguridad, marcada por el asesinato de Eugenio Garza Sada,

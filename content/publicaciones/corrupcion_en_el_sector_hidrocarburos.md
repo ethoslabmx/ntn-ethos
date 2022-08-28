@@ -3,6 +3,7 @@ title: Corrupción en el sector hidrocarburos
 date: 2018-04-12T23:40:31.683Z
 img: https://ucarecdn.com/cfab61af-6760-42e1-94ec-3b473ad189bc/
 category: anticorrupcion
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 extracto: El sector hidrocarburos es clave para el funcionamiento de la economía
   global, ya que permite producir buena parte de la energía eléctrica que se
   consume en el mundo, genera millones de empleos e ingresos para los gobiernos.

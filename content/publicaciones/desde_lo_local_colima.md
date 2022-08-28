@@ -2,8 +2,7 @@
 title: "Desde lo local: Colima"
 date: 2020-10-12T22:06:21.067Z
 img: https://ucarecdn.com/9840df8e-ad62-4eb9-88f2-03f3764dc61d/
-autores:
-  - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: anticorrupcion
 extracto: Sí, como dijera Peter F. Drucker, “lo que se mide mejora”. Con esto en
   mente, en abril del 2015, un conjunto de más de 40 Organizaciones de la

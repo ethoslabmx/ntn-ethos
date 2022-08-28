@@ -3,6 +3,7 @@ title: "Desde lo local: Sinaloa"
 date: 2020-10-05T22:09:12.182Z
 img: https://ucarecdn.com/3b5c0d6a-e898-4c12-a457-4d3b59bb6acf/
 category: anticorrupcion
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 extracto: Muchos de los casos más emblemáticos de corrupción en México han sido
   exhibidos por el periodismo de investigación, lo que en su momento dio pie a
   que fueran investigados por las autoridades correspondientes.

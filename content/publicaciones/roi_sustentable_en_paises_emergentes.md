@@ -2,7 +2,7 @@
 title: ROI Sustentable en países emergentes
 date: 2017-10-24T21:44:58.127Z
 img: https://ucarecdn.com/c0ec3cae-044c-423d-9ebb-be6feaa70681/
-autor: Ethos
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: desarrollo-sostenible
 extracto: "La medición del retorno de inversión en actividades sustentables
   surge de tres tendencias a nivel global: las estrategias de sustentabilidad

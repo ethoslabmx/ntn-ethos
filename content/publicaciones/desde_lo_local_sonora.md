@@ -2,8 +2,7 @@
 title: "Desde lo local: Sonora"
 date: 2020-09-02T22:28:01.731Z
 img: https://ucarecdn.com/886cf3f7-b63b-41ad-9846-3ba7ed78aa02/
-autores:
-  - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: anticorrupcion
 extracto: Avance y Desarrollo por la Igualdad, A.C. (Avance) es una Organización
   de la Sociedad Civil que se consolida legalmente en el año 2018, cuyo

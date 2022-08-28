@@ -12,6 +12,6 @@ file: https://ucarecdn.com/16064009-2592-45e2-bc0f-be145749dfb4/
 ---
 <!--StartFragment-->
 
-El Sistema Nacional Anticorrupción (SNA) es un mecanismo que coordina distintas autoridades de los tres órdenes de gobierno que tienen la responsabilidad de promover la rendición de cuentas y el combate a la corrupción en el quehacer público.
+El Sistema Nacional Anticorrupción (SNA) es un mecanismo que coordina distintas autoridades de los tres órdenes de gobierno que tienen la responsabilidad de promover la rendición de cuentas y el combate a la corrupción en el quehacer público.
 
 <!--EndFragment-->

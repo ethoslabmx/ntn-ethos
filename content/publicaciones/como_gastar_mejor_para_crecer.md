@@ -3,10 +3,7 @@ autor: José Luis Chicoma, Liliana Alvarado, Junior Alfredo Martínez.
 title: ¿CÓMO GASTAR MEJOR PARA CRECER?
 date: 2013-09-21T03:21:49.044Z
 img: https://ucarecdn.com/242f20c0-127e-4f13-a695-6c4caebdb1dd/
-autores:
-  - autor: Liliana Alvarado
-  - autor: José Luis Chicoma
-  - autor: Junior Alfredo Martínez
+autor: Liliana Alvarado José Luis Chicoma Junior Alfredo Martínez
 category: finanzas-publicas
 extracto: Antes de cobrar más impuestos, el gobierno debe demostrar que se puede
   reducir el desperdicio de recursos públicos y sancionar actos de corrupción.

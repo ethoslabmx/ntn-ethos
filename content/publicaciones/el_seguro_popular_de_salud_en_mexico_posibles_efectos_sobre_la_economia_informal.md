@@ -9,8 +9,6 @@ extracto: La economía informal es un fenómeno en la historia de México que ha
   adquirido importancia en las últimas décadas. Consecuencia de ello es la
   preocupación de ciertos sectores de la sociedad por aminorar su peso dentro de
   la economía.
-autores:
-  - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: inclusion
 file: /img/el-seguro-popular-de-salud-en-mexico.pdf
 ---

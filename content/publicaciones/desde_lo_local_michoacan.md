@@ -2,8 +2,7 @@
 title: "Desde lo local: Michoacan"
 date: 2020-09-14T22:25:19.990Z
 img: https://ucarecdn.com/0af6b6d9-872d-4374-a832-d74c05ef8e11/
-autores:
-  - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: anticorrupcion
 extracto: "Cuando hablamos de corrupción en el gobierno, generalmente pensamos
   en grandes desfalcos gestados por gobernadores o funcionarios públicos

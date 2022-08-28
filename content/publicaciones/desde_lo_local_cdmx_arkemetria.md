@@ -2,8 +2,7 @@
 title: "Desde lo local: CDMX Arkemetría"
 date: 2020-09-30T22:15:05.032Z
 img: https://ucarecdn.com/d9f24048-d8f3-498b-bcc2-1100f624db34/
-autores:
-  - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: anticorrupcion
 extracto: El combate a la corrupción no es algo exclusivo del gobierno, la
   sociedad civil organizada puede y debe ser un actor determinante para lograr

@@ -3,6 +3,7 @@ title: LIBRO VAQUERO… ANTICORRUPCIÓN
 date: 2017-03-02T00:42:17.078Z
 img: https://ucarecdn.com/73fb2054-0498-4440-b0e3-6f541a6dfa76/
 category: anticorrupcion
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 extracto: Si no sabes qué tan grave es la corrupción en México, para darte una
   idea este problema nos cuesta entre 2 y 10 por ciento del Producto Interno
   Bruto del país, para acabar con esto el Think tank, Ethos, ha creado un libro

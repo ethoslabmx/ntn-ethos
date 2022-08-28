@@ -3,6 +3,7 @@ title: Hackathon Ethos Anticorrupción
 date: 2017-11-16T01:18:52.171Z
 img: https://ucarecdn.com/9d0c3614-d823-4eb2-9e08-a33ef7547d1b/
 category: anticorrupcion
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 extracto: En Ethos Laboratorio de Políticas Públicas, conscientes de los
   principales retos para el desarrollo y progreso de México y América Latina,
   decidimos aprovechar las nuevas tecnologías para desarrollar una herramienta

@@ -2,13 +2,11 @@
 title: Financiamiento climático en México
 date: 2021-01-26T16:32:53.150Z
 img: /img/financiamiento-climatico-latinoame_rica-sostenible-horizontal-redes-02-07.jpg
-autor: Ethos
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 extracto: Una recuperación justa y resiliente implica promover medidas que
   reflejen la interdependencia entre la economía, la salud y la sociedad con el
   ambiente para aumentar la inclusión social y el bienestar de las personas,
   especialmente las más vulnerables.
-autores:
-  - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: desarrollo-sostenible
 file: /img/latinoame_rica-sostenible-_co_mo-impulsar-una-recuperacio_n-justa-y-resiliente-a-partir-del-financiamiento-clima_tico-en-me_xico_-2.pdf
 ---

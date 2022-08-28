@@ -3,8 +3,7 @@ title: "Desde lo local: CDMX"
 date: 2020-10-21T21:39:41.700Z
 img: https://ucarecdn.com/924a8702-bf42-49af-bd93-86759dbfd777/
 img-alt: "Desde lo local: CDMX"
-autores:
-  - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: anticorrupcion
 extracto: "Mosaico de diversidades y rompecabezas de problemas, el municipio es
   la institución pública básica de la descentralización, su cercanía con la

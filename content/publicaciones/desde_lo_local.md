@@ -3,6 +3,7 @@ title: Desde lo local
 date: 2020-08-17T23:01:57.322Z
 img: https://ucarecdn.com/07d124bb-256a-4e8f-80bb-74e662a2c183/
 category: anticorrupcion
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 extracto: Uno de los pilares del combate a la corrupción en México es la
   sociedad civil, muestra de ello es el Sistema Nacional Anticorrupción (SNA),
   que nació de una iniciativa ciudadana firmada por miles de personas. Dado su

@@ -2,8 +2,7 @@
 title: "Desde lo local: Quintana Roo"
 date: 2020-09-28T22:16:48.519Z
 img: https://ucarecdn.com/5080909b-2e85-41ba-81d6-681c6ac8d7b9/
-autores:
-  - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: anticorrupcion
 extracto: Quintana Roo es ejemplo de una entidad que se ha visto favorecida por
   el crecimiento económico, ya que en los últimos 10 años ha crecido hasta 5

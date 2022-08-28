@@ -2,8 +2,7 @@
 title: "Desde lo local: CDMX Tojil"
 date: 2020-09-21T22:22:39.837Z
 img: https://ucarecdn.com/3a0333e3-730f-46b8-9969-34923a695fa5/
-autores:
-  - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: anticorrupcion
 extracto: "En México, históricamente hemos convivido con dos males: el primero,
   la corrupción; el segundo, el machismo. Ambos males han llegado hasta lo más

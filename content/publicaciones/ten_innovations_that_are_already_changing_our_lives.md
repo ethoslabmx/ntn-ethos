@@ -2,7 +2,7 @@
 title: " Ten Innovations That Are Already Changing Our Lives"
 date: 2017-08-30T21:47:38.961Z
 img: https://ucarecdn.com/6520fc5d-e703-4c82-9574-beeed37a3e8f/
-autor: Ethos
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: desarrollo-sostenible
 extracto: "Some of the technologies emerging now have the potential to be just
   as disruptive as the Internet was. Deep learning, bots, exoskeletons, the

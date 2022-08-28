@@ -4,6 +4,7 @@ title: "Manual introductorio: Sistema Nacional Anticorrupción y el Nuevo Régim
 date: 2017-11-02T00:38:12.239Z
 img: https://ucarecdn.com/d1e04b27-00b6-4caf-b053-9b565a20c5b6/
 category: anticorrupcion
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 extracto: "El Sistema Nacional Anticorrupción (SNA) es un  mecanismo que
   coordina distintas autoridades de  los tres órdenes de gobierno que tienen la
   respon\x02sabilidad de promover la rendición de cuentas y el  combate a la

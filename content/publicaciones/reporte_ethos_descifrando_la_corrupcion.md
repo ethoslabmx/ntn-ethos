@@ -3,6 +3,7 @@ title: "Reporte Ethos: Descifrando la Corrupción"
 date: 2017-03-24T00:35:32.660Z
 img: https://ucarecdn.com/31c49ee7-908c-443a-9848-b8b2ebd7c22c/
 category: anticorrupcion
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 extracto: En el presente documento se realiza un análisis sobre las causas y
   consecuencias de la corrupción en México. A través de una revisión exhaustiva
   de la literatura, un análisis de las principales leyes que rigen su combate y

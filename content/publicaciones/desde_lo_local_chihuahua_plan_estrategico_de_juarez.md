@@ -2,8 +2,7 @@
 title: "Desde lo local: Chihuahua Plan Estratégico de Juárez"
 date: 2020-08-31T22:41:59.252Z
 img: https://ucarecdn.com/1b485dfc-f694-43ea-89a0-b76c2ba6fe11/
-autores:
-  - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: anticorrupcion
 extracto: "Decía el escritor estadounidense Alan Lakein “No planear es
   planificar el fracaso”, esta afirmación representa el espíritu de Plan

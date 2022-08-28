@@ -2,8 +2,7 @@
 title: "Desde lo local: Chihuahua Red Ciudadana"
 date: 2020-09-07T22:26:32.482Z
 img: https://ucarecdn.com/2ebdb0c9-6393-4233-97be-3e1a8559eb59/
-autores:
-  - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: anticorrupcion
 extracto: El activismo social es una fuerza transformadora que, cuando es
   encausada por estrategias correctas y actores comprometidos, se traduce en

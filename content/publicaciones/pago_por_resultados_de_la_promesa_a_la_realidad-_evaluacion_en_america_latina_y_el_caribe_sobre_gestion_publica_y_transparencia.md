@@ -3,9 +3,7 @@ title: Pago por Resultados, de la promesa a la realidad. Evaluación en América
   Latina y el Caribe sobre gestión pública y transparencia
 date: 2020-01-24T16:34:55.865Z
 img: /img/pagoporresultados.jpeg
-autor: Ethos
-autores:
-  - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: desarrollo-sostenible
 extracto: Definimos los instrumentos de Pago por Resultados como “acuerdos de
   financiamiento en los que los pagos están condicionados al logro de resultados

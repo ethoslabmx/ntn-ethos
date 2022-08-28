@@ -3,6 +3,7 @@ title: " Corrupción en el sector agua"
 date: 2019-09-30T23:32:02.437Z
 img: https://ucarecdn.com/a2eec880-898d-48d9-be5e-1bc3010c56c6/
 category: anticorrupcion
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 extracto: La corrupción en México es un fenómeno que no cede, está presente cada
   vez más en distintos sectores, incluido el agua. De acuerdo con Transparencia
   Internacional, “la crisis del agua es una crisis de gobernabilidad, provocada

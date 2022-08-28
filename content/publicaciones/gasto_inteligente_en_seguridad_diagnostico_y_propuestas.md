@@ -2,13 +2,12 @@
 title: "GASTO INTELIGENTE EN SEGURIDAD: DIAGNÓSTICO Y PROPUESTAS"
 date: 2017-10-18T14:03:47.116Z
 img: /img/gasto_en_seguridad.jpg
-autor: Ethos
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 extracto: Los recursos del gobierno federal son la principal fuente de ingresos
   para combatir la inseguridad en el país. Incluso, su crecimiento se ha
   disparado en los últimos años, llegando a representar un rubro importante
   dentro del presupuesto.
-autores:
-  - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+
 category: finanzas-publicas
 file: /img/gastointeligenteseguridad_ethos.pdf
 ---

@@ -2,8 +2,7 @@
 title: " Desde lo local: Coahuila"
 date: 2020-08-23T22:45:57.810Z
 img: https://ucarecdn.com/c0414fa3-5121-49e0-9a2b-82bf2f3a0dfa/
-autores:
-  - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: anticorrupcion
 extracto: "En ocasiones la participación ciudadana no nace espontáneamente,
   requiere del trabajo constante de las Organizaciones de la Sociedad Civil

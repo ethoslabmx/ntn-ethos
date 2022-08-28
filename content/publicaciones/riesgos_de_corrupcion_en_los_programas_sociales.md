@@ -2,7 +2,7 @@
 title: Riesgos de corrupción en los programas sociales
 date: 2020-11-24T22:02:20.767Z
 img: https://ucarecdn.com/d4412c96-540b-4ea0-ad7d-ca355ed46c92/
-autor: Ethos
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: inclusion
 extracto: "La presente administración federal ha establecido como una de sus
   prioridades la lucha contra la corrupción. En el caso de los programas

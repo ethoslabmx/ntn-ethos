@@ -2,8 +2,7 @@
 title: "Desde lo local: Durango"
 date: 2020-10-14T22:03:50.000Z
 img: https://ucarecdn.com/dc42c081-6611-4ded-8861-c67c1bafe555/
-autores:
-  - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: anticorrupcion
 extracto: La integridad deriva del adjetivo en latin *integer*, que significa
   intacto, entero, no tocado o no alcanzado por un mal o un daño, ya sea físico

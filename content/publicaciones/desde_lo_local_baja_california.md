@@ -2,8 +2,7 @@
 title: "Desde lo local: Baja California"
 date: 2020-08-26T22:43:29.891Z
 img: https://ucarecdn.com/8e07e5fe-a367-4f38-91db-18be4a167db7/
-autores:
-  - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: anticorrupcion
 extracto: "Siendo conscientes de que la corrupción es uno de los mayores
   obstáculos para la igualdad  y el cumplimiento de los Derechos Humanos (DDHH)

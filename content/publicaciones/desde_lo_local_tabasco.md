@@ -2,8 +2,7 @@
 title: "Desde lo local: Tabasco"
 date: 2020-10-08T22:07:44.262Z
 img: https://ucarecdn.com/6fb3c31c-0ba7-476c-9caf-816c67097397/
-autores:
-  - autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: anticorrupcion
 extracto: "La corrupción es una plaga que desafortunadamente afecta, en mayor
   medida, a los más necesitados y vulnerables; por eso es necesario que existan
