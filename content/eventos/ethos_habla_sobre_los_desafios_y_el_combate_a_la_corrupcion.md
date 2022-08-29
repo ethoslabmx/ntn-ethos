@@ -9,6 +9,12 @@ extracto: Liliana Alvarado, directora del área de desarrollo económico y socia
   Sociales y el Combate en el Uso de Recursos Públicos en los Procesos
   Electorales Locales 2016-2017, en los Estados de Coahuila, Nayarit, Veracruz y
   Estado de México”, el cual se llevó a cabo en la Cámara de Diputados.
+galeria:
+  - https://ucarecdn.com/25e7f427-f874-4957-8798-82c2a9eb246e/
+  - https://ucarecdn.com/1e439884-3d69-470a-91f9-cfbe6bb3b9ef/
+  - https://ucarecdn.com/b71d558d-a394-4419-9a66-fcb316c99e99/
+  - https://ucarecdn.com/e0ff3d0b-197b-4ea7-bf0a-030fb5a74cdf/
+  - https://ucarecdn.com/34abf0f6-22be-4e0a-b4fd-10845b1f1768/
 ---
 *En la conferencia “Mejores prácticas para el control y combate a la corrupción”, Liliana Alvarado habló sobre las estrategias para mitigar la corrupción en el sector público.*
 
