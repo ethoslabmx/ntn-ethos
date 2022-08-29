@@ -14,6 +14,18 @@ extracto: El evento se realizó en  las instalaciones del Instituto Nacional de
   de Políticas de Ética, Integridad y Prevención de Conflicto de Interés de la
   Secretaría de la Función Pública; y Alejandro Ríos Rippa, Presidente de la
   Comisión Nacional Anticorrupción de Coparmex.
+galeria:
+  - https://ucarecdn.com/609447d0-d0ed-4bfa-bc59-032345c3e07d/
+  - https://ucarecdn.com/9a0c84b6-c381-4f57-83f7-c6822443ee0d/
+  - https://ucarecdn.com/74c9bf51-3f0d-4ee2-bb32-ed89d5a38df9/
+  - https://ucarecdn.com/b72a6635-41d0-4bfd-bfb4-e5705a34f0f9/
+  - https://ucarecdn.com/19772656-cfda-4626-8fa8-7f006d1dab3c/
+  - https://ucarecdn.com/6bee7015-67b5-4575-9854-995478ca04f6/
+  - https://ucarecdn.com/77b2c0bb-0317-46e8-91c5-ef85e3a76e14/
+  - https://ucarecdn.com/7dd2c060-4946-4e17-82e5-e204780a5bc8/
+  - https://ucarecdn.com/0d4e4a03-86f8-4c9d-a41b-fb683614e3b6/
+  - https://ucarecdn.com/5352e254-f2f6-4cf3-b59c-507de442877c/
+  - https://ucarecdn.com/aa4fd962-1e21-4e5b-99c7-830513edfcbf/
 ---
 *El documento aborda el impacto de la corrupción en el sector público, explica las reformas y leyes del SNA, los retos para su correcta implementación, entre otros factores.*
 
