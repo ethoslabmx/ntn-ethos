@@ -13,6 +13,15 @@ extracto: José Luis Chicoma fue panelista en el Foro sobre el Sistema Nacional
   enfatizar lo adecuado de difundir y socializar los conocimientos
   técnico-legales para combatir estas malas prácticas, a través de manuales
   ciudadanos.
+galeria:
+  - https://ucarecdn.com/972a027b-2eb9-4c0d-ab62-c3d1887a3a65/
+  - https://ucarecdn.com/c085da6a-00c0-44bf-b1e1-42799cf24125/
+  - https://ucarecdn.com/2abd744f-51d4-48de-89a8-4393e828346c/
+  - https://ucarecdn.com/081d0097-f9b7-4e05-ae82-ed864d1a9341/
+  - https://ucarecdn.com/ad9cb163-fcb9-47c8-a7be-835343f3ed83/
+  - https://ucarecdn.com/7096ba98-ef14-4aa0-8f72-2ad618a094a8/
+  - https://ucarecdn.com/e84cb8a5-101e-4086-b419-6b1e7eec0cd4/
+  - https://ucarecdn.com/00a051e5-86b4-46de-9696-8adf2bb53a09/
 ---
 *En el Foro del Senado de la República, José Luis Chicoma de Ethos, comentó las medidas más utilizadas por ciudadanos para el combate a la corrupción.*
 
