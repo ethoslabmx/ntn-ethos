@@ -10,6 +10,13 @@ extracto: El día de hoy Ethos Laboratorio de Políticas Públicas y el Colectiv
   legisladores de los principales partidos políticos, sus propuestas sobre cómo
   monitorear y hacer transparente el presupuesto que se le asigne al Sistema
   Nacional Anticorrupción (SNA) para asegurar su correcta implementación.
+galeria:
+  - https://ucarecdn.com/24641b2d-16c2-467d-bdae-de49ba39d37f/
+  - https://ucarecdn.com/c0a16027-cb6f-4519-ac94-13cd7f343145/
+  - https://ucarecdn.com/1f26ac2e-1441-4706-8333-7cf63a64ff21/
+  - https://ucarecdn.com/3404bcd9-d99d-4705-a3ab-c16651328a84/
+  - https://ucarecdn.com/298498d8-5873-454f-9411-e8285e1c1dd5/
+  - https://ucarecdn.com/8c2de382-bb62-4c3a-a9e3-32e97b36caea/
 ---
 
 
