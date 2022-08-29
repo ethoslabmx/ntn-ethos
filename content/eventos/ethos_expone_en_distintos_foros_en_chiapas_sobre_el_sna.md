@@ -11,6 +11,18 @@ extracto: En el marco del proyecto anticorrupción que estamos llevando a cabo e
   platicar con profesores, alumnos y representantes de la sociedad civil, así
   como informarles acerca de los nuevos mecanismos que el Sistema Nacional
   Anticorrupción incluye para la participación ciudadana.
+galeria:
+  - https://ucarecdn.com/9912ba7e-c366-4e03-be97-9141d8d778db/
+  - https://ucarecdn.com/962f1f1c-94ca-494d-9680-fd4a42388da6/
+  - https://ucarecdn.com/c7f3aeee-15e0-40eb-bc40-7addabf82ca8/
+  - https://ucarecdn.com/59a2f338-c4cc-4ec8-a7e3-a00d6e0acade/
+  - https://ucarecdn.com/88183c85-62f1-4216-9a14-fe9aff439a16/
+  - https://ucarecdn.com/e9662cdf-f31c-4788-bada-874bb1f25f80/
+  - https://ucarecdn.com/1dbf68f5-2d43-4007-af4e-0407fc976bee/
+  - https://ucarecdn.com/0374fa64-767e-401e-a6cf-328abe53e085/
+  - https://ucarecdn.com/1df1320b-364d-4dc0-be49-962dfbd7f882/
+  - https://ucarecdn.com/737b0de5-625d-4f4d-832d-960c243b4e46/
+  - https://ucarecdn.com/5f7cf05b-e0a0-4c05-8226-f665b592ec75/
 ---
 *Emiliano Montes de Oca e Isaak Pacheco, de Ethos, visitaron distintas universidades en Chiapas para platicar sobre los nuevos mecanismos del Sistema Nacional Anticorrupción.*
 
