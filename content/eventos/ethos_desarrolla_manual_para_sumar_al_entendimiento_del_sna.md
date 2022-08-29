@@ -10,6 +10,17 @@ extracto: Con el fin de ser un documento técnico que sirva como referencia para
   presentó, con apoyo de USAID México, el «Manual sobre el Sistema Nacional
   Anticorrupción y el Nuevo Régimen de Responsabilidades de los Servidores
   Públicos» .
+galeria:
+  - https://ucarecdn.com/38447917-d0cc-439c-8518-e4044365ab07/
+  - https://ucarecdn.com/79a26e61-55b4-47a4-818e-17d9e46b1c80/
+  - https://ucarecdn.com/844a6708-4430-4169-a91f-fa7f5baad205/
+  - https://ucarecdn.com/8ae8c137-c836-4a57-9acf-cbfca6318ace/
+  - https://ucarecdn.com/78b3b732-e8f7-4f48-af1b-2210b70a4903/
+  - https://ucarecdn.com/5627ccda-1e75-407a-80ea-1530b5410365/
+  - https://ucarecdn.com/c489dd51-032d-4e2c-b6da-5632b01bee25/
+  - https://ucarecdn.com/a6ce83c0-7b57-4110-b1a1-9dd5e61b24a3/
+  - https://ucarecdn.com/e3cafe1b-9999-4c6b-90fe-0d5105fdccb2/
+  - https://ucarecdn.com/547ec5ec-fba2-4490-8b61-cbfc7cd14c36/
 ---
 *El Manual busca ser una referencia para servidores públicos, miembros de OSC y aquellas personas que buscan tener un entendimiento profundo del Sistema Nacional Anticorrupción (SNA) y del nuevo régimen de responsabilidades administrativas y penales.*
 
