@@ -7,6 +7,10 @@ category: anticorrupcion
 extracto: El día de hoy, Liliana Alvarado, Alejandro Pulido y Jonathan Jiménez
   de Ethos Laboratorio de Políticas Públicas, así como demás miembros del
   Colectivo por un Presupuesto Sostenible
+galeria:
+  - https://ucarecdn.com/6a5ad37c-8bb6-414f-8b46-c0129d0e860c/
+  - https://ucarecdn.com/3b0dd860-df95-426f-8a59-d1c214ed959b/
+  - https://ucarecdn.com/c60cb626-46a4-4b6c-9f6b-39fd3d31e812/
 ---
 *Ethos y miembros del Colectivo por un Presupuesto Sostenible, presentaron ante los miembros del Caucus Anticorrupción en la Cámara de Diputados algunas propuestas.*
 
