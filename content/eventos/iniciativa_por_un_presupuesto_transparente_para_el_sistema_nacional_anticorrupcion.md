@@ -10,6 +10,10 @@ extracto: Para identificar las vías que permitan alcanzar los objetivos
   interesada y la SHCP. Esta acción, además, refrenda el compromiso de sociedad
   y gobierno por unas finanzas públicas sanas y por la adecuada implementación
   del Sistema Nacional Anticorrupción.
+galeria:
+  - https://ucarecdn.com/1a0bab67-b883-4fc2-9da1-c283c64213e7/
+  - https://ucarecdn.com/fd1b34dd-6935-4306-a0ac-15a5120e901c/
+  - https://ucarecdn.com/006aa2da-e88b-4b4b-96d8-5bd84ea71bdd/
 ---
 *La sociedad civil demanda que la correcta implementación del Sistema Nacional Anticorrupción no sea vea afectada por cuestiones presupuestales.*
 
