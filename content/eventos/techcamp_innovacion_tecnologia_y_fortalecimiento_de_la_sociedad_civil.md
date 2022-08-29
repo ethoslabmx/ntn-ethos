@@ -9,6 +9,17 @@ extracto: Como parte de la planeación y análisis de los temas del TechCamp,
   un diagnóstico sobre cuáles eran sus principales preocupaciones.
   Posteriormente, les enviamos un cuestionario en el que se sugerían algunos
   temas y se les dio la oportunidad de incluir otros más de su interés.
+galeria:
+  - https://ucarecdn.com/9fa9bc87-f943-41d5-b620-ab5cafc7af0b/
+  - https://ucarecdn.com/0d062d6a-e057-455b-9198-a2fada628af1/
+  - https://ucarecdn.com/81b257ba-498c-4c71-9280-655332f9b85a/
+  - https://ucarecdn.com/1b052332-b5d1-4bd8-b0a6-80bf6e5ce7d0/
+  - https://ucarecdn.com/872d0c13-5dd1-4d39-9606-05915f030f3d/
+  - https://ucarecdn.com/c1cf58e2-90b0-4d76-8fbc-6f2935230a02/
+  - https://ucarecdn.com/c864b414-513a-4ad5-896a-48adf0b9e618/
+  - https://ucarecdn.com/f5902db6-600e-46da-908f-30d3002df396/
+  - https://ucarecdn.com/85fa52de-a674-484c-9930-d415d9796393/
+  - https://ucarecdn.com/c3296846-efcb-4849-8d43-5fe85001bc1d/
 ---
 *En Ethos esperamos que a través del TechCamp, las OSC puedan mejorar sus capacidades y ser un contrapeso en el combate de la corrupción a nivel local.*
 
