@@ -8,6 +8,11 @@ extracto: Como parte de la 4a Jornada de Derechos Humanos de la Universidad
   Marista de Mérida, Yucatán, Isaak Pacheco, investigador de Ethos, participó
   como ponente en la mesa-panel “Propuestas para combatir la corrupción e
   impunidad en México”.
+galeria:
+  - https://ucarecdn.com/4a99e913-9c25-4b21-820d-f56ee0fb520f/
+  - https://ucarecdn.com/bcd0a42e-054a-45d6-8933-6f6d52b8821a/
+  - https://ucarecdn.com/ebc2f14c-4b2d-48f2-befd-8141b84ac06e/
+  - https://ucarecdn.com/de21fdc5-0a11-4d15-ad8a-7e6c8923ceb2/
 ---
 *Isaak Pacheco, investigador de desarrollo económico y social de Ethos, fungió como ponente en la mesa-panel “Propuestas para combatir la corrupción e impunidad en México” de la Universidad Marista de Mérida.*
 
