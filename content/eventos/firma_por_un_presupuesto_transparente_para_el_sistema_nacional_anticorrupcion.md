@@ -12,6 +12,9 @@ extracto: Como es sabido, después de la aprobación de las leyes secundarias de
   destinado al combate a la corrupción y tampoco se cuenta con metas, objetivos
   claros ni indicadores de resultados. Esto genera una barrera para evaluar la
   eficiencia del gasto y la rendición de cuentas del Sistema.
+galeria:
+  - https://ucarecdn.com/99967559-bdfa-459d-9a7c-6af24c6db242/
+  - https://ucarecdn.com/dd6bdea9-9305-42b5-bf8a-0b36d3ef3b50/
 ---
 *Miembros y organizaciones de la sociedad civil estamos convencidos de que la transparencia y rendición de cuentas abonan al combate a  la corrupción.*
 
