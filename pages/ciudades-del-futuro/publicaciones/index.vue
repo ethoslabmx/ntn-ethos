@@ -47,7 +47,7 @@
           </div>
 
           <div class="footer content-end">
-            <p>{{autores(evento)}}</p>
+            <p>{{evento.autor}}</p>
             <p class="font-bold uppercase">{{new Date(evento.date).toLocaleDateString()}}</p>
           </div>
         </div>

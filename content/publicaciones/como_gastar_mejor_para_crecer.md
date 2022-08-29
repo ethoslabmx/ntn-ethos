@@ -1,5 +1,4 @@
 ---
-autor: José Luis Chicoma, Liliana Alvarado, Junior Alfredo Martínez.
 title: ¿CÓMO GASTAR MEJOR PARA CRECER?
 date: 2013-09-21T03:21:49.044Z
 img: https://ucarecdn.com/242f20c0-127e-4f13-a695-6c4caebdb1dd/
