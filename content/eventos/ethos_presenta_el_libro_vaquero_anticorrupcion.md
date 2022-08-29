@@ -10,6 +10,16 @@ extracto: Con el objetivo de encontrar una forma de empoderar a la ciudadanía
   la Cámara de Diputados, lanzaron  el “Libro Vaquero Anticorrupción”, el cual
   traduce en términos prácticos y comprensibles las implicaciones del SNA para
   informar y acercar a la gente sobre el mismo.
+galeria:
+  - https://ucarecdn.com/e0754669-fdd8-4e5e-a8f2-1f0499cb709c/
+  - https://ucarecdn.com/12d0b348-d939-4d9f-b428-9f3d378fe709/
+  - https://ucarecdn.com/2cb2f635-9cd1-4610-bdcf-40eb215574f3/
+  - https://ucarecdn.com/5239e3bd-7edd-4892-9e67-01288cac7e63/
+  - https://ucarecdn.com/bf445c6b-2136-4f2e-9680-d073097c478b/
+  - https://ucarecdn.com/85982048-700b-4e41-b3a4-4009e03b5c3d/
+  - https://ucarecdn.com/60203a5c-34c1-4783-bf47-ac6bed45895b/
+  - https://ucarecdn.com/82572325-9dba-4a76-ab0a-1ef125526e3c/
+  - https://ucarecdn.com/8769ea97-205e-4845-874d-ded2a557523d/
 ---
 *Ethos y el Caucus Anticorrupción presentaron el “Libro Vaquero Anticorrupción”, el cual traduce en términos prácticos y comprensibles las implicaciones del Sistema Nacional Anticorrupción para informar y acercar a la gente sobre el mismo.*
 
