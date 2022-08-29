@@ -12,6 +12,17 @@ extracto: "Ethos Laboratorio de Políticas Públicas convocó a los miembros del
   Pública para Resultados; Ethos Laboratorio de Políticas Públicas y el
   Instituto de Políticas para el Transporte y el Desarrollo (ITDP, por sus
   siglas en inglés)."
+galeria:
+  - https://ucarecdn.com/2b29560d-8561-442b-a0fc-df97dc7d9ad5/
+  - https://ucarecdn.com/258fb6da-f7db-49c0-a2b4-15698052f84f/
+  - https://ucarecdn.com/2ef0372a-4858-4826-a514-3ec988891db8/
+  - https://ucarecdn.com/e8aa30a0-d2d5-41a0-a892-0dedcee1043a/
+  - https://ucarecdn.com/4f84718b-6087-49ac-a8a1-43c03c0445d3/
+  - https://ucarecdn.com/8e9af312-2a6d-4102-9c02-277129dd4d9a/
+  - https://ucarecdn.com/7943610c-9c5c-4fe8-a2d3-e79bdf646f34/
+  - https://ucarecdn.com/e080bce3-3c3a-4c23-b1df-b485416edbe6/
+  - https://ucarecdn.com/47e44179-8639-4845-9674-3eb268862668/
+  - https://ucarecdn.com/7a8a0ae3-2574-4d1c-bbe8-20118ee5e649/
 ---
 *Ethos convocó al Colectivo Pe$o para presentar el Sistema de Evaluación de Desempeño Institucional (SEDI) desarrollado por el INAI y así promover una mayor eficiencia del gasto público.*
 
