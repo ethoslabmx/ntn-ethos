@@ -7,6 +7,16 @@ category: anticorrupcion
 extracto: Ethos asistió al Día de la Transparencia en la Biblioteca Benjamín
   Franklin, el cual fue organizado por la Embajada de los Estados Unidos en
   México.
+galeria:
+  - https://ucarecdn.com/0b380cb3-d8de-4248-934a-151705ae0ad7/
+  - https://ucarecdn.com/474ebd45-dd78-4d29-b4a6-a7d06d483dd2/
+  - https://ucarecdn.com/523c7147-0956-4e17-9deb-4ce642b391e1/
+  - https://ucarecdn.com/2abf409c-6e0c-4c06-898c-d80ac056f542/
+  - https://ucarecdn.com/7c2b8c62-3a35-4b43-94ce-dfb080905694/
+  - https://ucarecdn.com/0d9ebaff-951e-4cce-b06e-a17a4d8d951a/
+  - https://ucarecdn.com/f6c49490-ca69-49db-bbfd-97dc9b60aaf8/
+  - https://ucarecdn.com/2bb65b02-60f2-46ff-a4df-242f37ffa37f/
+  - https://ucarecdn.com/cc55a060-3c13-4991-936b-f47ac45da855/
 ---
 *La Embajada de Estados Unidos organizó el Día de la Transparencia, en el cual Ethos expuso sobre el empoderamiento de la ciudadanía a través del SNA.*
 
