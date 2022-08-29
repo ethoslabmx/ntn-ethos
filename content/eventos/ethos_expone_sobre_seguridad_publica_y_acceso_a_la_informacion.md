@@ -8,6 +8,11 @@ extracto: Ethos participó en el «Foro Seguridad y Acceso a la Información.
   ¿Puede la información pública mejorar la seguridad?», el cual se llevó a cabo
   en el Instituto Nacional de Transparencia, Acceso a Información y Protección
   de Datos Personales (INAI).
+galeria:
+  - https://ucarecdn.com/32897c77-9d4e-4e14-b4d7-0927fceb4091/
+  - https://ucarecdn.com/a5adc8fb-2867-4ad7-913a-4ee05ecdc4e6/
+  - https://ucarecdn.com/621a3d91-c16d-49e5-859f-18912efe80f3/
+  - https://ucarecdn.com/c9a41fa9-f991-48e9-8f78-daee3b76175b/
 ---
 *En el INAI, José Luis Chicoma expuso sobre la importancia y el impacto de las políticas públicas en materia de seguridad.*
 
