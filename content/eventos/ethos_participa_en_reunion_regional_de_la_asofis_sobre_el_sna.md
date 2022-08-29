@@ -10,6 +10,12 @@ extracto: Isaak Pacheco, investigador del área de desarrollo económico y socia
   del Estado de Chiapas (OFSCE), cuyo titular es Alejandro Culebro Galván. El
   tema del evento fue la puesta en vigor del Sistema Nacional Anticorrupción y
   sus réplicas locales.
+galeria:
+  - https://ucarecdn.com/52a3893a-7e5e-4df8-a5e5-6bc54857cd87/
+  - https://ucarecdn.com/9ace5a27-9705-4001-9eed-efb2ef48bdf4/
+  - https://ucarecdn.com/64751181-fa2f-4737-a719-2b1441302abf/
+  - https://ucarecdn.com/21e7cefd-c489-4936-a560-edd10810d41e/
+  - https://ucarecdn.com/8b5b12a7-a622-4856-8f46-3e8dde198be2/
 ---
 *Durante la conferencia se dio a conocer el papel que juega la sociedad civil organizada en el diseño, instalación y operación del Sistema Nacional Anticorrupción.*
 
