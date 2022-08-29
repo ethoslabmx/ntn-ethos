@@ -8,6 +8,11 @@ extracto: La Secretaría Ejecutiva del Sistema Nacional Anticorrupción (SESNA) 
   Ethos Laboratorio de Políticas Públicas, firmaron una Carta de Intención cuyo
   propósito es sumar esfuerzos encaminados a prevenir, detectar y sancionar
   responsabilidades administrativas y hechos de corrupción.
+galeria:
+  - https://ucarecdn.com/234b698e-ddc5-4b4f-b840-9cd44ca454e2/
+  - https://ucarecdn.com/5fb0d848-b2cb-4876-bbed-928dabb97f67/
+  - https://ucarecdn.com/f1ed879d-9b78-4787-b94b-d886913434b2/
+  - https://ucarecdn.com/cc04e185-0249-4b3f-ad44-161588b6c590/
 ---
 *Se difundirán las tareas del Sistema Nacional Anticorrupción, así como sus estrategias, proyectos y retos específicos.*
 
