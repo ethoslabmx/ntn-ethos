@@ -10,6 +10,12 @@ extracto: Rodrigo Bolaños, investigador del área de desarrollo económico y
   organizaciones de la sociedad civil para combatir la corrupción. Esto, como
   parte del Foro Empresarial Anticorrupción, el cual fue organizado por la
   COPARMEX.
+galeria:
+  - https://ucarecdn.com/e71bc69b-282a-49f8-812a-d0799425c5ac/
+  - https://ucarecdn.com/a9bf202d-e3b0-4144-bd26-c9591d09617f/
+  - https://ucarecdn.com/29f8d4da-5a19-4780-b11f-12fa291fdda1/
+  - https://ucarecdn.com/8c70d8b3-9dea-47ed-84cf-9e4c1d61b11f/
+  - https://ucarecdn.com/9276c213-6101-492a-b6fb-e3d39bed0078/
 ---
 *Dentro del Foro Empresarial Anticorrupción, Ethos habló sobre el SNA y la necesidad de crear un Anexo Transversal para asegurar el presupuesto del Sistema.*
 
