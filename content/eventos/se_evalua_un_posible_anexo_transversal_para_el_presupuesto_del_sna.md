@@ -9,6 +9,10 @@ extracto: Ethos se reunió con representantes de Transparencia Mexicana, México
   viabilidad de un Anexo Transversal. Lo anterior, con el fin de que se evalúe
   si un un Anexo Transversal representa una herramienta adecuada para darle
   seguimiento y dotar de mayor transparencia al presupuesto del SNA.
+galeria:
+  - https://ucarecdn.com/aced8360-4142-47c3-8b77-95193575d863/
+  - https://ucarecdn.com/d28c56ef-264e-460d-9c67-84a446baa072/
+  - https://ucarecdn.com/b2918374-1066-4689-b2b5-f68f38f57cd3/
 ---
 *Dada la importancia de asignar recursos adecuados al presupuesto del SNA, Ethos participa con otras OSC para evaluar la conveniencia de contar con un Anexo Transversal.*
 
