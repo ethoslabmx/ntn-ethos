@@ -9,6 +9,12 @@ extracto: Distintos miembros de Ethos Laboratorio de Políticas Públicas llevar
   Anticorrupción, en la cual se invitó a los jóvenes a sumarse a esta difícil
   tarea. Asimismo, se realizó la distribución del ejemplar, teniendo una gran
   aceptación entre los estudiantes y profesores de dicha casa de estudios.
+galeria:
+  - https://ucarecdn.com/378738ad-3d42-4d84-a872-12227e840dee/
+  - https://ucarecdn.com/1f4dbcfd-0cf7-453b-b589-d10b71857c3a/
+  - https://ucarecdn.com/e52cb27a-57d4-4008-805f-0c39e9d7a0c5/
+  - https://ucarecdn.com/de0b803b-46a3-4a7b-8d18-4f1f5140ce24/
+  - https://ucarecdn.com/f08e5c7b-aff0-4944-8fd1-243fd0f09ce8/
 ---
 *Como parte de la difusión del Libro Vaquero Anticorrupción, miembros de Ethos Laboratorio de Políticas Públicas llevaron a cabo una conferencia y una brigada de repartición en La Salle.*
 
