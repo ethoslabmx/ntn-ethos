@@ -8,6 +8,11 @@ extracto: Isaak Pacheco, investigador del área de desarrollo económico y socia
   de Ethos, participó en el foro “Construcción y Retos del Sistema Estatal
   Anticorrupción”, el cual formó parte de la Asamblea Ordinaria Anual 2017 de la
   COPARMEX Puebla.
+galeria:
+  - https://ucarecdn.com/6d5dad00-58dd-46f8-b4d8-004229bff367/
+  - https://ucarecdn.com/048fb2ee-216e-405f-95ee-08638cb0f0f6/
+  - https://ucarecdn.com/d953d2dc-34cf-42a8-8e86-c134e426f883/
+  - https://ucarecdn.com/1d4dd660-9b3f-476a-90e3-c5d6a29589ef/
 ---
 *Durante la Asamblea Ordinaria Anual 2017 de la COPARMEX Puebla, Ethos expuso sobre el Comité de Participación Ciudadana y el SNA.*
 
