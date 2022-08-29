@@ -10,6 +10,17 @@ extracto: Emiliano Montes de Oca e Isaak Pacheco, investigadores de desarrollo
   Participación de la Sociedad Civil” en distintas universidades de Guerrero y
   expusieron sobre los proyectos en materia anticorrupción desarrollados por
   Ethos.
+galeria:
+  - https://ucarecdn.com/967f81ec-975c-4865-9d28-85032a17f854/
+  - https://ucarecdn.com/5ab2f8b2-47b5-4645-8efd-f0c3b51ea9ff/
+  - https://ucarecdn.com/7ece9019-8f0e-4145-b943-f2919676337a/
+  - https://ucarecdn.com/1e2d8bb1-98fc-4b30-a412-168d2a125a9d/
+  - https://ucarecdn.com/6dbcc805-a552-4ce4-995d-5c203325efb1/
+  - https://ucarecdn.com/4f361167-b079-4fe1-ba1c-c5486f4c7d93/
+  - https://ucarecdn.com/ad57d25b-0137-402a-a4a4-a3ed05ce619b/
+  - https://ucarecdn.com/6c9a62d2-f664-4cff-9cab-de5b7a4f4886/
+  - https://ucarecdn.com/621eaa9f-6aea-49ed-a1b3-21ac4bacdd65/
+  - https://ucarecdn.com/5742d18a-09eb-4107-9376-b374c9459667/
 ---
 *Emiliano Montes de Oca e Isaak Pacheco dieron diversas conferencias en distintas casas de estudio del estado para hablar sobre el SNA, sus implicaciones y retos.*
 
