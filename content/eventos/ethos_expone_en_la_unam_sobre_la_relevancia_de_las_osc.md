@@ -13,6 +13,12 @@ extracto: Como parte de la XV Semana de Ciencias Políticas y Administración
   Descifrando la Corrupción» y la propuesta del Anexo Transversal en el
   presupuesto de Egresos de la Federación para monitorear el gasto público que
   se destina en el combate a la corrupción.
+galeria:
+  - https://ucarecdn.com/b3d3cb0d-c301-44b4-aee2-30587149bdad/
+  - https://ucarecdn.com/c78dd8f2-03df-4265-8a2b-013ace111e15/
+  - https://ucarecdn.com/0ac68e93-b0fd-4379-bf7a-f2566fb611f3/
+  - https://ucarecdn.com/88281646-a9b8-4fcb-8d0d-1eceb0a9edc4/
+  - https://ucarecdn.com/9f552e00-a984-4894-b10e-acb52c8f3de0/
 ---
 *Emiliano Montes de Oca visitó la Facultad de Estudios Superiores de Acatlán para hablar sobre las OSC y los proyectos que se han llevado a cabo en nuestro think tank.*
 
