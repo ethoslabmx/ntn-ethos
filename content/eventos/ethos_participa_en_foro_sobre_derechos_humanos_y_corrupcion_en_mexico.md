@@ -11,6 +11,11 @@ extracto: "José Luis Chicoma, director general de Ethos Laboratorio de Polític
   importantes para combatir la corrupción de una manera integral” y que
   “normalmente, se ataca a la corrupción con un enfoque de arriba hacia abajo
   pensando que, en un principio normativo, va a cambiar todo”."
+galeria:
+  - https://ucarecdn.com/592f1a8f-3b9d-4185-8d11-9f1817168a95/
+  - https://ucarecdn.com/d24bc379-ecc9-4517-a182-65eb596d61fc/
+  - https://ucarecdn.com/0eb65129-d6da-4da4-8cda-2a217abeaa31/
+  - https://ucarecdn.com/4861aeef-fc61-4b2a-b328-ee58a6053360/
 ---
 *La sociedad civil es pieza clave para combatir la corrupción y garantizar la protección de los Derechos Humanos en el país.*
 
