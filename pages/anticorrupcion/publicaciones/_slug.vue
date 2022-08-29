@@ -18,8 +18,8 @@
         </div>
       </div>
       <div class="container flex flex-wrap lg:flex-nowrap">
-        <div class="pdf-container" v-if="post.file">
-          <vue-pdf-embed :source="post.file" />
+        <div class="pdf-container" v-if="source">
+          <vue-pdf-embed :source="source" @rendered="handleDocumentRender" />
         </div>
         <div class="w-full lg:w-3/4 p-5">
           <nuxt-content :document="post" />
@@ -130,15 +130,31 @@ export default {
       publicaciones
     };
   },
+  computed: {
+    currentUrl() {
+      return 'https://radiant-semifreddo-901f94.netlify.app/anticorrupcion/publicaciones/'+this.$route.params.slug;
+    },
+    source() {
+      return this.post.file;
+    }
+  },
   data() {
     return {
-      currentUrl:'https://radiant-semifreddo-901f94.netlify.app/anticorrupcion/publicaciones/'+this.$route.params.slug
+      isLoading:false,
+      pageCount:0,
     }
+  },
+  mounted(){
+    console.log(this.source);
   },
   methods:{
     download(file){
       window.open(file);
-    }
+    },
+    handleDocumentRender() {
+      this.isLoading = false;
+
+    },
   }
 };
 </script>

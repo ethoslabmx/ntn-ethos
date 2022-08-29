@@ -1,73 +1,87 @@
 <!-- Please remove this file from your project -->
 <template>
-  <div class="jumbotron relative flex items-top justify-center bg-gray-100 sm:items-center sm:pt-0">
+  <div>
+    <div class="jumbotron-home"
+    ></div>
+    <div id="stripped">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1062">
+        <polyline
+          points="0,154 131,0 0,348 269,0 0,562 437,0
+	0,766 565,14 0,1062 719,0 289,1162 843,0 543,1162 995,0 729,1062 1161,0 947,1062 1307,0 1143,1062 1500,2 1299,1062 1500,830"
+        />
+      </svg>
+    </div>
   </div>
 </template>
-<style lang="scss">
-.jumbotron {
+<script>
+export default {
+  data() {
+    return {
+      showOverlay:true,
+    };
+  },
+  mounted() {
+    //delay 1s to show the overlay then show animation
+    setTimeout(() => {
+      this.showOverlay = false;
+      const svg = document.querySelector('#stripped polyline');
+      svg.classList.add('paint');
 
-  background-size: cover;
-  background-repeat: no-repeat;
+    }, 1200);
+  },
+};
+
+</script>
+
+<style lang="scss">
+.jumbotron-home{
+  position: absolute;
+  top: 100px;
+  left: 0;
+  width: 100vw;
+  min-height: calc(100vw * 0.5625);
+  background-color: #fff;
+  z-index: -1;
+}
+
+
+#stripped {
+  margin: 0 auto;
+  background: #000;
   background-image: url(../assets/images/jumbotron-index.png);
+  background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  border-bottom: 2rem solid #F28F78;
-  min-height: calc(100vw * .5625);
+  border-bottom: 2rem solid #f28f78;
+  min-height: calc(100vw * 0.5625);
+  font-size: 0;
+}
 
-  &:after {
-    content: "";
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
+div#stripped svg {
+  background: #f5f3f3;
+  background-image: url(../assets/images/jumbotron-index-bw.png);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  mix-blend-mode: lighten;
+}
 
-    margin: auto;
-    height: 100%;
-    width: auto;
+div#stripped svg polyline {
+  fill: none;
+  stroke: #000;
+  stroke-width: 300;
+  stroke-dasharray: 20000;
+  stroke-dashoffset: 20000;
 
+}
 
+.paint{
+  animation: scribble 4s  ease-out forwards;
+}
 
+@keyframes scribble {
+  to {
+    stroke-dashoffset: 0;
   }
-
-  &:hover {
-    height: 100%;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-
-    &:after {
-      content: "";
-      position: absolute;
-      background-color: rgba($color: #fff, $alpha: .65);
-
-      left: 0;
-      right: 0;
-      top: 0;
-      bottom: 0;
-      background-image: url(../assets/images/jumbotronOverlay-index.png);
-      background-size: auto 100px;
-      background-position: center center;
-      background-repeat: no-repeat;
-      margin: auto;
-      height: 100%;
-      width: auto;
-    }
-  }
-  @media (min-width:993px) {
-   // min-height: calc(100vw * .5625);
-
-    &:hover {
-      &:after {
-        background-size: auto 200px;
-
-      }
-    }
-
-  }
-
-
 }
 </style>
