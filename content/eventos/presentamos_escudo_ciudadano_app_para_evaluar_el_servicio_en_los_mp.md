@@ -12,6 +12,16 @@ extracto: A pesar de que la lucha contra la corrupción en nuestro país se ha
   ciudadanos al momento de acudir a la agencia del Ministerio Público a realizar
   un trámite y, en caso de ser víctimas de un acto de corrupción, brinda
   asesoría y acompañamiento.
+galeria:
+  - https://ucarecdn.com/7d6bd3fa-e83f-4924-a4ab-8bb60d42643a/
+  - https://ucarecdn.com/6faa6122-5367-462e-b54d-0054cd2c78a8/
+  - https://ucarecdn.com/3f071d0c-5c44-41b6-9377-546776add17f/
+  - https://ucarecdn.com/c27ddb3c-70e5-4714-a0f9-391872657833/
+  - https://ucarecdn.com/dd162cfc-60e8-4d40-ae48-315b8b7980d6/
+  - https://ucarecdn.com/dfb9b683-8787-4c65-8089-b9e9f6f50a3d/
+  - https://ucarecdn.com/0033edde-814e-4ad5-9626-2be329aaec09/
+  - https://ucarecdn.com/072cb115-1947-4c4e-9954-84e6435947d2/
+  - https://ucarecdn.com/b8eb04ab-b199-4f55-b89b-191ec978ee0f/
 ---
 *Llevamos a cabo la presentación oficial de la app «Escudo Ciudadano». Al evento asistieron distintos miembros de organizaciones de la sociedad civil y ciudadanos interesados en dicha herramienta tecnológica.*
 
