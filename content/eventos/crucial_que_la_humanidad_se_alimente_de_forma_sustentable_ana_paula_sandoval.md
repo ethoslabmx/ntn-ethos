@@ -10,6 +10,9 @@ extracto: "Más de 400 integrantes de think tanks, académicos y periodistas
   Shangai, China. En el encuentro, los asistentes se reunieron con funcionarios
   chinos de alto nivel con el objetivo de crear una comunidad de futuro
   compartido para la humanidad. "
+galeria:
+  - https://ucarecdn.com/fdfada07-4e23-4771-92a5-ce160162c794/
+  - https://ucarecdn.com/31acf551-93d8-4779-9107-7b1647176835/
 ---
 Más de 400 integrantes de *think tanks*, académicos y periodistas participaron en el *Second Hongqiao International Economic Forum,* realizado en Shangai, China. En el encuentro, los asistentes se reunieron con funcionarios chinos de alto nivel con el objetivo de **crear una comunidad de futuro compartido** para la humanidad. 
 
