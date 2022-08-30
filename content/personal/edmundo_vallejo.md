@@ -2,7 +2,7 @@
 nombre: Edmundo Vallejo
 foto: https://ucarecdn.com/4a402284-18e7-47f7-9012-bdb248f59d1a/
 area: asamblea de asociados
-pos: 7
+pos: 8
 semblanza: "Fue presidente y director general de General Electric para México y
   eventualmente América Latina durante varios años. En su trayectoria tuvo
   distintas responsabilidades en GE Corporativo, GE Plastics y GE Capital, tanto
