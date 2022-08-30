@@ -8,6 +8,11 @@ extracto: Christine Zülow, coordinadora de innovación social de Ethos
   Laboratorio de Políticas Públicas participó como ponente en el Foro
   Latinoamericano de Inversión de Impacto Centroamérica y el Caribe 2017 (FLII
   CA&C 2017), llevado a cabo en Guatemala.
+galeria:
+  - https://ucarecdn.com/0c8b9762-0ca2-4737-92e6-634e38123d58/
+  - https://ucarecdn.com/f3d90126-9cc1-4278-a3c3-00c1fd8d3e71/
+  - https://ucarecdn.com/35139649-c7cd-4550-8aac-5dddf93064a7/
+  - https://ucarecdn.com/8dc3a941-2cf1-4e96-a10e-a4c97e24b960/
 ---
 *Christine Zülow compartió experiencias y aprendizajes sobre los Bonos de Impacto en América Latina en el Foro Latinoamericano de Inversión de Impacto Centroamérica y el Caribe 2017.*
 
