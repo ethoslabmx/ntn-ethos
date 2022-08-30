@@ -12,6 +12,18 @@ extracto: "Ethos Laboratorio de Políticas Públicas, en colaboración con
   en sectores sociales para discutir el potencial de los Bonos de Impacto en la
   aplicación de políticas públicas basadas en evidencia en México y América
   Latina."
+galeria:
+  - https://ucarecdn.com/1fb36dcb-4f2c-4c22-9105-e3df5fb3b2cc/
+  - https://ucarecdn.com/66ccadaa-1e41-4dde-9bc0-16223bd25d19/
+  - https://ucarecdn.com/a1db1cc8-07b0-44ee-b62d-82a20838b043/
+  - https://ucarecdn.com/0418c8e9-3d81-4b65-a4a7-e53b2bc7bd30/
+  - https://ucarecdn.com/282359f3-644e-49b9-b699-cf0c1abc4896/
+  - https://ucarecdn.com/89686fd4-2411-4cfa-a65a-7d6fda7e613b/
+  - https://ucarecdn.com/25177bdc-bb78-432e-9c0e-bd1ff8c7fb14/
+  - https://ucarecdn.com/a8602921-2cfb-40ca-bd10-524893379171/
+  - https://ucarecdn.com/d3c319ef-87a0-495f-922c-581f717fc9db/
+  - https://ucarecdn.com/8cc99bc7-95c3-4352-a1d9-4fd6ba914fd7/
+  - https://ucarecdn.com/f548013c-6e12-48f5-94b9-4d99cdef08db/
 ---
 *La participación de los sectores públicos y privados en el diseño e implementación de los Bonos de Impacto es esencial para asegurar su mayor impacto.* 
 
