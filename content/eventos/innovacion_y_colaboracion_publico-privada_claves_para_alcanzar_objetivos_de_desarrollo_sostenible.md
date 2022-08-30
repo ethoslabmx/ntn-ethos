@@ -10,6 +10,10 @@ extracto: José Luis Chicoma, director general de Ethos Laboratorio de Política
   Markets – Building on Lessons Learned from the Infrastructure and Extractive
   Sectors, organizado por el Emerging Market Sustainability Dialogues de la GIZ,
   la Agencia de Cooperación Alemana.
+galeria:
+  - https://ucarecdn.com/5feb1389-1849-43b3-a019-4b6c1c6666b2/
+  - https://ucarecdn.com/ff7e4f8f-bcbc-487e-aa91-a6e1a28527ac/
+  - https://ucarecdn.com/87bf5357-499b-49ef-91c5-c1787c0d7570/
 ---
 *José Luis Chicoma habló, en taller organizado por la GIZ y el IFC, sobre herramientas para promover la sustentabilidad, los retos de implementación en el sector privado y la Agenda 2030.*
 
