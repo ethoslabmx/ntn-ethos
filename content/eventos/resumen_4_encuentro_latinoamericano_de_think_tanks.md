@@ -9,6 +9,19 @@ extracto: Las palabras de bienvenida fueron ofrecidas por líderes de
   Chicoma, director ejecutivo de Ethos Laboratorio de Políticas Públicas; James
   G. McGann, director del TTCSP; Shinichi Nakabayashi, director del Asian
   Development Bank Institute y Claudia Calvin, directora general de COMEXI.
+galeria:
+  - https://ucarecdn.com/4995f14e-fe69-43c8-a642-48399f2129b3/
+  - https://ucarecdn.com/270a10fa-d18e-448d-a3f8-b943af7978c1/
+  - https://ucarecdn.com/f71d687b-8c1b-44bc-99d6-e3f416058f87/
+  - https://ucarecdn.com/5182a9d0-158a-4b0e-a7ff-66008d18caaa/
+  - https://ucarecdn.com/bbe917e9-31e2-4379-90df-adb14a3fe45e/
+  - https://ucarecdn.com/9379f7ec-a0cd-4f94-b80c-4e7c0dc40d31/
+  - https://ucarecdn.com/8e710ec0-74cf-43db-993f-e6268affc183/
+  - https://ucarecdn.com/355277c0-8ad9-462b-b04b-dc10266f4fb1/
+  - https://ucarecdn.com/ec86291d-8af6-4db5-8e19-f32b11a93695/
+  - https://ucarecdn.com/ecb97c73-c48d-4a2d-b2da-f1ceae89cfed/
+  - https://ucarecdn.com/5f271e36-ae81-45a4-bddc-983c682966d0/
+  - https://ucarecdn.com/1319a2c8-cf34-4295-840d-563e0f1e2e64/
 ---
 **MIÉRCOLES 26**
 
