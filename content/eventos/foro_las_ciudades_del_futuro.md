@@ -10,6 +10,12 @@ extracto: Como parte de los trabajos de la Comisión Especial de Fomento a la
   lunes 10 de octubre del presente año, para discutir los mecanismos e
   instrumentos para la inversión pública y privada en infraestructura de las
   ciudades como la nuestra.
+galeria:
+  - https://ucarecdn.com/a25ee04a-b41e-4f05-9998-e82ebe4dd03c/
+  - https://ucarecdn.com/f8837307-de11-4a82-a5fe-dbfbbfebf900/
+  - https://ucarecdn.com/8861ae18-523b-4ffb-8489-93171b7c7bd8/
+  - https://ucarecdn.com/71edd798-184e-4d82-93ca-48c1344042be/
+  - https://ucarecdn.com/e541eb61-aa42-4b3f-a7ad-34789e84379e/
 ---
 *Mecanismos e instrumentos para la inversión pública y privada en infraestructura de las Ciudades.*
 
