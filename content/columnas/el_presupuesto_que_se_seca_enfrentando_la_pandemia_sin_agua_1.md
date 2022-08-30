@@ -1,6 +1,6 @@
 ---
 title: "El presupuesto que se seca: enfrentando la pandemia sin agua"
-date: 2022-08-22T18:20:14.374Z
+date: 2020-04-20T18:20:14.374Z
 img: https://ucarecdn.com/dda227d7-90a3-4686-967c-4362eb1c902b/
 autor: Dalia Toledo y Rodrigo Bolaños
 medio: Animal Politico
