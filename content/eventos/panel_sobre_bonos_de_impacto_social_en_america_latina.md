@@ -9,6 +9,11 @@ extracto: "Con el objetivo de profundizar el entendimiento de los Bonos de
   Impacto Social: qué esperar de las Asociaciones Público Privadas” en el marco
   de la séptima edición del Foro Latinoamericano de Inversión de Impacto (FLII),
   el pasado 16 de febrero en Mérida, Yucatán."
+galeria:
+  - https://ucarecdn.com/46d6af18-fdab-4ef5-88c8-71e3a23fd02d/
+  - https://ucarecdn.com/2f152f3d-8c7a-449c-8812-807fd95adf3f/
+  - https://ucarecdn.com/deca3909-2120-4766-8442-e127f42bacf2/
+  - https://ucarecdn.com/757579f7-054b-4c8f-8f1e-94dcdbd85f76/
 ---
 *Ethos, junto con expertos de América Latina y Estados Unidos, discutieron las lecciones aprendidas y las perspectivas futuras para los Bonos de Impacto Social.* 
 
