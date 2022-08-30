@@ -9,6 +9,11 @@ extracto: Ethos Laboratorio de Políticas Públicas se ha reunido con actores
   Asociaciones Público-Privadas. Lo anterior como un esfuerzo en conjunto para
   el cumplimiento de los acuerdos internacionales para la reducción de
   emisiones.
+galeria:
+  - https://ucarecdn.com/8662f0e0-648e-4ab6-bff9-12598abb45fa/
+  - https://ucarecdn.com/e4beddff-8a98-455e-913d-f8445683e7e4/
+  - https://ucarecdn.com/0e7167a3-4a7f-45f7-8d70-59c0cc6a2690/
+  - https://ucarecdn.com/3cf55a28-f0fa-4e96-94b1-5fff2cda136f/
 ---
 *Ethos realizó su primer taller de Eficiencia Energética a través de Asociaciones Público-Privadas para impulsar la reducción de emisiones*.
 
