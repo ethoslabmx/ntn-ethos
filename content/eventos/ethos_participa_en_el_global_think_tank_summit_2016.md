@@ -10,6 +10,16 @@ extracto: "José Luis Chicoma, Director de Ethos Laboratorio de Políticas
   asesoramiento sobre políticas” en el que participaron Jason Clemens, del
   Fraser Institute y Lara Setrakian, de News Deeply (EEUU), además de
   representantes de los think tanks más importantes a nivel global."
+galeria:
+  - https://ucarecdn.com/5ba42ae2-00f2-4b58-8071-68daa532f864/
+  - https://ucarecdn.com/20bd0efa-c6cb-4c6b-809e-ccdc05ecff63/
+  - https://ucarecdn.com/5294f12c-1aa0-4b01-9e59-8b8bc7272280/
+  - https://ucarecdn.com/b69ed7a5-e3d2-4cfb-8a46-1d617bfa3e0f/
+  - https://ucarecdn.com/3c5247be-81ce-4e2b-b7fc-6ef3b902466e/
+  - https://ucarecdn.com/cd9b215a-5a36-410e-a1c8-e4b7a4459cba/
+  - https://ucarecdn.com/5b6514e1-e4f4-486b-bfdc-b162183bc108/
+  - https://ucarecdn.com/25431371-0a25-4b3e-81a0-16e6f397f001/
+  - https://ucarecdn.com/4fe03a4c-ed13-43d0-9478-c5e71b08fb17/
 ---
 *Participamos en el Global Think Tank Summit en Montreal, donde se habló del rol de los think tanks en la globalización.*
 
