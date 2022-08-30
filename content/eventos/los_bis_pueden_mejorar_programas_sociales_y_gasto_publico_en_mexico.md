@@ -11,6 +11,17 @@ extracto: "En la presentación del estudio Bonos de Impacto en México:
   para aumentar el ingreso de 1,320 jefas de familia. “Este es un paso muy
   importante para poner a México a la vanguardia de la implementación de esta
   herramienta innovadora”, señaló Chicoma."
+galeria:
+  - https://ucarecdn.com/76096b78-0192-400a-9d69-d19e1679952f/
+  - https://ucarecdn.com/7b2d7a7c-4dea-4e01-b5b8-52b1175a9723/
+  - https://ucarecdn.com/e145c651-dd93-4f72-97ba-3751865f4f15/
+  - https://ucarecdn.com/764b26f1-1840-4bff-aa2f-24c96b7e064a/
+  - https://ucarecdn.com/a533fff3-bc70-49db-89a5-94e0f0d7c78d/
+  - https://ucarecdn.com/221001fb-0d12-4c10-aba7-986ac3d830d6/
+  - https://ucarecdn.com/563093b4-b238-46f1-b4bb-4e583639dc74/
+  - https://ucarecdn.com/dd626be1-c3aa-4312-9d56-a45595d110cc/
+  - https://ucarecdn.com/0575e35b-8dec-4fca-a2d6-caf7292a9c76/
+  - https://ucarecdn.com/ec38ddbc-eef3-428a-a17e-4b433aa34770/
 ---
 *El estudio «Bonos de Impacto en México: oportunidades y retos», analiza los factores legales, políticos, financieros y técnicos necesarios para la implementación de estos instrumentos en México.*
 
