@@ -8,6 +8,14 @@ extracto: "Del 17 al 19 de octubre se llevó a cabo el Encuentro de Agricultura
   Urbana y Periurbana en la Ciudad de México. Dicha actividad tuvo como objetivo
   reflexionar en temas de políticas públicas, biodiversidad, educación
   alimentaria, cambio climático, urbanismo agrario y agricultura regenerativa. "
+galeria:
+  - https://ucarecdn.com/64fbdf0a-b528-4422-9a3a-7d6c955b69ce/
+  - https://ucarecdn.com/c8b9456e-962f-4407-aecf-45f71ee86500/
+  - https://ucarecdn.com/8c6979e0-a3af-413f-a2ce-218a0e0acef2/
+  - https://ucarecdn.com/615929e9-1b97-4202-ade5-240f8f0d8c14/
+  - https://ucarecdn.com/1cd2b403-7ce2-4ac1-84d4-3667566026d3/
+  - https://ucarecdn.com/f2a40af5-09ad-4a76-9700-ada9016ffd5f/
+  - https://ucarecdn.com/6f2e64f5-9858-4a03-9ca7-7e33902a77e1/
 ---
 Del 17 al 19 de octubre se llevó a cabo el Encuentro de Agricultura Urbana y Periurbana en la Ciudad de México. Dicha actividad tuvo como objetivo reflexionar en temas de políticas públicas, biodiversidad, educación alimentaria, cambio climático, urbanismo agrario y agricultura regenerativa. 
 
