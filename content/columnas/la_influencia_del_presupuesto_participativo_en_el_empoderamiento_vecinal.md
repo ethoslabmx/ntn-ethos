@@ -1,6 +1,6 @@
 ---
 title: La influencia del Presupuesto Participativo en el empoderamiento vecinal
-date: 2022-11-01T22:29:21.361Z
+date: 2021-11-11T22:29:21.361Z
 img: https://ucarecdn.com/d4acf1b3-6068-45f2-bab5-1288d08e46ee/
 autor: " Liliana Alvarado"
 medio: El Economista

@@ -2,12 +2,13 @@
 title: "Corrupción de ventanilla: requisito principal para abrir una empresa en
   Centro"
 date: 2022-03-22T22:07:07.233Z
-img: https://ucarecdn.com/7cdd1886-a5b0-4190-b109-26ccf41d5287/
+img: https://ucarecdn.com/d1f06423-fddd-438f-99d4-e95ce239906c/
 autor: Ethos
 category: anticorrupcion
 extracto: Para agilizar la apertura de negocios, los empresarios de Tabasco
   proponen recurrir a herramientas tecnológicas para evitar a los funcionarios
   corruptos.
+file: https://ucarecdn.com/6d68b097-45af-4362-9118-a016d0e8ed69/
 ---
 Para agilizar la apertura de negocios, los empresarios de Tabasco proponen recurrir a herramientas tecnológicas para evitar a los funcionarios corruptos.
 

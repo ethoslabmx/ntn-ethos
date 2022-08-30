@@ -8,5 +8,6 @@ category: desarrollo-sostenible
 extracto: "Este policy brief presenta un diagnóstico sobre los impactos de la
   pandemia en tres grupos vulnerables de interés en México, Chile y Colombia:
   mujeres, empleos verdes y comunidades indígenas rurales."
+file: https://ucarecdn.com/45a755bc-0c9a-40c5-8723-8bea8fe9d5ad/
 ---
 Este *policy brief* presenta un diagnóstico sobre los impactos de la pandemia en tres grupos vulnerables de interés en México, Chile y Colombia: mujeres, empleos verdes y comunidades indígenas rurales.

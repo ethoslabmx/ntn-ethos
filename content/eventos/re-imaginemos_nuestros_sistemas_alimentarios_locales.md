@@ -1,6 +1,6 @@
 ---
 title: Re-imaginemos nuestros sistemas alimentarios locales
-date: 2021-07-08T00:57:46.759Z
+date: 2021-07-07T00:57:46.759Z
 img: https://ucarecdn.com/08139f0c-3b5e-465b-b733-2573b2977950/
 autor: "Ethos "
 link: https://www.youtube.com/watch?v=jcHTHuJxW2A

@@ -1,6 +1,6 @@
 ---
 title: La desigualdad financiera en nuestro país
-date: 2022-07-02T05:00:00.000Z
+date: 2021-07-02T05:00:00.000Z
 img: https://ucarecdn.com/6b8e002a-e552-48ff-bc67-e05a24e78e7e/
 autor: Miguel Ángel Santibáñez
 medio: "AnimalPolitico "
