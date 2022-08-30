@@ -1,12 +1,13 @@
 ---
 title: Puebla, caldo de cultivo para la informalidad y la corrupción
 date: 2022-03-10T22:43:46.917Z
-img: https://ucarecdn.com/49f02c3c-fa94-435c-8e4a-9124ae45a75b/
+img: https://ucarecdn.com/d1f06423-fddd-438f-99d4-e95ce239906c/
 autor: Ethos
 category: anticorrupcion
 extracto: Ante la histórica lentitud burocrática que inhibe el emprendedurismo
   formal, empresarios, organizaciones internacionales y gobiernos locales se
   unen para intentar revertir el problema.
+file: https://ucarecdn.com/20753a0a-23f7-4e7d-a32b-4845bbc5e1d2/
 ---
 Ante la histórica lentitud burocrática que inhibe el emprendedurismo formal, empresarios, organizaciones internacionales y gobiernos locales se unen para intentar revertir el problema.
 
