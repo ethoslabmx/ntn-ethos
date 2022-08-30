@@ -9,6 +9,13 @@ extracto: "José Luis Chicoma, director general de Ethos Laboratorio de Polític
   Sostenible 2030: ¿el mejor marco para generar impacto?» como parte del Foro
   Latinoamericano de Inversión de Impacto (FLII) 2018, llevado a cabo en Mérida,
   Yucatán."
+galeria:
+  - https://ucarecdn.com/6c9007a7-21a9-42b2-954a-b9dc81c7e221/
+  - https://ucarecdn.com/76d3847c-4877-40ba-96d9-77a3de0f42f2/
+  - https://ucarecdn.com/fdee93b3-898e-41ee-bd3c-fbaf758a4245/
+  - https://ucarecdn.com/9b517957-a6e7-4c2f-bc59-e65c3028457b/
+  - https://ucarecdn.com/af9c78b4-301a-4357-99d4-b71d5c3dadaf/
+  - https://ucarecdn.com/890f563f-cf87-460e-ba3c-e465cea66c8e/
 ---
 *Los Objetivos de Desarrollo Sostenible (ODS) van desde eliminar el hambre hasta frenar el cambio climático y proporcionan una hoja de ruta crítica para el desarrollo sostenible a nivel mundial.*
 
