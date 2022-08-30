@@ -1,6 +1,6 @@
 ---
 title: "Pobreza en México: los retos que trajo consigo la COVID-19"
-date: 2021-06-03T22:29:17.737Z
+date: 2021-06-07T22:29:17.737Z
 img: https://ucarecdn.com/61b1cdbe-1520-463b-ae47-1b495c098e56/
 autor: "Ethos Laboratorio de Politicas Publicas "
 link: https://www.youtube.com/watch?v=nfHGVJf8U4w
