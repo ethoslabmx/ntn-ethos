@@ -10,6 +10,18 @@ extracto: José Luis Chicoma, Director General de Ethos, comentó que en México
   educación, salud, seguridad y empleo, los cuales son temas complejos pero que
   pueden ser atendidos con herramientas innovadoras como los Bonos de Impacto
   Social, generando el mayor beneficio para todos los ciudadanos”.
+galeria:
+  - https://ucarecdn.com/6a5669b0-d04a-44f6-80d3-47c2c93eed1a/
+  - https://ucarecdn.com/4a38100e-e318-44c6-a294-f4dbddc9dc2c/
+  - https://ucarecdn.com/4be85ecb-1908-4ff5-8a16-884ebb6491ad/
+  - https://ucarecdn.com/012e001c-5358-4469-b3b7-1cb877bcd7cd/
+  - https://ucarecdn.com/a87b3f18-e825-4473-9c69-f3092fb9dab6/
+  - https://ucarecdn.com/a364f98b-649c-471d-8b58-586d770c6d41/
+  - https://ucarecdn.com/2d5901e5-796e-4b2b-adf1-ba64cec97da5/
+  - https://ucarecdn.com/b5617917-218d-414e-9edf-6ad72b9957f6/
+  - https://ucarecdn.com/90f426b3-ee05-4384-bb38-aead2e54221e/
+  - https://ucarecdn.com/b321253a-5e46-4cfc-8553-6b5ae44e4147/
+  - https://ucarecdn.com/510dc815-51dc-45d0-a84c-b51072977df9/
 ---
 
 
