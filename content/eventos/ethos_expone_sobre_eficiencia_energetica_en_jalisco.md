@@ -9,6 +9,13 @@ extracto: "En el marco de nuestra iniciativa Hacia un México Sostenible:
   Políticas Públicas entregó a la Secretaría de Innovación, Ciencia y Tecnología
   de Jalisco (SICyT) un par de documentos técnicos relevantes para realizar
   proyectos de eficiencia energética en el estado."
+galeria:
+  - https://ucarecdn.com/8a1561a8-4b21-4643-9e0f-0afc4ed0c034/
+  - https://ucarecdn.com/3ab89773-ec0a-43bb-a5f3-db57abacc595/
+  - https://ucarecdn.com/4b989755-950d-4826-b83f-2b4587f7e1da/
+  - https://ucarecdn.com/4e23978e-97ab-4cd3-980e-d7d36ca47029/
+  - https://ucarecdn.com/689483f3-5577-45f4-9396-c3a1688f7113/
+  - https://ucarecdn.com/5cc94b2d-59de-4e79-82e1-4aa482662603/
 ---
 *Ethos entregó a la SICyT de Jalisco la propuesta “Hacia un México Sostenible” y un par de documentos técnicos para proyectos de eficiencia energética.*
 
