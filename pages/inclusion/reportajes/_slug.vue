@@ -96,14 +96,12 @@
 </template>
 
 <script>
-import VuePdfEmbed from "vue-pdf-embed/dist/vue2-pdf-embed";
+
 export default {
-  components: {
-    VuePdfEmbed,
-  },
+
   data() {
     return {
-      currentUrl:'https://radiant-semifreddo-901f94.netlify.app/anticorrupcion/columnas/'+this.$route.params.slug,
+      currentUrl:'https://radiant-semifreddo-901f94.netlify.app/inclusion/reportajes/'+this.$route.params.slug,
       source:''
     }
   },

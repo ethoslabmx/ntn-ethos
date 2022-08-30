@@ -28,7 +28,7 @@ collections:
       - { label: 'Imagen Principal', name: 'img', widget: 'image',  required: false }
       - { label: 'Imagen Alt', name: 'img-alt', widget: 'string' , required: false }
       - { label: 'Autor', name: 'autor', widget: 'string' , required: false}
-      - { label: 'Categoria', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion"]}
+      - { label: 'Eje', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion"]}
       - { label: 'Extracto', name: 'extracto', widget: 'string', required: false }
       - { label: 'Contenido', name: 'body',  widget: 'markdown'  }
       - { label: 'Archivo Adjunto', name: 'file', widget: 'file', required: false }
@@ -54,7 +54,7 @@ collections:
       - { label: 'Imagen Principal', name: 'img', widget: 'image', required: false }
       - { label: 'Imagen Alt', name: 'img-alt', widget: 'string', required: false }
       - { label: 'Autor', name: 'autor', widget: 'string' }
-      - { label: 'Categoria', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion"]}
+      - { label: 'Eje', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion"]}
       - { label: 'Extracto', name: 'extracto', widget: 'string', required: false }
       - { label: 'Contenido', name: 'body', widget: 'markdown' }
       - { label: 'Archivo Adjunto', name: 'file', widget: 'file', required: false }
@@ -75,7 +75,7 @@ collections:
       - { label: 'Autor', name: 'autor', widget: 'string' }
       - { label: 'Medio', name: 'medio', widget: 'string' }
       - { label: 'Enlace artículo', name: 'link', widget: 'string', required: false }
-      - { label: 'Categoria', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion","think-tanks"]}
+      - { label: 'Eje', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion","think-tanks"]}
       - { label: 'Extracto', name: 'extracto', widget: 'string', required: false }
       - { label: 'Contenido', name: 'body', widget: 'markdown' }
       - { label: 'Galería', name: 'galeria', widget: 'image', media_library: { config: { multiple: true}}, required: false }
@@ -94,7 +94,7 @@ collections:
       - { label: 'Imagen Alt', name: 'img-alt', widget: 'string', required: false }
       - { label: 'Autor', name: 'autor', widget: 'string' }
       - { label: 'Enlace artículo', name: 'link', widget: 'string', required: false }
-      - { label: 'Categoria', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion","think-tanks"]}
+      - { label: 'Eje', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion","think-tanks"]}
       - { label: 'Extracto', name: 'extracto', widget: 'string', required: false }
       - { label: 'Contenido', name: 'body', widget: 'markdown' }
       - { label: 'Galería', name: 'galeria', widget: 'image', media_library: { config: { multiple: true}}, required: false }
@@ -113,7 +113,7 @@ collections:
       - { label: 'Imagen Alt', name: 'img-alt', widget: 'string', required: false }
       - { label: 'Autor', name: 'autor', widget: 'string' }
       - { label: 'Enlace artículo', name: 'link', widget: 'string', required: false }
-      - { label: 'Categoria', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion","think-tanks"]}
+      - { label: 'Eje', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion","think-tanks"]}
       - { label: 'Extracto', name: 'extracto', widget: 'string', required: false }
       - { label: 'Contenido', name: 'body', widget: 'markdown' }
       - { label: 'Galería', name: 'galeria', widget: 'image', media_library: { config: { multiple: true}}, required: false }
@@ -130,7 +130,7 @@ collections:
       - { label: 'Fecha Publicación', name: 'date', widget: 'datetime' }
       - { label: 'Autor', name: 'autor', widget: 'string' }
       - { label: 'Enlace video', name: 'video', widget: 'string' }
-      - { label: 'Categoria', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion"]}
+      - { label: 'Eje', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion"]}
       - { label: 'Extracto', name: 'extracto', widget: 'string', required: false }
       - { label: 'Contenido', name: 'body', widget: 'markdown', required: false }
   - name: 'micrositios'
@@ -144,9 +144,27 @@ collections:
     fields:
       - { label: 'Título', name: 'title', widget: 'string' }
       - { label: 'Fecha Publicación', name: 'date', widget: 'datetime' }
+      - { label: 'Imagen Principal', name: 'img', widget: 'image', required: false }
       - { label: 'Enlace', name: 'link', widget: 'string' }
-      - { label: 'Categoria', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion"]}
+      - { label: 'Eje', name: 'eje', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion"]}
+      - { label: 'Categoria', name: 'category', widget: 'select', options: ["publicaciones","reportajes"]}
       - { label: 'Extracto', name: 'extracto', widget: 'string', required: false }
+  - name: 'historias'
+    label: 'Historias de Éxito'
+    folder: 'content/historias'
+    format: 'frontmatter'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Título', name: 'title', widget: 'string' }
+      - { label: 'Fecha Publicación', name: 'date', widget: 'datetime' }
+      - { label: 'Imagen Principal', name: 'img', widget: 'image', required: false }
+      - { label: 'Imagen Alt', name: 'img-alt', widget: 'string', required: false }
+      - { label: 'Enlace video', name: 'video', widget: 'string', required: false }
+      - { label: 'Extracto', name: 'extracto', widget: 'string' }
+      - { label: 'Contenido', name: 'body', widget: 'markdown', required: false }
   - name: 'financiadores'
     label: 'Financiadores'
     folder: 'content/financiadores'

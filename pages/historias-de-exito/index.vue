@@ -13,40 +13,29 @@
             </div>
           </div>
         </section>
-        <section
-          class="com__section com__section--text com__section--text-img com__bg bg-gradient-to-b from-primary to-primarylight">
-          <div class="text-center">
-            <h1 class="animate">Escudo ciudadano</h1>
-            <lite-youtube videoid="ke-NGxVe2tU" playlabel="Escudo Ciudadano"
+        <section v-for="historia in historias" :key="historia.slug"
+        class="com__section com__section--text centered com__bg bg-gradient-to-b from-primary to-primarylight">
+          <h1 class="animate scaleIn">{{historia.title}}</h1>
+            <lite-youtube :videoid="historia.video.slice(historia.video.indexOf('v=')+2)" :playlabel="historia.title"
               params="controls=0&start=0&modestbranding=2&rel=0&enablejsapi=1" class="" />
-          </div>
-
-        </section>
-        <section class="com__section com__section--text centered com__bg bg-gradient-to-b from-primary to-primarylight">
-          <h1 class="animate scaleIn">Otra Historia</h1>
-          <lite-youtube videoid="yaED_rElGgU" playlabel="Escudo Ciudadano"
-            params="controls=0&start=0&modestbranding=2&rel=0&enablejsapi=1" class="" />
-        </section>
-        <section class="com__section com__section--text com__bg bg-gradient-to-b from-primary to-primarylight">
-          <h1 class="animate ">Otro Historia 3</h1>
-          <lite-youtube videoid="l0dDjW70Vuk" playlabel="Escudo Ciudadano"
-            params="controls=0&start=0&modestbranding=2&rel=0&enablejsapi=1" class="" />
+            <!--<p>{{historia.extracto}}</p>-->
         </section>
       </div>
       <nav class="com__nav">
         <ul class="com__nav-list">
-          <li class="com__nav-item bg-primary">
-            <a class="com__nav-link" @click="activeSection(1)">
-              <span class="animate scaleInLeft delay-2 big-title 4xl:text-xl text-sm text-white mb-3 text-right">Conoce a la
-                AMEXCID</span>
-              <span class="animate scaleInLeft delay-4 4xl:text-lg text-white text-right">Agencia Mexicana de Cooperación
-                Internacional para el Desarrollo.</span>
+          <li class="com__nav-item bg-primary" v-for="historia in historias" :key="historia.slug">
+            <a class="com__nav-link bg-primary" @click="activeSection(1)">
+              <span class="animate scaleInLeft delay-2 big-title 4xl:text-xl text-sm text-white mb-3 text-right">
+                  {{ historia.title }}
+                </span>
             </a>
           </li>
+
+          <!--
           <li class="com__nav-item bg-yellow-3">
             <a class="com__nav-link" @click="activeSection(2)">
               <div class="com__section-half">
-                <span class="animate scaleInLeft delay-3 big-title 4xl:text-xl text-sm  text-white mb-3 text-right">COOPERACiÓN PARA
+                <span class="animate scaleInLeft delay-3 4xl:text-xl text-sm  text-white mb-3 text-right">COOPERACiÓN PARA
                   TODOS</span>
                 <span class="animate scaleInLeft delay-4 4xl:text-lg text-white text-right">Ayuda oficial al desarrollo en
                   México y LATAM.</span>
@@ -63,7 +52,7 @@
                 en América Latina y el Caribe.</span>
             </a>
           </li>
-
+          -->
         </ul>
       </nav>
     </div>
@@ -81,6 +70,13 @@ export default {
       activeSec: 0,
       link: null
     }
+  },
+  async asyncData({ $content }) {
+    const historias = await $content("historias").sortBy('date','desc').limit(8).fetch();
+
+    return {
+      historias
+    };
   },
   mounted() {
     this.section = document.querySelectorAll('.com__section');
@@ -214,23 +210,27 @@ export default {
     &--text {
 
       h1 {
+        margin: 0 auto;
         margin-bottom: 3vh;
-        font-size: 28px;
+        font-size: 1.5rem;
+        max-width: 800px;
         font-weight: 300;
         color: rgba(white, 1);
         @media(min-width: 1100px){
-        font-size: 48px;
-        color: rgba(white, 0.9);
+          font-size: 2.5rem;
+          color: rgba(white, 0.9);
         }
       }
 
       p {
         margin: 0;
+
         color: rgba(white, 1);
         max-width: 600px;
         font-size: 20px;
         @media(min-width: 1100px){
-        color: rgba(white, 0.9);
+          color: rgba(white, 1);
+          font-weight: 500;
         }
       }
 

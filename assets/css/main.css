@@ -232,6 +232,10 @@ li.eje .content a {
   margin-left: 0.75rem;
 }
 
+.more-btn:hover, a:hover{
+  color: var(--bg-orange);
+}
+
 .separador_header {
   display: flex;
   align-items: center;

@@ -3,6 +3,21 @@
    <JumbotronEje title="DESARROLLO SOSTENIBLE" subtitle="REPORTAJES PERIODÍSTICOS" image="desarollo-sostenible-thumb.png"/>
 
   <div class="bg-white border-b-16 border-primary">
+    <li v-for="post of micrositios" :key="post.slug" class="eje" >
+      <div class="container mx-0 ml-auto  flex 10 justify-between items-center lg:flex-row-reverse flex-col">
+
+        <div class="lg:w-1/2 3xl:w-1/3 lg:ml-10 self-center tag-container">
+          <img :src="post.img" alt="" class="w-auto object-cover col-img">
+          <div class="tag">Micrositio</div>
+        </div>
+
+        <div class="content lg:w-1/2  3xl:w-2/3 mt-6 lg:mt-0">
+          <a :href="post.link" target="_blank" class="xl:text-lg title">{{ post.title }}</a>
+          <p class="text-gray-dark">{{ post.extracto }}</p>
+        </div>
+
+      </div>
+    </li>
     <ul>
       <li v-for="evento of eventos" :key="evento.slug" class="post md:py-20 py-10">
         <div
@@ -75,10 +90,13 @@ export default {
     }
   },
   async asyncData({ $content }) {
+    const micrositios = await $content("micrositios").where({eje:"desarrollo-sostenible",category:"reportajes"}).sortBy('date','desc').fetch();
+
     const eventos = await $content("reportajes").where({category:"desarrollo-sostenible"}).without(['body']).sortBy('date','desc').limit(8).fetch();
 
     return {
       eventos,
+      micrositios
     };
   },
   methods:{

@@ -1,6 +1,21 @@
 <template>
   <div class="border-b-16 border-primary app">
     <JumbotronEje title="ANTICORRUPCIÓN" subtitle="Publicaciones" image="anticorrupcion-thumb.png"/>
+    <li v-for="post of micrositios" :key="post.slug" class="eje" >
+      <div class="container mx-0 ml-auto  flex 10 justify-between items-center lg:flex-row-reverse flex-col">
+
+        <div class="lg:w-1/2 3xl:w-1/3 lg:ml-10 self-center tag-container">
+          <img :src="post.img" alt="" class="w-auto object-cover col-img">
+          <div class="tag">Micrositio</div>
+        </div>
+
+        <div class="content lg:w-1/2  3xl:w-2/3 mt-6 lg:mt-0">
+          <a :href="post.link" target="_blank" class="xl:text-lg title">{{ post.title }}</a>
+          <p class="text-gray-dark">{{ post.extracto }}</p>
+        </div>
+
+      </div>
+    </li>
     <li v-for="evento of eventos" :key="evento.slug" class="post md:py-20 py-10">
       <div
         class="flex container px-5 xl:px-28 items-center justify-between flex-wrap md:flex-nowrap md:flex-row-reverse">
@@ -75,10 +90,12 @@ export default {
     }
   },
   async asyncData({ $content }) {
+    const micrositios = await $content("micrositios").where({eje:"anticorrupcion",category:"publicaciones"}).sortBy('date','desc').fetch();
     const eventos = await $content("publicaciones").where({category:"anticorrupcion"}).without(['body']).sortBy('date','desc').limit(8).fetch();
 
     return {
       eventos,
+      micrositios
     };
   },
    methods:{

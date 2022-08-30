@@ -96,11 +96,9 @@
 </template>
 
 <script>
-import VuePdfEmbed from "vue-pdf-embed/dist/vue2-pdf-embed";
+
 export default {
-  components: {
-    VuePdfEmbed,
-  },
+
   data(){
     return {
       source:'',
