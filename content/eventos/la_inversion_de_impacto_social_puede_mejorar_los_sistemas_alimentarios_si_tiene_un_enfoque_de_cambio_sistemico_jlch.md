@@ -10,6 +10,9 @@ extracto: Encontrar las raíces del problema de alimentación mundial y abordar
   forma en la que producimos y consumimos alimentos, opinó José Luis Chicoma,
   director general de Ethos, durante su participación en el Foro Latinoamericano
   de Inversión de Impacto 2019.
+galeria:
+  - https://ucarecdn.com/72b43f26-a071-4b01-8e49-279e9b9cc3a7/
+  - https://ucarecdn.com/7be2be27-e43b-4a9a-807e-3d6709598e19/
 ---
 *José Luis Chicoma, director de Ethos, participó en el Foro Latinoamericano de Inversión de Impacto 2019 que se realizó del 19 al 21 de febrero en Mérida, Yucatán.* 
 

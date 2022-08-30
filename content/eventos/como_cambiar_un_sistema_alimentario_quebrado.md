@@ -10,6 +10,18 @@ extracto: "Ante especialistas, emprendedores, chefs, periodistas y activistas,
   de esta iniciativa es sumar a la estrategia de cambio, documentar y hablar de
   las soluciones para poder comer sin enfermarnos y producir sin destruir al
   planeta. "
+galeria:
+  - https://ucarecdn.com/ee56cccf-dab0-4962-9a71-a33558c35fb5/
+  - https://ucarecdn.com/bb3db547-7cb8-4c31-bc4c-c92c1c2c442c/
+  - https://ucarecdn.com/4df53cbb-8b59-4443-aff7-d78c82d185ba/
+  - https://ucarecdn.com/ccc29026-b618-413c-b4d1-fd1c418e924a/
+  - https://ucarecdn.com/04edb10d-e658-4b8e-9e27-41207a315d75/
+  - https://ucarecdn.com/aa687d5c-8982-4ee3-ba4d-372608d74d63/
+  - https://ucarecdn.com/00ecac1e-938b-416a-8794-6f7be9f7b853/
+  - https://ucarecdn.com/e479b433-1fb9-4180-b93b-215729992bb7/
+  - https://ucarecdn.com/1d0d652b-ef1a-4dfd-b79f-9b70cb437237/
+  - https://ucarecdn.com/085abc1a-d9af-4d4f-b65e-f126c26b0b52/
+  - https://ucarecdn.com/12303fde-c18f-46f9-9847-8733f2b5dbe7/
 ---
 ¿Qué implica cambiar nuestra forma de consumir, de producir y de distribuir los alimentos?, fue una de las preguntas claves en la presentación de la publicación de [Ethos](https://www.ethos.org.mx/es/) y [Proyecto La Guajolota](https://www.proyectolaguajolota.org/) «[¿Cómo transformar los sistemas alimentarios? Casos de inspiración y propuestas para mejorar lo que comemos](https://www.ethos.org.mx/es/ethos-publications/como-transformar-los-sistemas-alimentarios/)».
 

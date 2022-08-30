@@ -9,6 +9,10 @@ extracto: José Luis Chicoma, director de Ethos, participó como ponente en el
   encuentro, chefs, agricultores, científicos, académicos y organizaciones de la
   sociedad civil se reunieron para conversar sobre la importancia del maíz como
   un alimento central en la historia, cultura y política.
+galeria:
+  - https://ucarecdn.com/cce8da99-8ae9-49e7-a3dd-d0257075c8c7/
+  - https://ucarecdn.com/6e23bd47-b4c2-4b0b-8d82-0643b70cb6a5/
+  - https://ucarecdn.com/2edbe71b-499f-43a0-b727-c59b3f3db1c1/
 ---
 José Luis Chicoma, director de Ethos, participó como ponente en el [Corn Symposium](https://www.topic48.com/), realizado en Nueva York los días 8 y 9 de septiembre. En dicho encuentro, chefs, agricultores, científicos, académicos y organizaciones de la sociedad civil se reunieron para conversar sobre la importancia del maíz como un alimento central en la historia, cultura y política.
 

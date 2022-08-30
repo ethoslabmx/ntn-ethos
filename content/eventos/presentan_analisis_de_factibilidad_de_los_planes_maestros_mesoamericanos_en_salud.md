@@ -12,6 +12,12 @@ extracto: Ethos Laboratorio de Políticas Públicas presentó en Bogotá, Colomb
   iniciativa de Ethos en conjunto con la Agencia de Cooperación Alemana
   (GIZ);  y la Agencia Mexicana de Cooperación Internacional para el Desarrollo
   (AMEXCID).
+galeria:
+  - https://ucarecdn.com/30f23678-f89d-4df0-a651-5b46e736eebb/
+  - https://ucarecdn.com/ab92d6d0-ac94-4aa4-a763-2cd053fa3f85/
+  - https://ucarecdn.com/944fca09-f9a2-412d-a785-6096afcdb7bd/
+  - https://ucarecdn.com/c353fb9a-8951-43d6-bbf9-c4a12778f0a4/
+  - https://ucarecdn.com/fc781a1e-0e43-4867-9de1-c8fbf4965d6d/
 ---
 *Ethos expuso la metodología desarrollada, su alineación con los Objetivos de Desarrollo Sostenible (ODS) y el análisis cuantitativo y cualitativo que se llevó a cabo para priorizar los planes y las actividades.*
 

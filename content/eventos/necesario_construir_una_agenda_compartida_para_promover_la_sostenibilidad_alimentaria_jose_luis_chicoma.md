@@ -10,6 +10,9 @@ extracto: José Luis Chicoma, director general de Ethos, participó en la Segund
   organizada por la iniciativa One Planet; plataforma que busca garantizar el
   cumplimiento del objetivo 12 (producción y consumo responsable) de los
   Objetivos de Desarrollo Sostenible de la ONU.
+galeria:
+  - https://ucarecdn.com/d17fd1da-0a48-4eda-ba5b-575120906be2/
+  - https://ucarecdn.com/afc92657-7fa2-484c-96d9-5d534a4d0b74/
 ---
 *Ante especialistas de todo el mundo, el director general de Ethos habló de la importancia del trabajo colectivo para promover políticas públicas encaminadas a garantizar la sostenibilidad de la alimentación global.*
 

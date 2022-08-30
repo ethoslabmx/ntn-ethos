@@ -8,6 +8,9 @@ extracto: Los efectos de la pandemia por COVID-19 aún son incalculables. Sin
   embargo, en los sistemas alimentarios se pueden prever las complicaciones y
   cambios a los que la sociedad global tendrá que adaptarse en los siguientes
   meses y años.
+galeria:
+  - https://ucarecdn.com/f72203ea-8f18-4941-a19e-b1ddc4a4797f/
+  - https://ucarecdn.com/10189c30-e7a2-4657-8365-1c9cdfaab1ec/
 ---
 *Durante su participación en The Good Society Forum de la Universidad de Yale, José Luis Chicoma abordó el impacto del coronavirus en los sistemas alimentarios* 
 
