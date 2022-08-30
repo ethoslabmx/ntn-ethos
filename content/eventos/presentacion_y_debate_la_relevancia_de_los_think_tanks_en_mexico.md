@@ -8,6 +8,15 @@ extracto: El evento contó con la participación en el panel de Edna Jaime,
   directora de México Evalúa; José Luis Chicoma, director general de Ethos;
   Gabriela Capó, directora ejecutiva de Insyde; Juan Alfonso Mejía, director
   general de Mexicanos Primero; y Ximena Arrieta, responsable de Wingu México.
+galeria:
+  - https://ucarecdn.com/0402bfd7-9365-4552-a6be-de02123ad3fa/
+  - https://ucarecdn.com/4cbaeca6-ee75-4cea-bfde-a2d0d93bbe2d/
+  - https://ucarecdn.com/14ad9a81-0cb6-4414-8c4f-ddf2eeb6dfe9/
+  - https://ucarecdn.com/13faa32f-94ef-419e-89f4-9e2b632975fb/
+  - https://ucarecdn.com/237087b0-6cdb-4364-aa0e-33e41b635c72/
+  - https://ucarecdn.com/e0961531-7140-42a9-815b-63c01e97ccec/
+  - https://ucarecdn.com/1d736773-bcf4-473e-bf86-6a55d3c00f05/
+  - https://ucarecdn.com/eab35906-05e2-43a0-a8a2-b8fb0ccecd85/
 ---
 *El [Índice Global de Think Tanks ](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1012&context=think_tanks)es generado a partir de una encuesta internacional en la que más de 1,950 académicos, donantes públicos y privados, legisladores y periodistas ayudaron a clasificar a más de 6,500 think tanks mediante 18 criterios.*
 
