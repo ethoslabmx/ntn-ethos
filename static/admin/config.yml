@@ -171,7 +171,7 @@ collections:
     fields:
       - { label: 'Nombre', name: 'nombre', widget: 'string' }
       - { label: 'Foto', name: 'foto', widget: 'image', required: false }
-      - { label: 'Puesto', name: 'puesto', widget: 'string' }
+      - { label: 'Puesto', name: 'puesto', widget: 'string' , required: false}
       - { label: 'Area', name: 'area', widget: 'select', options: ["dirección general","dirección de desarrollo institucional","finanzas públicas y anticorrupción","inclusión y desarrollo sostenible","ciudades del futuro","comunicación y prensa","administración y recursos humanos","programa de internship","asamblea de asociados","consejo directivo"] }
       - { label: 'Orden', name: 'pos', widget: 'number'}
       - { label: 'Semblanza', name: 'semblanza', widget: 'string' }
