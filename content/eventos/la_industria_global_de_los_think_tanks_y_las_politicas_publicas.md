@@ -9,6 +9,11 @@ extracto: José Luis Chicoma, director general de Ethos, habló en la School of
   experiencia en América Latina, la industria mundial de think tanks, la
   evolución de este tipo de organizaciones en las últimas décadas y cómo mejorar
   su efectividad en la generación de cambios en las políticas públicas.
+galeria:
+  - https://ucarecdn.com/182ca19d-f2dc-4af2-a068-41aadf343041/
+  - https://ucarecdn.com/6e5518bf-7f8e-47dc-b7f7-73962cb76247/
+  - https://ucarecdn.com/63bfab56-a93c-4558-b4ab-fc54099de741/
+  - https://ucarecdn.com/4c2a6122-a01c-4442-b850-344c56c7703e/
 ---
 *José Luis Chicoma habló en la School of Forestry and Environmental Studies sobre los think tanks, su evolución en las últimas décadas y cómo mejorar su efectividad en la generación de cambios en las políticas públicas.*
 
