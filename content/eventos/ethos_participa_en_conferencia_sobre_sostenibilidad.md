@@ -8,6 +8,14 @@ extracto: "Christine  Zülow, coordinadora de Innovación Social en Ethos
   Laboratorio de Políticas Públicas, participó como ponente en la 5ta
   conferencia del ciclo Camino al 2030, Megatendencias: Sostenibilidad, llevada
   a cabo en Impact Hub."
+galeria:
+  - https://ucarecdn.com/15210169-324a-443f-8159-a1727ed08c6a/
+  - https://ucarecdn.com/784f3546-aabc-4e5d-a30b-f28a94916aa7/
+  - https://ucarecdn.com/3a78f7af-ecda-4cce-89cc-16c4cd874e0c/
+  - https://ucarecdn.com/9a0a7816-60b5-4d71-b9e5-f53e9410e6c5/
+  - https://ucarecdn.com/8be45bc3-8119-4674-bb9b-d29ca1510c9a/
+  - https://ucarecdn.com/68350ab2-3dd2-49ba-bd17-66971427771c/
+  - https://ucarecdn.com/723666f6-e6ec-4236-8c52-a7d383704774/
 ---
 *Christine Zülow habló sobre el reporte “ROI Sustentable en países emergentes” en la 5ta conferencia del ciclo Camino al 2030.*
 
