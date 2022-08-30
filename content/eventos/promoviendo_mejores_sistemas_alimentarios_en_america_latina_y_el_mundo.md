@@ -9,6 +9,10 @@ extracto: Con el objetivo de plantear soluciones y mejores prácticas para un
   población, se llevó a cabo el World Food Summit 2018 en Copenhague donde
   participó José Luis Chicoma, Director General de Ethos, los días 30 y 31 de
   agosto pasado.
+galeria:
+  - https://ucarecdn.com/bcdcaf53-587e-43f8-8fb0-1406bdaa0309/
+  - https://ucarecdn.com/6710928a-1aa9-4ca9-b141-8fe417348ff6/
+  - https://ucarecdn.com/427dcd22-e2cb-4c7c-8136-bccedb6966c7/
 ---
 *Durante el encuentro del World Food Summit 2018, José Luis Chicoma expuso sobre alianzas público privadas para promover mejores sistemas de alimentación y desarrollo sustentable en América Latina.*
 
