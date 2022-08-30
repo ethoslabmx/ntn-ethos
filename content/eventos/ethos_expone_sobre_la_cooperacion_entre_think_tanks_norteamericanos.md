@@ -11,6 +11,13 @@ extracto: Ante la situación actual de la región norteamericana, José Luis
   North American Think Tank Summit 2017, el cual se llevó a cabo en Washington
   D.C. con el tema «Think tanks, la política y el poder del pensamiento
   positivo».
+galeria:
+  - https://ucarecdn.com/298bf5ed-2d54-475a-a57f-554c02558bc0/
+  - https://ucarecdn.com/f4b31a36-4c1d-49ed-9098-c23a80988255/
+  - https://ucarecdn.com/863dcfbc-0451-437c-a5f7-9fa8ded824e4/
+  - https://ucarecdn.com/e1f33f7e-e529-4224-8b62-e18b503ab96e/
+  - https://ucarecdn.com/0efcb0b2-d5e5-4f96-a283-d61d660a317b/
+  - https://ucarecdn.com/fddf8590-2664-46dd-9c6e-31e178785972/
 ---
 *En encuentro regional, José Luis Chicoma analizó el papel de los think tanks ante los retos de la relación entre México, Canadá y EE. UU.* 
 
