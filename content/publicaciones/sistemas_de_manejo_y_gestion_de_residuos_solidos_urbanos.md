@@ -8,5 +8,6 @@ extracto: "Hay mecanismos de apoyo financiero para la implementación de
   proyectos que ayuden a mejorar el servicio público de gestión de residuos
   sólidos, a través de un acercamiento con diversos actores clave y funcionarios
   públicos a nivel local. "
+file: https://ucarecdn.com/575b7fc8-f440-4e3b-a7f3-e31bb8cccfe3/
 ---
 Hay mecanismos de apoyo financiero para la implementación de proyectos que ayuden a mejorar el servicio público de gestión de residuos sólidos, a través de un acercamiento con diversos actores clave y funcionarios públicos a nivel local. En este *policy brief*abordamos algunos de ellos.
