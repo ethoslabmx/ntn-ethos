@@ -10,6 +10,17 @@ extracto: "Con el objetivo de promover un encuentro entre actores de gobierno a
   Energética (EE), Ethos organizó, junto con Carbon Trust y la Embajada
   Británica en México, el evento “Asociaciones Público Privadas para Estados
   Bajos en Carbono: Mecanismos Financieros para la Eficiencia Energética”."
+galeria:
+  - https://ucarecdn.com/de9352fb-8af3-42a2-84bb-9282de775e04/
+  - https://ucarecdn.com/8cbaa2cf-321e-4788-b6e4-dbf02109100c/
+  - https://ucarecdn.com/7fd183c4-dbfe-4e9a-bb53-be0c7f1ead9f/
+  - https://ucarecdn.com/12f14f50-e5a0-4a19-886a-e0b73e487950/
+  - https://ucarecdn.com/6ac60962-b627-4484-ab6f-44536e98bf16/
+  - https://ucarecdn.com/e7d05363-aa8d-4d22-9868-43a1b10fce0b/
+  - https://ucarecdn.com/988022b3-0d5d-4d02-a2ab-5a94e52a4287/
+  - https://ucarecdn.com/e99d4c27-9a50-491d-ae8c-c57efc08930f/
+  - https://ucarecdn.com/635c5a14-0c11-4cfd-a3e7-e778ae4c4c81/
+  - https://ucarecdn.com/0f6e8962-9a7c-4dfb-be5d-3cbb55f838f6/
 ---
 *Ethos convocó a un evento en el que se reunieron actores del sector público y privado para impulsar la sinergia en proyectos de Eficiencia Energética.*
 
