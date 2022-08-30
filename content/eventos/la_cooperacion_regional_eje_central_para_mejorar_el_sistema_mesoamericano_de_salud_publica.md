@@ -9,6 +9,18 @@ extracto: Ethos Laboratorio de Políticas Públicas participó en el Taller
   Regional del Sistema Mesoamericano de Salud Pública, en el marco de los
   trabajos entre la Cooperación Alemana para el Desarrollo (GIZ) y la Agencia
   Mexicana de Cooperación Internacional para el Desarrollo (AMEXCID).
+galeria:
+  - https://ucarecdn.com/855a0866-4bac-415e-ab4e-162e857c3e5d/
+  - https://ucarecdn.com/a271d817-9e28-4dff-afb4-b8bab1e50c79/
+  - https://ucarecdn.com/3abc1d21-4f2e-4ede-9448-5760db4c3b0d/
+  - https://ucarecdn.com/68e4efbb-5f16-4786-a763-eba3591cfe70/
+  - https://ucarecdn.com/c132a34e-8c40-4f17-98ab-e254a3e98a44/
+  - https://ucarecdn.com/5a0ced78-16b8-4ef7-926f-1aa1bf1f3a8f/
+  - https://ucarecdn.com/e0950ae8-8109-4c17-a9ae-d6fe6028f3b7/
+  - https://ucarecdn.com/f3d68295-2702-4a9b-a340-be25ee06972a/
+  - https://ucarecdn.com/3a7705e2-164d-4d91-a752-f1088f5f6361/
+  - https://ucarecdn.com/c7a22365-cc72-4fac-8fae-c4bc7cc48a8c/
+  - https://ucarecdn.com/f3315aef-123b-4e7f-a16f-3259b1a0cc2b/
 ---
 *Ethos participó en el Taller Regional del Sistema Mesoamericano de Salud Pública con la presentación del “Análisis de Factibilidad de los Planes Maestros Mesoamericanos en Salud Pública”.* 
 
