@@ -10,6 +10,9 @@ extracto: José Luis Chicoma, director general de Ethos Laboratorio de Política
   empresa nigeriana RED; y Raheel Khursheed, jefe de noticias y asociaciones de
   Twitter en India y el Sudeste Asiático, sobre las diversas experiencias con
   medios, información, think tanks y política.
+galeria:
+  - https://ucarecdn.com/e03b35b6-9ef3-4d12-aef6-5b27caa02909/
+  - https://ucarecdn.com/d92c7247-97e9-4c08-a567-a45e8b62370d/
 ---
 *José Luis Chicoma, junto con otros miembros del Greenberg World Fellows de la Universidad de Yale, hablaron sobre diversas experiencias con medios, información, think tanks y política.*
 
