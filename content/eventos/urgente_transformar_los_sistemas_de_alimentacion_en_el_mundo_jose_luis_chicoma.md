@@ -9,6 +9,10 @@ extracto: Con el tema “Las grandes y urgentes transformaciones que necesitamos
   para replantear nuestros sistemas de alimentación”, dentro del panel “El G20 y
   el Nuevo Orden Mundial”, realizó un análisis de las problemáticas en los
   sistemas de alimentación actuales y su relación con el desarrollo sostenible.
+galeria:
+  - https://ucarecdn.com/ec4be022-252a-44c7-8216-455f41106faf/
+  - https://ucarecdn.com/38092d03-c502-46b3-a428-2e1e1390d58b/
+  - https://ucarecdn.com/d7175c4d-fe64-42ea-9a7e-03c663a1b0ad/
 ---
 *Proponer políticas públicas sobre los Sistemas de Alimentación fue uno de los objetivos del T20 Summit Argentina 2018 donde participó José Luis Chicoma, Director de Ethos.* 
 
