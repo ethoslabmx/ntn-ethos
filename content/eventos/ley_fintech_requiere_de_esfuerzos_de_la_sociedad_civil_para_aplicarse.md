@@ -9,6 +9,12 @@ extracto: "Yahir Acosta, director del Laboratorio Jurídico en Ethos Laboratorio
   «Ley Fintech, desde una perspectiva práctica», llevada a cabo por el
   Departamento Académico de Derecho del Instituto Tecnológico Autónomo de México
   (ITAM)."
+galeria:
+  - https://ucarecdn.com/b61aad9e-1db2-4b5b-b731-997913a6f607/
+  - https://ucarecdn.com/6bc2fdf4-84b6-4d66-b6a0-81bb00774894/
+  - https://ucarecdn.com/4bb95c16-1301-4fe6-9e0d-4875bf3a9e93/
+  - https://ucarecdn.com/95615390-f44c-4e0a-a5b2-7e3dadc3fed4/
+  - https://ucarecdn.com/822776e0-a8be-4d23-8bc7-0704e15c542c/
 ---
 *La Ley está basada en principios de inclusión e innovación financiera, protección al consumidor, preservación de la estabilidad financiera y neutralidad tecnológica, entre otros.*
 
