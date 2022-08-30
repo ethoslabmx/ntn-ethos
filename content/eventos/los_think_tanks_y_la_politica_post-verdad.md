@@ -8,6 +8,9 @@ extracto: José Luis Chicoma, director general de Ethos Laboratorio de Política
   Públicas, fungió como panelista en la mesa redonda en la conferencia “Los
   think tanks y la política post-verdad”, la cual se llevó a cabo en el Centro
   de Negocios y Medio Ambiente de Yale (CBEY).
+galeria:
+  - https://ucarecdn.com/3cff6566-38c4-437e-bcc7-ec2752296645/
+  - https://ucarecdn.com/12677bf2-f208-499d-ba03-72a555c5e4ac/
 ---
 *¿Cuál es el papel de los think tanks en una era donde las noticias falsas han tenido una influencia tan fuerte en la opinión pública y los responsables de la toma de decisiones?*
 
