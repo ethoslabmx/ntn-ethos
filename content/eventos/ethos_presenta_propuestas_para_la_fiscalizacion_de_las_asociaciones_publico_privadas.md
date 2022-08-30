@@ -9,6 +9,23 @@ extracto: Ethos y la Unidad de Evaluación y Control de la Cámara de Diputados,
   en su búsqueda por mejorar la fiscalización, transparencia y eficiencia del
   gasto de recursos públicos, presentan propuestas para mejorar la fiscalización
   de las APP.
+galeria:
+  - https://ucarecdn.com/92fb64d2-0e25-4fe9-bf12-d2d04d845d9c/
+  - https://ucarecdn.com/a2328b72-7573-401e-8ab9-ba9acb69a1c6/
+  - https://ucarecdn.com/39e7d29c-42a4-4c6e-9a3a-c13b2e4eb998/
+  - https://ucarecdn.com/86214591-f9dd-4239-97d3-ddae77cee7b8/
+  - https://ucarecdn.com/99a8c65a-bf25-485e-8634-beb4bd12359c/
+  - https://ucarecdn.com/0b15e9a7-783e-45df-9fc9-bca268c62aa2/
+  - https://ucarecdn.com/451a2e2e-c7e5-4510-a283-c0dee8d95679/
+  - https://ucarecdn.com/9bb2e6b7-2455-4581-9739-86512901c8e8/
+  - https://ucarecdn.com/bbd3bb8d-d70f-4a0a-b74a-cda071eeb7ae/
+  - https://ucarecdn.com/1d1b0513-60f6-4fdb-936b-baf73b1940ac/
+  - https://ucarecdn.com/1979e555-3a0e-4085-95e7-b7cb0764cd8c/
+  - https://ucarecdn.com/502efe9c-2b54-4d5a-98cd-ce873b2bf050/
+  - https://ucarecdn.com/579ad7c4-3a32-48b3-92ab-ce9e1edba9de/
+  - https://ucarecdn.com/92e100ea-9246-4600-9b92-c4e1b84ce8ba/
+  - https://ucarecdn.com/a644446f-8ac2-4945-97b3-840b4786b5fc/
+  - https://ucarecdn.com/7323ae97-b71b-42c6-ab74-29dca41c55ad/
 ---
 *Ethos presentó en Cámara de Diputados tres propuestas de mejora en la fiscalización de las Asociaciones Público Privadas.*
 
