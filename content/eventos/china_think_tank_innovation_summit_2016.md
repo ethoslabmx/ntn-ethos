@@ -11,6 +11,9 @@ extracto: Como parte de las conferencias, se realizó el foro “El Desarrollo d
   Senior Fellow de Chatham House, Tang Xiaoyang, Subdirector del
   Carnegie-Tsinghua Center for Global Policy, y Zhu Xufeng, profesor de la
   Universidad de Tsinghua.
+galeria:
+  - https://ucarecdn.com/e9d49dce-814c-4d45-9d97-6ae16780b1cd/
+  - https://ucarecdn.com/b242c52f-0a63-46d0-82e7-32ad0c39256d/
 ---
 *José Luis Chicoma, de Ethos, expuso en China sobre la innovación y los think tanks, y su desarrollo en América Latina.*
 
