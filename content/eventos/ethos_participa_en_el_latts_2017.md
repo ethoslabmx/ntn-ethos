@@ -10,6 +10,14 @@ extracto: "Como parte del V Encuentro Latinoamericano de Think Tanks (Latin
   ponente en la conferencia titulada: “El papel de los think tanks en la
   integración económica regional: T20”, en la cual habló sobre la esencia y
   labor que realiza el G20."
+galeria:
+  - https://ucarecdn.com/10cf2efa-4cb0-4f99-b30a-7da77b4edd95/
+  - https://ucarecdn.com/87e666c5-710c-4438-9e49-ac5bfa77baf9/
+  - https://ucarecdn.com/e94c5dc8-f283-49a6-b84d-42f0c127a777/
+  - https://ucarecdn.com/34b30dd7-53f6-4b78-a86b-4caf3f1e8ff9/
+  - https://ucarecdn.com/c44723fa-bece-4606-8caf-3d47a054bd79/
+  - https://ucarecdn.com/d86ca923-89aa-4bf0-9348-b23719c40797/
+  - https://ucarecdn.com/9f89f196-1c96-4e6c-9537-61961dcf7bd8/
 ---
 *Liliana Alvarado habló sobre la esencia y labor que realiza el G20, así  como de los actores no gubernamentales que incluyen al sector empresarial y a la sociedad civil, representada por algunos de los principales think tanks o centros de pensamiento en el mundo (T20).*
 
