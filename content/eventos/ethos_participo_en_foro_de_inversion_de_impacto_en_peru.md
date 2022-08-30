@@ -10,6 +10,13 @@ extracto: "Con el objetivo de profundizar el entendimiento de los Bonos de
   “Inversión de Impacto: El Futuro de la Inversión en el Perú”, la cual se llevó
   a cabo en Lima y fue organizado por NESsT, Aporta: Innovar para Impactar y
   PERÚ 2021."
+galeria:
+  - https://ucarecdn.com/779743d4-e317-4ad2-8285-eff832ca544e/
+  - https://ucarecdn.com/69c6a76c-b42f-4aee-9183-8222348890ce/
+  - https://ucarecdn.com/fe474bb8-58c9-41d7-8d8b-78dfade89817/
+  - https://ucarecdn.com/4a299433-050a-4cb3-9ea9-93006381c07d/
+  - https://ucarecdn.com/84586b60-0ce2-41fb-9fc8-50fb646fd4b2/
+  - https://ucarecdn.com/133ba60f-139d-474b-a8eb-e20798321143/
 ---
 *José Luis Chicoma, de Ethos, participó en Perú como ponente en conferencia sobre la importancia y los retos de los Bonos de Impacto.*
 
