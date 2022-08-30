@@ -13,6 +13,15 @@ extracto: "En la presentación del estudio ROI Sustentable en países emergentes
   herramientas innovadoras que permitan crear mayor conciencia entre las
   empresas de los beneficios sociales, ambientales y económicos de invertir en
   actividades sustentables."
+galeria:
+  - https://ucarecdn.com/fca0fb36-c345-4c49-bd25-1f3aa04c07b7/
+  - https://ucarecdn.com/4c484961-20bf-4e92-94b8-c4a8723dd05e/
+  - https://ucarecdn.com/5e8005a6-616b-4f6e-943b-03b490af04a7/
+  - https://ucarecdn.com/aceab098-0fa3-46f9-870f-75e4c18eeeb6/
+  - https://ucarecdn.com/b136d6a0-abba-49d3-93a5-2dae867bda8d/
+  - https://ucarecdn.com/f3020e01-dd4a-42e7-a811-4bc0cfe40a29/
+  - https://ucarecdn.com/d419631a-41b0-4884-a84f-e112f44c6309/
+  - https://ucarecdn.com/c9cd283e-5bac-4f77-8775-ba05e1fb2533/
 ---
 *El documento «ROI Sustentable en países emergentes: Redefiniendo la medición de la inversión en sustentabilidad corporativa», creado por Ethos, contiene una metodología de medición diseñada para el contexto mexicano y casos de estudio de la implementación en actividades sustentables de empresas mexicanas.*
 
