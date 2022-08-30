@@ -11,6 +11,16 @@ extracto: El pasado 20 de marzo, se llevó a cabo el X Foro Internacional
   emergentes, el Manual Global de la propuesta para México, Brasil y China, así
   como una ronda de aprendizaje sobre la metodología para los miembros
   asistentes.
+galeria:
+  - https://ucarecdn.com/88fc8e17-ccb7-4684-a0fb-b0eee13e3aae/
+  - https://ucarecdn.com/c86155bd-1ef8-48b2-97a9-47bc5019001d/
+  - https://ucarecdn.com/7fec8ba9-7106-4b00-97f2-56c12739507e/
+  - https://ucarecdn.com/a08130fd-4f4a-485a-866a-b31161d306cf/
+  - https://ucarecdn.com/53afa1fe-5f36-4d24-9ea1-3847d9ef28ea/
+  - https://ucarecdn.com/1176de7e-a4b8-464a-ac55-4b9f9fc03ab2/
+  - https://ucarecdn.com/3d78cc1b-ad56-4ea9-96c9-f29ddabc4e25/
+  - https://ucarecdn.com/cc1f9223-4b77-4055-8097-eaa76a363eb5/
+  - https://ucarecdn.com/906dd899-eca6-4313-b211-0bbd83cb4065/
 ---
 *Ethos presentó el proyecto de «ROI Sustentable en Países Emergentes» en el X Foro Internacional RedEAmérica 2018 (FIR 2018), llevado a cabo en Santo Domingo, República Dominicana.*
 
