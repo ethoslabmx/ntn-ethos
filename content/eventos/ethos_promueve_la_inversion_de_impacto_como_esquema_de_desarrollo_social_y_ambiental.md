@@ -9,6 +9,14 @@ extracto: Con el tema  “Consolidando redes para la inclusión y la
   sostenibilidad” se llevó a cabo la Tercera Reunión de la Red de Innovación
   Social en México (RedIS-MX), en la que participó Christine Zülow, coordinadora
   de innovación de Ethos.
+galeria:
+  - https://ucarecdn.com/1d16e949-7bb3-4cdb-b2db-31088553fb7e/
+  - https://ucarecdn.com/700dc987-069b-4533-91d1-83a4e2c3aa92/
+  - https://ucarecdn.com/84a598b4-b83a-422a-9337-82d6cfe5b197/
+  - https://ucarecdn.com/9334a4ac-e7e5-42ca-959d-ff9be15ac1ba/
+  - https://ucarecdn.com/11708de0-4ef6-466d-8207-9996b2098e05/
+  - https://ucarecdn.com/1850dc45-09a5-40ee-84b8-5a72424a926f/
+  - https://ucarecdn.com/2dd415df-d282-431a-b025-430769b09ac7/
 ---
 *El Estudio sobre la Inversión de Impacto en México hace una evaluación del contexto nacional e internacional y aporta recomendaciones en el sector. Christine Zülow presentó este trabajo durante la reunión de la Red de Innovación Social en México (RedIS-MX).*
 
