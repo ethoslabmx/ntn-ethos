@@ -11,6 +11,11 @@ extracto: "Organizado por la Universidad de Pennsylvania, la Fundación Ideas
   contó con la participación de diversos integrantes de los think tanks de la
   región, entre ellos Liliana Alvarado, directora de Desarrollo Económico y
   Social de Ethos.  "
+galeria:
+  - https://ucarecdn.com/220a89d4-bbcd-414c-a2be-f83d908f8053/
+  - https://ucarecdn.com/64fd4ac6-2ea7-405d-a47d-a5852e6f88bb/
+  - https://ucarecdn.com/a75c4c93-92bc-4b39-b02a-123d63855ee5/
+  - https://ucarecdn.com/234c107b-30c9-488f-bfb7-6a15ab0c7373/
 ---
 Organizado por la [Universidad de Pennsylvania](https://home.www.upenn.edu/), la [Fundación Ideas para la Paz (FID) ](http://www.ideaspaz.org/)y el [Centro de Investigación Económica y Social (FEDESARROLLO)](https://www.fedesarrollo.org.co/), el 7° Encuentro Latinoamericano de *Think Tanks*en Colombia contó con la participación de diversos integrantes de los *think tanks* de la región, entre ellos Liliana Alvarado, directora de Desarrollo Económico y Social de Ethos.   
 
