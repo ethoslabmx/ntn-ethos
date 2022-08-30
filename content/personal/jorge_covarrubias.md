@@ -2,7 +2,7 @@
 nombre: Jorge Covarrubias
 foto: https://ucarecdn.com/f53b73ae-9717-474a-820e-6354da6168c9/
 area: asamblea de asociados
-pos: 0
+pos: 3
 semblanza: Co-fundador de Parque Humano,  taller multidisciplinario  fundado en
   Ciudad de México, enfocado en la integración de arquitectura, paisaje y arte
   con más de 70 proyectos construidos. Su portafolio incluye  una variedad de
