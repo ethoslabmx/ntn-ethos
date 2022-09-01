@@ -2,8 +2,8 @@
 <template>
 <div>
     <div class="jumbotron-quienes relative flex items-top justify-center bg-gray-100 sm:items-center sm:pt-0  bg-gradient-to-b from-cyan to-cyanlight">
-      <div class="container flex items-center">
-        <div class="hero mt-5 md:mr-auto lg:w-1/2 md:w-2/3">
+      <div class="container flex items-center flex-wrap-reverse justify-center pb-10 md:pt-10">
+        <div class="hero mt-5  lg:w-1/2 md:w-2/3">
           <h1 class="4xl:text-5xl  lg:text-3xl text-2xl big-title mb-6 text-white text-right">¿QUIÉNES SOMOS?</h1>
           <p class="4xl:text-xl text-lg text-right text-white font-normal">
             Somos un <span class="italic">think tank</span> que genera recomendaciones innovadoras y acciones concretas de política pública con el objeto de
@@ -11,11 +11,15 @@
           </p>
 
         </div>
+        <div class="lg:w-1/2 md:1/3">
+          <img src="../assets/images/aros-color.png" alt="" class="mx-auto aros aros-colors">
+
+        </div>
       </div>
   </div>
-  <div class="jumbotron-quienes_down bg-cyan">
-    <img src="../assets/images/aros.png" alt="" class="mx-auto aros">
-  </div>
+  <!-- <div class="jumbotron-quienes_down bg-cyan">
+    <img src="../assets/images/aros-color.png" alt="" class="mx-auto aros">
+  </div> -->
 </div>
 </template>
 <style lang="scss">
@@ -74,6 +78,18 @@
       line-height: 2.2rem;
     }
   }
+  img.aros.aros-colors {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: 2rem auto;
+    text-align: center;
+    @media (min-width:800px) {
+      width: 70%;
+      margin: 0;
+      margin-left: auto;
 
+  }
+}
 }
 </style>

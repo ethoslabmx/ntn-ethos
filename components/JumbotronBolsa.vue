@@ -2,8 +2,8 @@
 <template>
 <div>
     <div class="jumbotron-bolsa relative flex items-top justify-center min-h-screen bg-gray-100 sm:items-center sm:pt-0  bg-gradient-to-b from-cyan to-cyanlight">
-      <div class="container flex items-center">
-        <div class="hero lg:mr-auto lg:w-1/2 md:2/3">
+      <div class="container flex items-center flex-wrap-reverse justify-center pb-10 md:pt-10">
+        <div class="hero lg:w-1/2 md:2/3">
           <h1 class="3xl:text-5xl md:text-4xl text-3xl big-title mb-6 text-white uppercase text-right">Bolsa de trabajo</h1>
           <p class="subtitle text-white mb-3">
             En Ethos estamos comprometidos con la diversidad en nuestro equipo de trabajo.
@@ -11,6 +11,10 @@
           <p class="subtitle text-white mb-3">
             Creemos en la igualdad de oportunidades. ¡Únete a nuestro equipo!
           </p>
+        </div>
+        <div class="lg:w-1/2 md:1/3">
+          <img src="../assets/images/aros-color.png" alt="" class="mx-auto aros aros-colors">
+
         </div>
       </div>
   </div>
@@ -37,5 +41,19 @@
     min-height: calc(70vh - 100px);
 
   }
+
+  img.aros.aros-colors {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: 2rem auto;
+    text-align: center;
+    @media (min-width:800px) {
+      width: 70%;
+      margin: 0;
+      margin-left: auto;
+
+  }
+}
 }
 </style>
