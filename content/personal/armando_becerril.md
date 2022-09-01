@@ -2,7 +2,7 @@
 nombre: ARMANDO BECERRIL
 puesto: Investigador Finanzas Públicas
 area: finanzas públicas y anticorrupción
-pos: 6
+pos: 3
 semblanza: Maestro en Administración Pública y Licenciado en Administración
   Financiera por la Universidad Autónoma de Chihuahua. Tiene experiencia en la
   administración pública del estado de Chihuahua en diversos cargos, tales como
