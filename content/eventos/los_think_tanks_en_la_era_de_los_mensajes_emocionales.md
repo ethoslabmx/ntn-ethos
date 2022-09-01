@@ -14,6 +14,27 @@ extracto: Cada año, el Diccionario Oxford escoge una palabra y la nombra la má
   Esta palabra “denota circunstancias en que los hechos objetivos influyen menos
   en la formación de la opinión pública que los llamamientos a la emoción y a la
   creencia personal”.
+galeria:
+  - https://ucarecdn.com/4a61d78b-da2d-4970-ae57-6b3fef9b9f21/
+  - https://ucarecdn.com/074fd112-0250-432a-8634-cd39c95120b3/
+  - https://ucarecdn.com/30a55aab-5f06-4109-b3f7-b350c82e21ed/
+  - https://ucarecdn.com/3f7cd04c-e428-441a-a933-28f459c20fcf/
+  - https://ucarecdn.com/5bef6d9b-edbe-4d3f-87ef-011e2eb4eb5e/
+  - https://ucarecdn.com/b91d29f7-f401-4f08-b5ff-84f5041eace6/
+  - https://ucarecdn.com/4e29fb12-916b-407e-a494-49af4151d0ac/
+  - https://ucarecdn.com/f11dd253-7aa5-45b3-9bb1-821c31d1d792/
+  - https://ucarecdn.com/86af39b9-2fd1-4e89-b113-28e239a5d989/
+  - https://ucarecdn.com/ccbe9ac5-be28-49d1-8c84-ca1198908ac6/
+  - https://ucarecdn.com/d97b9589-733a-4b94-acb0-146b8023f175/
+  - https://ucarecdn.com/0c1606b0-c769-4870-a044-72a3adaf568b/
+  - https://ucarecdn.com/7a224163-00d1-4451-b016-cba183eb5baf/
+  - https://ucarecdn.com/fb362057-f9ab-45e7-aa36-9573d4a47ba1/
+  - https://ucarecdn.com/c3985114-d466-49a2-a1a1-7c4d98ad648b/
+  - https://ucarecdn.com/0a4ef4bd-574b-44cf-adca-3b683836eca0/
+  - https://ucarecdn.com/cd834565-f151-4980-8e6c-5366c40e6417/
+  - https://ucarecdn.com/50bfb77c-bb35-4d0a-a0d7-661b72765456/
+  - https://ucarecdn.com/d0976790-34b7-44fc-a9fc-16f3110f027b/
+  - https://ucarecdn.com/4a446683-5af2-41a8-a551-b65752949803/
 ---
 *Los think tanks deben de sortear el exceso de información, mantener el rigor en sus contenidos y ser estratégicos e innovadores en su comunicación.*
 

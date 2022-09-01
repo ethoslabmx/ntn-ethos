@@ -10,6 +10,14 @@ extracto: Estos escenarios fueron diseñados por un grupo plural e incluyente de
   general de Ethos Laboratorio de Políticas Públicas. El grupo incluye a líderes
   indígenas, empresarios, miembros de sindicatos, políticos, funcionarios
   públicos, miembros de la sociedad civil, artistas, entre otros.
+galeria:
+  - https://ucarecdn.com/f087c456-f624-48aa-8753-5d3555593f81/
+  - https://ucarecdn.com/23ff1b70-9d6a-4983-805a-9c13ef8a062b/
+  - https://ucarecdn.com/b392f35f-a618-40b6-bc31-9ca1cd043d15/
+  - https://ucarecdn.com/a13e4ab5-0829-4154-92fe-5f2ef279fad2/
+  - https://ucarecdn.com/8dce4efa-95fa-4f4e-9f48-f3fc84ce39ce/
+  - https://ucarecdn.com/ae5c4879-71d4-46cd-9678-429bafe7fb08/
+  - https://ucarecdn.com/0b40b715-bbd3-423c-81bc-85057d7134e4/
 ---
 *Académicos, expertos, activistas, empresarios, legisladores y aspirantes a cargos públicos forman Méxicos Posibles, donde reflexionan, trabajan y dialogan para llegar a acuerdos sobre los escenarios del México que podríamos ser.*
 

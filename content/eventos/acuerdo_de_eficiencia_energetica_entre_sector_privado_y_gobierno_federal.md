@@ -12,6 +12,9 @@ extracto: El pasado 20 de diciembre del 2017, en el marco de la reforma
   encabezados por el Excmo. Sr. Henrik Bramsen Hahn, embajador de Dinamarca en
   México. Ethos asistió como invitado a este evento llevado a cabo en la Ciudad
   de México.
+galeria:
+  - https://ucarecdn.com/fb3aa473-09e7-47f7-a9d5-545697e7bbb0/
+  - https://ucarecdn.com/18821e67-8bc5-4e2d-adc5-c6ba9972eacb/
 ---
 *Los Acuerdos Voluntarios de Eficiencia Energética han sido implementados a nivel internacional para impulsar el ahorro energético en la industria.*
 

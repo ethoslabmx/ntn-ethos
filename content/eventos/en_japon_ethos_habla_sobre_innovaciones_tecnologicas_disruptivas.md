@@ -8,6 +8,12 @@ extracto: José Luis Chicoma, director general de Ethos Laboratorio de Política
   Públicas, participó como moderador en la sesión «Evolución tecnológica y
   crecimiento de la productividad» del Global Think Tank Summit 2017 que se
   llevó a cabo en Yokohama, Japón a principios de mes.
+galeria:
+  - https://ucarecdn.com/b55f94f0-21d2-4de1-b1b6-2ef66dcc8dd6/
+  - https://ucarecdn.com/bc03c5a6-70fc-4086-a8e1-4b368c130f4a/
+  - https://ucarecdn.com/90fb54bc-cb30-4baa-83ac-0adc9a6a92df/
+  - https://ucarecdn.com/4ed9eccc-c797-4e79-8eef-3cf9181c4e2f/
+  - https://ucarecdn.com/9d0c67d9-9446-4d95-b8c5-7cc0bc2a923f/
 ---
 *Los think tanks tienen la necesidad de cumplir activamente en la generación de conocimiento y el desarrollo de políticas públicas* *en innovación, ciencia y tecnología.*
 
