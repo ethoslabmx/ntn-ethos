@@ -5,8 +5,8 @@
       <section class="container">
         <div class="flex flex-wrap md:flex-nowrap md:flex-row-reverse" id="personal">
 
-          <div class="w-full xl:w-1/2 md:2/3 flex items-start border-b-2 md:border-l-2 md:border-b-0 border-gray-dark">
-            <div class="content md:px-5 pb-10 md:pb-0 w-full"  v-if="seleccionado.nombre">
+          <div class="w-full xl:w-1/2 md:2/3 flex items-start border-b-2 md:border-l-2 md:border-b-0 border-gray-dark" >
+            <div class="content md:px-5 pb-10 md:pb-0 w-full fade-in-right"  id="avatar-container" v-if="seleccionado.nombre">
                <div class="avatar" v-if="seleccionado.img">
                 <img :src="seleccionado.img" alt="" class="w-96 h-auto mx-auto"/>
               </div>
@@ -166,17 +166,30 @@ export default {
 
     },
     selectEmployee(nombre) {
+      if(this.seleccionado.nombre != ''){
+          console.log(this.seleccionado.nombre)
+          document.querySelector('#avatar-container').classList.remove('fade-in-right');
+        }
       this.personal.filter(function(item) {
+
 
         if (item.nombre.toLowerCase() == nombre.toLowerCase()) {
           //console.log(item.img);
+
           this.$set(this.seleccionado,'nombre',item.nombre);
+          this.$set(this.seleccionado,'img',item.foto);
           this.$set(this.seleccionado,'puesto',item.puesto);
           this.$set(this.seleccionado,'semblanza',item.semblanza);
           this.$set(this.seleccionado,'email',item.email);
           this.$set(this.seleccionado,'twitter',item.twitter);
-          this.$set(this.seleccionado,'img',item.foto);
-          document.getElementById('personal').scrollIntoView();
+
+          setTimeout(()=>{
+            const avatarContainer = document.querySelector('#avatar-container');
+            //console.log(avatarContainer)
+            avatarContainer.classList.remove('fade-in-right');
+            document.getElementById('personal').scrollIntoView();
+            avatarContainer.classList.add('fade-in-right');
+          },100)
         }
       }.bind(this));
     }
@@ -192,12 +205,23 @@ export default {
     background-repeat: no-repeat;
     margin: auto;
     background-position: center;
+
+
   img{
     width: 100%;
     position: absolute;
     top: 1rem;
     object-fit: cover;
     height: 100%;
+
+  }
+}
+
+#avatar-container{
+  opacity: 0;
+  transition: all 0.5s ease;
+  &.fade-in-right{
+    opacity: 1;
   }
 }
 
@@ -227,6 +251,7 @@ export default {
   margin-bottom: 1rem;
   cursor: pointer;
   text-align: right;
+  transition: all 0.5s ease;
 
 }
   @media(min-width:700px) {
