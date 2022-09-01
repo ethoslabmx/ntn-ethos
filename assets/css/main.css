@@ -234,6 +234,11 @@ li.eje .content a {
 
 .more-btn:hover, a:hover{
   color: var(--bg-orange);
+
+}
+
+.more-btn:hover{
+
   letter-spacing: 5px;
   transition: all 0.3s ease-in-out;
 }
