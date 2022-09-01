@@ -234,6 +234,12 @@ li.eje .content a {
 
 .more-btn:hover, a:hover{
   color: var(--bg-orange);
+  letter-spacing: 5px;
+  transition: all 0.3s ease-in-out;
+}
+
+.more-btn:hover .icon{
+  background-image: url("../images/clickMore-hover.png");
 }
 
 .separador_header {
