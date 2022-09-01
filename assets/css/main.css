@@ -199,6 +199,9 @@ a.bg-gray-dark, button.bg-gray-dark{
   font-size: 1.2rem;
   width: fit-content;
   min-width: 90px;
+  position: relative;
+  text-decoration: none;
+  transition: .6s;
 }
 
 button.bg-gray-dark{
@@ -207,6 +210,14 @@ button.bg-gray-dark{
   font-weight: 600;
 }
 
+
+
+
+button.bg-gray-dark:hover, a.bg-gray-dark:hover{
+  background: var(--bg-pink);
+  color: #fff;
+  font-size: 1.3rem;
+}
 
 .relacionadas li,
 .border-primary:not(.privacidad) li {
@@ -232,11 +243,15 @@ li.eje .content a {
   margin-left: 0.75rem;
 }
 
-a:hover{
-  color: #c8bca8;
+a:hover, a:active{
+  color:#c8bca8;
 }
 
-.more-btn:hover{
+.eje:nth-child(3n+2) a:hover {
+  color:#fdbd99;
+}
+
+.more-btn:hover, .more-btn:active{
   letter-spacing: 4px;
   transition: all 0.3s ease-in-out;
   color: var(--bg-orange);
@@ -592,6 +607,73 @@ h1, h2, h3, h4, h5, h6,
   100% {
     -webkit-transform: translateX(0);
             transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+
+.kenburns-top-aros {
+	-webkit-animation: kenburns-top 4s ease-out forwards;
+	        animation: kenburns-top 4s ease-out forwards;
+}
+
+@-webkit-keyframes kenburns-top {
+  0% {
+    -webkit-transform: scale(1) translateY(0);
+            transform: scale(1) translateY(0);
+    -webkit-transform-origin: 50% 16%;
+            transform-origin: 50% 16%;
+  }
+  100% {
+    -webkit-transform: scale(1.25) translateY(-15px);
+            transform: scale(1.25) translateY(-15px);
+    -webkit-transform-origin: top;
+            transform-origin: top;
+  }
+}
+@keyframes kenburns-top {
+  0% {
+    -webkit-transform: scale(1) translateY(0);
+            transform: scale(1) translateY(0);
+    -webkit-transform-origin: 50% 16%;
+            transform-origin: 50% 16%;
+  }
+  100% {
+    -webkit-transform: scale(1.25) translateY(-15px);
+            transform: scale(1.25) translateY(-15px);
+    -webkit-transform-origin: top;
+            transform-origin: top;
+  }
+}
+
+
+.slide-in-fwd-center {
+	-webkit-animation: slide-in-fwd-center 0.8s cubic-bezier(0.250, 0.460, 0.450, 0.940) 500ms both;
+	        animation: slide-in-fwd-center 0.8s cubic-bezier(0.250, 0.460, 0.450, 0.940) 500ms both;
+}
+
+@-webkit-keyframes slide-in-fwd-center {
+  0% {
+    -webkit-transform:  translateY(-300px);
+            transform:  translateY(-300px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform:  translateY(0);
+            transform:  translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slide-in-fwd-center {
+  0% {
+    -webkit-transform:  translateY(-300px);
+            transform:  translateY(-300px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform:  translateY(0);
+            transform:  translateY(0);
     opacity: 1;
   }
 }

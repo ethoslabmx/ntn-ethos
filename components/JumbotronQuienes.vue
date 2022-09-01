@@ -12,7 +12,7 @@
 
         </div>
         <div class="lg:w-1/2 md:1/3">
-          <img src="../assets/images/aros-color.png" alt="" class="mx-auto aros aros-colors">
+          <img src="../assets/images/aros-color.png" alt="" class="mx-auto aros aros-colors kenburns-top-aros">
 
         </div>
       </div>
