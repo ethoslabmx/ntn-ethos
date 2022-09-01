@@ -8,7 +8,7 @@
     <div class="ejes container mx-auto">
       <div class="eje bg-white md:flex-row-reverse flex-col">
 
-        <div class="img md:w-1/2"> <img src="../assets/images/anticorrupcion-thumb.png" alt=""></div>
+        <div class="img md:w-1/2"> <img src="../assets/images/anticorrupcion-thumb.jpg" alt=""></div>
 
         <div class="content md:w-1/2 p-8 self-center">
 
@@ -21,7 +21,7 @@
       </div>
       <div class="eje bg-white md:flex-row flex-col">
 
-        <div class="img md:w-1/2"><img src="../assets/images/finanzas-publicas-thumb.png" alt=""></div>
+        <div class="img md:w-1/2"><img src="../assets/images/finanzas-publicas-thumb.jpg" alt=""></div>
 
         <div class="content md:w-1/2 p-8 self-center">
           <h2 class="title xl:text-2xl text-lg">Finanzas Públicas</h2>
@@ -33,7 +33,7 @@
 
       </div>
       <div class="eje bg-white md:flex-row-reverse flex-col">
-        <div class="img md:w-1/2"><img src="../assets/images/desarollo-sostenible-thumb.png" alt=""></div>
+        <div class="img md:w-1/2"><img src="../assets/images/desarollo-sostenible-thumb.jpg" alt=""></div>
 
         <div class="content md:w-1/2 p-8 self-center">
           <h2 class="title xl:text-2xl text-lg">Desarrollo Sostenible</h2>
@@ -44,7 +44,7 @@
 
       </div>
       <div class="eje bg-white md:flex-row flex-col">
-        <div class="img md:w-1/2"><img src="../assets/images/ciudades-del-futuro-thumb.png" alt=""></div>
+        <div class="img md:w-1/2"><img src="../assets/images/ciudades-del-futuro-thumb.jpg" alt=""></div>
         <div class="content md:w-1/2 p-8 self-center">
           <h2 class="title xl:text-2xl text-lg">Ciudades del futuro</h2>
           <p>Generamos estrategias y proyectos que promuevan el desarrollo sostenible de servicios públicos e infraestructura urbanos que aprovechen recursos renovables, implementen medidas de eficiencia energética y fortalezcan las capacidades institucionales en materia ambiental.</p>
@@ -54,7 +54,7 @@
 
       </div>
       <div class="eje bg-white md:flex-row-reverse flex-col">
-        <div class="img md:w-1/2"><img src="../assets/images/inclusion-thumb.png" alt=""></div>
+        <div class="img md:w-1/2"><img src="../assets/images/inclusion-thumb.jpg" alt=""></div>
         <div class="content md:w-1/2 p-8 self-center">
           <h2 class="title xl:text-2xl text-lg">Inclusión</h2>
           <p>Analizamos y proponemos soluciones a los desafíos estructurales del desarrollo social, incluyendo iniciativas de igualdad de género y que aseguren los derechos de poblaciones en situación de vulnerabilidad.</p>
