@@ -111,6 +111,7 @@
 <script>
 import JumbotronIndex from '~/components/JumbotronIndex.vue';
 
+
 export default {
   components: { JumbotronIndex },
   async asyncData({ $content }) {
@@ -127,9 +128,34 @@ export default {
       more:true,
     }
   },
+  mounted(){
+    this.setupObserver();
+  },
   methods:{
     loadPosts(){
       this.getNext();
+    },
+    setupObserver(){
+      let options = {
+        root: null,
+        rootMargin: "20px 0px",
+        threshold: 0.8,
+      };
+
+      let observer = new IntersectionObserver(this.intersectionCallback, options);
+      document.querySelectorAll("h2.title").forEach((el) => {
+        observer.observe(el);
+      });
+    },
+    intersectionCallback(entries, obs) {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          //console.log(entry.target);
+          entry.target.classList.add("reveal-text");
+        } else {
+          //obs.unobserve(entry.target);
+        }
+      });
     },
     async getNext(){
       const newCols = await this.$content("columnas").sortBy('date','desc').skip(this.columnas.length).limit(8).fetch();
@@ -165,7 +191,7 @@ export default {
   }
 }
 </script>
-<style lang="scss">
+<style lang="scss" scoped>
 .widget-twitter{
 
   width:300px;
@@ -178,9 +204,17 @@ export default {
   }
 }
 
+h2.title{
+    color:#fff;
+}
+
+h2.title.reveal-text{
+  color: #5b5b5b;
+}
 
 li.eje{
   padding: 40px 20px;
+
 
 
   // decidi hacer una caja para que el tag se ubique bien en el bottom junto con la imagen,
@@ -239,5 +273,76 @@ li.eje{
     font-weight: 500;
   }
 }
+
+
+.reveal-text,
+.reveal-text::after {
+  animation-delay: 1s;
+  animation-iteration-count: 1;
+  animation-duration: 800ms;
+  animation-fill-mode: both;
+  animation-timing-function: cubic-bezier(0.0, 0.0, 0.2, 1);
+}
+
+.reveal-text {
+  --animation-delay: 1s
+  --animation-duration: var(--duration, 800ms);
+  --animation-iterations: var(--iterations, 1);
+  position: relative;
+  animation-name: clip-text;
+  white-space: nowrap;
+  color:#5b5b5b;
+  cursor: default;
+
+  &::after {
+    content: "";
+    position: absolute;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #5b5b5b;
+    transform: scaleX(0);
+    transform-origin: 0 50%;
+    pointer-events: none;
+    animation-name: text-revealer;
+  }
+
+}
+
+
+@keyframes clip-text {
+  from {
+    clip-path: inset(0 100% 0 0);
+  }
+  to {
+    clip-path: inset(0 0 0 0);
+
+  }
+}
+
+
+@keyframes text-revealer {
+
+  0%, 50% {
+    transform-origin: 0 50%;
+  }
+
+  60%, 100% {
+    transform-origin: 100% 50%;
+  }
+
+
+  60% {
+    transform: scaleX(1);
+  }
+
+  100% {
+    transform: scaleX(0);
+  }
+}
+
+
 
 </style>

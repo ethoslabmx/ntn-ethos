@@ -22,12 +22,17 @@ export default {
   },
   mounted() {
     //delay 1s to show the overlay then show animation
-    setTimeout(() => {
-      this.showOverlay = false;
-      const svg = document.querySelector('#stripped polyline');
-      svg.classList.add('paint');
+    let mainImg = new Image();
 
-    }, 1200);
+    mainImg.addEventListener('load', (event) => {
+      setTimeout(() => {
+        this.showOverlay = false;
+        const svg = document.querySelector('#stripped polyline');
+      svg.classList.add('paint');
+      }, 1000);
+    });
+    mainImg.src = require("../assets/images/jumbotron-index.jpg");
+
   },
 };
 
@@ -39,7 +44,7 @@ export default {
   top: 100px;
   left: 0;
   width: 100vw;
-  min-height: calc(100vw * 0.5625);
+  min-height: calc(100vw * 0.51);
   background-color: #fff;
   z-index: -1;
 }
@@ -48,12 +53,12 @@ export default {
 #stripped {
   margin: 0 auto;
   background: #000;
-  background-image: url(../assets/images/jumbotron-index.png);
+  background-image: url(../assets/images/jumbotron-index.jpg);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
   border-bottom: 2rem solid #f28f78;
-  min-height: calc(100vw * 0.5625);
+  min-height: calc(100vw * 0.51);
   font-size: 0;
 }
 
@@ -61,6 +66,7 @@ div#stripped svg {
   background: #f5f3f3;
   background-image: url(../assets/images/jumbotron-index-bw.png);
   background-size: cover;
+  min-height: calc(100vw * 0.51);
   background-position: center center;
   background-repeat: no-repeat;
   mix-blend-mode: lighten;
@@ -76,7 +82,7 @@ div#stripped svg polyline {
 }
 
 .paint{
-  animation: scribble 4s  ease-out forwards;
+  animation: scribble 3.3s  ease-out forwards;
 }
 
 @keyframes scribble {

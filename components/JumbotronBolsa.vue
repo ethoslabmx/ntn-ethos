@@ -32,6 +32,11 @@
   background-repeat: no-repeat;
   z-index: 0;
 
+  p{
+    margin-left: 20px;
+    text-align: left;
+  }
+
 
   @media (min-width:768px) {
     min-height: calc(90vh - 100px);
