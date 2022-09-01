@@ -67,6 +67,40 @@ export default {
 </script>
 
 <style lang="scss">
+
+
+.slide-in-fwd-center {
+	-webkit-animation: slide-in-fwd-center 0.8s cubic-bezier(0.250, 0.460, 0.450, 0.940) 500ms both;
+	        animation: slide-in-fwd-center 0.8s cubic-bezier(0.250, 0.460, 0.450, 0.940) 500ms both;
+}
+
+@-webkit-keyframes slide-in-fwd-center {
+  0% {
+    -webkit-transform:  translateY(-300px);
+            transform:  translateY(-300px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform:  translateY(0);
+            transform:  translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slide-in-fwd-center {
+  0% {
+    -webkit-transform:  translateY(-300px);
+            transform:  translateY(-300px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform:  translateY(0);
+            transform:  translateY(0);
+    opacity: 1;
+  }
+}
+
+
 .doc-cover {
   display: inline-block;
   position: relative;
