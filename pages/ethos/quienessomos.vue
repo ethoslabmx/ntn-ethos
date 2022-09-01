@@ -114,7 +114,33 @@ import JumbotronQuienes from '~/components/JumbotronQuienes.vue';
 
 export default {
   components: { JumbotronQuienes },
+  mounted() {
+    this.setupObserver();
+  },
+  methods:{
+    setupObserver(){
+      let options = {
+        root: document.querySelector('container'),
+        rootMargin: "-120px 0px",
+        threshold: 1.0,
+      };
 
+      let observer = new IntersectionObserver(this.intersectionCallback, options);
+      document.querySelectorAll("h2.title").forEach((el) => {
+        observer.observe(el);
+      });
+    },
+    intersectionCallback(entries, obs) {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          //console.log(entry.target);
+          entry.target.classList.add("tracking-in-expand");
+        } else {
+          //obs.unobserve(entry.target);
+        }
+      });
+    },
+  }
 
 }
 </script>
@@ -124,6 +150,7 @@ export default {
 .quienes{
   h2.title{
     font-weight: 400;
+    opacity: 0;
   }
 
   h3{

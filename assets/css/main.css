@@ -232,14 +232,14 @@ li.eje .content a {
   margin-left: 0.75rem;
 }
 
-.more-btn:hover, a:hover{
-  color: var(--bg-orange);
-
+a:hover{
+  color: #c8bca8;
 }
 
 .more-btn:hover{
-  letter-spacing: 5px;
+  letter-spacing: 4px;
   transition: all 0.3s ease-in-out;
+  color: var(--bg-orange);
 }
 
 .more-btn:hover .icon{
@@ -533,3 +533,65 @@ h1, h2, h3, h4, h5, h6,
 
 .vacantes .nuxt-content h1,.nuxt-content h2,.nuxt-content h3,.nuxt-content h4,
 .nuxt-content h5,.nuxt-content h6{ margin-top: 3rem;}
+
+
+
+.tracking-in-expand {
+	-webkit-animation: tracking-in-expand 0.7s cubic-bezier(0.215, 0.610, 0.355, 1.000) 50ms both;
+	        animation: tracking-in-expand 0.7s cubic-bezier(0.215, 0.610, 0.355, 1.000) 50ms both;
+}
+
+@-webkit-keyframes tracking-in-expand {
+  0% {
+    letter-spacing: -0.5em;
+    opacity: 0;
+  }
+  40% {
+    opacity: 0.6;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes tracking-in-expand {
+  0% {
+    letter-spacing: -0.5em;
+    opacity: 0;
+  }
+  40% {
+    opacity: 0.6;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.fade-in-right {
+	-webkit-animation: fade-in-right 0.8s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+	        animation: fade-in-right 0.8s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+}
+
+@-webkit-keyframes fade-in-right {
+  0% {
+    -webkit-transform: translateX(150px);
+            transform: translateX(150px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+    opacity: 1;
+  }
+}
+@keyframes fade-in-right {
+  0% {
+    -webkit-transform: translateX(150px);
+            transform: translateX(150px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+    opacity: 1;
+  }
+}
