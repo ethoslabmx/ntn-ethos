@@ -1,0 +1,246 @@
+backend:
+  name: git-gateway
+  branch: mainsite # Branch to update (optional; defaults to master)
+media_library:
+  name: uploadcare
+  config:
+    publicKey: 354a9fe28d38a746b09d
+media_folder: static/img
+public_folder: /img
+locale: 'es'
+slug:
+      encoding: "ascii"
+      clean_accents: true
+      sanitize_replacement: "_"
+collections:
+  - name: 'publicaciones'
+    label: 'Publicaciones'
+    label_singular: 'publicación'
+    folder: 'content/publicaciones'
+    format: 'frontmatter'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Título', name: 'title', widget: 'string' }
+      - { label: 'Fecha Publicación', name: 'date', widget: 'datetime' }
+      - { label: 'Imagen Principal', name: 'img', widget: 'image',  required: false }
+      - { label: 'Imagen Alt', name: 'img-alt', widget: 'string' , required: false }
+      - { label: 'Autor', name: 'autor', widget: 'string' , required: false}
+      - { label: 'Eje', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion"]}
+      - { label: 'Extracto', name: 'extracto', widget: 'string', required: false }
+      - { label: 'Contenido', name: 'body',  widget: 'markdown'  }
+      - { label: 'Archivo Adjunto', name: 'file', widget: 'file', required: false }
+      - { label: 'Galería', name: 'galeria', widget: 'image', media_library: { config: { multiple: true}}, required: false }
+      - label: "Etiquetas"
+        name: "tags"
+        widget: "list"
+        minimize_collapsed: true
+        allow_add: true
+        fields:
+          - { label: 'Etiqueta', name: 'tag', widget: 'string' }
+  - name: 'reportajes'
+    label: 'Reportajes Periodísticos'
+    folder: 'content/reportajes'
+    format: 'frontmatter'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Título', name: 'title', widget: 'string' }
+      - { label: 'Fecha Publicación', name: 'date', widget: 'datetime' }
+      - { label: 'Imagen Principal', name: 'img', widget: 'image', required: false }
+      - { label: 'Imagen Alt', name: 'img-alt', widget: 'string', required: false }
+      - { label: 'Autor', name: 'autor', widget: 'string' }
+      - { label: 'Eje', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion"]}
+      - { label: 'Extracto', name: 'extracto', widget: 'string', required: false }
+      - { label: 'Contenido', name: 'body', widget: 'markdown' }
+      - { label: 'Archivo Adjunto', name: 'file', widget: 'file', required: false }
+      - { label: 'Galería', name: 'galeria', widget: 'image', media_library: { config: { multiple: true}}, required: false }
+  - name: 'columnas'
+    label: 'Columnas de Opinión'
+    folder: 'content/columnas'
+    format: 'frontmatter'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Título', name: 'title', widget: 'string' }
+      - { label: 'Fecha Publicación', name: 'date', widget: 'datetime' }
+      - { label: 'Imagen Principal', name: 'img', widget: 'image', required: false }
+      - { label: 'Imagen Alt', name: 'img-alt', widget: 'string', required: false }
+      - { label: 'Autor', name: 'autor', widget: 'string' }
+      - { label: 'Medio', name: 'medio', widget: 'string' }
+      - { label: 'Enlace artículo', name: 'link', widget: 'string', required: false }
+      - { label: 'Eje', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion","think-tanks"]}
+      - { label: 'Extracto', name: 'extracto', widget: 'string', required: false }
+      - { label: 'Contenido', name: 'body', widget: 'markdown' }
+      - { label: 'Galería', name: 'galeria', widget: 'image', media_library: { config: { multiple: true}}, required: false }
+  - name: 'noticias'
+    label: 'Noticias'
+    folder: 'content/noticias'
+    format: 'frontmatter'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Título', name: 'title', widget: 'string' }
+      - { label: 'Fecha Publicación', name: 'date', widget: 'datetime' }
+      - { label: 'Imagen Principal', name: 'img', widget: 'image', required: false }
+      - { label: 'Imagen Alt', name: 'img-alt', widget: 'string', required: false }
+      - { label: 'Autor', name: 'autor', widget: 'string' }
+      - { label: 'Enlace artículo', name: 'link', widget: 'string', required: false }
+      - { label: 'Eje', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion","think-tanks"]}
+      - { label: 'Extracto', name: 'extracto', widget: 'string', required: false }
+      - { label: 'Contenido', name: 'body', widget: 'markdown' }
+      - { label: 'Galería', name: 'galeria', widget: 'image', media_library: { config: { multiple: true}}, required: false }
+  - name: 'eventos'
+    label: 'Eventos'
+    folder: 'content/eventos'
+    format: 'frontmatter'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Título', name: 'title', widget: 'string' }
+      - { label: 'Fecha Publicación', name: 'date', widget: 'datetime' }
+      - { label: 'Imagen Principal', name: 'img', widget: 'image', required: false }
+      - { label: 'Imagen Alt', name: 'img-alt', widget: 'string', required: false }
+      - { label: 'Autor', name: 'autor', widget: 'string' }
+      - { label: 'Enlace artículo', name: 'link', widget: 'string', required: false }
+      - { label: 'Eje', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion","think-tanks"]}
+      - { label: 'Extracto', name: 'extracto', widget: 'string', required: false }
+      - { label: 'Contenido', name: 'body', widget: 'markdown' }
+      - { label: 'Galería', name: 'galeria', widget: 'image', media_library: { config: { multiple: true}}, required: false }
+  - name: 'videos'
+    label: 'Videos'
+    folder: 'content/videos'
+    format: 'frontmatter'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Título', name: 'title', widget: 'string' }
+      - { label: 'Fecha Publicación', name: 'date', widget: 'datetime' }
+      - { label: 'Autor', name: 'autor', widget: 'string' }
+      - { label: 'Enlace video', name: 'video', widget: 'string' }
+      - { label: 'Eje', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion"]}
+      - { label: 'Extracto', name: 'extracto', widget: 'string', required: false }
+      - { label: 'Contenido', name: 'body', widget: 'markdown', required: false }
+  - name: 'micrositios'
+    label: 'Micrositios'
+    folder: 'content/micrositios'
+    format: 'frontmatter'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Título', name: 'title', widget: 'string' }
+      - { label: 'Fecha Publicación', name: 'date', widget: 'datetime' }
+      - { label: 'Imagen Principal', name: 'img', widget: 'image', required: false }
+      - { label: 'Enlace', name: 'link', widget: 'string' }
+      - { label: 'Eje', name: 'eje', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion"]}
+      - { label: 'Categoria', name: 'category', widget: 'select', options: ["publicaciones","reportajes"]}
+      - { label: 'Extracto', name: 'extracto', widget: 'string', required: false }
+  - name: 'historias'
+    label: 'Historias de Éxito'
+    folder: 'content/historias'
+    format: 'frontmatter'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Título', name: 'title', widget: 'string' }
+      - { label: 'Fecha Publicación', name: 'date', widget: 'datetime' }
+      - { label: 'Imagen Principal', name: 'img', widget: 'image', required: false }
+      - { label: 'Imagen Alt', name: 'img-alt', widget: 'string', required: false }
+      - { label: 'Enlace video', name: 'video', widget: 'string', required: false }
+      - { label: 'Extracto', name: 'extracto', widget: 'string' }
+      - { label: 'Contenido', name: 'body', widget: 'markdown', required: false }
+  - name: 'financiadores'
+    label: 'Financiadores'
+    folder: 'content/financiadores'
+    format: 'frontmatter'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Financiador', name: 'nombre', widget: 'string' }
+      - { label: 'Logo', name: 'logo', widget: 'image' }
+      - { label: 'Url', name: 'link', widget: 'string', required: false }
+      - { label: 'Fecha Publicación', name: 'date', widget: 'datetime' }
+  - name: 'personal'
+    label: 'Equipo'
+    folder: 'content/personal'
+    format: 'frontmatter'
+    create: true
+    slug: '{{nombre}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Nombre', name: 'nombre', widget: 'string' }
+      - { label: 'Foto', name: 'foto', widget: 'image', required: false }
+      - { label: 'Puesto', name: 'puesto', widget: 'string' , required: false}
+      - { label: 'Area', name: 'area', widget: 'select', options: ["dirección general","dirección de desarrollo institucional","finanzas públicas y anticorrupción","inclusión y desarrollo sostenible","ciudades del futuro","comunicación y prensa","administración y recursos humanos","programa de internship","asamblea de asociados","consejo directivo"] }
+      - { label: 'Orden', name: 'pos', widget: 'number'}
+      - { label: 'Semblanza', name: 'semblanza', widget: 'string' }
+      - { label: 'Email', name: 'email', widget: 'string', required: false }
+      - { label: 'Twitter', name: 'twitter', widget: 'string', required: false }
+  - name: 'trabajos'
+    label: 'Bolsa de Trabajo'
+    label_singular: 'Vacante'
+    folder: 'content/bolsatrabajo'
+    format: 'frontmatter'
+    create: true
+    slug: '{{puesto}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Puesto', name: 'puesto', widget: 'string' }
+      - { label: 'Categoria', name: 'category', widget: 'select', options: ["vacantes","internships"]}
+      - { label: 'Descripción', name: 'body', widget: 'markdown' }
+      - { label: 'Fecha Publicación', name: 'date', widget: 'datetime' }
+      - { label: 'Área', name: 'area', widget: 'string', required: false }
+  - name: 'documentos'
+    label: 'Docs Institucionales'
+    label_singular: 'Documento'
+    folder: 'content/documentos'
+    format: 'frontmatter'
+    create: true
+    slug: '{{titulo}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Titulo', name: 'titulo', widget: 'string' }
+      - { label: 'Fecha Publicación', name: 'date', widget: 'datetime' }
+      - { label: 'Imagen Principal', name: 'img', widget: 'image', required: false }
+      - { label: 'Imagen Alt', name: 'img-alt', widget: 'string', required: false }
+      - { label: 'Autor', name: 'autor', widget: 'string' }
+      - { label: 'Archivo Adjunto', name: 'file', widget: 'file', required: false }
+  - name: 'autores'
+    label: 'Autores'
+    label_singular: 'Autor'
+    folder: 'content/autores'
+    format: 'frontmatter'
+    create: true
+    slug: '{{autor}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Autor', name: 'autor', widget: 'string' }
+      - { label: 'Imagen Principal', name: 'img', widget: 'image', required: false }
+      - { label: 'Semblanza', name: 'semblanza', widget: 'string', required: false  }
+      - { label: 'Medio', name: 'medio', widget: 'string', required: false  }
+      - { label: 'Enlace medio', name: 'link', widget: 'string', required: false }
+      - { label: 'Email', name: 'email', widget: 'string', required: false }
+      - { label: 'Twitter', name: 'twitter', widget: 'string', required: false }
+

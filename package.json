@@ -1,0 +1,29 @@
+{
+  "name": "ethosweb",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/content": "^1.15.1",
+    "@nuxtjs/axios": "^5.13.6",
+    "core-js": "^3.15.1",
+    "lite-youtube-embed": "^0.2.0",
+    "netlify-cms-widget-richtext": "^0.1.5",
+    "nuxt": "^2.15.7",
+    "vue-pdf": "^4.3.0",
+    "vue-pdf-embed": "^1.1.4",
+    "vue-social-sharing": "^3.0.9"
+  },
+  "devDependencies": {
+    "@nuxtjs/google-fonts": "^3.0.0-0",
+    "@nuxtjs/tailwindcss": "^4.2.0",
+    "postcss": "^8.3.5",
+    "sass": "^1.54.4",
+    "sass-loader": "^10.3.1"
+  }
+}

@@ -1,0 +1,47 @@
+---
+title: El futuro que alcanzó a los transgénicos
+date: 2020-09-02T01:39:23.405Z
+img: https://ucarecdn.com/7cb4d782-16b1-419e-9a28-2a59f42bd786/
+autor: Ethos Laboratorio de Políticas Públicas
+link: https://www.youtube.com/watch?v=JBBM4YaiKeM
+category: desarrollo-sostenible
+extracto: "Los alimentos transgénicos son uno de los temas más controversiales
+  en los últimos años. Por un lado están quienes impulsan la idea de
+  homogeneizar la producción para tener más alimentos para todos; aunque la
+  evidencia muestra otra realidad: más de 690 millones de personas con hambre y
+  la mayor parte de los transgénicos dedicada a la alimentación de ganado y
+  biocombustibles. "
+---
+Los alimentos transgénicos son uno de los temas más controversiales en los últimos años. Por un lado están quienes impulsan la idea de homogeneizar la producción para tener más alimentos para todos; aunque **la evidencia muestra otra realidad**: más de 690 millones de personas con hambre y la mayor parte de los transgénicos dedicada a la alimentación de ganado y biocombustibles. 
+
+Con el objetivo de analizar qué implican los transgénicos en países como México, Perú y Colombia, Ethos y GRADE Perú organizaron el webinario «Transgénicos, biodiversidad y seguridad alimentaria: perspectivas en América Latina», en el que participaron [Eduardo Zegarra](http://www.grade.org.pe/investigadores/personal/ezegarra/), de GRADE Perú; [Laura Gutiérrez Escobar](https://javeriana.academia.edu/LauraMariaGutierrezEscobar), de la Pontificia Universidad Javeriana; y [Alma Piñeyro](https://www.uccs.mx/expertos/agricultura_alimentacion/alma-pineyro-nelson.html), de la UAM-Xochimilco y la Unión de Científicos Comprometidos con la Sociedad. 
+
+José Luis Chicoma, director de Ethos y moderador del panel, abrió la conversación afirmando que “**hay mucha confusión, evidencia mixta y estudios contradictorios sobre el tema de los transgénicos** en los últimos 30 años. Una de las razones es el financiamiento de industrias que se benefician por los transgénicos que otorgan un apoyo muy dirigido a científicos y universidades en todo el mundo para obtener resultados favorables a sus intereses. Pero no sólo eso, sino que **tampoco se han investigado los impactos sistémicos de los transgénicos** y no se han analizado un conjunto de variables como el impacto sobre la calidad de la tierra, el uso del agua, las emisiones, la biodiversidad, entre muchos otros”. 
+
+Al respecto, Eduardo Zegarra dijo que Perú es uno de los pocos países de América Latina que hace 10 años adoptó los criterios del [Protocolo de Cartagena](https://www.conacyt.gob.mx/cibiogem/index.php/protocolo-de-cartagena). “Básicamente plantean el **principio precautorio como un tema central para el manejo de estas tecnologías transgénicas** o de ingeniería genética y que empezaron a circular por el mundo en la década de los 90”. 
+
+En Perú, explicó, se conjuntaron varias fuerzas para impedir el ingreso de semillas transgénicas. “**Hubo una reacción de la sociedad civil, de las organizaciones campesinas y también de un actor que no esperábamos, que fue el de la gastronomía nacional**. El Perú ya tenía en estos años un desarrollo interesante en gastronomía, incluso a nivel internacional, y se inició un debate en el cual se empezaron a discutir si al Perú le convenía o no entrar a esta carrera ficticia en la cual han colocado las grandes transnacionales de transgénicos a países de la región”. 
+
+Sin embargo, no ocurrió lo mismo en otros países del cono sur como Argentina, Brasil, Paraguay, Uruguay y algunas zonas de Bolivia, que ya se conocen como “países de la soya transgénica”, ya que grandes extensiones de sus territorios “han sido prácticamente colonizadas por la soya transgénica y el maíz transgénico en niveles nunca antes vistos”, lo cual impacta ya que, dice Zegarra “**no tenemos suficiente evidencia de que los transgénicos sean inocuos**. No hay suficiente evidencia de que no generen impactos adversos en el medio ambiente y también en la biodiversidad”.
+
+En ese sentido, Laura Gutiérrez explicó que el impacto de los transgénicos en la seguridad alimentaria de Colombia, “no ha sido tan alto en términos de acaparamiento de tierras o de reemplazo de producción agrícola de alimentos para el mercado interno, como ha pasado en el cono sur. Sin embargo, el Gobierno sí tiene planes de expandir el cultivo de transgénicos en lo que llamamos la altillanura, y sí creo que va a **aumentar significativamente los impactos en la biodiversidad y en la seguridad alimentaria** del país”. 
+
+Gutiérrez dijo que el impacto sí ha sido negativo en la economía de los campesinos y algunas empresas debido a la importación de transgénicos por tratados de libre comercio. “Colombia está creando una alta dependencia de las importaciones de alimentos tan importantes como el maíz, cuando en los 90 éramos un país autosuficiente en términos de producción de alimentos, y esto obviamente ha **vulnerando nuestra seguridad alimentaria frente a las fuerzas del mercado global**”.  
+
+Para Alma Piñeyro, es importante que esta discusión se vea en un contexto sociopolítico amplio. Dijo que la discusión sobre la introducción de transgénicos, en particular en países en los que ha habido resistencia hacia este tipo de tecnología, no es solamente técnica, aunque muchas veces se ha querido reducir a ello, sino que abarca la **forma de hacer agricultura y de mantener una mayor soberanía** sobre los recursos fitogenéticos. 
+
+Explicó que la riqueza en la **biodiversidad en México se mantiene gracias a la protección de los agricultores**, quienes realizan procesos de selección de sus semillas cada ciclo agrícola; por lo que este tipo de dinámicas que favorecen la manutención de la biodiversidad se verían seriamente afectadas por estrategias legales internacionales y nacionales que podrían reducir este tipo de dinámicas, “entre ellas la transición de la norma UPOV 78 a la UPOV 91, que es uno de los requerimientos de los tratados de libre comercio en los que está México, en particular en la renovación del T-MEC y el Tratado Transpacífico (…) entre otras cosas, no se permitiría que agricultores utilicen semilla y generan sus propios procesos de fitomejoramiento, lo que va a contrapelo de las dinámicas de intercambio de semilla y de mejoramiento genético local que llevan haciendo por milenios”. 
+
+Sobre la evidencia científica, Piñeyro dijo que cuando comenzaron las primeras siembras experimentales de diferentes plantas genéticamente modificadas en 1988, se realizó una evaluación de bioseguridad, “y lo que terminó sucediendo fue que se implementó una moratoria de facto a la siembra de organismos genéticamente modificados, en particular del maíz, porque se consideró que **el país no tenía las condiciones ni legales ni prácticas para poder hacer un biomonitoreo** **de estos maíces transgénicos** sembrados en calidad experimental, ni de su introducción a la cadena alimenticia humana”. 
+
+   
+
+**EL FUTURO DE LOS TRANSGÉNICOS** 
+
+Para Eduardo Zegarra, no hay un futuro viable de los transgénicos en Perú. “Toda la tecnología transgénica desarrollada en los últimos años, **está mostrando haber sido promesas falsas**. No representa realmente un avance para generar mejores alimentos, nutritivos, más diversos y con mayor capacidad de alimentar a nuestra población y al mundo. Todo lo contrario. Si Perú entra a esta línea de querer convertirse en un país productor de transgénicos, básicamente lo que va a hacer es este primero, poner en riesgo importantes espacios de biodiversidad, de cultura y tradición campesina que ha logrado desarrollar (…) Yo creo que **va a ser cada vez más importante en el futuro próximo, ser un país libre de transgénicos**. Es una ventaja frente a un sistema agroalimentario mundial que ha transformado la alimentación en los últimos 30 años para peor, que ha convertido la alimentación mundial en una alimentación de baja calidad, con enormes problemas de obesidad, sobrepeso y enormes problemas de todas las cadenas en términos sanitarios y de impacto en la salud de la gente”.  
+
+Laura Gutiérrez consideró que los transgénicos no son necesarios, y que debemos proteger y potenciar la biodiversidad agrícola. “Hay que proteger esa biodiversidad para realmente poder **garantizar una dieta con alimentos saludables, nutritivos, diversos**, pero también que sean culturalmente relevantes. Deberíamos ir hacia la garantía de la alimentación como un derecho humano y hacia la soberanía alimentaria para decidir libremente y sin presiones del sistema financiero mundial ni de las grandes corporaciones”.
+
+Finalmente Alma Piñeyro sentenció que el futuro ya llegó. “Lo que estamos viendo es que en países como Argentina y Brasil **no aumentó la soberanía alimentaria, ni la seguridad alimentaria**. Lo que aumentó fue el despojo de los pequeños agricultores, del monopolio del campo y de la concentración de la riqueza en unos pocos, así como los problemas de salud ambiental originados por el glifosato”.
+
+Por ello, dijo “tenemos que enfocarnos a sistemas más diversos. Lo que sí deberíamos de hacer es **innovar en la agroecología y respetar al campesinado** en México y en otros países, ya que ellos han generado todas las especies cultivadas hasta el día de hoy”.
