@@ -1,5 +1,6 @@
 ---
 nombre: ADRIÁN ZENTELLA
+foto: https://ucarecdn.com/38bf7b1e-3edb-4134-be88-93941424f58e/
 puesto: Investigador Anticorrupción
 area: finanzas públicas y anticorrupción
 pos: 7
