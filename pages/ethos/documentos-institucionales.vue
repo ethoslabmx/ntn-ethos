@@ -31,7 +31,33 @@ export default {
       documentos
     };
   },
+  mounted(){
+    this.setupObserver()
+
+  },
   methods:{
+    setupObserver(){
+      let options = {
+        root: document.querySelector('container'),
+        rootMargin: "-120px 0px",
+        threshold: 0.8,
+      };
+
+      let observer = new IntersectionObserver(this.intersectionCallback, options);
+      document.querySelectorAll(".doc-cover").forEach((el) => {
+        observer.observe(el);
+      });
+    },
+    intersectionCallback(entries, obs) {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          //console.log(entry.target);
+          entry.target.classList.add("slide-in-fwd-center");
+        } else {
+          //obs.unobserve(entry.target);
+        }
+      });
+    },
     download(url){
       console.log(url);
       window.open(url);
@@ -41,10 +67,47 @@ export default {
 </script>
 
 <style lang="scss">
+
+
+.slide-in-fwd-center {
+	-webkit-animation: slide-in-fwd-center 0.8s cubic-bezier(0.250, 0.460, 0.450, 0.940) 500ms both;
+	        animation: slide-in-fwd-center 0.8s cubic-bezier(0.250, 0.460, 0.450, 0.940) 500ms both;
+}
+
+@-webkit-keyframes slide-in-fwd-center {
+  0% {
+    -webkit-transform:  translateY(-300px);
+            transform:  translateY(-300px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform:  translateY(0);
+            transform:  translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slide-in-fwd-center {
+  0% {
+    -webkit-transform:  translateY(-300px);
+            transform:  translateY(-300px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform:  translateY(0);
+            transform:  translateY(0);
+    opacity: 1;
+  }
+}
+
+
 .doc-cover {
+  display: inline-block;
+  position: relative;
   width: 100%;
   height: 250px;
   object-fit: cover;
   object-position: 50% 50%;
+  opacity: 0;
 }
 </style>

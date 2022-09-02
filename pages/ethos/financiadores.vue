@@ -100,6 +100,10 @@ export default {
           width: 100%;
         }
       }
+
+      a:hover{
+        transform: scale(1.05);
+      }
     }
 
     @media (min-width:800px) {

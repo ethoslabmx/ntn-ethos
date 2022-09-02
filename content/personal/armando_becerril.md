@@ -1,5 +1,6 @@
 ---
 nombre: ARMANDO BECERRIL
+foto: https://ucarecdn.com/e6cce8b6-9bae-4a41-bdcb-29eb9bb67390/
 puesto: Investigador Finanzas Públicas
 area: finanzas públicas y anticorrupción
 pos: 3

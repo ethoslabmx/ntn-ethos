@@ -13,7 +13,7 @@
           </p>
         </div>
         <div class="lg:w-1/2 md:1/3">
-          <img src="../assets/images/aros-color.png" alt="" class="mx-auto aros aros-colors">
+          <img src="../assets/images/aros-color.png" alt="" class="mx-auto aros aros-colors kenburns-top-aros">
 
         </div>
       </div>
@@ -22,6 +22,40 @@
 </template>
 <style lang="scss">
 
+
+.kenburns-top-aros {
+	-webkit-animation: kenburns-top 4s ease-out forwards;
+	        animation: kenburns-top 4s ease-out forwards;
+}
+
+@-webkit-keyframes kenburns-top {
+  0% {
+    -webkit-transform: scale(1) translateY(0);
+            transform: scale(1) translateY(0);
+    -webkit-transform-origin: 50% 16%;
+            transform-origin: 50% 16%;
+  }
+  100% {
+    -webkit-transform: scale(1.25) translateY(-15px);
+            transform: scale(1.25) translateY(-15px);
+    -webkit-transform-origin: top;
+            transform-origin: top;
+  }
+}
+@keyframes kenburns-top {
+  0% {
+    -webkit-transform: scale(1) translateY(0);
+            transform: scale(1) translateY(0);
+    -webkit-transform-origin: 50% 16%;
+            transform-origin: 50% 16%;
+  }
+  100% {
+    -webkit-transform: scale(1.25) translateY(-15px);
+            transform: scale(1.25) translateY(-15px);
+    -webkit-transform-origin: top;
+            transform-origin: top;
+  }
+}
 
 .jumbotron-bolsa {
   min-height: calc(60vh - 100px);
@@ -48,17 +82,17 @@
   }
 
   img.aros.aros-colors {
-    width: 50%;
+    width: 40%;
     height: auto;
     display: block;
     margin: 2rem auto;
     text-align: center;
     @media (min-width:800px) {
-      width: 70%;
+      width: 65%;
       margin: 0;
       margin-left: auto;
 
+    }
   }
-}
 }
 </style>
