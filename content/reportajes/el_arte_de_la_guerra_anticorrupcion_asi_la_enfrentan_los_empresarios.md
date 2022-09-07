@@ -3,7 +3,7 @@ title: " El arte de la guerra anticorrupción: así la enfrentan los empresarios
 date: 2020-10-14T14:09:21.346Z
 img: /img/arte-de-la-guerra.jpeg
 autor: Sergio Rincón
-category: finanzas-publicas
+category: anticorrupcion
 extracto: El sector empresarial comparte las tácticas y estrategias que ha
   desarrollado frente a los despojos, extorsiones, ataques e intentos de
   corrupción.
