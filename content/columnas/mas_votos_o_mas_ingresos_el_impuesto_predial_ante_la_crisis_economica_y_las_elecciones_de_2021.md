@@ -6,7 +6,7 @@ img: https://ucarecdn.com/d9c51285-df86-47cb-b528-8fa3ad4a14d7/
 autor: "Liliana Alvarado y Arturo Franco "
 medio: Animal Politico
 link: https://www.animalpolitico.com/blog-invitado/mas-votos-o-mas-ingresos-el-impuesto-predial-ante-la-crisis-economica-y-las-elecciones-del-2021/
-category: anticorrupcion
+category: finanzas-publicas
 extracto: Una de las premisas más elementales de la economía es que los recursos
   son escasos, es decir, su disponibilidad es limitada. Esta situación provoca
   que, a nivel personal, todos los días nos enfrentemos a dilemas sobre cómo
