@@ -5,7 +5,7 @@ img: https://ucarecdn.com/e8e55cac-f2db-40ff-97dd-9383ed758e3f/
 autor: Héctor Tirado
 medio: "Animal Politico "
 link: https://www.animalpolitico.com/blog-invitado/experimentos-y-politicas-publicas-el-ejemplo-de-la-vacunacion/
-category: anticorrupcion
+category: inclusion
 extracto: Hace algunos años, poco se escuchaba de la metodología experimental
   cuando se hablaba de problemas públicos. Fue hasta 2019, cuando Esther Duflo
   ganó el premio Nobel de Economía con experimentos sociales para luchar contra
