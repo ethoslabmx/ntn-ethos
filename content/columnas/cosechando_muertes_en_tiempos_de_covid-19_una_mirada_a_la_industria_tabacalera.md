@@ -5,7 +5,7 @@ img: https://ucarecdn.com/1437e0d1-02a9-4d3b-abf6-d7955d5d0d51/
 autor: Rodrigo Bolaños Suárez
 medio: Animal Politico
 link: https://www.animalpolitico.com/blog-invitado/cosechando-muertes-en-tiempos-de-covid-19-una-mirada-a-la-industria-tabacalera/
-category: anticorrupcion
+category: finanzas-publicas
 extracto: "Nunca está de más repetirlo: el consumo de tabaco es una de las
   principales causas de muerte a nivel global y en México. Y la razón es
   sencilla, el tabaquismo es un factor de riesgo en seis de las ocho
