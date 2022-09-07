@@ -3,7 +3,7 @@ title: "La batalla por erradicar el glifosato "
 date: 2021-09-22T18:10:10.546Z
 img: https://ucarecdn.com/8b085718-c978-4c52-bca6-8dff59fe94b2/
 autor: "Alejandro Melgoza y Sergio Rincón "
-category: anticorrupcion
+category: desarrollo-sostenible
 extracto: En abril de 2020, el presidente de la república, Andrés Manuel López
   Obrador, se reunió con miembros de su gabinete para encomendarles que
   redactaran un decreto presidencial. En esa ocasión, López Obrador les indicó
