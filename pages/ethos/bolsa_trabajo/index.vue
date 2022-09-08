@@ -18,7 +18,7 @@
         </div>
 
         <div class="internships mb-6 2xl:w-3/4 xl:w-2/3 w-full">
-          <h2 class="lg:text-2xl text-lg title mb-6 tracking-wide">PROGRAMA DE INTERNSHIP</h2>
+          <h2 class="lg:text-2xl text-lg title mb-6 tracking-wide">Programa de Pasantías</h2>
           <div>
             <li v-for="v in internships" :key="v.puesto">
               <NuxtLink :to="'bolsa_trabajo/' + v.slug">

@@ -82,14 +82,7 @@
         <section  class="lg:w-2/3 w-full">
           <div class="2xl:mb-20 mb-10">
             <h2 class="2xl:text-5xl text-2xl  title mb-6">PERSPECTIVA DE GÉNERO</h2>
-            <p>En Ethos tenemos un compromiso firme con la igualdad y con la diversidad. Buscamos que todas las personas
-              que colaboran con nosotros tengan las mismas oportunidades de crecimiento y desarrollo laboral. Para
-              nosotros la innovación es central en el debate y desarrollo de las ideas, por eso hemos decidido que en
-              nuestros espacios de reflexión y análisis siempre participen hombres y mujeres y manifestamos que no vamos
-              a
-              participar en aquellos foros que no cuenten con al menos una mujer como ponente. Además, nos hemos
-              comprometido también con la aplicación de la transversalidad de la perspectiva de género en nuestras
-              investigaciones.</p>
+            <p>En Ethos tenemos un compromiso firme con la igualdad y con la diversidad. Buscamos que todas las personas que colaboran con nosotros tengan las mismas oportunidades de crecimiento y desarrollo laboral. Para nosotros la innovación es central en el debate y desarrollo de las ideas, por eso hemos decidido que en nuestros espacios de reflexión y análisis siempre participen hombres y mujeres.</p>
           </div>
 
 

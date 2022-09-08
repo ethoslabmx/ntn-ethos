@@ -18,7 +18,7 @@
             </a>
             <ul class="dropdown-menu absolute hidden text-gray-700  bg-white shadow-xl p-0 m-0">
               <li class="">
-                <NuxtLink class=" bg-gray-200 hover:bg-primary hover:text-white py-3 px-6 block whitespace-no-wrap"
+                <NuxtLink  class=" bg-gray-200 hover:bg-primary hover:text-white py-3 px-6 block whitespace-no-wrap"
                   to="/ethos/quienessomos">¿QUIÉNES SOMOS?</NuxtLink>
               </li>
               <li class="">
@@ -551,6 +551,14 @@ export default {
       let mclass = this.$store.state.menu.menuClass == 'active' ? 'inavtive' : 'active';
       this.$store.commit('menu/SetClass', mclass)
     },
+    reset(e){
+      let m = document.getElementsByClassName('dropdown-menu');
+      console.log(m)
+      for (let i = 0; i < m.length; i++) {
+        console.log(m[i])
+        m[i].style = "pointer-events: none;"
+      }
+    }
 
   },
   data() {

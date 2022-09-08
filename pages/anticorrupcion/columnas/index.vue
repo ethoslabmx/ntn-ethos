@@ -61,6 +61,14 @@ import JumbotronEje from '~/components/JumbotronEje.vue';
 export default {
     components: { JumbotronEje },
 
+    data(){
+    return {
+      loading: false,
+      total: 0,
+      more:true,
+    }
+  },
+
   async asyncData({ $content }) {
     const columnas = await $content("columnas").where({category:"anticorrupcion"}).without(['body']).sortBy('date','desc').limit(8).fetch();
 
@@ -68,13 +76,14 @@ export default {
       columnas,
     };
   },
-  data(){
-    return {
-      loading: false,
-      total: 0,
-      more:true,
-    }
-  },
+  
+  meta: {
+    scrollPos: {
+      x: 0,
+      y: 0
+    },
+    mores:1
+ },
   methods:{
     loadPosts(){
       this.getNext();

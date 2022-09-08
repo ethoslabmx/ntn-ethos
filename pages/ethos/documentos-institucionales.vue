@@ -102,9 +102,10 @@ export default {
 
 
 .doc-cover {
-  display: inline-block;
+  
   position: relative;
   width: 100%;
+  min-width: 200px;
   height: 250px;
   object-fit: cover;
   object-position: 50% 50%;
