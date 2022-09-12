@@ -1,7 +1,7 @@
 ---
 nombre: MAURA ARZATE
 foto: https://ucarecdn.com/232d67e0-c3f1-4e7f-990d-049fdc82cd02/
-puesto: MAURA ARZATE
+puesto: Social Media Manager
 area: comunicación y prensa
 pos: 2
 semblanza: Licenciada en Letras Latinoamericanas por la Universidad Autónoma del
