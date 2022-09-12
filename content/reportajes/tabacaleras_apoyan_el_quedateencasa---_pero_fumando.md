@@ -3,7 +3,7 @@ title: "Tabacaleras apoyan el #Quédateencasa... pero fumando"
 date: 2020-05-28T18:15:11.882Z
 img: https://ucarecdn.com/c332019d-6715-4878-8c1a-50eb71187d6c/
 autor: Sergio Rincón y Alejandro Melgoza
-category: anticorrupcion
+category: finanzas-publicas
 extracto: "A pesar de que existe una riesgosa comorbilidad entre la COVID-19 y
   el tabaquismo, la industria tabacalera no solo sigue promocionando sus
   productos en pleno confinamiento, sino que ha lanzado ofertas de hasta 80%,

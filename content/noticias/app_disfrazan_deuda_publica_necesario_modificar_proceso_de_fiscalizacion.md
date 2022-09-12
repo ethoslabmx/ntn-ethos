@@ -3,7 +3,7 @@ title: APP disfrazan deuda pública; necesario modificar proceso de fiscalizaci�
 date: 2017-02-27T06:59:41.572Z
 img: https://ucarecdn.com/ac0f5307-0166-45ce-a431-29b8f59da405/
 autor: "Paola Morales "
-category: finanzas-publicas
+category: ciudades-del-futuro
 extracto: En una relación en la que todos deberían ganar, las asociaciones
   público-privadas (APP) han sido utilizadas para adquirir deuda descontrolada
   por parte de las entidades, debido a vacíos en la fiscalización a la que son

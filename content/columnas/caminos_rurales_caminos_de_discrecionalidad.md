@@ -5,7 +5,7 @@ img: https://ucarecdn.com/c97b67ca-21b7-459d-9750-fc3a5a34f1a8/
 autor: Alejandro Alegría y Miguel A. Santibañez
 medio: Animal Politico
 link: https://www.animalpolitico.com/blog-invitado/caminos-rurales-caminos-de-discrecionalidad/
-category: anticorrupcion
+category: finanzas-publicas
 extracto: En el ejercicio fiscal 2019 se realizaron modificaciones que dejaron
   descubiertos proyectos prioritarios para el desarrollo de las comunidades más
   necesitadas del país, tales como la construcción de caminos rurales.

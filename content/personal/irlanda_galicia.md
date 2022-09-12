@@ -1,7 +1,7 @@
 ---
 nombre: IRLANDA GALICIA
 foto: https://ucarecdn.com/7bdc9f16-f25f-4814-af6c-374de41737f1/
-puesto: IRLANDA GALICIA
+puesto: Diseño gráfico
 area: comunicación y prensa
 pos: 3
 semblanza: Licenciada en Diseño y Comunicación Visual por la Universidad

@@ -3,7 +3,7 @@ title: "Falsas terrazas: Territorio de humo y Covid-19"
 date: 2020-09-10T18:18:17.232Z
 img: https://ucarecdn.com/29dc9678-0998-47f0-95e9-2e5b270abf8e/
 autor: Alejandro Melgoza y Sergio Rincón*
-category: anticorrupcion
+category: finanzas-publicas
 extracto: La falta de claridad en la comunicación y omisiones por parte de
   autoridades de la CDMX para hacer cumplir la prohibición de fumar en terrazas
   de restaurantes y bares, pone en riesgo a los no fumadores, ya que las

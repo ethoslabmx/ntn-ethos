@@ -3,7 +3,7 @@ title: "Caminos rurales: Una historia de atrasos y potencialidad"
 date: 2019-09-30T23:23:40.996Z
 img: https://ucarecdn.com/78285505-64a5-4c61-b60e-86a4b4eb2c8f/
 autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
-category: anticorrupcion
+category: finanzas-publicas
 extracto: "Los caminos rurales pueden detonar el desarrollo de las comunidades
   y, por lo tanto, elevar la calidad de vida de sus habitantes. No obstante, la
   problemática identificada en los programas destinados a su construcción y

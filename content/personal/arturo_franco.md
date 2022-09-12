@@ -3,7 +3,7 @@ nombre: ARTURO FRANCO
 foto: https://ucarecdn.com/17863ff0-abd0-4ae9-a0e3-3d37a287b6aa/
 puesto: Investigador Finanzas Públicas
 area: finanzas públicas y anticorrupción
-pos: 5
+pos: 4
 semblanza: Maestro en Migración Internacional por El Colegio de la Frontera
   Norte y licenciado en Economía por la UNAM. Cuenta con diversos cursos y
   diplomados en Econometría y Economía cuantitativa. Se ha desempeñado como

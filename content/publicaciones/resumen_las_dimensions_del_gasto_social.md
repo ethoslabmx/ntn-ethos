@@ -1,5 +1,5 @@
 ---
-title: " RESUMEN: LAS DIMENSIONS DEL GASTO SOCIAL"
+title: " RESUMEN: LAS DIMENSIONES DEL GASTO SOCIAL"
 date: 2008-07-29T20:51:24.941Z
 img: https://ucarecdn.com/6c20634c-b9d4-43a5-9611-2e99053358b7/
 autor: Liliana Alvarado, Rodrigo Alcázar.

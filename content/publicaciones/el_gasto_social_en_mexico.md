@@ -1,6 +1,6 @@
 ---
 title: " El gasto social en México"
-date: 2016-04-01T21:37:34.773Z
+date: 2008-07-29T20:37:34.773Z
 img: https://ucarecdn.com/6c20634c-b9d4-43a5-9611-2e99053358b7/
 autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: finanzas-publicas

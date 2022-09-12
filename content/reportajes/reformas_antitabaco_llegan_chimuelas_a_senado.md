@@ -3,7 +3,7 @@ title: Reformas ”antitabaco” llegan chimuelas a Senado
 date: 2021-08-24T18:11:53.736Z
 img: https://ucarecdn.com/a0365c8e-f92d-4d06-98d4-e16cfd963a4b/
 autor: Alejandro Melgoza Rocha
-category: anticorrupcion
+category: finanzas-publicas
 extracto: "Cuando el doctor Frank F. Tylecote descubrió las primeras evidencias
   cancerígenas provocadas por el tabaco y las publicó en la revista científica
   The Lancet, en 1925, la industria tabacalera emprendió una estrategia

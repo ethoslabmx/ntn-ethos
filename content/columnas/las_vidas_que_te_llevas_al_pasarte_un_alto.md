@@ -4,7 +4,7 @@ date: 2019-03-02T01:35:00.488Z
 img: https://ucarecdn.com/cecd8486-9fd0-485b-aa09-bba09f7e63c7/
 autor: Emiliano Montes de Oca
 medio: Ethos
-category: anticorrupcion
+category: ciudades-del-futuro
 extracto: "El fin de semana ocurrió un acontecimiento que me impactó
   sobremanera. Uno de mis mejores amigos de la universidad falleció en un
   accidente de tránsito. Aunque para ser exactos, no se trató propiamente de un

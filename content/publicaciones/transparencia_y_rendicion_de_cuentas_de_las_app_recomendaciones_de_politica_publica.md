@@ -4,7 +4,7 @@ title: "Transparencia y rendición de cuentas de las APP: recomendaciones de
 date: 2020-03-10T20:40:49.661Z
 img: https://ucarecdn.com/9aaa5e2a-5708-44c0-adc6-c7124c91ac24/
 autor: Ethos
-category: finanzas-publicas
+category: ciudades-del-futuro
 extracto: Las APP son un esquema de contratación de largo plazo (5 a 40 años)
   entre el sector público y el sector privado para la provisión de
   infraestructura y servicios públicos, en el cual se comparte la inversión y

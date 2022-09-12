@@ -5,7 +5,7 @@ img: https://ucarecdn.com/255f696a-8bb7-432c-af0b-1f6d1d252d9f/
 autor: "Silvia Márquez y Lisa Grabinsky "
 medio: washingtonpost
 link: https://www.washingtonpost.com/es/post-opinion/2021/02/22/vapeadores-mexico-industria-tabaco-mentiras/
-category: anticorrupcion
+category: finanzas-publicas
 extracto: "Construir una verdad a medias manipulando datos “científicos” no es
   algo nuevo: controlar la opinión pública puede garantizar que se asuma por
   cierto algo que está lejos de serlo. Las grandes industrias han demostrado
