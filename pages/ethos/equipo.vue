@@ -26,61 +26,61 @@
           <div class="w-full xl:w-1/2 md:1/3">
             <ul class="list puestos">
               <li >
-                <div @click="p1 = !p1">DIRECCIÓN GENERAL</div>
+                <div @click="showGroup(0)">DIRECCIÓN GENERAL</div>
                 <ul class="nombres" v-if="p1">
                   <li v-for="e in dg" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
                 </ul>
               </li>
               <li >
-                <div @click="p2 = !p2">DIRECCIÓN DE DESARROLLO INSTITUCIONAL</div>
+                <div @click="showGroup(1)">DIRECCIÓN DE DESARROLLO INSTITUCIONAL</div>
                 <ul class="nombres" v-if="p2">
                   <li v-for="e in di" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
                 </ul>
               </li>
               <li >
-                <div @click="p3 = !p3">FINANZAS PÚBLICAS Y ANTICORRUPCIÓN</div>
+                <div @click="showGroup(2)">FINANZAS PÚBLICAS Y ANTICORRUPCIÓN</div>
                 <ul class="nombres" v-if="p3">
                   <li v-for="e in fp" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
                 </ul>
               </li>
               <li >
-                <div @click="p4 = !p4">INCLUSIÓN Y DESARROLLO SOSTENIBLE</div>
+                <div @click="showGroup(3)">INCLUSIÓN Y DESARROLLO SOSTENIBLE</div>
                 <ul class="nombres" v-if="p4">
                   <li v-for="e in id" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
                 </ul>
               </li>
               <li >
-                <div @click="p5 = !p5">CIUDADES DEL FUTURO</div>
+                <div @click="showGroup(4)">CIUDADES DEL FUTURO</div>
                 <ul class="nombres" v-if="p5">
                   <li v-for="e in cf" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
                 </ul>
               </li>
               <li >
-                <div @click="p6 = !p6">COMUNICACIÓN Y PRENSA</div>
+                <div @click="showGroup(5)">COMUNICACIÓN Y PRENSA</div>
                 <ul class="nombres" v-if="p6">
                   <li v-for="e in cp" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
                 </ul>
               </li>
               <li >
-                <div @click="p7 = !p7">ADMINISTRACIÓN Y RECURSOS HUMANOS</div>
+                <div @click="showGroup(6)">ADMINISTRACIÓN Y RECURSOS HUMANOS</div>
                 <ul class="nombres" v-if="p7">
                   <li v-for="e in ar" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
                 </ul>
               </li>
               <li >
-                <div @click="p8 = !p8">PROGRAMA DE PASANTÍAS</div>
+                <div @click="showGroup(7)">PROGRAMA DE PASANTÍAS</div>
                 <ul class="nombres" v-if="p8">
                   <li v-for="e in pi" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
                 </ul>
               </li>
               <li >
-                <div @click="p9 = !p9">ASAMBLEA DE ASOCIADOS</div>
+                <div @click="showGroup(8)">ASAMBLEA DE ASOCIADOS</div>
                 <ul class="nombres" v-if="p9">
                   <li v-for="e in aa" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
                 </ul>
               </li>
               <li >
-                <div @click="p10 = !p10">CONSEJO DIRECTIVO</div>
+                <div @click="showGroup(9)">CONSEJO DIRECTIVO</div>
                 <ul class="nombres" v-if="p10">
                   <li v-for="e in cd" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
                 </ul>
@@ -162,8 +162,50 @@ export default {
   },
 
   methods: {
-    showPersonal(){
-
+    showGroup(g){
+      this.p1=false;
+      this.p2=false;
+      this.p3=false;
+      this.p4=false;
+      this.p5=false;
+      this.p6=false;
+      this.p7=false;
+      this.p8=false;
+      this.p9=false;
+      this.p10=false;
+      switch(g){
+        case 0:
+          this.p1=true;
+          break;
+        case 1:
+          this.p2=true;
+          break;
+        case 2:
+          this.p3=true;
+          break;
+        case 3:
+          this.p4=true;
+          break;
+        case 4:
+          this.p5=true;
+          break;
+        case 5:
+          this.p6=true;
+          break;
+        case 6:
+          this.p7=true;
+          break;
+        case 7:
+          this.p8=true;
+          break;
+        case 8:
+          this.p9=true;
+          break;
+        case 9:
+          this.p10=true;
+          break;
+      }
+    
     },
     selectEmployee(nombre) {
       if(this.seleccionado.nombre != ''){
