@@ -108,6 +108,13 @@ export default {
         this.more = false;
       }
       this.eventos = this.eventos.concat(newEvents);
+      this.$store.commit('anticorrupcion/setReportajes', this.eventos);
+    }
+  },
+  mounted(){
+    const cols = this.$store.state.anticorrupcion.reportajes;
+    if(cols.length > 0){
+      this.eventos= cols;
     }
   }
 }

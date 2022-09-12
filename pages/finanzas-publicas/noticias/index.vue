@@ -74,12 +74,20 @@ export default {
       const newPosts = await this.$content("noticias").where({category:"finanzas-publicas"}).without(['body']).sortBy('date','desc').skip(this.columnas.length).limit(8).fetch();
       if(newPosts.length == 8){
         this.columnas = this.columnas.concat(newPosts);
+        this.$store.commit('finanzaspublicas/setNoticias', this.columnas);
       }  else if(newPosts.length > 0 && newPosts.length < 8){
         this.columnas = this.columnas.concat(newPosts);
+        this.$store.commit('finanzaspublicas/setNoticias', this.columnas);
         this.more = false;
       } else  {
         this.more = false;
       }
+    }
+  },
+  mounted(){
+    const cols = this.$store.state.finanzaspublicas.noticias;
+    if(cols.length > 0){
+      this.columnas = cols;
     }
   }
 }

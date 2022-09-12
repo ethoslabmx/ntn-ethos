@@ -82,13 +82,22 @@ export default {
       const newCols = await this.$content("columnas").where({category:"inclusion"}).without(['body']).sortBy('date','desc').skip(this.columnas.length).limit(8).fetch();
       if(newCols.length == 8){
         this.columnas = this.columnas.concat(newCols);
+        this.$store.commit('inclusion/setColumnas', this.columnas);
       }  else if(newCols.length > 0 && newCols.length < 8){
         this.columnas = this.columnas.concat(newCols);
+        this.$store.commit('inclusion/setColumnas', this.columnas);
         this.more = false;
       } else  {
         this.more = false;
       }
     }
+  },
+  mounted(){
+    const cols = this.$store.state.inclusion.columnas;
+    if(cols.length > 0){
+      this.columnas = cols;
+    }
+    
   }
 }
 </script>

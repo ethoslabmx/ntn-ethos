@@ -83,13 +83,22 @@ export default {
       const newCols = await this.$content("columnas").where({category:"desarrollo-sostenible"}).without(['body']).sortBy('date','desc').skip(this.columnas.length).limit(8).fetch();
       if(newCols.length == 8){
         this.columnas = this.columnas.concat(newCols);
+        this.$store.commit('desarrollosostenible/setColumnas', this.columnas);
       }  else if(newCols.length > 0 && newCols.length < 8){
         this.columnas = this.columnas.concat(newCols);
+        this.$store.commit('desarrollosostenible/setColumnas', this.columnas);
         this.more = false;
       } else  {
         this.more = false;
       }
     }
+  },
+  mounted(){
+    const cols = this.$store.state.desarrollosostenible.columnas;
+    if(cols.length > 0){
+      this.columnas = cols;
+    }
+    
   }
 }
 </script>

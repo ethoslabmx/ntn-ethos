@@ -108,9 +108,17 @@ export default {
     async getNext(){
       const newEvents = await this.$content("publicaciones").where({category:"anticorrupcion"}).without(['body']).sortBy('date','desc').skip(this.eventos.length).limit(8).fetch();
       if(newEvents.length < 8){
+        
         this.more = false;
       }
       this.eventos = this.eventos.concat(newEvents);
+      this.$store.commit('anticorrupcion/setPublicaciones', this.eventos);
+    }
+  },
+  mounted(){
+    const cols = this.$store.state.anticorrupcion.publicaciones;
+    if(cols.length > 0){
+      this.eventos= cols;
     }
   }
 }

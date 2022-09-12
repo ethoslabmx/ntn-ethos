@@ -73,12 +73,20 @@ export default {
       const newPosts = await this.$content("videos").where({category:"inclusion"}).sortBy('date','desc').skip(this.posts.length).limit(6).fetch();
       if(newPosts.length == 6){
         this.posts = this.posts.concat(newPosts);
+        this.$store.commit('inclusion/setVideos', this.posts);
       }  else if(newPosts.length > 0 && newPosts.length < 6){
         this.posts = this.posts.concat(newPosts);
+        this.$store.commit('inclusion/setVideos', this.posts);
         this.more = false;
       } else  {
         this.more = false;
       }
+    }
+  },
+  mounted(){
+    const cols = this.$store.state.inclusion.videos;
+    if(cols.length > 0){
+      this.posts = cols;
     }
   }
 }

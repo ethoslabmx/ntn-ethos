@@ -109,6 +109,13 @@ export default {
         this.more = false;
       }
       this.eventos = this.eventos.concat(newEvents);
+      this.$store.commit('finanzaspublicas/setReportajes', this.eventos);
+    }
+  },
+  mounted(){
+    const cols = this.$store.state.finanzaspublicas.reportajes;
+    if(cols.length > 0){
+      this.eventos= cols;
     }
   }
 }

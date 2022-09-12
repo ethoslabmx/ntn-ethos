@@ -109,6 +109,13 @@ export default {
         this.more = false;
       }
       this.eventos = this.eventos.concat(newEvents);
+      this.$store.commit('inclusion/setReportajes', this.eventos);
+    }
+  },
+  mounted(){
+    const cols = this.$store.state.inclusion.reportajes;
+    if(cols.length > 0){
+      this.eventos= cols;
     }
   }
 }

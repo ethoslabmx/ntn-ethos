@@ -111,6 +111,13 @@ export default {
         this.more = false;
       }
       this.eventos = this.eventos.concat(newEvents);
+      this.$store.commit('finanzaspublicas/setPublicaciones', this.eventos);
+    }
+  },
+  mounted(){
+    const cols = this.$store.state.finanzaspublicas.publicaciones;
+    if(cols.length > 0){
+      this.eventos= cols;
     }
   }
 }

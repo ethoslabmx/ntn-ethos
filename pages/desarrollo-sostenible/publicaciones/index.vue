@@ -112,6 +112,13 @@ export default {
         this.more = false;
       }
       this.eventos = this.eventos.concat(newEvents);
+      this.$store.commit('desarrollosostenible/setPublicaciones', this.eventos);
+    }
+  },
+  mounted(){
+    const cols = this.$store.state.desarrollosostenible.publicaciones;
+    if(cols.length > 0){
+      this.eventos= cols;
     }
   }
 }

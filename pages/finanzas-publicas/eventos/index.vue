@@ -73,13 +73,23 @@ export default {
       const newPosts = await this.$content("eventos").where({category:"finanzas-publicas"}).without(['body']).sortBy('date','desc').skip(this.eventos.length).limit(8).fetch();
       if(newPosts.length == 8){
         this.eventos = this.eventos.concat(newPosts);
+        this.$store.commit('finanzaspublicas/setEventos', this.eventos);
       }  else if(newPosts.length > 0 && newPosts.length < 8){
         this.eventos = this.eventos.concat(newPosts);
+        this.$store.commit('finanzaspublicas/setEventos', this.eventos);
         this.more = false;
       } else  {
         this.more = false;
       }
     }
+  },
+  mounted(){
+    const cols = this.$store.state.finanzaspublicas.eventos;
+    if(cols.length > 0){
+      
+      this.eventos = cols;
+    }
+    
   }
 }
 </script>

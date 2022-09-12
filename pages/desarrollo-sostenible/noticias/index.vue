@@ -74,12 +74,20 @@ export default {
       const newPosts = await this.$content("noticias").where({category:"desarrollo-sostenible"}).without(['body']).sortBy('date','desc').skip(this.columnas.length).limit(8).fetch();
       if(newPosts.length == 8){
         this.columnas = this.columnas.concat(newPosts);
+        this.$store.commit('desarrollosostenible/setNoticias', this.columnas);
       }  else if(newPosts.length > 0 && newPosts.length < 8){
         this.columnas = this.columnas.concat(newPosts);
+        this.$store.commit('desarrollosostenible/setNoticias', this.columnas);
         this.more = false;
       } else  {
         this.more = false;
       }
+    }
+  },
+  mounted(){
+    const cols = this.$store.state.desarrollosostenible.noticias;
+    if(cols.length > 0){
+      this.columnas = cols;
     }
   }
 }

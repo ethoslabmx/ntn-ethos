@@ -82,13 +82,22 @@ export default {
       const newCols= await this.$content("columnas").where({category:"ciudades-del-futuro"}).without(['body']).sortBy('date','desc').skip(this.columnas.length).limit(8).fetch();
       if(newCols.length == 8){
         this.columnas = this.columnas.concat(newCols);
+        this.$store.commit('ciudadesdelfuturo/setColumnas', this.columnas);
       }  else if(newCols.length > 0 && newCols.length < 8){
         this.columnas = this.columnas.concat(newCols);
+        this.$store.commit('ciudadesdelfuturo/setColumnas', this.columnas);
         this.more = false;
       } else  {
         this.more = false;
       }
     }
+  },
+  mounted(){
+    const cols = this.$store.state.ciudadesdelfuturo.columnas;
+    if(cols.length > 0){
+      this.columnas = cols;
+    }
+    
   }
 }
 </script>

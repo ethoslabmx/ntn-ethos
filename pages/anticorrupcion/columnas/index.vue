@@ -71,19 +71,12 @@ export default {
 
   async asyncData({ $content }) {
     const columnas = await $content("columnas").where({category:"anticorrupcion"}).without(['body']).sortBy('date','desc').limit(8).fetch();
-
+    
     return {
       columnas,
     };
   },
   
-  meta: {
-    scrollPos: {
-      x: 0,
-      y: 0
-    },
-    mores:1
- },
   methods:{
     loadPosts(){
       this.getNext();
@@ -93,14 +86,23 @@ export default {
 
       if(newCols.length == 8){
         this.columnas = this.columnas.concat(newCols);
+        this.$store.commit('anticorrupcion/setColumnas', this.columnas);
       }  else if(newCols.length > 0 && newCols.length < 8){
         this.columnas = this.columnas.concat(newCols);
+        this.$store.commit('anticorrupcion/setColumnas', this.columnas);
         this.more = false;
       } else  {
         this.more = false;
       }
 
     }
+  },
+  mounted(){
+    const cols = this.$store.state.anticorrupcion.columnas;
+    if(cols.length > 0){
+      this.columnas = cols;
+    }
+    
   }
 }
 </script>

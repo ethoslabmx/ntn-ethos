@@ -110,6 +110,13 @@ export default {
         this.more = false;
       }
       this.eventos = this.eventos.concat(newEvents);
+      this.$store.commit('ciudadesdelfuturo/setReportajes', this.eventos);
+    }
+  },
+  mounted(){
+    const cols = this.$store.state.ciudadesdelfuturo.reportajes;
+    if(cols.length > 0){
+      this.eventos= cols;
     }
   }
 }
