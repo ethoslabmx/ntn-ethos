@@ -82,7 +82,7 @@ div#stripped svg polyline {
 }
 
 .paint{
-  animation: scribble 3.3s  ease-out forwards;
+  animation: scribble 5.3s  ease-out forwards;
 }
 
 @keyframes scribble {

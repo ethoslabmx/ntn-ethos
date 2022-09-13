@@ -8,7 +8,7 @@
 
         <div class="lg:w-1/2 3xl:w-1/3 lg:ml-10 self-center tag-container">
           <img :src="post.img" alt="" class="w-auto object-cover col-img">
-          <div class="tag">Micrositio</div>
+          <a :href="post.link" target="_blank" ><div class="tag">Micrositio</div></a>
         </div>
 
         <div class="content lg:w-1/2  3xl:w-2/3 mt-6 lg:mt-0">
