@@ -1,7 +1,7 @@
 ---
 title: TRANSPARENCIA CON INNOVACIÓN Y PERTINENCIA CULTURAL
 date: 2021-12-11T20:23:07.361Z
-img: /img/pertinencia-cultural.jpg
+img: https://ucarecdn.com/cef197c4-1e8d-4e84-82ed-0cb5322a22ed/
 img-alt: Pertinencia Cultural
 autor: Ethos
 category: anticorrupcion
