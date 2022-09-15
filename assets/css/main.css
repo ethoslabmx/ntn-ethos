@@ -242,6 +242,10 @@ li.eje .content a {
 .more-btn .icon {
   margin-left: 0.75rem;
 }
+a{
+  text-decoration: none;
+}
+
 
 a:hover, a:active{
   color:#c8bca8;

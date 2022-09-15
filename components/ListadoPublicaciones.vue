@@ -7,7 +7,7 @@
 
         <div class="right md:py-7 py-5 md:w-1/3  3xl:w-1/4 w-full flex flex-col justify-between text-right">
           <div class="img md:ml-auto content-start my-6">
-            <img :src="post.img+'-/resize/350x/'" alt="" class="w-auto h-30 md:h-50 mb-2 shadow-xl" />
+            <img :src="post.img+'-/resize/350x/'" loading="lazy" alt="" class="w-auto h-30 md:h-50 mb-2 shadow-xl" />
 
           </div>
 
