@@ -2,7 +2,7 @@
 title: MÉXICO NECESITA UN CONSEJO FISCAL APARTIDISTA PARA PROMOVER SU
   SOSTENIBILIDAD PRESUPUESTARIA
 date: 2018-05-22T14:13:38.313Z
-img: /img/mexico_consejo_fiscal.png
+img: https://ucarecdn.com/a5989527-8c0f-4aca-b88b-ee5402c65e26/
 autor: Colectivo Peso
 category: finanzas-publicas
 ---
