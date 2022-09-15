@@ -1,7 +1,7 @@
 ---
 title: RETROCESOS QUE ENMARCAN EL DÍA INTERNACIONAL CONTRA LA CORRUPCIÓN
 date: 2021-12-08T20:11:52.248Z
-img: /img/aeropuerto-santa-luci_a.png
+img: https://ucarecdn.com/ce059bfe-c76c-4490-b559-0e9849e286ba/
 img-alt: "Corrupción "
 autor: Liliana Alvarado
 medio: El Economista
