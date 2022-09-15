@@ -1,7 +1,7 @@
 ---
 title: "GOBERNANZA Y PLANEACIÓN: CLAVES PARA LA GESTIÓN SOSTENIBLE DEL AGUA EN MÉXICO"
 date: 2021-11-03T17:14:58.309Z
-img: /img/gestionagua.png
+img: https://ucarecdn.com/b2f9b284-9bd5-4b83-ab83-604e5914d3d2/
 autor: Sebastián Guzmán y Pamela Monroy
 medio: Animal Político
 link: https://www.animalpolitico.com/blog-invitado/gobernanza-y-planeacion-claves-para-la-gestion-sostenible-del-agua-en-mexico/
