@@ -1,7 +1,7 @@
 ---
 title: LA EMPRESA SOCIAL Y SUS MECANISMOS DE FINANCIAMIENTO
 date: 2021-03-25T16:49:44.462Z
-img: /img/financiamiento-social-webinar.png
+img: https://ucarecdn.com/ed98013f-15d3-49e6-b300-2881b67d2689/
 autor: Ethos
 link: https://www.facebook.com/ethoslaboratorio/videos/434911900957544/
 category: desarrollo-sostenible
