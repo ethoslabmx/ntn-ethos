@@ -1,7 +1,7 @@
 ---
 title: "EL TRANSPORTE URBANO SUSTENTABLE: UNA OPORTUNIDAD EN TIEMPOS DE COVID-19"
 date: 2020-09-27T16:24:53.764Z
-img: /img/zoom-transporte-urbano.png
+img: https://ucarecdn.com/dcd67fdb-7ac0-44fa-9187-0d476b6b1c51/
 autor: Ethos
 link: https://www.youtube.com/watch?v=lJuy4Lwttjg
 category: ciudades-del-futuro
