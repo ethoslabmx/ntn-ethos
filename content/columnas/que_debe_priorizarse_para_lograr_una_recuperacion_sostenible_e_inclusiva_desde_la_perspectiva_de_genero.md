@@ -2,7 +2,7 @@
 title: ¿QUÉ DEBE PRIORIZARSE PARA LOGRAR UNA RECUPERACIÓN SOSTENIBLE E INCLUSIVA
   DESDE LA PERSPECTIVA DE GÉNERO?
 date: 2022-01-17T16:41:28.801Z
-img: /img/perspectiva_de_genero.png
+img: https://ucarecdn.com/36173569-1192-489d-84ad-30e3fc5b49d9/
 autor: Ximena Mejía
 medio: Animal Político
 link: https://www.animalpolitico.com/blog-invitado/que-debe-priorizarse-para-lograr-una-recuperacion-sostenible-e-inclusiva-desde-la-perspectiva-de-genero/
