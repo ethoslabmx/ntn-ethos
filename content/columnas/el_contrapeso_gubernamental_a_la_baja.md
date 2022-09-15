@@ -1,7 +1,7 @@
 ---
 title: ¿EL CONTRAPESO GUBERNAMENTAL A LA BAJA?
 date: 2022-02-22T23:44:29.610Z
-img: /img/contrapeso.png
+img: https://ucarecdn.com/1fd5c811-6354-462c-b33a-04b627a7742d/
 autor: Liliana Alvarado
 medio: El Economista
 link: https://www.eleconomista.com.mx/opinion/El-contrapeso-gubernamental-a-la-baja-20220222-0057.html
