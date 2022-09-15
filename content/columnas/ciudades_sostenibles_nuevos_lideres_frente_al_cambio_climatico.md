@@ -1,7 +1,7 @@
 ---
 title: "CIUDADES SOSTENIBLES: NUEVOS LÍDERES FRENTE AL CAMBIO CLIMÁTICO"
 date: 2021-05-14T16:18:03.204Z
-img: /img/ciudades-sostenibles.png
+img: https://ucarecdn.com/e01a002d-bc83-4f3d-8dcc-bf895e569716/
 autor: Yahir Acosta y Camille Legrand
 medio: Animal Político
 link: https://www.animalpolitico.com/blog-invitado/ciudades-sostenibles-nuevos-lideres-frente-al-cambio-climatico/
