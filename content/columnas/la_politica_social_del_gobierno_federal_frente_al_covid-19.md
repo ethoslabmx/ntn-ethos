@@ -1,7 +1,8 @@
 ---
 title: "LA POLÍTICA SOCIAL DEL GOBIERNO FEDERAL FRENTE AL COVID-19 "
 date: 2020-05-19T15:11:01.246Z
-img: /img/oikutuca_social_frente_covid.jpg
+img: https://ucarecdn.com/39dd60a3-d45c-4f8f-8af4-cc7d2a081335/
+img-alt: oikutuca policias sociales
 autor: Laure Delalande y Néstor Genis
 medio: Animal Político
 link: https://www.animalpolitico.com/blog-invitado/la-politica-social-del-gobierno-federal-frente-al-covid-19/
