@@ -1,6 +1,7 @@
 ---
 title: Piden garantizar gasto anticorrupción
 date: 2016-09-09T01:56:16.866Z
+img: https://ucarecdn.com/dffd9777-324f-4bda-b14e-d34df5650efb/
 autor: Claudia Guerrero
 link: https://www.reforma.com/aplicacioneslibre/preacceso/articulo/default.aspx?__rval=1&urlredirect=https://www.reforma.com/aplicaciones/articulo/default.aspx?id=934832&referer=--7d616165662f3a3a6262623b6770737a6778743b767a783a--
 category: anticorrupcion
