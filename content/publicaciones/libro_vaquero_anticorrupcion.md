@@ -8,5 +8,6 @@ extracto: Con esta publicación de El Libro Vaquero Anticorrupción queremos
   informar a la ciudadanía acerca del problema de la corrupción e invitarlos a
   entender el funcionamiento del Sistema Nacional Anticorrupción (SNA) gracias a
   un lenguaje coloquial.
+file: https://ucarecdn.com/a259d02b-4f85-4518-b99b-49bf6b686c1b/
 ---
 Con esta publicación de El Libro Vaquero Anticorrupción queremos informar a la ciudadanía acerca del problema de la corrupción e invitarlos a entender el funcionamiento del Sistema Nacional Anticorrupción (SNA) gracias a un lenguaje coloquial.
