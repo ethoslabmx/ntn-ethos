@@ -1,7 +1,7 @@
 ---
 title: IMPUESTOS VERDES EN LA LUCHA CONTRA EL CAMBIO CLIMÁTICO
 date: 2022-01-12T18:17:19.042Z
-img: /img/impuestos-verdes.png
+img: https://ucarecdn.com/8282d8b4-bdff-4ec8-a0a2-d75933a2a1f9/
 img-alt: impuestos verdes
 autor: "Marcela Carrera "
 medio: Animal Político
