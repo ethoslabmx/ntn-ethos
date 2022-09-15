@@ -1,7 +1,7 @@
 ---
 title: REDIRIGIR EL CAMINO PARA HACER FRENTE AL CAMBIO CLIMÁTICO
 date: 2022-01-28T16:40:15.394Z
-img: /img/cambio-clima_tico-2048x1152.jpg
+img: https://ucarecdn.com/6c67cd57-4730-44e8-908d-837cc2d684b0/
 autor: Sebastián Guzmán y Pamela Monroy
 medio: Expansión
 link: https://expansion.mx/opinion/2022/01/28/redirigir-camino-hacer-frente-cambio-climatico
