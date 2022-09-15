@@ -2,7 +2,7 @@
 title: "EL ENFOQUE CONDUCTUAL EN POLÍTICAS PÚBLICAS: EL PAPEL DE LAS EMOCIONES Y
   EL ANÁLISIS RACIONAL"
 date: 2021-12-16T15:11:27.218Z
-img: /img/enfoque-conductal.jpg
+img: https://ucarecdn.com/4d68d7a6-80de-4563-a8b6-4664efc73a87/
 autor: Javier González
 medio: Animal Político
 link: https://www.animalpolitico.com/blog-invitado/el-enfoque-conductual-en-politicas-publicas-el-papel-de-las-emociones-y-el-analisis-racional/
