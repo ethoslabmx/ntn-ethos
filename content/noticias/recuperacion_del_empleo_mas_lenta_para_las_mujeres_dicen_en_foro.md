@@ -1,7 +1,8 @@
 ---
 title: RECUPERACIÓN DEL EMPLEO, MÁS LENTA PARA LAS MUJERES, DICEN EN FORO
 date: 2021-06-04T15:18:59.362Z
-img: /img/empleo-mujeres.png
+img: https://ucarecdn.com/f4163750-f278-4706-bd6b-06f771217322/
+img-alt: mujer trabajando con herramientas y escalera
 autor: La Jornada.
 link: https://www.jornada.com.mx/notas/2021/06/04/politica/recuperacion-del-empleo-mas-lenta-para-las-mujeres-dicen-en-foro/
 category: inclusion
