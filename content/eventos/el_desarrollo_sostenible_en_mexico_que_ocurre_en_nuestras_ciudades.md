@@ -1,7 +1,7 @@
 ---
 title: "EL DESARROLLO SOSTENIBLE EN MÉXICO: ¿QUÉ OCURRE EN NUESTRAS CIUDADES?"
 date: 2021-08-18T16:26:12.032Z
-img: /img/reunio_n-ciudades-sostenibles.png
+img: https://ucarecdn.com/9a896bf9-8eaa-43db-9202-31964accc86c/
 autor: Ethos
 category: ciudades-del-futuro
 extracto: Entre los diversos proyectos que Ethos Laboratorio de Políticas
