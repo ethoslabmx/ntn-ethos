@@ -1,7 +1,7 @@
 ---
 title: "PAQUETE ECONÓMICO: ANTICIPAN GASTO CON MÁS RECORTE A AUTÓNOMOS"
 date: 2021-09-06T19:19:34.852Z
-img: /img/paquete-economico.jpeg
+img: https://ucarecdn.com/a30e277e-71d9-43d8-b69e-1e6474815f97/
 autor: "El Universal "
 category: anticorrupcion
 ---
