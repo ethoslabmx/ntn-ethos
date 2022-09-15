@@ -1,7 +1,8 @@
 ---
 title: EL FUTURO DEL TRABAJO EN EL MUNDO POST COVID-19
 date: 2021-04-21T15:09:29.970Z
-img: /img/futuro-del-empleo.png
+img: https://ucarecdn.com/a64ebf3f-6e86-4d82-92c8-9a52ba66a4e4/
+img-alt: trabajo con cubrebocas covid
 autor: Marlene Reyes y Max Santana
 medio: Expansión
 link: https://expansion.mx/opinion/2021/04/20/el-futuro-del-trabajo-en-el-mundo-post-covid-19
