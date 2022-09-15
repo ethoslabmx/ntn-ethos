@@ -2,7 +2,7 @@
 title: "EL CEO: PROYECTOS FERROVIARIOS DEL ACUERDO NACIONAL DE INFRAESTRUCTURA,
   NI TAN NUEVOS"
 date: 2019-11-27T17:22:25.991Z
-img: /img/ferrocarril-viejo-bosque-otono-nublado_118086-1262.jpg
+img: https://ucarecdn.com/49e1c34e-a249-4c4d-8d96-b8b0d2c620dc/
 autor: "El CEO "
 link: https://elceo.com/bienes-raices/proyectos-ferroviarios-del-acuerdo-nacional-de-infraestructura-ni-tan-nuevos/
 category: ciudades-del-futuro
