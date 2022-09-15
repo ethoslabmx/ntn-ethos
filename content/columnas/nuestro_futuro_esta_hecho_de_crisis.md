@@ -1,7 +1,7 @@
 ---
 title: NUESTRO FUTURO ESTÁ HECHO DE CRISIS
 date: 2021-10-08T15:42:57.542Z
-img: /img/crisis_cambio-clima_tico.png
+img: https://ucarecdn.com/29ea8b2f-8ee9-4d7e-95f9-88e71a0da9d4/
 autor: Laure Delalande
 medio: Animal Político
 link: https://www.animalpolitico.com/blog-invitado/nuestro-futuro-esta-hecho-de-crisis/
