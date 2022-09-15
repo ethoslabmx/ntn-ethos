@@ -1,7 +1,7 @@
 ---
 title: EL MESAI, UNA HERRAMIENTA FUNDAMENTAL EN EL COMBATE A LA CORRUPCIÓN
 date: 2021-12-07T20:05:02.122Z
-img: /img/mesai.jpg
+img: https://ucarecdn.com/175dedf8-dd85-4f57-8084-394e123cf6ac/
 autor: " Secretaría Ejecutiva del SNA"
 link: https://www.youtube.com/watch?v=DqyzYO-ocYs
 category: anticorrupcion
