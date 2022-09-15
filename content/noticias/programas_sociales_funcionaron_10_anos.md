@@ -1,7 +1,7 @@
 ---
 title: " PROGRAMAS SOCIALES FUNCIONARON 10 AÑOS"
 date: 2014-05-19T15:20:10.283Z
-img: /img/programas_sociales_duran.jpg
+img: https://ucarecdn.com/dfb00595-cab0-401d-8bf1-d6a5f5f7e219/
 autor: Excelsior
 link: https://www.excelsior.com.mx/nacional/2014/05/19/960098
 category: inclusion
