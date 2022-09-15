@@ -2,7 +2,7 @@
 title: Identificar riesgos de corrupción permite ajustar los programas sociales
   para aumentar su efectividad
 date: 2021-08-31T15:25:10.932Z
-img: /img/riesgos-de-corrupcio_n.jpeg
+img: https://ucarecdn.com/e48f8d10-d196-4adc-ad2a-e410185de2d6/
 autor: Ethos
 category: inclusion
 extracto: Con el objetivo de dar a conocer el trabajo realizado desde la
