@@ -1,5 +1,5 @@
 ---
-puesto: INTERN CIUDADES DEL FUTURO
+puesto: Ciudades del Futuro
 category: internships
 date: 2022-09-13T00:05:15.931Z
 area: CIUDADES DEL FUTURO
