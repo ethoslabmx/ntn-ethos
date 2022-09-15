@@ -1,7 +1,8 @@
 ---
 title: “SEMBRANDO VIDA”, EL PROGRAMA CON FALLAS QUE AMLO QUIERE OFRECER A BIDEN
 date: 2021-04-22T15:44:31.155Z
-img: /img/campesinosembrando-vida.png
+img: https://ucarecdn.com/c52c9eee-1d32-436e-b024-44574ee9813b/
+img-alt: Campesino Sembrando Vida revisando cosecha
 autor: Expansión
 link: https://politica.expansion.mx/mexico/2021/04/22/sembrando-vida-el-programa-con-fallas-que-amlo-quiere-ofrecer-a-biden
 category: desarrollo-sostenible
