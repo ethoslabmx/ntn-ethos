@@ -1,7 +1,8 @@
 ---
 title: "LO QUE SÍ PODEMOS HACER: TANQUES DE PENSAMIENTO PARA UN MEJOR GOBIERNO"
 date: 2016-07-07T23:06:32.926Z
-img: /img/estepai_s.jpg
+img: https://ucarecdn.com/c94192fc-17f6-4974-a3ad-af265cae83cb/
+img-alt: cabeza con engranes pensando en un mejor gobierno
 autor: José Luis Chicoma
 medio: Este País
 link: https://estepais.com/articulo.php?id=593&t=lo-que-si-podemos-hacer-tanques-de-pensamiento-para-un-mejor-gobierno
