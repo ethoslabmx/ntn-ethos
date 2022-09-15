@@ -1,5 +1,5 @@
 ---
-puesto: INTERNSHIP ÁREA DE DISEÑO
+puesto: "Diseño "
 category: internships
 date: 2022-09-13T00:10:40.839Z
 ---
