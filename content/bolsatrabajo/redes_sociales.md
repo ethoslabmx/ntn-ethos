@@ -1,5 +1,5 @@
 ---
-puesto: REDES SOCIALES
+puesto: Redes sociales
 category: internships
 date: 2022-09-13T00:12:14.961Z
 ---
