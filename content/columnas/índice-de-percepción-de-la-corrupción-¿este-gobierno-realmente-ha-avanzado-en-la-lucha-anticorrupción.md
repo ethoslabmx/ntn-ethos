@@ -2,7 +2,7 @@
 title: "ÍNDICE DE PERCEPCIÓN DE LA CORRUPCIÓN: ¿ESTE GOBIERNO REALMENTE HA
   AVANZADO EN LA LUCHA ANTICORRUPCIÓN?"
 date: 2022-01-24T16:48:24.061Z
-img: /img/índice-corrupción-1536x864.jpg
+img: https://ucarecdn.com/64553994-5894-44ae-a5d8-4ef5e537e2b4/-/preview/-/enhance/53/
 img-alt: ÍNDICE DE PERCEPCIÓN DE LA CORRUPCIÓN
 autor: "Luis Ángel Martínez Ramírez y Ma. Fernanda Ortega Valencia "
 medio: Animal Político
