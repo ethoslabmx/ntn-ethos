@@ -1,7 +1,7 @@
 ---
 title: RECHAZAMOS EL USO DISCRECIONAL DE LOS RECURSOS PÚBLICOS
 date: 2018-01-28T15:14:46.984Z
-img: /img/firmas_mexicanos_contra_la_corrupcion.png
+img: https://ucarecdn.com/b89d391b-22a7-47c9-a662-dfd687d634f6/
 autor: Mexicanos Contra la Corrupción y la Impunidad
 category: finanzas-publicas
 ---
