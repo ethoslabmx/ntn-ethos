@@ -1,7 +1,7 @@
 ---
 title: MÁS DATOS, MENOS CORRUPCIÓN
 date: 2021-12-09T20:14:34.105Z
-img: /img/datos-anticorrupcio_n-2048x1182.jpg
+img: https://ucarecdn.com/b975a758-abeb-46c9-9831-395ecd56d0b5/
 autor: Néstor Genis
 medio: Animal Político
 link: https://www.animalpolitico.com/blog-invitado/mas-datos-menos-corrupcion/
