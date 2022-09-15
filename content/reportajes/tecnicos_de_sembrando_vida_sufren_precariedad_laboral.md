@@ -1,7 +1,7 @@
 ---
 title: TÉCNICOS DE SEMBRANDO VIDA SUFREN PRECARIEDAD LABORAL
 date: 2022-08-16T15:03:35.577Z
-img: /img/vacante-sistemas-alimentarios.jpg
+img: https://ucarecdn.com/1d74a896-4fb5-4fdb-b2f9-477f1a0b2e1a/
 autor: "Andrés M. Estrada "
 category: inclusion
 extracto: La tarde que la amenazó no se sintió intimidada. Tampoco le dio mayor
