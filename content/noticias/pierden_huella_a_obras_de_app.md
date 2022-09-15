@@ -1,7 +1,7 @@
 ---
 title: PIERDEN HUELLA A OBRAS DE APP
 date: 2019-12-09T17:20:57.983Z
-img: /img/grupo-trabajador-e-ingeniero-civil-uniforme-seguridad-instalan-acero-reforzado_33835-192.jpg
+img: https://ucarecdn.com/b4e4501c-8176-4e0e-818b-0b787ae25a3c/
 autor: Reforma
 link: https://busquedas.gruporeforma.com/reforma/Documento/Impresa.aspx?id=7242558|InfodexTextos&url=https://hemerotecalibre.reforma.com/20191209/interactiva/RNEG20191209-001.JPG&text=APP+
 category: ciudades-del-futuro
