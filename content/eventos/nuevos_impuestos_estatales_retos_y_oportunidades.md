@@ -1,7 +1,7 @@
 ---
 title: "NUEVOS IMPUESTOS ESTATALES: RETOS Y OPORTUNIDADES"
 date: 2022-02-03T15:17:41.814Z
-img: /img/img-1804.jpg
+img: https://ucarecdn.com/7fcd83b4-8446-4af6-aae0-59b142f4626f/
 autor: Ethos
 category: finanzas-publicas
 extracto: "La mayoría de las entidades federativas dependen altamente de las
