@@ -549,6 +549,20 @@ h1, h2, h3, h4, h5, h6,
 .vacantes .nuxt-content h1,.nuxt-content h2,.nuxt-content h3,.nuxt-content h4,
 .nuxt-content h5,.nuxt-content h6{ margin-top: 3rem;}
 
+/*
+** Sharing
+*/
+.share a:hover, .share a:active{
+    opacity: 0.5;
+    transform: rotateY(360deg);
+    transition: all 0.5s cubic-bezier(0, 0.885, 0.32, 1.275);
+}
+
+
+/*
+** Animations
+*/
+
 
 
 .tracking-in-expand {
@@ -676,4 +690,30 @@ h1, h2, h3, h4, h5, h6,
             transform:  translateY(0);
     opacity: 1;
   }
+}
+
+.fill-text-animation {
+  text-transform: uppercase;
+  background-image: linear-gradient(
+    -225deg,
+    #5b5b5b 0%,
+    #fff 120%,
+    #5b5b5b 200%
+  );
+  background-size: auto auto;
+  background-clip: border-box;
+  background-size: 200% auto;
+  color: #5b5b5b;
+  background-clip: text;
+  text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip 2s linear;
+  display: inline-block;
+}
+
+@keyframes textclip {
+ to {
+   background-position: 200% center;
+ }
 }

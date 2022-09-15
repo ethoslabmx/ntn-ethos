@@ -58,8 +58,7 @@
 import JumbotronEje from '~/components/JumbotronEje.vue';
 
 export default {
-    components: { JumbotronEje },
-
+  components: { JumbotronEje },
   async asyncData({ $content }) {
     const columnas = await $content("columnas").where({category:"ciudades-del-futuro"}).without(['body']).sortBy('date','desc').limit(8).fetch();
 
@@ -92,12 +91,12 @@ export default {
       }
     }
   },
-  mounted(){
+  beforeMount(){
     const cols = this.$store.state.ciudadesdelfuturo.columnas;
     if(cols.length > 0){
       this.columnas = cols;
     }
-    
+
   }
 }
 </script>

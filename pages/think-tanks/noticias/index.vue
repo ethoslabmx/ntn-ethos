@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-    <JumbotronEje title="Think Tanks" subtitle="Noticias" image="tt.jpg"/>
+    <JumbotronEje title="Universo Think Tanks" subtitle="Noticias" image="tt.jpg"/>
     <div class="bg-white border-b-16 border-primary">
       <li v-for="col of columnas" :key="col.slug" class="post">
         <div

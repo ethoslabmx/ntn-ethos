@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-    <JumbotronEje title="ANTICORRUPCIÓN" subtitle="Eventos" image="eventos-jumbo.jpg"/>
+    <JumbotronEje title="INCLUSIÓN" subtitle="Eventos" image="eventos-jumbo.jpg"/>
 
     <div class="bg-white border-b-16 border-primary">
       <li v-for="evento of eventos" :key="evento.slug" class="post">
@@ -86,10 +86,10 @@ export default {
   mounted(){
     const cols = this.$store.state.inclusion.eventos;
     if(cols.length > 0){
-      
+
       this.eventos = cols;
     }
-    
+
   }
 }
 </script>

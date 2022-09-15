@@ -54,7 +54,7 @@ export default {
   },
 
   router: {
-    middleware: ['menu-class']
+    middleware: ['menu-class','adjustScroll']
   },
   generate: { fallback: '404.html' },
 

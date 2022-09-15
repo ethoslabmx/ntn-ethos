@@ -7,7 +7,7 @@
 
         <div class="w-full lg:w-3/4 p-5">
 
-          <h1 class="2xl:text-xl text-lg title">{{ post.title }}</h1>
+          <h1 class="2xl:text-xl text-lg title fill-text-animation">{{ post.title }}</h1>
           <p class="my-6 font-bold"> {{ new Date(post.date).toLocaleDateString('es-MX', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })  }}</p>
           <p class="my-6">
             Por: {{ post.autor }}
@@ -62,7 +62,7 @@
                 :media="post.img"
                 class="mr-3"
               >
-                <img src="../../../assets/images/twwt-gray.png" alt="" class="h-7 w-7">
+                <img src="../../../assets/images/twwt-gray.png" alt="" class="h-7 w-8">
             </ShareNetwork>
             <ShareNetwork
                 network="Email"
@@ -110,7 +110,7 @@
 
 
 export default {
-
+  scrollToTop: true,
   async asyncData({ $content, params, error }) {
 
     let post, publicaciones;
@@ -167,4 +167,6 @@ export default {
   height: 70vh;
   overflow: auto;
 }
+
+
 </style>
