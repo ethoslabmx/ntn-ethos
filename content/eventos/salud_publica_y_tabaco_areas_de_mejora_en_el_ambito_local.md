@@ -1,7 +1,7 @@
 ---
 title: "SALUD PÚBLICA Y TABACO: ÁREAS DE MEJORA EN EL ÁMBITO LOCAL"
 date: 2021-06-10T15:50:57.637Z
-img: /img/salud-publica-webinar.png
+img: https://ucarecdn.com/3532503e-9838-45bf-8eb3-8546f0db0606/
 autor: Ethos
 category: desarrollo-sostenible
 extracto: La normalización del consumo del tabaco es una problemática que se
