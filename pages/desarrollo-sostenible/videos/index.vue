@@ -56,9 +56,10 @@ export default {
 
   async asyncData({ $content }) {
     const posts = await $content("videos").where({category:"desarrollo-sostenible"}).sortBy('date','desc').fetch();
-
+    const total = await $content("videos").where({category:"desarrollo-sostenible"}).only([]).fetch();
     return {
       posts,
+      total
     };
   },
   data(){
@@ -73,24 +74,27 @@ export default {
     },
     async getNext(){
       const newPosts= await this.$content("videos").where({category:"desarrollo-sostenible"}).sortBy('date','desc').skip(this.posts.length).limit(6).fetch();
-      if(newPosts.length == 6){
+      if(newPosts.length > 0){
         this.posts = this.posts.concat(newPosts);
         this.$store.commit('desarrollosostenible/setVideos', this.posts);
-      }  else if(newPosts.length > 0 && newPosts.length < 6){
-        this.posts = this.posts.concat(newPosts);
-        this.$store.commit('desarrollosostenible/setVideos', this.posts);
-        this.more = false;
-      } else  {
+      }
+
+      if(this.total.length == this.posts.length){
         this.more = false;
       }
 
     }
   },
-  mounted(){
+  beforeMount(){
     const cols = this.$store.state.desarrollosostenible.videos;
     if(cols.length > 0){
       this.posts = cols;
     }
+  },
+  mounted(){
+    if(this.total.length == this.posts.length){
+        this.more = false;
+      }
   }
 }
 </script>

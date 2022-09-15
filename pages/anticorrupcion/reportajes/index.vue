@@ -21,7 +21,6 @@ export default {
   data(){
     return {
       loading: false,
-      total: 0,
       more:true,
     }
   },
@@ -57,10 +56,12 @@ export default {
     const p = this.$store.state.anticorrupcion.reportajes;
     if(p.length > 0){
       this.posts = p;
-      if(this.posts.length == this.total.length){
+    }
+  },
+  mounted(){
+    if(this.posts.length == this.total.length){
         this.more = false;
       }
-    }
   }
 }
 </script>

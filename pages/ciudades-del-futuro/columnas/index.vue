@@ -58,6 +58,11 @@ export default {
       }
     }
 
+  },
+  mounted(){
+    if(this.columnas.length == this.total.length){
+        this.more = false;
+      }
   }
 }
 </script>

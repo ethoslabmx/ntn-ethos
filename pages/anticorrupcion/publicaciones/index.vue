@@ -68,6 +68,11 @@ export default {
       }
     }
 
+  },
+  mounted(){
+    if(this.posts.length == this.total.length){
+        this.more = false;
+      }
   }
 }
 </script>

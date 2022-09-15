@@ -55,9 +55,10 @@ export default {
 
   async asyncData({ $content }) {
     const posts = await $content("videos").where({category:"finanzas-publicas"}).sortBy('date','desc').limit(6).fetch();
-
+    const total = await $content("videos").where({category:"finanzas-publicas"}).only([]).fetch();
     return {
       posts,
+      total
     };
   },
   data(){
@@ -71,23 +72,26 @@ export default {
     },
     async getNext(){
       const newPosts= await this.$content("videos").where({category:"finanzas-publicas"}).sortBy('date','desc').skip(this.posts.length).limit(6).fetch();
-      if(newPosts.length == 6){
+      if(newPosts.length > 0){
         this.posts = this.posts.concat(newPosts);
         this.$store.commit('finanzaspublicas/setVideos', this.posts);
-      }  else if(newPosts.length > 0 && newPosts.length < 6){
-        this.posts = this.posts.concat(newPosts);
-        this.$store.commit('finanzaspublicas/setVideos', this.posts);
-        this.more = false;
-      } else  {
+      }
+
+      if(this.posts.length >= this.total.length){
         this.more = false;
       }
     }
   },
-  mounted(){
+  beforeMount(){
     const cols = this.$store.state.finanzaspublicas.videos;
     if(cols.length > 0){
       this.posts = cols;
     }
+  },
+  mounted(){
+    if(this.posts.length >= this.total.length){
+        this.more = false;
+      }
   }
 }
 </script>

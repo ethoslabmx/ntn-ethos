@@ -19,7 +19,7 @@ export default function (to, from, savedPosition) {
       if (savedPosition) {
         setTimeout(() => {
           resolve(savedPosition)
-        }, 500)
+        }, 600)
       } else {
         let position = {}
         if (to.hash) {

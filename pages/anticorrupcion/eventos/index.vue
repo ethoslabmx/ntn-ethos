@@ -31,7 +31,6 @@ export default {
   data(){
     return {
       loading: false,
-      total: 0,
       more:true,
     }
   },
@@ -54,13 +53,13 @@ export default {
   beforeMount(){
     const cols = this.$store.state.anticorrupcion.eventos;
     if(cols.length > 0){
-
       this.eventos = cols;
-      if(this.eventos.length == this.total.length){
+    }
+  },
+  mounted(){
+    if(this.eventos.length == this.total.length){
         this.more = false;
       }
-    }
-
   }
 }
 </script>

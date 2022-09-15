@@ -1,7 +1,24 @@
-export default function({ from }) {
-  const scrollPos = from?.meta[0].scrollPos
-  if (scrollPos && Object.keys(scrollPos).length > 0) {
-    scrollPos.y = window.scrollY || 0
-    scrollPos.x = window.scrollX || 0
-  }
+export default function (to, from, savedPosition) {
+  return new Promise((resolve, reject) => {
+
+      if (savedPosition) {
+        setTimeout(() => {
+          resolve(savedPosition)
+        }, 600)
+      } else {
+        let position = {}
+        if (to.hash) {
+          position.selector = to.hash
+          if (to.hash === '#anchor2') {
+            position.offset = { y: 100 }
+          }
+        }
+        else {
+          position = { x: 0, y: 0 };
+        }
+        resolve(position)
+      }
+
+
+  })
 }

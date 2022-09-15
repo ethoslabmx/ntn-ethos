@@ -43,14 +43,9 @@ export default {
 
     async getNext(){
       const newPosts = await this.$content("publicaciones").where({category:"desarrollo-sostenible"}).without(['body']).sortBy('date','desc').skip(this.posts.length).limit(8).fetch();
-      if(newPosts.length == 8){
+      if(newPosts.length > 0 ){
         this.posts = this.posts.concat(newPosts);
         this.$store.commit('desarrollosostenible/setPublicaciones', this.posts);
-      }
-      else if(newPosts.length > 0 && newPosts.length < 8){
-        this.posts = this.posts.concat(newPosts);
-        this.$store.commit('desarrollosostenible/setPublicaciones', this.posts);
-        this.more = false;
       }
 
       if(this.posts.length == this.total.length){
@@ -63,11 +58,12 @@ export default {
     const p = this.$store.state.desarrollosostenible.publicaciones;
     if(p.length > 0){
       this.posts= p;
-      if(p.length == this.total.length){
+    }
+  },
+  mounted(){
+    if(this.posts.length == this.total.length){
         this.more = false;
       }
-    }
-
   }
 }
 </script>

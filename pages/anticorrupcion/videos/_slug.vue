@@ -3,7 +3,7 @@
     <div class="post_content py-28 bg-white">
       <div class="container xl:px-0 flex ">
         <div class="w-full lg:w-3/4 p-5 mx-auto">
-          <h1 class="2xl:text-xl text-lg title my-10">{{ vid.title }}</h1>
+          <h1 class="2xl:text-xl text-lg title my-10 fill-text-animation">{{ vid.title }}</h1>
         <lite-youtube
           :videoid="vid.video.slice(vid.video.indexOf('v=')+2)"
           :playlabel="vid.title"

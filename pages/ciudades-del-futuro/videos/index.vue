@@ -56,9 +56,10 @@ export default {
 
   async asyncData({ $content }) {
     const posts = await $content("videos").where({category:"ciudades-del-futuro"}).sortBy('date','desc').limit(6).fetch();
-
+    const total = await $content("videos").where({category:"ciudades-del-futuro"}).only([]).fetch();
     return {
       posts,
+      total
     };
   },
   data(){
@@ -72,23 +73,26 @@ export default {
     },
     async getNext(){
       const newPosts = await this.$content("videos").where({category:"ciudades-del-futuro"}).sortBy('date','desc').skip(this.posts.length).limit(6).fetch();
-      if(newPosts.length == 6){
+      if(newPosts.length > 0 ){
         this.posts = this.posts.concat(newPosts);
         this.$store.commit('ciudadesdelfuturo/setVideos', this.posts);
-      }  else if(newPosts.length > 0 && newPosts.length < 6){
-        this.posts = this.posts.concat(newPosts);
-        this.$store.commit('ciudadesdelfuturo/setVideos', this.posts);
-        this.more = false;
-      } else  {
+      }
+
+      if(this.total.length == this.posts.length){
         this.more = false;
       }
     }
   },
-  mounted(){
+  beforeMount(){
     const cols = this.$store.state.ciudadesdelfuturo.videos;
     if(cols.length > 0){
       this.posts = cols;
     }
+  },
+  mounted(){
+    if(this.total.length == this.posts.length){
+        this.more = false;
+      }
   }
 }
 </script>

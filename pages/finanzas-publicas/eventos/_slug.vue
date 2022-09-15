@@ -3,7 +3,7 @@
     <div class="post_content pt-10 pb-20 xl:py-24 bg-white">
       <div class="container flex xl:pr-0 xl:mr-0 xl:pl-15">
         <div class="w-full xl:w-3/4 p-5">
-          <h1 class="2xl:text-xl text-lg title my-4">{{ post.title }}</h1>
+          <h1 class="2xl:text-xl text-lg title my-4 fill-text-animation">{{ post.title }}</h1>
           <p class="my-2">{{ new Date(post.date).toLocaleDateString('es-MX', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }) }}</p>
           <p class="my-2">Por: {{ post.autor }} <span v-if="post.medio">Para: <a :href="post.link">{{ post.medio
           }}</a></span>

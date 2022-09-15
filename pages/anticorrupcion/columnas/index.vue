@@ -74,10 +74,12 @@ export default {
     const cols = this.$store.state.anticorrupcion.columnas;
     if (cols.length > 0) {
       this.columnas = cols;
-      if (this.columnas.length == this.total.length) {
-        this.more = false;
-      }
     }
   },
+  mounted(){
+    if(this.columnas.length == this.total.length){
+        this.more = false;
+      }
+  }
 };
 </script>

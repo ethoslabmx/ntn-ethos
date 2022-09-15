@@ -30,7 +30,6 @@ export default {
   data(){
     return {
       loading: false,
-      total: 0,
       more:true,
     }
   },
@@ -44,7 +43,6 @@ export default {
       if(newPosts.length > 0){
         this.noticias = this.noticias.concat(newPosts);
         this.$store.commit('anticorrupcion/setNoticias', this.noticias);
-
       }
 
       if(this.noticias.length >= this.total.length){
@@ -60,6 +58,11 @@ export default {
         this.more = false;
       }
     }
+  },
+  mounted(){
+    if(this.noticias.length == this.total.length){
+        this.more = false;
+      }
   }
 }
 </script>
