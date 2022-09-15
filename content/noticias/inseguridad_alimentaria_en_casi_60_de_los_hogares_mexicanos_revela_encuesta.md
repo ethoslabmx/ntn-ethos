@@ -1,7 +1,8 @@
 ---
 title: INSEGURIDAD ALIMENTARIA EN CASI 60% DE LOS HOGARES MEXICANOS, REVELA ENCUESTA
 date: 2021-02-11T16:45:50.888Z
-img: /img/inseeguridad-alimentaria.png
+img: https://ucarecdn.com/0e81b241-bb6f-4779-acbd-64e98e9014e8/
+img-alt: Distintas verduras en sus contenedores
 autor: La Jornada
 link: https://www.jornada.com.mx/notas/2021/02/11/politica/inseguridad-alimentaria-en-casi-60-de-los-hogares-mexicanos-revela-encuesta/
 category: desarrollo-sostenible
