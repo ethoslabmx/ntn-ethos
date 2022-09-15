@@ -1,7 +1,7 @@
 ---
 title: RECONOCEN A ETHOS COMO UNO DE LOS THINK TANKS MÁS INNOVADORES DE AMÉRICA LATINA
 date: 2020-01-31T00:09:00.581Z
-img: /img/ranking-2020-infografia.jpg
+img: https://ucarecdn.com/6367d047-a3c3-4afb-9dfa-61c8de989863/
 autor: Ethos
 category: think-tanks
 extracto: "Ethos Laboratorio de Políticas Públicas ha sido reconocido como uno
