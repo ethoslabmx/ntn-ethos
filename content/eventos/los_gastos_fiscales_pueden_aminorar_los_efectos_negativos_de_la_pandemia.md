@@ -1,7 +1,7 @@
 ---
 title: LOS GASTOS FISCALES PUEDEN AMINORAR LOS EFECTOS NEGATIVOS DE LA PANDEMIA
 date: 2021-08-25T14:18:40.323Z
-img: /img/gastos-fiscales.jpeg
+img: https://ucarecdn.com/094f55de-adbf-44da-8bf4-47f6cba527f3/
 autor: Ethos
 category: finanzas-publicas
 extracto: "Recientemente, Ethos Laboratorio de Políticas Públicas dio a conocer
