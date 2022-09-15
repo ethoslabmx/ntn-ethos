@@ -1,7 +1,7 @@
 ---
 title: LOS SERVICIOS PÚBLICOS EFICIENTES SON EL RETO METROPOLITANO
 date: 2021-06-01T16:15:54.423Z
-img: /img/servicios-pu_blicos.png
+img: https://ucarecdn.com/bcf5b836-9c3a-41a2-afc1-c610a175fa3c/
 autor: Sebastián Guzmán
 medio: Expansión.
 link: https://expansion.mx/opinion/2021/06/01/servicios-publicos-eficientes-reto-metropolitano
