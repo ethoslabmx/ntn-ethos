@@ -2,7 +2,7 @@
 title: "LA EMPRESA SOCIAL: SU SITUACIÓN EN MÉXICO Y MODELOS JURÍDICOS EN
   LATINOAMÉRICA"
 date: 2021-02-24T16:48:14.572Z
-img: /img/empresa-social.png
+img: https://ucarecdn.com/6bb44963-637a-47c6-9db7-aaafc5aee447/
 autor: Ethos
 link: https://www.facebook.com/ethoslaboratorio/videos/2518124251822889/
 category: desarrollo-sostenible
