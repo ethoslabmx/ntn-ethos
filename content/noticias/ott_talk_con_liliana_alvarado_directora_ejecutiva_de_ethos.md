@@ -12,3 +12,5 @@ extracto: En este OTT Talks Liliana nos cuenta sobre la situación actual de los
   entre los mismos.
 ---
 En este OTT Talks Liliana nos cuenta sobre la situación actual de los think tanks mexicanos y los retos que están enfrentando actualmente. También hace un análisis de la relación entre el gobierno de México, y del sector público en general, con los think tanks. Finalmente, hace una reflexión sobre la flexibilidad que tienen que tener los think tanks y cómo mejorar el trabajo entre los mismos.
+
+<iframe  src="https://www.youtube.com/embed/jBinRDyLyOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
