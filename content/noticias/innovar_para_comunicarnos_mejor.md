@@ -1,7 +1,8 @@
 ---
 title: INNOVAR PARA COMUNICARNOS MEJOR
 date: 2021-01-01T16:47:05.577Z
-img: /img/personal-2923048_1280.jpg
+img: https://ucarecdn.com/a5f2dfda-abbf-4ef8-a948-43595b4e65c6/
+img-alt: mujer viendo varias pantallas de cerca y su reflejo
 autor: Ethos
 category: desarrollo-sostenible
 extracto: Los think tanks somos entes comunicantes. Está en nuestra naturaleza
