@@ -1,7 +1,7 @@
 ---
 title: "MÉXICO COMBATE LA CORRUPCIÓN CON MUCHA RETÓRICA Y POCOS RESULTADOS: EXPERTOS"
 date: 2021-12-09T20:18:00.620Z
-img: /img/corrupcion.jpeg
+img: https://ucarecdn.com/fbfbd85b-5722-41b5-920d-8e501ce3b3e1/
 autor: Forbes
 link: https://www.forbes.com.mx/noticias-mexico-combate-corrupcion-mucha-retorica-pocos-resultados-expertos/
 category: anticorrupcion
