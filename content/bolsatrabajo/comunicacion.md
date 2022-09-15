@@ -1,5 +1,5 @@
 ---
-puesto: COMUNICACIÓN
+puesto: Comunicación
 category: internships
 date: 2022-09-13T00:08:04.432Z
 ---
