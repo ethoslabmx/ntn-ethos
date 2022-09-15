@@ -1,7 +1,7 @@
 ---
 title: ANALIZAN RETOS DE AMÉRICA LATINA ANTE EL NACIONALISMO Y EL PROTECCIONISMO
 date: 2019-10-25T23:12:11.613Z
-img: /img/whatsapp-image-2019-10-25-at-12.20.161.jpeg
+img: https://ucarecdn.com/b0ec9dd3-9ee3-40f0-99d3-4422dc59b409/
 autor: Ethos
 category: think-tanks
 extracto: América Latina se encuentra ante la disyuntiva actual de un sistema
