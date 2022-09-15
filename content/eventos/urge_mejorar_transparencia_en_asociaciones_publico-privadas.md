@@ -1,7 +1,7 @@
 ---
 title: URGE MEJORAR TRANSPARENCIA EN ASOCIACIONES PÚBLICO-PRIVADAS
 date: 2019-11-21T17:27:33.130Z
-img: /img/panel_transparencia_asociaciones.jpg
+img: https://ucarecdn.com/9c0916c4-0633-4568-8ffd-db1bd2118f6b/
 autor: Excélsior
 link: https://www.excelsior.com.mx/nacional/urge-mejorar-transparencia-en-asociaciones-publico-privadas/1349012
 category: ciudades-del-futuro
