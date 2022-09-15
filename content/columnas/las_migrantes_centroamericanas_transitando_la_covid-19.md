@@ -1,7 +1,8 @@
 ---
 title: LAS MIGRANTES CENTROAMERICANAS TRANSITANDO LA COVID-19
 date: 2021-12-14T16:08:12.347Z
-img: /img/migracion1.jpeg
+img: https://ucarecdn.com/a638f918-fb0a-48de-a524-9c494c7fa712/
+img-alt: migrantes centroamericanas
 autor: Jennifer Ruiz y Laure Delalande
 medio: Animal Político
 link: https://www.animalpolitico.com/blog-invitado/las-migrantes-centroamericanas-transitando-la-covid-19/
