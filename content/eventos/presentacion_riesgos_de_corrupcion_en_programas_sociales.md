@@ -1,7 +1,7 @@
 ---
 title: PRESENTACIÓN RIESGOS DE CORRUPCIÓN EN PROGRAMAS SOCIALES
 date: 2021-09-03T15:21:47.278Z
-img: /img/riesgos_de_corrupcion.jpg
+img: https://ucarecdn.com/9cbdf8c0-ac8e-4b7f-90bf-30b30112cc52/
 autor: Ethos
 link: https://www.ethos.org.mx/wp-content/uploads/2021/09/Presentacion-Evento-Riesgos-de-Corrupcion-2021-31-08.pdf
 category: inclusion
