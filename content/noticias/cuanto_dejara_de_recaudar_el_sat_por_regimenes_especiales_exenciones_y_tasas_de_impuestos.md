@@ -2,7 +2,7 @@
 title: ¿CUÁNTO DEJARÁ DE RECAUDAR EL SAT POR REGÍMENES ESPECIALES, EXENCIONES Y
   TASAS DE IMPUESTOS?
 date: 2021-08-25T14:16:07.843Z
-img: /img/sat_gastos-fiscales.png
+img: https://ucarecdn.com/94b019c6-0308-4c14-9573-02b382fb5190/
 autor: El Universal
 link: https://www.eluniversal.com.mx/cartera/sat-cuanto-dejara-de-recaudar-por-regimenes-especiales-exenciones-y-tasas-de-impuestos
 category: finanzas-publicas
