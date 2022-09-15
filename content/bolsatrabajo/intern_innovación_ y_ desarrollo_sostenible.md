@@ -1,5 +1,5 @@
 ---
-puesto: Intern Innovación y Desarrollo Sostenible
+puesto: Innovación y Desarrollo Sostenible
 category: internships
 date: 2022-08-14T18:54:54.954Z
 area: Innovación y Desarrollo Sostenible
