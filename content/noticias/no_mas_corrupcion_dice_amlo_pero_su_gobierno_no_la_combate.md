@@ -1,7 +1,7 @@
 ---
 title: “NO MÁS CORRUPCIÓN” DICE AMLO, PERO SU GOBIERNO NO LA COMBATE
 date: 2021-12-21T20:16:21.183Z
-img: /img/amlo.png
+img: https://ucarecdn.com/7201747b-46a7-40a4-a9f5-1e11d68e9abd/
 img-alt: Amlo no más corrupción
 autor: El Debate
 link: https://www.debate.com.mx/politica/No-mas-corrupcion-dice-AMLO-pero-su-gobierno-no-la-combate-20211221-0055.html
