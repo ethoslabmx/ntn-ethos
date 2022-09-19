@@ -71,5 +71,7 @@ export default {
 
 <style lang="scss" scoped>
 
-
+li{
+  list-style: none;
+}
 </style>
