@@ -19,11 +19,15 @@ export default {
     //delay 1s to show the overlay then show animation
     let mainImg = new Image();
     let overlay = new Image();
+
+    overlay.src = 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/204808/ink-transition-sprite.png';
     mainImg.onload = () => {
       const banner = document.getElementById('banner');
-      banner.classList.add('is-active');
+      setTimeout(() => {
+        this.showOverlay = false;
+        banner.classList.add('is-active');
+      }, 100);
     };
-    overlay.src = 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/204808/ink-transition-sprite.png';
     mainImg.src = require("../assets/images/jumbotron-index.jpg");
   },
 };
@@ -37,16 +41,19 @@ export default {
   border-bottom: 2rem solid #f28f78;
   min-height: calc(100% * 0.72);
   width: 100%;
-
-
-
-
 }
+
 .c-transition{
   width: 100%;
   margin: 0;
+  min-height: 33vh;
   overflow: hidden;
   position: relative;
+
+  @media screen and (min-width: 1024px) {
+    min-height: 80vh;
+  }
+
   &::before {
     background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/204808/ink-photo-frame.png');
     background-size: 105% 105%;
@@ -85,7 +92,11 @@ export default {
     opacity:0;
     object-position: center;
     transition: all 0.5s ease-in-out;
-    transition-delay: 0.3s;
+    @media screen and (min-width: 1024px) {
+      transition-delay: 1s;
+    }
+
+    transition-delay: 1.2s;
   }
 
   &.is-active > img {

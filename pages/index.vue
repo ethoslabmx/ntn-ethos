@@ -73,7 +73,7 @@
         <div class="container mx-0 ml-auto  flex 10 justify-between items-center lg:flex-row-reverse flex-col">
 
           <div class="lg:w-1/2 3xl:w-1/3 lg:ml-10 self-center tag-container">
-            <img :src="post.img" alt="" class="w-auto object-cover col-img">
+            <img :src="post.img+'-/resize/350x/'" alt="" class="w-auto object-cover col-img">
              <div class="tag">{{nombreEje(post.category)}}</div>
           </div>
 
