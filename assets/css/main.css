@@ -171,6 +171,29 @@ ul.dropdown-child-menu {
 .title.font-light{
   font-weight: 300;
 }
+.relacionadas h2.font,.relacionadas li a{
+  font-family: 'Saira Condensed', 'sans-serif';
+  font-weight: 400;
+  color: #fff;
+  text-transform: uppercase;
+}
+.relacionadas h2.font{
+  font-size: 1.15rem;
+}
+.relacionadas li{
+  margin-bottom: 1rem;
+}
+
+@media (min-width: 700px) {
+  .relacionadas h2.font{
+    text-align: left;
+    font-size: 1.25rem;
+  }
+  .relacionadas li{
+    margin-bottom: 0;
+  }
+
+}
 
 .content-start .title {
   font-family: Roboto, 'sans-serif';
@@ -471,9 +494,10 @@ ul.navbar li ul li {
 
 
 .relacionadas img{
-    height: 150px;
-    object-fit: contain;
-    width: auto;
+    height: auto;
+    max-height: 150px;
+    object-fit: cover;
+    width: 100%;
     display: block;
     margin: auto;
 }
@@ -486,6 +510,8 @@ ul.navbar li ul li {
   }
   .relacionadas img{
     height: 150px;
+    object-fit: cover;
+
   }
 }
 /* ¿adrian, así? */

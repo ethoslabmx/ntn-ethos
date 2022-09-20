@@ -2,9 +2,9 @@
   <div class="app">
     <div class="com">
       <div class="nav-movil">
-        <li class="bg-primary" v-for="(historia,index) in historias" :key="index">
+        <li class="" v-for="(historia,index) in historias" :key="index">
           <img src="../../assets/images/arosblancos.png" class="aros-movil" alt="">
-          <a class="bg-primary" @click="activeSection(index+1)">
+          <a class="" @click="activeSection(index+1)">
             <span class="text-sm text-white mb-3 text-right">
                 {{ historia.title }}
             </span>
@@ -38,7 +38,7 @@
         <section
           class="com__section com__section--text com__hero com__bg bg-gradient-to-b from-primary to-primarylight">
           <div class="container flex flex-col justify-start items-end px-0">
-            <div class="3xl:w-1/3  md:w-1/2  w-3/4 heading">
+            <div class="3xl:w-1/3  md:w-2/3 w-full heading">
               <h1 class="big-title">HISTORIAS DE ÉXITO</h1>
               <p class="">
                 Desde Ethos asumimos el compromiso de asegurar el impacto de nuestro trabajo en la sociedad y directamente en los actores con los que colaboramos. Aquí te compartimos algunas de esas historias de éxito.
@@ -56,16 +56,16 @@
       </div>
       <nav class="com__nav">
         <ul class="com__nav-list">
-          <li class="com__nav-item bg-primary" v-for="(historia,index) in historias" :key="index">
-            <a class="com__nav-link bg-primary" @click="activeSection(index+1)">
-              <span class="animate scaleInLeft delay-2 big-title 4xl:text-xl text-sm text-white mb-3 text-right">
+          <li class="com__nav-item" v-for="(historia,index) in historias" :key="index">
+            <a class="com__nav-link " @click="activeSection(index+1)">
+              <span class="animate scaleInLeft delay-2 big-title 3xl:text-lg text-sm text-white mb-3 text-right">
                   {{ historia.title }}
                 </span>
             </a>
           </li>
 
           <!--
-          <li class="com__nav-item bg-yellow-3">
+          <li class="com__nav-item">
             <a class="com__nav-link" @click="activeSection(2)">
               <div class="com__section-half">
                 <span class="animate scaleInLeft delay-3 4xl:text-xl text-sm  text-white mb-3 text-right">COOPERACiÓN PARA
@@ -78,7 +78,7 @@
               </div>
             </a>
           </li>
-          <li class="com__nav-item  bg-cyan">
+          <li class="com__nav-item">
             <a class="com__nav-link" @click="activeSection(3)">
               <span class="animate scaleIn delay-3 big-title 4xl:text-xl text-sm  text-white mb-3 text-right">CEPAL</span>
               <span class="animate scaleIn delay-5 4xl:text-lg text-white text-righ">El cambio climático y la biodiversidad
@@ -163,12 +163,14 @@ export default {
 .com {
   display: flex;
   align-items: stretch;
-  overflow: hidden;
-  height: calc(100vh - 85px);
+  height: auto;
   flex-direction: column;
 
-  @media screen and (min-width: 768px) {
+  @media screen and (min-width: 720px) {
     flex-direction: row;
+    overflow: hidden;
+    height: calc(100vh - 85px);
+
   }
 
 
@@ -185,7 +187,7 @@ export default {
   }
 
   .nav-movil {
-    @media screen and (min-width: 760px) {
+    @media screen and (min-width: 720px) {
       display: none;
     }
 
@@ -195,6 +197,25 @@ export default {
       flex-direction: row;
       justify-content: space-evenly;
       align-items: center;
+      padding: 1rem;
+      a{
+        font-size: 1rem;
+        font-weight: bold;
+      }
+
+      &:nth-child(n){
+        background-color: var(--bg-pink);
+
+      }
+      &:nth-child(2n){
+        background-color: #F4E08E;
+        a span{color: #5B5B5B;}
+      }
+      &:nth-child(3n){
+        background-color: #74B1B4;
+
+      }
+
     }
 
 
@@ -211,7 +232,7 @@ export default {
     position: relative;
     flex: 8;
     color: #fff;
-    padding: 10vh 10vw;
+    padding: 0;
     background: rgb(242, 143, 120);
     background: linear-gradient(180deg, rgba(242, 143, 120, 1) 25%, rgba(251, 188, 153, 1) 65%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f28f78", endColorstr="#fbbc99", GradientType=1);
@@ -230,11 +251,11 @@ export default {
       background-position: center -25%;
       mix-blend-mode: soft-light;
       z-index: -1;
+      opacity: .35;
         @media (min-width: 1100px) {
           background-size: 90%;
           background-position: top right;
-          mix-blend-mode:normal;
-
+          opacity: .65;
     }
     }
   }
@@ -274,21 +295,23 @@ export default {
       h1 {
         margin: 0 auto;
         margin-bottom: 3vh;
-        font-size: 1.5rem;
+        font-size: 1.15rem;
         max-width: 800px;
-        font-weight: 300;
+        font-weight: bold;
         color: rgba(white, 1);
+        @media(min-width: 700px){
+          font-size: 1.5rem;
+          font-weight: 300;
+        }
         @media(min-width: 1100px){
-          font-size: 2.5rem;
+          font-size: 2rem;
           color: rgba(white, 0.9);
         }
       }
 
       p {
         margin: 0;
-
         color: rgba(white, 1);
-        max-width: 600px;
         font-size: 20px;
         @media(min-width: 1100px){
           color: rgba(white, 1);
@@ -315,33 +338,27 @@ export default {
 
 
     &.com__hero {
-      position: absolute;
-      align-items: flex-end;
-      justify-content: flex-start;
-      margin-left: 1rem;
+
+
+      position: relative;
+      align-items: center;
+      justify-content: center;
+      padding: 0rem;
 
       .heading {
 
-        margin-top:22vh;
+        margin:3rem 0;
         margin-right: auto;
         text-align: right;
         padding: 1rem;
-        @media (max-height: 480px) {
-          margin-top:10vh;
-
-         }
-        @media (min-width: 370px) {
-        margin-right: auto;
-
-        }
-        @media (min-width: 700px) {
-
-        margin-top:18vh;
-        margin-left: auto;
+        @media (min-width: 720px) {
+          margin-left: auto;
 
         }
         @media (min-width: 1020px) {
-        margin-right: 30vh;
+          margin: 0;
+          margin-right: 38vh;
+          margin-left: 0;
 
         }
 
@@ -395,7 +412,19 @@ export default {
     // background: var(--bg-blue-full);
     transition: all .5s cubic-bezier(0.23, 1, 0.32, 1);
     ;
+    &:nth-child(n){
+        background-color: #F28F78;
 
+      }
+      &:nth-child(2n){
+        background-color: #F4E08E;
+        a span{color: #5B5B5B;}
+
+      }
+      &:nth-child(3n){
+        background-color: #74B1B4;
+
+      }
     // &.active {
     // 	background: rgba(#20232A, 1);
     // }
@@ -413,8 +442,11 @@ export default {
       bottom:0;
       margin: auto;
       z-index: 1;
-
       @media (min-width: 768px) {
+        background-size: 60px;
+
+      }
+      @media (min-width: 1100px) {
         background-size: 80px;
 
       }
@@ -475,9 +507,7 @@ export default {
 
       }
       @media (min-width: 1200px) {
-            width: 20vw;
-
-
+            width: 25vw;
       }
   }
 }

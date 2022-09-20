@@ -1,6 +1,6 @@
 <template>
   <div class="menubar">
-    <div class="container xl:px-4">
+    <div class="container md:px-4">
       <div class="flex items-center justify-between saira font-semibold tracking-wider flex-nowrap">
         <div class="brand mr-2 py-3 xl:w-1/6">
           <a href="/"> <img src="../assets/images/logo-dark.png" alt="logo ethos" class="logo object-contain" /></a>
@@ -724,11 +724,12 @@ input[type="radio"] {
       display: flex;
       flex-direction: column;
       align-items: center;
-      justify-content: center;
+      justify-content: flex-start;
       padding-top: 85px;
 
       @media (min-width:700px) {
         height: 100vh;
+        justify-content: center;
 
       }
     }

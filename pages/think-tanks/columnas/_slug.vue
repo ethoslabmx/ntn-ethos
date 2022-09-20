@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="post_content pt-10 pb-20 xl:py-24 bg-white">
+    <div class="post_content md:pt-10 pb-20 xl:py-24 bg-white">
       <div class="container flex xl:pr-0 xl:mr-0 xl:pl-15">
         <div class="w-full xl:w-3/4 p-5">
           <h1 class="2xl:text-xl text-lg title my-4 fill-text-animation">{{ post.title }}</h1>
@@ -74,7 +74,7 @@
 
       </div>
     </div>
-    <div class="relacionadas bg-cyan py-20 text-white">
+    <div class="relacionadas bg-cyan py-12 md:py-20 text-white">
       <div class="container flex items-start flex-wrap xl:flex-nowrap">
         <div class="w-full xl:w-1/6"><h2 class="font md:text-lg text-sm mb-3 xl:mb-0">Columnas relacionadas</h2></div>
        <div class="w-full xl:w-5/6">

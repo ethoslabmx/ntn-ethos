@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="post_content py-28 bg-white">
+    <div class="post_content xl:py-28 bg-white">
       <div class="container xl:px-0 flex ">
         <div class="w-full lg:w-3/4 p-5 mx-auto">
           <h1 class="2xl:text-xl text-lg title my-10 fill-text-animation">{{ vid.title }}</h1>

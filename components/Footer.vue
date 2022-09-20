@@ -104,12 +104,14 @@ footer {
 
 
     h1 {
-      font-size: 2rem;
+      font-size: 1.5rem;
       color: #fff;
       align-self: start;
 
       @media screen and (min-width: 768px) {
         margin-top: -30px;
+        font-size: 2rem;
+
       }
 
     }

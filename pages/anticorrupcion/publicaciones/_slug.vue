@@ -1,7 +1,7 @@
 <template>
 
   <div>
-    <div class="post_content pt-10 pb-20 xl:py-24  bg-white">
+    <div class="post_content md:pt-10 pb-20 xl:py-24  bg-white">
       <img class="img-header" :src="post.img" alt="" v-if="!post.file">
       <div class="container  flex">
 
@@ -88,7 +88,7 @@
         </div>
       </div>
     </div>
-    <div class="relacionadas bg-cyan py-20 text-white">
+    <div class="relacionadas bg-cyan py-12 md:py-20 text-white">
       <div class="container flex items-start flex-wrap xl:flex-nowrap">
         <div class="w-full xl:w-1/6"><h2 class="saira uppercase text-sm mb-3 xl:mb-0 text-white">Artículos relacionados</h2></div>
        <div class="w-full xl:w-5/6">

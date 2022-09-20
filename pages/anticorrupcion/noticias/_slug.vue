@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="post_content pt-10 pb-20 xl:py-24 bg-white">
+    <div class="post_content md:pt-10 pb-20 xl:py-24 bg-white">
       <div class="container flex xl:pr-0 xl:mr-0 xl:pl-15">
         <div class="w-full xl:w-3/4 p-5">
           <h1 class="2xl:text-xl text-lg title my-4 fill-text-animation">{{ post.title }}</h1>

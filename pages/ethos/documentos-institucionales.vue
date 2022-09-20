@@ -2,7 +2,7 @@
   <div class="border-b-16 border-primary app">
     <JumbotronDoc />
     <div class="documentos bg-white">
-      <div class="documento container py-20 flex flex-wrap 2xl:flex-nowrap items-center justify-between" v-for="d in documentos" :key="d.titulo">
+      <div class="documento container py-10 md:py-20 flex flex-wrap 2xl:flex-nowrap items-center justify-between" v-for="d in documentos" :key="d.titulo">
         <div class="col self-start">
           <h2 class="lg:text-2xl text-lg title mb-6">{{d.titulo}}</h2>
           <p>{{d.autor}}</p>
@@ -102,7 +102,7 @@ export default {
 
 
 .doc-cover {
-  
+
   position: relative;
   width: 100%;
   min-width: 200px;
