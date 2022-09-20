@@ -1,6 +1,39 @@
 <template>
   <div class="app">
     <div class="com">
+      <div class="nav-movil">
+        <li class="bg-primary" v-for="(historia,index) in historias" :key="index">
+          <img src="../../assets/images/arosblancos.png" class="aros-movil" alt="">
+          <a class="bg-primary" @click="activeSection(index+1)">
+            <span class="text-sm text-white mb-3 text-right">
+                {{ historia.title }}
+            </span>
+          </a>
+        </li>
+        <!--
+        <li class="bg-yellow-3">
+          <img src="../../assets/images/arosblancos.png" class="aros-movil" alt=""></img>
+          <a class="" @click="activeSection(1)">
+          <div class="">
+                <span class=" text-sm  text-white mb-3 text-right">COOPERACiÓN PARA
+                  TODOS</span>
+                <span class="text-white text-right">Ayuda oficial al desarrollo en
+                  México y LATAM.</span>
+              </div>
+          </a>
+        </li>
+        <li class="bg-cyan" v-for="historia in historias" :key="historia.slug">
+          <img src="../../assets/images/arosblancos.png" class="aros-movil" alt=""></img>
+          <a class="bg-cyan" @click="activeSection(1)">
+            <a class="" @click="activeSection(3)">
+              <span class="text-sm  text-white mb-3 text-right">CEPAL</span>
+              <span class=" text-white text-righ">El cambio climático y la biodiversidad
+                en América Latina y el Caribe.</span>
+            </a>
+          </a>
+        </li>
+        -->
+      </div>
       <div class="com__content">
         <section
           class="com__section com__section--text com__hero com__bg bg-gradient-to-b from-primary to-primarylight">
@@ -23,8 +56,8 @@
       </div>
       <nav class="com__nav">
         <ul class="com__nav-list">
-          <li class="com__nav-item bg-primary" v-for="historia in historias" :key="historia.slug">
-            <a class="com__nav-link bg-primary" @click="activeSection(1)">
+          <li class="com__nav-item bg-primary" v-for="(historia,index) in historias" :key="index">
+            <a class="com__nav-link bg-primary" @click="activeSection(index+1)">
               <span class="animate scaleInLeft delay-2 big-title 4xl:text-xl text-sm text-white mb-3 text-right">
                   {{ historia.title }}
                 </span>
@@ -132,6 +165,13 @@ export default {
   align-items: stretch;
   overflow: hidden;
   height: calc(100vh - 85px);
+  flex-direction: column;
+
+  @media screen and (min-width: 768px) {
+    flex-direction: row;
+  }
+
+
 
   lite-youtube {
     width: 70vw;
@@ -142,6 +182,28 @@ export default {
 
     }
 
+  }
+
+  .nav-movil {
+    @media screen and (min-width: 760px) {
+      display: none;
+    }
+
+    li{
+      list-style: none;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-evenly;
+      align-items: center;
+    }
+
+
+  }
+
+  .aros-movil{
+    display: inline-block;
+    margin: 0 10px;
+    width: 25px;
   }
 
 
@@ -302,6 +364,10 @@ export default {
     right: 0;
     flex: 2;
     height: 100%;
+    display:none;
+    @media screen and (min-width: 760px) {
+      display: flex;
+    }
   }
 
   &__nav-list {
@@ -321,7 +387,7 @@ export default {
     width: 12vw;
     cursor: pointer;
     position: relative;
-    overflow: hidden;
+    overflow: visible;
     height: 30%;
     border-top-left-radius: 2rem;
     border-bottom-left-radius: 2rem;
@@ -372,10 +438,11 @@ export default {
       }
 
     }
-     @media (min-width: 768px) {
-        width:10vw;
 
-      }
+    @media (min-width: 768px) {
+      width:10vw;
+    }
+
   }
 
   &__nav-link {
@@ -393,7 +460,6 @@ export default {
     transform: scaleX(0);
     transform-origin: right center;
     transition: all .5s cubic-bezier(0.23, 1, 0.32, 1);
-
 
     &.flex-row {
       flex-flow: row wrap;
