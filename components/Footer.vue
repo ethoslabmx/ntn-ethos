@@ -79,7 +79,7 @@ hr.bg-white {
 
 footer {
   background-color: #5b5b5b;
-  padding: 3rem;
+  padding: 3rem 1.5rem;
 
   display: flex;
   flex-direction: column;

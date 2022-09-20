@@ -1,7 +1,7 @@
 <template>
   <div class="app home">
     <JumbotronIndex />
-    <div class="separador_header container mx-auto p-6 my-6 md:my-14">
+    <div class="separador_header container mx-auto py-6 md:p-6 my-6 md:my-14">
       <h2 class="big-title xl:text-xl text-md text-right pr-3 tracking-widest">EJES DE INVESTIGACIÓN</h2>
       <hr>
     </div>

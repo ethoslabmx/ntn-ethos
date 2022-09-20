@@ -321,7 +321,7 @@ export default {
     width: 12vw;
     cursor: pointer;
     position: relative;
-    overflow: visible;
+    overflow: hidden;
     height: 30%;
     border-top-left-radius: 2rem;
     border-bottom-left-radius: 2rem;

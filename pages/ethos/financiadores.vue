@@ -8,8 +8,8 @@
         EN NOSOTROS?
       </h1>
     </div>
-    <div class="slider bg-white flex items-center space-between shadow-xl">
-      <li v-for="f in financiadores" :key="f.nombre" class="lg:p-4 p-3">
+    <div class="slider bg-white grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3  gap-8 shadow-xl">
+      <li v-for="f in financiadores" :key="f.nombre" class="">
         <a :href="f.link" class="">
           <img :src="f.logo" alt="">
         </a>
@@ -81,23 +81,24 @@ export default {
     justify-content: center;
 
     li {
+      display: flex;
+      align-items: center;
+      justify-content: center;
 
-      &:first-child {
-        margin-left: .5rem;
+      &:first-child, &:last-child{
+        margin: 1rem 0;
       }
-
-      // &:not(:last-child){
-      //   margin-right: .5rem;
-      // }
       a {
         display: block;
         width: auto;
-        height: 75px;
+        height: 100px;
 
         img{
           object-fit: contain;
           height: 100%;
           width: 100%;
+          padding: 0 1rem;
+
         }
       }
 
@@ -110,17 +111,6 @@ export default {
       width: 85%;
       margin-left: auto;
 
-       li{
-        a{
-        max-width: 300px;
-        height: auto;
-
-          img{
-          height: 120px;
-          width: 280px;
-        }
-       }
-       }
 
     }
   }

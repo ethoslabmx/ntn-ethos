@@ -75,7 +75,7 @@ footer {
 .title {
   letter-spacing: 0.265em;
 }
-
+.eje .content{width: 100%;}
 .eje p {
   font-weight: 600;
   line-height: 1.5rem;
@@ -311,7 +311,9 @@ li.eje:nth-child(3n + 1) {
 li.eje:nth-child(3n + 0) {
   background-color: var(--bg-yellow);
 }
-
+li.post{
+  list-style: none;
+}
 li.post:nth-child(even) {
   background-color: var(--bg-white);
 }
@@ -490,7 +492,7 @@ ul.navbar li ul li {
 
 #__layout {
   position: relative;
-  max-width: 95%;
+  max-width: 100%;
   overflow: hidden;
   margin: 0 auto;
 }

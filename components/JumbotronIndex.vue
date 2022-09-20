@@ -1,12 +1,10 @@
 <!-- Please remove this file from your project -->
 <template>
-  <div>
     <div id="stripped">
       <div class="c-transition" id="banner">
         <img src="../assets/images/jumbotron-index.jpg" alt="">
       </div>
     </div>
-  </div>
 </template>
 <script>
 export default {
@@ -46,7 +44,7 @@ export default {
 .c-transition{
   width: 100%;
   margin: 0;
-  min-height: 33vh;
+  min-height: auto;
   overflow: hidden;
   position: relative;
 
