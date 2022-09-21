@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-    <JumbotronEje title="DESARROLLO SOSTENIBLE" subtitle="REPORTAJES PERIODÍSTICOS" image="desarollo-sostenible-thumb.png"/>
+    <JumbotronEje title="DESARROLLO SOSTENIBLE" subtitle="REPORTAJES PERIODÍSTICOS" image="reportajes-thumb.jpg"/>
     <Micrositios eje="desarrollo-sostenible" categoria="reportajes" :micrositios="micrositios" />
     <ListadoPublicaciones :posts="posts" eje="desarrollo-sostenible" categoria="reportajes" />
     <li class="post last">

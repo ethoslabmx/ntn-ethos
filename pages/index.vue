@@ -151,7 +151,7 @@ export default {
       entries.forEach((entry) => {
         if (entry.isIntersecting) {
           //console.log(entry.target);
-          entry.target.classList.add("reveal-text");
+          entry.target.classList.add("tracking-in-expand");
         } else {
           //obs.unobserve(entry.target);
         }
@@ -204,11 +204,8 @@ export default {
   }
 }
 
-h2.title{
-    color:#fff;
-}
 
-h2.title.reveal-text{
+h2.title{
   color: #5b5b5b;
 }
 

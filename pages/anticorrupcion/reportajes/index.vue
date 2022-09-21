@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-    <JumbotronEje title="ANTICORRUPCIÓN" subtitle="REPORTAJES PERIODÍSTICOS" image="anticorrupcion-thumb.png"/>
+    <JumbotronEje title="ANTICORRUPCIÓN" subtitle="REPORTAJES PERIODÍSTICOS" image="reportajes-thumb.jpg"/>
     <Micrositios eje="anticorrupcion" categoria="reportajes" :micrositios="micrositios" />
     <ListadoPublicaciones :posts="posts" eje="anticorrupcion" categoria="reportajes" />
     <li class="post last">

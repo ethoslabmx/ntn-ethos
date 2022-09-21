@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-   <JumbotronEje title="Inclusión" subtitle="Noticias" image="inclusion-thumb.png"/>
+   <JumbotronEje title="Inclusión" subtitle="Noticias" image="noticias-thumb.jpg"/>
     <div class="bg-white border-b-16 border-primary">
       <ListadoPublicaciones  :posts="noticias" eje="inclusion" categoria="noticias" />
       <li class="post last">

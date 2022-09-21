@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-    <JumbotronEje title="Finanzas públicas" subtitle="Noticias" image="finanzas-publicas-thumb.png"/>
+    <JumbotronEje title="Finanzas públicas" subtitle="Noticias" image="noticias-thumb.jpg"/>
     <div class="bg-white border-b-16 border-primary">
       <ListadoPublicaciones  :posts="noticias" eje="finanzas-publicas" categoria="noticias" />
       <li class="post last">

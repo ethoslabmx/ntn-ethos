@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-    <JumbotronEje title="Ciudades del futuro" subtitle="Noticias" image="ciudades-del-futuro-thumb.png"/>
+    <JumbotronEje title="Ciudades del futuro" subtitle="Noticias" image="noticias-thumb.jpg"/>
     <div class="bg-white border-b-16 border-primary">
       <ListadoPublicaciones  :posts="noticias" eje="ciudades-del-futuro" categoria="noticias" />
       <li class="post last">

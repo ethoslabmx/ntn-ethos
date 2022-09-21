@@ -1,7 +1,7 @@
 
 <template>
   <div class="app">
-    <JumbotronEje title="CIUDADES DEL FUTURO" subtitle="REPORTAJES PERIODÍSTICOS" image="ciudades-del-futuro-thumb.png"/>
+    <JumbotronEje title="CIUDADES DEL FUTURO" subtitle="REPORTAJES PERIODÍSTICOS" image="reportajes-thumb.jpg"/>
     <Micrositios eje="ciudades-del-futuro" categoria="reportajes" :micrositios="micrositios" />
     <ListadoPublicaciones :posts="posts" eje="ciudades-del-futuro" categoria="reportajes" />
     <li class="post last">

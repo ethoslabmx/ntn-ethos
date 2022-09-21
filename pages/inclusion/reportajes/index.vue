@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-    <JumbotronEje title="INCLUSIÓN" subtitle="REPORTAJES PERIODÍSTICOS" image="inclusion-thumb.png"/>
+    <JumbotronEje title="INCLUSIÓN" subtitle="REPORTAJES PERIODÍSTICOS" image="reportajes-thumb.jpg"/>
     <Micrositios eje="inclusion" categoria="reportajes" :micrositios="micrositios" />
     <ListadoPublicaciones :posts="posts" eje="inclusion" categoria="reportajes" />
     <li class="post last">

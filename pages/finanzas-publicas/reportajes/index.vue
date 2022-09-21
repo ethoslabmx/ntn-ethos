@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-    <JumbotronEje title="Finanzas públicas" subtitle="REPORTAJES PERIODÍSTICOS" image="finanzas-publicas-thumb.png"/>
+    <JumbotronEje title="Finanzas públicas" subtitle="REPORTAJES PERIODÍSTICOS" image="reportajes-thumb.jpg"/>
     <Micrositios eje="finanzas-publicas" categoria="reportajes" :micrositios="micrositios" />
     <ListadoPublicaciones :posts="posts" eje="finanzas-publicas" categoria="reportajes" />
     <li class="post last">
