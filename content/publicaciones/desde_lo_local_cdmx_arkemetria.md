@@ -22,7 +22,9 @@ file: https://ucarecdn.com/dec89819-02c1-4c65-9cef-d88bdc33a2ab/
 
 El combate a la corrupción no es algo exclusivo del gobierno, la sociedad civil organizada puede y debe ser un actor determinante para lograr instituciones fuertes, que rindan cuentas y que detecten, investiguen y sancionen actos de corrupción. Arkemetria Social entendió esto muy bien y desde 2012 ha impulsado la creación de una sociedad con instituciones y un gobierno transparente y abierto a la participación ciudadana.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2020/09/Foto-de-_3.jpg)](https://www.ethos.org.mx/wp-content/uploads/2020/09/Foto-de-_3.jpg)
+![](https://ucarecdn.com/b905fdbf-39c3-4b49-95ae-091edf29133f/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2020/09/Foto-de-_3.jpg)
 
 Sus esfuerzos se han focalizado en el valle de México alrededor de cuatro ejes temáticos: Transparencia y Acceso a la Información Pública; Participación Ciudadana y Sociedad Civil; Evaluación y Rendición de Cuentas Social, y Gobierno Abierto y Anticorrupción.  
 
@@ -32,7 +34,9 @@ En el Estado de México han impulsado la Red Mexiquense de Gobierno Abierto, un 
 
 Asimismo, junto con Locallis A.C., organización civil queretana, desarrollaron un proyecto para fortalecer los Sistemas Locales Anticorrupción (SLA), este contó con el apoyo del Programa de las Naciones Unidas para el Desarrollo y la Agencia de Estados Unidos para la Cooperación Internacional (USAID, por sus siglas en inglés). El proyecto buscó fortalecer por medio de capacitaciones, talleres y desarrollo de herramientas de medición el trabajo de los Comités de Participación Ciudadana de los SLA. Locallis trabajó en Querétaro, mientras que Arkemetria en la Ciudad de México y el Estado de México. En el marco de este proyecto, y en alianza con el Colectivo de Ciudadanos por Municipios Transparentes (CIMTRA), se elaboró una Caja de herramientas en materia anticorrupción. 
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2020/09/DSC03034-scaled.jpg)](https://www.ethos.org.mx/wp-content/uploads/2020/09/DSC03034-scaled.jpg)Estos materiales fueron compartidos principalmente con población en situación de vulnerabilidad para que los aplicaran, las mujeres fueron el grupo con mayor receptividad. De ahí surgió un nuevo Programa de capacitaciones que se llamó “Mujeres vigilantes de lo Público” que contó con la participación de 49 mujeres de diversas alcaldías de la CDMX y municipios del Estado de México, mismas que realizaron 9 ejercicios de vigilancia ciudadana sobre asuntos públicos relacionados con programas sociales, obra pública y seguridad pública.
+![](https://ucarecdn.com/d653a122-801c-422a-92a2-93fb7cfb7f2f/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2020/09/DSC03034-scaled.jpg)Estos materiales fueron compartidos principalmente con población en situación de vulnerabilidad para que los aplicaran, las mujeres fueron el grupo con mayor receptividad. De ahí surgió un nuevo Programa de capacitaciones que se llamó “Mujeres vigilantes de lo Público” que contó con la participación de 49 mujeres de diversas alcaldías de la CDMX y municipios del Estado de México, mismas que realizaron 9 ejercicios de vigilancia ciudadana sobre asuntos públicos relacionados con programas sociales, obra pública y seguridad pública.
 
 Para darle continuidad a todos sus esfuerzos, junto con Locallis y Mujeres, Democracia y Ciudadanía (MUCEDI) crearon la Comunidad Anticorrupción, un espacio abierto, colaborativo e inclusivo de generación e intercambio de conocimiento para fortalecer las capacidades de las y los agentes locales en el combate de la corrupción. Uno de los productos más importantes de esta Comunidad es el documento denominado “Transparencia proactiva hacia una agenda de prevención de la corrupción municipal”.
 
