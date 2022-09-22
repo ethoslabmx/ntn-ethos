@@ -2,8 +2,8 @@
 title: "Desde lo local: Nuevo León"
 date: 2020-08-17T23:00:08.668Z
 img: https://ucarecdn.com/6fd48301-3644-4e94-a018-199346032836/
-category: anticorrupcion
 autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+category: anticorrupcion
 extracto: En la década de los setenta, Nuevo León vivió una de sus épocas más
   oscuras; la sociedad estaba polarizada política y socialmente, y el estado
   vivía una crisis de seguridad, marcada por el asesinato de Eugenio Garza Sada,
@@ -14,7 +14,9 @@ file: https://ucarecdn.com/532ae57a-5a2b-4ae6-84df-4dc52f7ea7cc/
 
 # Haciendo comunidad por un Nuevo León sin corrupción
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2020/06/Logo-45-aniversario-construyendo-pu%CC%81blico-1-y-2.png)](https://www.ethos.org.mx/wp-content/uploads/2020/06/Logo-45-aniversario-construyendo-pu%CC%81blico-1-y-2.png)
+![](https://ucarecdn.com/6fdf6314-4d1c-40fa-a044-c46690c75ac0/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2020/06/Logo-45-aniversario-construyendo-pu%CC%81blico-1-y-2.png)
 
 #### *Consejo Cívico de Instituciones de Nuevo León, A.C.* 
 
