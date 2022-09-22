@@ -25,7 +25,9 @@ El activismo social es una fuerza transformadora que, cuando es encausada por es
 
 Una de las acciones que mejor ilustra su forma de trabajo fue la campaña contra “Iluminemosq Chihuahua”, proyecto municipal que buscaba concesionar el servicio de alumbrado público a privados por 15 años, con un costo para el municipio de 6,200 millones de pesos. Aunque este bien público es necesario, dicha concesión era opaca y existían serios riesgos  de corrupción. 
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2020/08/DEBATE-PLEBISCITO-3.jpg)](https://www.ethos.org.mx/wp-content/uploads/2020/08/DEBATE-PLEBISCITO-3.jpg)De acuerdo con los medios locales, cuando el proyecto fue presentado ante el Cabildo, un regidor de oposición mostró que tenía un sobrecosto de casi mil millones de pesos. Además de que el proyecto no especificaba el destino de los 296 mdp que obtendría el municipio por el Derecho de Alumbrado Público que paga cada ciudadano en su recibo de la luz. Asimismo, otros miembros de la sociedad civil y la oposición señalaban que este proyecto no era necesario puesto que el 90% de las luminarias en el municipio aún servían y que si se quería realizar, existían otras alternativas más baratas para la sustitución y mantenimiento de las luminarias, como crear una Asociación Público-Privada.
+![](https://ucarecdn.com/e62e4cf8-d8b2-4e38-8a81-67737c333063/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2020/08/DEBATE-PLEBISCITO-3.jpg)De acuerdo con los medios locales, cuando el proyecto fue presentado ante el Cabildo, un regidor de oposición mostró que tenía un sobrecosto de casi mil millones de pesos. Además de que el proyecto no especificaba el destino de los 296 mdp que obtendría el municipio por el Derecho de Alumbrado Público que paga cada ciudadano en su recibo de la luz. Asimismo, otros miembros de la sociedad civil y la oposición señalaban que este proyecto no era necesario puesto que el 90% de las luminarias en el municipio aún servían y que si se quería realizar, existían otras alternativas más baratas para la sustitución y mantenimiento de las luminarias, como crear una Asociación Público-Privada.
 
 Ante todas estas irregularidades, la RPC no se quedó en el escritorio, salió a las calles y llamó a la movilización. Como primer paso comenzaron a sensibilizar a la población sobre los posibles actos de corrupción que ocurrirían si esta obra se llevará a cabo. Después, comenzaron los diálogos con integrantes del Cabildo para que no se votará a favor de la concesión, lamentablemente no fueron escuchados.
 
@@ -35,7 +37,9 @@ El plebiscito, que se realizó el 24 de noviembre del 2019, resultó ser un refe
 
 De esta manera el proyecto fue frenado, y los beneficios no sólo fueron para el municipio de Chihuahua, sino que también motivó a otros municipios a hacer lo mismo, este fue el caso de Ciudad Juárez, donde se iba a llevar a cabo un proyecto similar a “Iluminemos Chihuahua”, y se planeó un Plebiscito para detenerlo. Sin embargo, antes de que éste se llevara a cabo, el alcalde independiente Armando Cabada, desistió de su proyecto de reconversión tecnológica del alumbrado público, y el cabildo de Juárez dio marcha atrás.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2020/08/DEBATE-PLEBISCITO-2.jpg)](https://www.ethos.org.mx/wp-content/uploads/2020/08/DEBATE-PLEBISCITO-2.jpg)
+![](https://ucarecdn.com/384366fb-4fb4-43d9-9f29-e3b0bb2af165/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2020/08/DEBATE-PLEBISCITO-2.jpg)
 
 Es por lo anterior que, en palabras de Nayo Rodríguez, Secretario Ejecutivo de la RPC: “más que investigaciones o publicaciones, lo que realmente nos ha funcionado \[para combatir la corrupción] es elevar el costo político \[de los gobernantes al hacer proyectos plagados de corrupción], a través de las herramientas de participación ciudadana”.
 
