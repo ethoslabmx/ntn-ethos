@@ -15,7 +15,7 @@ extracto: "Los caminos rurales pueden detonar el desarrollo de las comunidades
 
 Los caminos rurales pueden detonar el desarrollo de las comunidades y, por lo tanto, elevar la calidad de vida de sus habitantes. No obstante, la problemática identificada en los programas destinados a su construcción y conservación inhiben este potencial. En este sentido, este documento expone cómo los tres órdenes de gobierno atienden los caminos rurales y qué áreas de oportunidad existen. De manera transversal, se muestra cómo la falta de transparencia en torno a los caminos rurales dificulta conocer cuánto invierte cada gobierno en el tema; con qué criterios se priorizan y seleccionan los proyectos, y cuál es el impacto de la inversión realizada.
 
-![](https://www.ethos.org.mx/wp-content/uploads/2019/09/caminos-rurales-portadilla-1.jpg)
+![](https://ucarecdn.com/922c646f-9ff9-42e7-b3ff-9bde2c1b1f37/)
 
 # El impacto económico y social de los caminos rurales 
 
@@ -53,7 +53,7 @@ Una de las principales funciones de las JEC es construir, conservar y modernizar
 
 **Cuadro 1. Programas que también atienden caminos rurales**
 
-![](https://www.ethos.org.mx/wp-content/uploads/2019/09/Caminos-rurales-Cuadro-1.-Programas-que-tambi%C3%A9n-atienden-caminos-rurales.jpg)
+![](https://ucarecdn.com/be33bc47-f038-403b-bca9-0ac8cc2aac0c/)
 
 Fuente: elaboración propia
 
@@ -63,7 +63,7 @@ Territorialmente, algunos estados invierten más recursos del Fondo en caminos r
 
 **Gráfica 1. Porcentaje del FISE destinado a caminos rurales**
 
-![](https://www.ethos.org.mx/wp-content/uploads/2019/09/Caminos-Rurales-Gr%C3%A1fica-1.-Porcentaje-del-FISE-destinado-a-caminos-rurales.jpg)
+![](https://ucarecdn.com/6fccd477-c1ac-40fe-9aab-7b7ba2af27ca/)
 
 Fuente: elaboración propia con datos publicados por la Secretaría de Bienestar 2019.
 
@@ -77,7 +77,7 @@ Ahora bien, la inversión realizada por los estados y municipios a través del F
 
 **Tabla 1. Recursos destinados a caminos rurales 2014-2018**
 
-![](https://www.ethos.org.mx/wp-content/uploads/2019/09/Caminos-rurales-Tabla-1.-Recursos-destinados-a-caminos-rurales-2014-2018.jpg)
+![](https://ucarecdn.com/ee30697a-b802-4669-9c4e-b82f09d9b420/)
 
 Fuente: elaboración propia con datos publicados por la Secretaría de Bienestar 2019.
 
@@ -85,7 +85,7 @@ Es importante mencionar que, a través de un Artículo Transitorio dentro del De
 
 **Gráfica 2. Porcentaje del FISMDF destinado a caminos rurales**
 
-![](https://www.ethos.org.mx/wp-content/uploads/2019/09/Caminos-Rurales-Gr%C3%A1fica-2.-Porcentaje-del-FISMDF.jpg)
+![](https://ucarecdn.com/e74b3987-10f8-497c-9d55-c4942c7caa52/)
 
 Fuente: elaboración propia con datos publicados por la Secretaría de Bienestar 2019.
 
@@ -103,7 +103,7 @@ La información es incongruente, desactualizada e incompleta. El Portal Transpar
 
 Esta incongruencia entre ambas fuentes de información es originada por la desactualización e incompletitud de ambas fuentes de información. Por un lado, los 583 proyectos registrados en el portal Transparencia Presupuestaria incluyen aquellos que debieron concluirse en el 2018, estos proyectos no son contemplados en la Cartera Pública de Inversión, tal es el caso del proyecto “Circuito Manzanillo- Mirador-Progreso Manzanillo”.22 Por otro lado, la Cartera Pública de Inversión no contiene información sobre algunos proyectos, que según el portal de Transparencia Presupuestaria están vigentes. En este caso encontramos el camino Petatlán-San José de los Olivos en Guerrero.23
 
-![](https://www.ethos.org.mx/wp-content/uploads/2019/09/Caminos-rurales-portadilla-2-300x300.jpg)
+![](https://ucarecdn.com/e8359e63-260e-4747-9121-f3ec5f7ead45/)
 
 Finalmente, una parte importante de la información publicada en la Cartera Pública de Inversión es la factibilidad técnica, legal y ambiental de cada proyecto. No obstante, algunas obras carecen de estos documentos. En el estado de Durango, por ejemplo, el proyecto titulado Cuencamé-Santa Cruz de la Cuchilla-General Simón Bolívar no tiene el proyecto ejecutivo concluido y el impacto ambiental se encuentra en proceso. De igual forma, el proyecto Ferrería de Apulco-San Pedro Vaquerías en Hidalgo, no cuenta con la factibilidad técnica ni con la factibilidad legal.
 
