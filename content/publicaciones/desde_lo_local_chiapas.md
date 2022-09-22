@@ -2,8 +2,8 @@
 title: "Desde lo local: Chiapas"
 date: 2020-08-19T22:57:52.955Z
 img: https://ucarecdn.com/75ab2243-6d26-47b2-8115-4b6b9723cfba/
-category: anticorrupcion
 autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+category: anticorrupcion
 extracto: En Chiapas casi el 30% de la población habla alguna lengua indígena,
   de los cuales, el 14%  no habla español. A pesar de ello, la Ley del Sistema
   Estatal Anticorrupción (SEA) no está disponible en alguna de las 12 lenguas
@@ -15,7 +15,9 @@ file: https://ucarecdn.com/612345d6-95cc-4c5d-b81e-8fd299a2cd26/
 
 # La inclusión y pertinencia cultural para combatir la corrupción
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2020/06/KINTILTIK-A.C-01.png)](https://www.ethos.org.mx/wp-content/uploads/2020/06/KINTILTIK-A.C-01.png)
+![](https://ucarecdn.com/97d93a65-27d8-4f2e-9f0c-cf6db3f6692e/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2020/06/KINTILTIK-A.C-01.png)
 
 #### ***Kintiltik***
 
