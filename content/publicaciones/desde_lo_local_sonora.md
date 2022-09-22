@@ -16,7 +16,9 @@ file: https://ucarecdn.com/575bbdee-ba0f-4170-a445-800e7d534358/
 
 # Promover la igualdad de oportunidades como una manera de combatir la corrupción
 
-#### [![](https://www.ethos.org.mx/wp-content/uploads/2020/08/1-Logo-Avance-y-Desarrollo-A.C-4.png)](https://www.ethos.org.mx/wp-content/uploads/2020/08/1-Logo-Avance-y-Desarrollo-A.C-4.png)Avance y Desarrollo por la Igualdad 
+![](https://ucarecdn.com/fd23088f-faf9-4404-92f2-41ee7fc81d6c/)
+
+#### [](https://www.ethos.org.mx/wp-content/uploads/2020/08/1-Logo-Avance-y-Desarrollo-A.C-4.png)Avance y Desarrollo por la Igualdad 
 
 “Por la igualdad”
 
@@ -26,13 +28,17 @@ Uno de los primeros proyectos de Avance fue impulsar la campaña #SéDerecho, en
 
 Actualmente trabajan en la construcción de una Agenda Ciudadana Anticorrupción en Sonora, que se nutre de las opiniones y aportaciones de diversos sectores como el académico, el de los periodistas y medios de comunicación, el estudiantil y de actores de la sociedad civil interesados en el combate a la corrupción.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2020/08/Reuniones-coparmex.jpg)](https://www.ethos.org.mx/wp-content/uploads/2020/08/Reuniones-coparmex.jpg)
+![](https://ucarecdn.com/b55f1a75-294b-4355-939a-859ec7ca14cb/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2020/08/Reuniones-coparmex.jpg)
 
 Para liderar adecuadamente la construcción de esta agenda decidieron capacitarse, tomando distintos talleres para entender el Sistema Nacional Anticorrupción y el nuevo régimen de responsabilidades administrativas y penales vinculadas a hechos de corrupción, además de otros, como el de periodismo de investigación, que les aportaron nuevas herramientas para lograr sus objetivos.
 
 Avance está trabajando para llegar a ser un referente en el combate de la corrupción en Sonora. En consecuencia, el Sistema Estatal Anticorrupción (SEA) de Sonora, a través del CPC; la Agencia de los Estados Unidos para el Desarrollo Internacional (USAID), y el Instituto de Resultados Rápidos (RRI) los invitaron a ser parte de “El Reto 100 Días en el Sistema Anticorrupción”, lo que ha sido una oportunidad para Avance para conocer más sobre el SEA y sus áreas de oportunidad.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2020/08/Evento-reto.jpg)](https://www.ethos.org.mx/wp-content/uploads/2020/08/Evento-reto.jpg)
+![](https://ucarecdn.com/cdae5904-269f-4075-ba8e-ddf61fc4c929/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2020/08/Evento-reto.jpg)
 
 En Sonora, los tres retos elegidos para este ejercicio fueron : 1) incrementar el número casos por posibles delitos de corrupción que llegan a manos del Poder Judicial, 2)  incrementar el número de resoluciones por faltas administrativas presentadas por Órganos Internos de Control (OIC) a la Sala Especializada en Materia de Anticorrupción y Responsabilidades Administrativas del Tribunal de Justicia Administrativa del Estado de Sonora, e 3) incrementar el cumplimiento de las Recomendaciones No Vinculantes (RNV) emitidas por el Comité Coordinador a las dependencias del Sistema Estatal Anticorrupción  (SEA). Avance participa en los retos 2 y 3.
 
@@ -41,9 +47,9 @@ La participación de Avance en el reto 2 ha sido relevante, ya que se han prese
 Lamentablemente, debido a la pandemia, el “reto de los 100 días” se ha pausado, pero los involucrados en este reto ya han tenido algunos logros:  
 
 1. 1. 1. La Sala Especializada ha resuelto 3 de las 5 faltas graves que se habían propuesto resolver;
-      2. De las 5 faltas no graves que se habían propuesto resolver, ya todas fueron turnadas a la Coordinación Ejecutiva de Investigación de Faltas Administrativas de la Secretaría de la Contraloría General;
-      3. Se redujeron los plazos de resolución de la Sala Especializada, y
-      4. Se elaboró una Guía para la investigación de faltas administrativas y la difusión de mecanismos de denuncia ciudadana.
+   2. De las 5 faltas no graves que se habían propuesto resolver, ya todas fueron turnadas a la Coordinación Ejecutiva de Investigación de Faltas Administrativas de la Secretaría de la Contraloría General;
+   3. Se redujeron los plazos de resolución de la Sala Especializada, y
+   4. Se elaboró una Guía para la investigación de faltas administrativas y la difusión de mecanismos de denuncia ciudadana.
 
 Finalmente, a raíz de su participación en el reto 3, Avance propuso y colaboró en la elaboración de un documento que sirve de apoyo para que la elaboración de propuestas de RNV puedan ser más eficientes.
 
