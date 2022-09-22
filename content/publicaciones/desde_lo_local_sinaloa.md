@@ -2,8 +2,8 @@
 title: "Desde lo local: Sinaloa"
 date: 2020-10-05T22:09:12.182Z
 img: https://ucarecdn.com/3b5c0d6a-e898-4c12-a457-4d3b59bb6acf/
-category: anticorrupcion
 autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+category: anticorrupcion
 extracto: Muchos de los casos más emblemáticos de corrupción en México han sido
   exhibidos por el periodismo de investigación, lo que en su momento dio pie a
   que fueran investigados por las autoridades correspondientes.
@@ -21,7 +21,9 @@ Muchos de los casos más emblemáticos de corrupción en México han sido exhibi
 
 Por lo anterior, organizaciones como Iniciativa Sinaloa son tan necesarias en el país. Esta Organización de la Sociedad Civil (OSC) fue fundada el 8 de junio del 2010 en la ciudad de Culiacán, Sinaloa, con la intención de investigar e incidir en las políticas públicas a favor de los Derechos Humanos. Sin embargo, poco a poco empezaron a notar que el periodismo de investigación relacionado con temas anticorrupción era una herramienta poderosa para visibilizar los problemas, generar sanciones y promover cambios legales.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2020/09/30739142_693576714099469_1422383689718824960_o.jpg)](https://www.ethos.org.mx/wp-content/uploads/2020/09/30739142_693576714099469_1422383689718824960_o.jpg)Así, realizaron una investigación periodística llamada “Precasín: la caja negra del gobierno de Sinaloa”, que denunció prácticas opacas e ilegales en una constructora propiedad del gobierno. Esto ayudó para que el Congreso del Estado modificara la Ley de Obras en el apartado de administración directa, y la obligara a actuar con transparencia y con reglas claras.
+![](https://ucarecdn.com/4a238d7b-f17c-4f35-b426-ae7fd133ad0d/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2020/09/30739142_693576714099469_1422383689718824960_o.jpg)Así, realizaron una investigación periodística llamada “Precasín: la caja negra del gobierno de Sinaloa”, que denunció prácticas opacas e ilegales en una constructora propiedad del gobierno. Esto ayudó para que el Congreso del Estado modificara la Ley de Obras en el apartado de administración directa, y la obligara a actuar con transparencia y con reglas claras.
 
 Además, a través de una investigación periodística denominada “OPERACIÓN DESFALCO: La ordeña del erario” documentaron que en la última década 16 funcionarios y políticos de Sinaloa ––ex gobernadores, senadores, diputados, líderes de partidos, candidatos, alcaldes y secretarios de estado–– lograron obtener contratos o subsidios públicos mientras se hallaban en una posición de privilegio. Lamentablemente, y aunque no se ha concretado, tras la investigación fueron amenazados de emprender acciones legales en su contra. Después de publicar otros trabajos han sido objeto de campañas de desprestigio en redes sociales y hostigamiento de parte de agentes del gobernación local.
 
@@ -29,7 +31,9 @@ Hubo otro caso importante, el de Armando Villarreal, secretario de Administraci�
 
 La primera audiencia de este caso estuvo poco concurrida, ya que asistieron ––además de los interesados directos–– solo dos medios locales y algunos representantes de Iniciativa Sinaloa. Sin embargo, en parte por su estrategia de comunicación, a la segunda audiencia asistieron dos integrantes del Comité de Participación Ciudadana de Sinaloa, más de seis medios y otros representantes de la sociedad civil.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2020/09/82627655_1482243471899452_3099006946322153472_n-1.jpg)](https://www.ethos.org.mx/wp-content/uploads/2020/09/82627655_1482243471899452_3099006946322153472_n-1.jpg)
+![](https://ucarecdn.com/f76eecba-1909-45bc-8e0a-f1e3688be199/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2020/09/82627655_1482243471899452_3099006946322153472_n-1.jpg)
 
 En la primera audiencia la administración de Quirino Ordaz Coppel aceptó un acuerdo donde el imputado repararía el daño patrimonial al estado de Sinaloa calculado en más de 300 millones de pesos con una “multa” de sólo 2 millones de pesos, con esta suspensión condicional del proceso, el imputado no iría a la cárcel. Ante este hecho, la jueza del caso, Sara Bruna, negó la suspensión condicional del proceso a Armando Villarreal Ibarra y a los otros dos ex funcionarios acusados, incluso, catalogó este acuerdo como “inmoral” debido a que no promovía la verdadera reparación del daño. 
 
