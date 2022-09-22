@@ -16,7 +16,9 @@ file: https://ucarecdn.com/3ec89188-227b-436b-a445-99c85b122be7/
 
 # Jóvenes y mujeres, el futuro y presente de la lucha contra la corrupción
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2020/08/TIERRA-COLECTIVA-01.png)](https://www.ethos.org.mx/wp-content/uploads/2020/08/TIERRA-COLECTIVA-01.png)
+
+
+![](https://ucarecdn.com/ae1b45dd-6830-4f84-b276-18cc2eb5d438/)
 
 #### Tierra Colectiva
 
@@ -26,7 +28,9 @@ Siendo conscientes de que la corrupción es uno de los mayores obstáculos para
 
 Esta asociación civil busca construir una ciudadanía informada, crítica, participativa, organizada, plural y democrática, y para ello estimulan la participación ciudadana de dos de los sectores más olvidados de la sociedad: las mujeres y los jóvenes.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2020/08/foto7.jpg)](https://www.ethos.org.mx/wp-content/uploads/2020/08/foto7.jpg)
+![](https://ucarecdn.com/843ae44a-6788-45b0-ba2f-f923eec25e06/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2020/08/foto7.jpg)
 
 Para motivar a las mujeres a involucrarse en la lucha contra la corrupción, Tierra Colectiva lanzó el programa “Mujeres por la Integridad”, una serie de talleres que muestran los efectos de corrupción en el cumplimiento de los DDHH de las mujeres. Uno de los talleres más importantes de este programa fue “la Corrupción en el sector salud contra la mujer: el caso de la Violencia obstétrica”. 
 
@@ -36,7 +40,9 @@ Respecto de su trabajo con jóvenes, Tierra Colectiva se ha enfocado en realizar
 
 Asimismo, Tierra Colectiva e Iniciativa Sinaloa implementaron el programa “Ciudadanos por la Integridad del Estado”, mismo que tiene como objetivo fortalecer los vínculos entre los CPC y la sociedad civil en cada estado, a través de conversatorios, de la creación de redes locales anticorrupción, de la capacitación a los miembros de los CPC, entre otras actividades.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2020/08/foto10.jpg)](https://www.ethos.org.mx/wp-content/uploads/2020/08/foto10.jpg)
+![](https://ucarecdn.com/720688af-2fa2-4dec-8389-0c368eff129f/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2020/08/foto10.jpg)
 
 Es innegable que la lucha contra la corrupción requiere el fortalecimiento de los Sistemas Estatales Anticorrupción (SEA), particularmente el del Baja California, que pasa por uno de los momentos más críticos desde su creación, pues tanto la Fiscal Anticorrupción como el Magistrado Anticorrupción Del Tribunal Estatal de Justicia Administrativa de Baja California (TEJA) renunciaron recientemente. Además de que la parte ciudadana del SEA ha sido golpeada en varias ocasiones. Por un lado, el Congreso no ha nombrado al integrante del Comité de Selección faltante, por lo que no se han podido renovar 4 asientos del CPC. 
 
