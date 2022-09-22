@@ -238,7 +238,7 @@ El comportamiento observado en la cantidad y monto de gastos fiscales, los cuale
 
 **Gráfica 1. Evolución de los gastos fiscales en México (mdp) y su proporción respecto a los ingresos presupuestados**
 
-![](https://www.ethos.org.mx/wp-content/uploads/2021/07/Gastos-Fisclaes-2021-Graficas1.png)
+![](https://ucarecdn.com/5ce08e02-e32c-4d1d-bd00-f435ad33283f/)
 
 *Fuente: elaboración propia con base en el Presupuesto de Gastos Fiscales de 2012 a 2021 de la SHCP y la LIF de 2012 a 2021.*\
 *Nota: precios constantes de 2020.*\
@@ -270,7 +270,7 @@ El conocimiento profundo de estos gastos es imprescindible para el país, ya que
 
 **Gráfica 4. Gastos fiscales en países selectos como porcentaje del PIB en 2018**
 
-![](https://www.ethos.org.mx/wp-content/uploads/2021/07/Artboard-3-copy-3-100.jpg)
+![](https://ucarecdn.com/fa04e866-213f-45f2-8c7c-c17bf88869a1/)
 
 Fuente: elaboración propia con base en el CIAT (2019).
 
@@ -282,7 +282,7 @@ Los impuestos incluidos en el PGF son el Impuesto Sobre la Renta Empresarial (IS
 
 **Gráfica 5. Pérdida recaudatoria por tipo de impuesto (%)**
 
-![](https://www.ethos.org.mx/wp-content/uploads/2021/07/Artboard-3-copy-4-100.jpg)
+![](https://ucarecdn.com/fbcbb8cb-dc08-4873-bf9f-c369eda6d123/)
 
 *Fuente: elaboración propia con base en el Presupuesto de Gastos Fiscales de 2012 a 2021 de la SHCP.*
 
@@ -327,7 +327,7 @@ De acuerdo con los Presupuestos de Gastos Fiscales de 2012 a 2020 y las Renuncia
 
 **Gráfica 7. Pérdida recaudatoria de los Gastos Fiscales por tipo de tratamiento en el ISR empresarial, 2012-2021**
 
-![](https://www.ethos.org.mx/wp-content/uploads/2021/07/Gastos-Fisclaes-2021-Graficas-7.png)
+![](https://ucarecdn.com/def8e3bb-e498-4ebe-aee8-58f4ce2e9be6/)
 
 *Fuente: elaboración propia con base en el Presupuesto de Gastos Fiscales de 2012 a 2021 de la SHCP (2020a).*\
 *Nota: precios constantes de 2020.*
@@ -352,7 +352,7 @@ Dentro de este rubro, la exención a jubilaciones, pensiones o haberes de retiro
 
 **Gráfica 8. Gastos fiscales por tipo de tratamiento en el ISR de personas físicas, 2012-2021**
 
-![](https://www.ethos.org.mx/wp-content/uploads/2021/07/Artboard-3-copy-8-100.jpg)
+![](https://ucarecdn.com/aac6b45f-e24b-42a6-92c4-48bc54d394e7/)
 
 *Fuente: elaboración propia con base en el Presupuesto de Gastos Fiscales de 2012 a 2021 de la SHCP (2020a).*\
 *Nota: precios constantes de 2020.*
@@ -376,7 +376,7 @@ El IVA es uno de los impuestos con menos tratamientos fiscales, pero genera la m
 
 **Gráfica 10. Gastos fiscales por tipo de tratamiento en el IVA, 2012-2021**
 
-![](https://www.ethos.org.mx/wp-content/uploads/2021/07/Artboard-3-copy-10-100.jpg)
+![](https://ucarecdn.com/33d2e3fc-c6b4-429f-b9bd-0282115a6482/)
 
 *Fuente: elaboración propia con base en el Presupuesto de Gastos Fiscales de 2012 a 2021 de la SHCP (2020a).*\
 *Nota: precios constantes de 2020.*
@@ -397,7 +397,7 @@ En la gráfica 11 se puede ver que 2017 fue el año con el mayor monto registrad
 
 **Gráfica 11. Gastos fiscales por tipo de tratamiento en los impuestos especiales, 2012-2021**
 
-![](https://www.ethos.org.mx/wp-content/uploads/2021/07/Artboard-3-copy-11-100.jpg)
+![](https://ucarecdn.com/23222e18-b934-4d39-89b5-55f8a797fd75/)
 
 *Fuente: elaboración propia con base en el Presupuesto de Gastos Fiscales de 2012 a 2021 de la SHCP (2020a).*\
 *Nota: precios constantes de 2020.*
