@@ -186,8 +186,6 @@ Basado en un análisis preliminar de la literatura, un estudio realizado por Bro
 
 Al 1 de junio de 2017 se analizaron los 81 Bonos de Impacto contratados mostrando que, de las diez afirmaciones, **seis se encuentran respaldadas por evidencia.14**
 
-
-
 ![](https://ucarecdn.com/bed5d7a9-f8f4-4a30-bf50-18e730a88939/)
 
 Figura II “Diez afirmaciones que apoyan el potencial de los Bonos de Impacto”. Fuente: Elaboración propia con información de Gustafsson-Wright, Gardiner & Putcha (2015)
@@ -556,7 +554,9 @@ Una metodología de evaluación híbrida que incluirá una evaluación directa d
 **Siguientes pasos:**\
 La intervención está diseñada para ser escalable en Jalisco y replicable en otros países.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/BIS_Chiapas.jpg "Pago por resultados: Chiapas")](https://www.ethos.org.mx/wp-content/uploads/2017/07/BIS_Chiapas.jpg)
+
+
+![](https://ucarecdn.com/56e67b8a-5918-413f-9db7-32cb5749259e/)
 
 Pago por resultados: Chiapas
 
@@ -655,7 +655,9 @@ En México, un Bono de Impacto puede aplicar las leyes federales o las leyes loc
 \
 Por cuestiones de espacio, esta investigación sólo se enfoca en las reglas a nivel federal. En todo caso, debe tenerse en cuenta que **para cada marco legal federal analizado, existe un marco similar a nivel subnacional** (las reglas y detalles específicos varían dependiendo del estado). La información correspondiente a las características y particularidades de cada uno de los esquemas jurídicos mencionados en este apartado, sobre la cual se sustenta el presente análisis, se encuentra en el **Apéndice I.**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Fig3.jpg "Figura III “Esquemas jurídicos para un Bono de Impacto”")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Fig3.jpg)
+![](https://ucarecdn.com/57f99215-38d2-4376-9b79-584e2aa71b7d/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/07/Fig3.jpg)
 
 Figura III “Esquemas jurídicos para un Bono de Impacto”.120 Fuente: Elaboración propia. Investigación de los autores.
 
@@ -701,7 +703,9 @@ Uno de los retos principales para los Bonos de Impacto son los ciclos políticos
 \
 Dado lo anterior, en México los estados pueden dividirse en **tres etapas dentro del ciclo político.** 
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Fig4.jpg "Figura IV “Ciclos políticos al 1· de junio 2017” 124")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Fig4.jpg)
+
+
+![](https://ucarecdn.com/379b4ed3-66cb-4d63-b230-c1afed1a2bf8/)
 
 Figura IV “Ciclos políticos al 1· de junio 2017”.124 Fuente: Elaboración propia con información de Tribunal Electoral del Poder Judicial de la Federación y INE (2017)
 
@@ -715,7 +719,9 @@ En México, además de los recursos autogenerados, los estados tienen dos fuente
 
 La figura V indica la **cantidad de recursos asignados a los estados** en aportaciones federales.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Fig5.jpg "Figura V “Aportaciones federales para 2017”")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Fig5.jpg)
+![](https://ucarecdn.com/7431f0fb-443c-486b-a40c-855885d77ce1/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/07/Fig5.jpg)
 
 Figura V “Aportaciones federales para 2017”. Fuente: Elaboración propia con información de la SHCP (2016)
 
@@ -727,7 +733,9 @@ En la figura VI se clasifican en extremadamente fuerte (AAA), muy fuerte (AA+ �
 \
 Lo anterior es relevante porque uno de los retos para la realización de un Bono de Impacto es la incapacidad de pago del patrocinador por resultados. **Un historial crediticio poco favorable** puede crear una incertidumbre en torno a la capacidad del gobierno para garantizar el retorno de la inversión a los inversionistas. Ante esto una posible solución es involucrar a patrocinadores por resultados internacionales junto con actores locales para un Bono de Impacto.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Fig6.jpg "Figura VI “La capacidad de pago de los estados mexicanos”")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Fig6.jpg)
+
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/07/Fig6.jpg)
 
 Figura VI “La capacidad de pago de los estados mexicanos”. Fuente: Elaboración propia con información de S&P, Moody’s y Fitch (2016)
 
@@ -735,7 +743,9 @@ Figura VI “La capacidad de pago de los estados mexicanos”. Fuente: Elaboraci
 
 El mercado de inversión de impacto ha surgido de diversos fenómenos a nivel mundial, fuertes presiones presupuestarias que sufren los países debido a la crisis financiera del año 2008, la necesidad de los gobiernos a complementar los programas públicos, a través de la inversión y provisión de intervenciones con impactos claramente sociales y medioambientales; y un cambio de perspectiva en los grupos de inversión sobre todo de inversionistas jóvenes que anteponen proyectos de impacto en sus portafolios. A pesar del perfil atractivo de este sector, es correcto indicar que **el mercado de inversión de impacto es aún un sector naciente y en pleno desarrollo**. Por lo anterior, alrededor del mundo se han conformado Grupos de Trabajo (o *task forces*) en foros como el G8 y G20 en donde se han clarificado los roles de los actores relevantes para impulsar la inversión de impacto y la colaboración necesaria entre estos actores para maximizar el desarrollo de su ecosistema. Estos actores relevantes del ecosistema de inversión de impacto han definido como factor clave dentro de sus operaciones, estrategias específicamente enfocadas a promover el impacto social y medioambiental, situación que los diferencia de otro tipo de inversiones con perfiles más tradicionales.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Fig7.jpg "Figura VII “Ecosistema de inversión de impacto”")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Fig7.jpg)
+
+
+![](https://ucarecdn.com/edb9e2f5-7535-454d-b2c9-3517cd70f005/)
 
 Figura VII “Ecosistema de inversión de impacto”. Fuente: Elaboración propia con información de OECD (2015a)
 
@@ -755,7 +765,9 @@ En el sector público, desde su establecimiento, **el INADEM** se ha definido
 \
 En consecuencia, las inversiones de capital emprendedor se han sextuplicado entre 2011 y 2015, colocando más de 260 millones de dólares en total. En el rubro de inversión de impacto, entre 2014 y 2015, se invirtieron 65 millones de dólares en 46 proyectos y para 2016 se estimaban 136 millones de dólares.136 **El 62 por ciento del capital destinado a la inversión de impacto proviene de instituciones financieras**; los tres principales sectores en los que se invirtió durante el 2015 son: la inclusión financiera con $43 millones de dólares; salud con $5.9 millones de dólares y el sector agrícola con $5.2 millones de dólares.137
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Fig8.jpg "Figura VIII“Capital total (MDD)”")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Fig8.jpg)
+![](https://ucarecdn.com/41a0005e-4234-448c-a874-c74f5d2979b6/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/07/Fig8.jpg)
 
 Figura VIII “Capital total (MDD)”. Fuente: Elaboración propia con datos de ANDE 2016
 
