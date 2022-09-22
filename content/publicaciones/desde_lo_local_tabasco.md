@@ -24,7 +24,9 @@ Un ejemplo de que esto es posible es Eges, una OSC originaria de Tabasco y funda
 
 Ante esa situación, Eges decidió dar un giro total a su trabajo, y aunque no dejó de lado su compromiso con las personas en situación de vulnerabilidad, comenzó a trabajar también en prevenir la corrupción. 
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2020/10/ESS-4.jpg)](https://www.ethos.org.mx/wp-content/uploads/2020/10/ESS-4.jpg)
+![](https://ucarecdn.com/f8ab7e42-6fb9-4c61-9af1-43880cdd4954/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2020/10/ESS-4.jpg)
 
 Por ello, y como primer paso, decidieron socializar los problemas generados por la corrupción, y darle voz, herramientas e información a los ciudadanos para que se conviertan en agentes de cambio en esta lucha. Justo así surgió uno de sus proyectos más exitosos: Los Equipos de Seguimiento Social. 
 
@@ -32,7 +34,9 @@ Esta iniciativa fue auspiciada por el Programa de las Naciones Unidas para el De
 
 Además, para garantizar un monitoreo efectivo Eges usó este modelo y comenzó un proceso de capacitación para que los ciudadanos se conviertan en un contrapeso real del gobierno. Por lo que, en primer lugar, fortaleció las competencias cívicas, al igual que socializó y promovió la apropiación del modelo, para lo que se lanzó una convocatoria.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2020/10/GRADUACION-ESS.jpg)](https://www.ethos.org.mx/wp-content/uploads/2020/10/GRADUACION-ESS.jpg)
+![](https://ucarecdn.com/7fbff5e3-386c-415d-8ac1-a159e05d4072/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2020/10/GRADUACION-ESS.jpg)
 
 Y la respuesta de la sociedad no se hizo esperar, pues recibieron 78 aplicaciones, de las cuales 70 personas fueron seleccionadas para ser parte de los equipos de seguimiento, logrando así convertirse en uno de los proyectos más novedosos de contraloría social del país. Esto es muy necesario puesto que, en palabras de Sara Guadalupe Aguilar Mujica, presidente de Eges “La Auditoría (Superior del Estado) hace un buen trabajo, pero ellos hacen una `necropsia´, auditan una obra ya ejecutada y si la corrupción ya sucedió ellos solo comienzan el proceso para fincar responsabilidades; por eso son tan importantes los equipos de seguimiento social, lo que buscan es la prevención y evitar la corrupción, desde el momento que una obra sea licitada se puede prevenir la corrupción, que no sea sólo castigar, sino no permitir que las cosas pasen”.
 
