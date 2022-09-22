@@ -15,8 +15,6 @@ file: https://ucarecdn.com/bac4f3bf-4178-4684-9416-e40cd8a58748/
 ---
 ![](https://ucarecdn.com/d8b2e6e4-572c-4c8f-9baf-b09efea9c728/)
 
-
-
 <!--StartFragment-->
 
 Infografía general “Bonos de Impacto: oportunidades y retos”
@@ -118,7 +116,11 @@ Los Bonos de Impacto han generado un especial interés en los últimos años com
 
 La transacción de un Bono de Impacto generalmente involucra por lo menos **tres clases de agentes principales,** además de la población beneficiaria \[ver figura I]. Los inversionistas otorgan capital al proveedor quien presta servicios sociales a una población beneficiaria. El patrocinador por resultados acuerda reembolsar al inversionista si se logran los resultados predeterminados. Además de estas tres clases de agentes, el apoyo legal y técnico puede ser necesario. Por ejemplo, un intermediario puede tener la responsabilidad de recaudar capital y reunir a las partes interesadas para llegar a un acuerdo en cuanto a los detalles transaccionales. Adicionalmente, un evaluador o un grupo de verificadores, tiene que medir los resultados obtenidos (el evaluador puede ser interno, es decir, uno de los agentes ya involucrados). Dentro de los Bonos de Impacto que existen hoy en día, hay muchas variaciones de este modelo básico.2
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Fig1-1.png "Figura 1 “Mecánica del Bono de Impacto”")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Fig1-1.png)
+
+
+![](https://ucarecdn.com/636463d5-c0be-426e-9d7c-912062c84f89/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/07/Fig1-1.png)
 
 Figura 1 “Mecánica del Bono de Impacto”.3  Fuente: Elaboración propia con información de Gustafsson-Wright, Gardiner and Putcha (2015).
 
@@ -297,8 +299,8 @@ Aunque el contexto en el que este Bono de Impacto fue desarrollado es muy distin
 
 #### b. Rezago educativo
 
-**Los retos****\
-La educación es una herramienta fundamental para modificar las condiciones de vida** de las personas y generar tanto un bienestar individual como un desarrollo económico generalizado en las regiones. De acuerdo con varios estudios, los países que invierten de forma correcta en la educación básica de la población, pueden asegurar un crecimiento PIB per cápita de entre el cuatro por ciento y siete por ciento.49
+**Los retos\*\***\
+La educación es una herramienta fundamental para modificar las condiciones de vida\*\* de las personas y generar tanto un bienestar individual como un desarrollo económico generalizado en las regiones. De acuerdo con varios estudios, los países que invierten de forma correcta en la educación básica de la población, pueden asegurar un crecimiento PIB per cápita de entre el cuatro por ciento y siete por ciento.49
 
 En México, de acuerdo al INEA, hay **30.1 millones de personas mayores de 15 años (34.1 por ciento) con rezago educativo** (personas analfabetas o que no han terminado primaria o secundaria).50 Esta problemática se da en todo el país, especialmente en los estados más pobres.51 El mayor número de personas con rezago educativo en proporción al total de la población se encuentra en Chiapas con el 52 por ciento; Oaxaca con el 49 por ciento; Michoacán con el 48 por ciento; Guerrero con el 47 por ciento y Veracruz con el 44 por ciento. De acuerdo con un informe de la SEP, el costo de que los jóvenes abandonen la escuela equivale a 34 mil millones de pesos de inversión pública al año.52
 
@@ -571,9 +573,10 @@ Pago por resultados: Chiapas
 43,316 alumnos.
 
 **Fecha de inicio:**\
+
 2013.
 
-*\
+\*\
 **Actores***
 
 **Patrocinador por resultados:**\
@@ -624,8 +627,6 @@ La experiencia ha mostrado que **un Bono de Impacto toma un lapso significativo
 \
 Una de las observaciones hechas en el estudio realizado por Brookings en el 2015117  sobre los Bonos de Impacto a nivel internacional, aplica también para las experiencias en México; los Bonos de Impacto son impulsados por las personas involucradas, por lo que **el empuje realizado por individuos sobresalientes puede ser clave para su desarrollo exitoso**.
 
- 
-
 # **4**
 
 [![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Infograf%C3%ADaCAP4F.jpg 'Infografía 4 "Entorno mexicano para los Bonos de Impacto"')](https://www.ethos.org.mx/wp-content/uploads/2017/07/Infograf%C3%ADaCAP4F.jpg)
@@ -653,8 +654,6 @@ En México, un Bono de Impacto puede aplicar las leyes federales o las leyes loc
 ¿Qué pasaría si un Bono de Impacto se pagará con fondos federales y estatales? En esta situación debe usarse un criterio similar al contenido en el último párrafo del art. 4 de la Ley de APP: **quien pone más recursos, pone las reglas**. Así, la ley que regirá al Bono de Impacto dependerá de si la mayoría de los recursos son federales o estatales. Este criterio también puede ser aplicable para los fideicomisos y la ley de servicios, con base en sus respectivas leyes.\
 \
 Por cuestiones de espacio, esta investigación sólo se enfoca en las reglas a nivel federal. En todo caso, debe tenerse en cuenta que **para cada marco legal federal analizado, existe un marco similar a nivel subnacional** (las reglas y detalles específicos varían dependiendo del estado). La información correspondiente a las características y particularidades de cada uno de los esquemas jurídicos mencionados en este apartado, sobre la cual se sustenta el presente análisis, se encuentra en el **Apéndice I.**
-
-
 
 [![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Fig3.jpg "Figura III “Esquemas jurídicos para un Bono de Impacto”")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Fig3.jpg)
 
