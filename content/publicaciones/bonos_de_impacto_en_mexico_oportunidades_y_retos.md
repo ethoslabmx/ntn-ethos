@@ -116,8 +116,6 @@ Los Bonos de Impacto han generado un especial interés en los últimos años com
 
 La transacción de un Bono de Impacto generalmente involucra por lo menos **tres clases de agentes principales,** además de la población beneficiaria \[ver figura I]. Los inversionistas otorgan capital al proveedor quien presta servicios sociales a una población beneficiaria. El patrocinador por resultados acuerda reembolsar al inversionista si se logran los resultados predeterminados. Además de estas tres clases de agentes, el apoyo legal y técnico puede ser necesario. Por ejemplo, un intermediario puede tener la responsabilidad de recaudar capital y reunir a las partes interesadas para llegar a un acuerdo en cuanto a los detalles transaccionales. Adicionalmente, un evaluador o un grupo de verificadores, tiene que medir los resultados obtenidos (el evaluador puede ser interno, es decir, uno de los agentes ya involucrados). Dentro de los Bonos de Impacto que existen hoy en día, hay muchas variaciones de este modelo básico.2
 
-
-
 ![](https://ucarecdn.com/636463d5-c0be-426e-9d7c-912062c84f89/)
 
 [](https://www.ethos.org.mx/wp-content/uploads/2017/07/Fig1-1.png)
@@ -164,7 +162,7 @@ Los Bonos de Impacto sólo tienen siete años de existencia, aún falta mucho po
 9. Cuando los inversionistas pueden **presionar indebidamente** a los proveedores de servicio y el diseño del Bono de Impacto no puede mitigar ese riesgo.
 10. Cuando existen riesgos que no se pueden aminorar frente a la **corrupción** en la contratación, en el diseño del pago por resultado o en la evaluación, a pesar de que la presencia de varios actores —como los inversionistas, un intermediario y un evaluador independiente—, en un Bono de Impacto debe favorecer la transparencia.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/InfografiaCap1-2F.png "BONOS DE IMPACTO A NIVEL MUNDIAL")](https://www.ethos.org.mx/wp-content/uploads/2017/07/InfografiaCap1-2F.png)
+![](https://ucarecdn.com/aca1afc4-5ec7-4217-850f-2c3193cc64a4/)
 
 Bonos de Impacto a nivel mundial y por sector
 
@@ -188,7 +186,9 @@ Basado en un análisis preliminar de la literatura, un estudio realizado por Bro
 
 Al 1 de junio de 2017 se analizaron los 81 Bonos de Impacto contratados mostrando que, de las diez afirmaciones, **seis se encuentran respaldadas por evidencia.14**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Fig2.png "Figura II “Diez afirmaciones que apoyan el potencial de los Bonos de Impacto”")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Fig2.png)
+
+
+![](https://ucarecdn.com/bed5d7a9-f8f4-4a30-bf50-18e730a88939/)
 
 Figura II “Diez afirmaciones que apoyan el potencial de los Bonos de Impacto”. Fuente: Elaboración propia con información de Gustafsson-Wright, Gardiner & Putcha (2015)
 
@@ -482,7 +482,7 @@ Aunque en el país no se ha implementado hasta ahora un Bono de Impacto, algunos
 
 Así, en México, resaltamos la experiencia de **dos ejemplos de proyectos en curso** con financiamiento basado en resultados:
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/BIS_-Jalisco.jpg "Bonos de impacto: Jalisco")](https://www.ethos.org.mx/wp-content/uploads/2017/07/BIS_-Jalisco.jpg)
+![](https://ucarecdn.com/6dd1798c-5a8d-4f5e-9ecc-38d49242b77c/)
 
 Bonos de impacto: Jalisco
 
