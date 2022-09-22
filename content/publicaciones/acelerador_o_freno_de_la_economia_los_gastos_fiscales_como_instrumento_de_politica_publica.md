@@ -408,7 +408,7 @@ De acuerdo con la SHCP (2020), el fin de los estímulos es promover o “estimul
 
 **Gráfica 12. Origen de los estímulos fiscales establecido en el PGF, 2012-2021**
 
-![](https://www.ethos.org.mx/wp-content/uploads/2021/07/Artboard-3-copy-12-100.jpg)
+![](https://ucarecdn.com/74980757-e591-4aaa-acb9-2c5d0fad3db3/)
 
 *Fuente: elaboración propia con base en el Presupuesto de Gastos Fiscales de 2012 a 2021 de la SHCP (2020a).*\
 *Nota: precios constantes de 2020.*
