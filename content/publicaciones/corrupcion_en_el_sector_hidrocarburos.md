@@ -2,8 +2,8 @@
 title: Corrupción en el sector hidrocarburos
 date: 2018-04-12T23:40:31.683Z
 img: https://ucarecdn.com/cfab61af-6760-42e1-94ec-3b473ad189bc/
-category: anticorrupcion
 autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+category: anticorrupcion
 extracto: El sector hidrocarburos es clave para el funcionamiento de la economía
   global, ya que permite producir buena parte de la energía eléctrica que se
   consume en el mundo, genera millones de empleos e ingresos para los gobiernos.
@@ -74,7 +74,9 @@ Por su parte, los países donde la corrupción no es percibida como un elemento 
 
 **Tabla 1. Posición de Reino Unido en los índices analizados**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2018/04/hidrocarburos-tabla-1.png)](https://www.ethos.org.mx/wp-content/uploads/2018/04/hidrocarburos-tabla-1.png)
+![](https://ucarecdn.com/5bd5b036-e988-4365-90ba-12142453c199/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2018/04/hidrocarburos-tabla-1.png)
 
 Fuente: elaboración propia
 
@@ -88,7 +90,9 @@ Aunque el Índice Global de Datos Abiertos 2016/2017 analiza a Gran Bretaña y a
 
 **Tabla 2. Posición de Noruega en los índices analizados**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2018/04/hidrocarburos-tabla-2.png)](https://www.ethos.org.mx/wp-content/uploads/2018/04/hidrocarburos-tabla-2.png)
+![](https://ucarecdn.com/910eade2-2124-4cdb-a1f1-4b3a9015e558/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2018/04/hidrocarburos-tabla-2.png)
 
 Fuente: elaboración propia
 
@@ -146,7 +150,9 @@ Dado lo anterior, en octubre del 2014 el Reino Unido fue admitido como candidato
 
 **Imagen 1. Proceso de validación de los estándares EITI**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2018/04/Hidrocarburos-grafica-ok-ok-ok.jpg)](https://www.ethos.org.mx/wp-content/uploads/2018/04/Hidrocarburos-grafica-ok-ok-ok.jpg)
+![](https://ucarecdn.com/1085cec6-d174-43a4-816d-b649ed2b41ff/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2018/04/Hidrocarburos-grafica-ok-ok-ok.jpg)
 
 Fuente: El Estándar del EITI, Secretaría Internacional del EITI, 26 de febrero del 2016, pp 38.
 
@@ -203,7 +209,9 @@ Como se menciona en la metodología, **Noruega se considera uno de los países 
 
 En Noruega, los entes y reglas que regulan el sector fueron construyéndose en paralelo a los desarrollos que se daban en el sector hidrocarburos. De hecho, hasta antes de 1959 Noruega no era considerado un país petrolero, pues fue en ese año cuando en los Países Bajos, un país vecino a Noruega, se descubrió un gran yacimiento de gas natural. Dado que podía haber más gas en el Mar del Norte, una empresa le ofreció al gobierno noruego explorar la zona. Es así como surgió la preocupación de crear instituciones y leyes sólidas para regular el sector. Ante estas nuevas circunstancias, **en 1963 el gobierno noruego estableció que cualquier recurso natural sobre su territorio pertenecía al Estado** y que solamente éste tendría la autoridad para otorgar licencias para explotación y producción de hidrocarburos.47
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2018/04/Hidrocarburos-cuadro-1.jpg)](https://www.ethos.org.mx/wp-content/uploads/2018/04/Hidrocarburos-cuadro-1.jpg)
+![](https://ucarecdn.com/f307155e-4507-4c53-b670-bde060825464/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2018/04/Hidrocarburos-cuadro-1.jpg)
 
 Fuente: traducción propia con base en Norwegian Ministry of Energy and Petroleum, 2010-2011.49 Nota (*): A este paralelo se le considera la frontera norte del Mar del Norte50
 
