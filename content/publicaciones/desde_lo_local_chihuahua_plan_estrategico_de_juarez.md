@@ -16,7 +16,9 @@ file: https://ucarecdn.com/d1a44b9a-128d-4c78-b5d4-866feb32f279/
 
 # La planeación, pilar indispensable para combatir la corrupción
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2020/08/logos-03.png)](https://www.ethos.org.mx/wp-content/uploads/2020/08/logos-03.png)
+![](https://ucarecdn.com/7affc9ba-c233-4d42-b74a-38acf598d294/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2020/08/logos-03.png)
 
 #### *Plan Estratégico de Juárez A.C.*
 
