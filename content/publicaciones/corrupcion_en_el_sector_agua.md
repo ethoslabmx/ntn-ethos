@@ -2,8 +2,8 @@
 title: " Corrupción en el sector agua"
 date: 2019-09-30T23:32:02.437Z
 img: https://ucarecdn.com/a2eec880-898d-48d9-be5e-1bc3010c56c6/
-category: anticorrupcion
 autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+category: anticorrupcion
 extracto: La corrupción en México es un fenómeno que no cede, está presente cada
   vez más en distintos sectores, incluido el agua. De acuerdo con Transparencia
   Internacional, “la crisis del agua es una crisis de gobernabilidad, provocada
@@ -203,7 +203,11 @@ En México, para asegurar que las descargas de aguas residuales cumplan con las 
 
 ##### Automonitoreo
 
-De acuerdo a la LAN, los poseedores de permisos de descargas están obligados a contar con medidores que cuantifiquen la cantidad de agua que desechan y a presentar periódicamente a la Conagua un informe sobre la calidad de las aguas descargadas.23 No![](https://www.ethos.org.mx/wp-content/uploads/2019/09/foto-mano-cap-2-corrupcion-en-el-agu4545454545-614x1024.jpg) obstante, especialistas destacan que estos informes no se evalúan en campo para comprobar si la información proporcionada es fidedigna. En consecuencia, pueden ser recibidos con información falsa y los permisionarios que infringen la ley tienen pocas probabilidades de ser multados, puesto que sólo se gestionan como un simple acto administrativo-burocrático.
+De acuerdo a la LAN, los poseedores de permisos de descargas están obligados a contar con medidores que cuantifiquen la cantidad de agua que desechan y a presentar periódicamente a la Conagua un informe sobre la calidad de las aguas descargadas.23 No
+
+![](https://ucarecdn.com/1e403ef8-108b-4bb6-ad73-2b53c0a26b86/)
+
+ obstante, especialistas destacan que estos informes no se evalúan en campo para comprobar si la información proporcionada es fidedigna. En consecuencia, pueden ser recibidos con información falsa y los permisionarios que infringen la ley tienen pocas probabilidades de ser multados, puesto que sólo se gestionan como un simple acto administrativo-burocrático.
 
 El caso del Río Santiago, en Jalisco, es un claro ejemplo de estas debilidades del automonitoreo. Una revisión elaborada por Cindy McCulligh (2017) encontró que, entre los años 2000 y 2013, para 21 empresas con permisos de descargas de aguas residuales ubicadas en el corredor que se encuentran entre Ocotlán y el Salto, ambos en Jalisco, sólo existe evidencia de cumplimiento del 8.5% de sus informes de automonitoreo, lo que puede deberse al incumplimiento por parte de las empresas o a la poca transparencia de la Conagua. El informe también sostiene que, de acuerdo con funcionarios de la Conagua, la información que se recibe no se analiza, por falta de capacidades y por considerarla poco confiable.
 
