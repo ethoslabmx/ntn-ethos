@@ -35,7 +35,9 @@ El diagnóstico sobre el gasto y el estado de la seguridad en México muestra qu
 5. Fortalecer la procuración y administración de justicia.
 6. Promover la cultura de la denuncia.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Seguridad_Info_1.jpg "Infografía general «Descifrando el gasto público en seguridad»")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Seguridad_Info_1.jpg)
+   ![](https://ucarecdn.com/6802e0d5-e6a3-4f2a-9a57-5e5d20808dcb/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/07/Seguridad_Info_1.jpg)
 
 Infografía general «Descifrando el gasto público en seguridad»
 
@@ -47,7 +49,9 @@ En la actualidad es común escuchar cifras alarmantes sobre el número de homici
 
 **Gráfica 1. La cifra negra en México**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Seguridad_Grafica-1-1024x728.jpg "Fuente: elaboración propia con información de la Envipe (2011-2016)")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Seguridad_Grafica-1.jpg)
+![](https://ucarecdn.com/993671eb-650f-421b-986b-f710033c8c1d/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/07/Seguridad_Grafica-1.jpg)
 
 Fuente: elaboración propia con información de la Envipe (2011-2016)
 
@@ -60,7 +64,9 @@ Existen muchas **razones por las cuales las personas no denuncian** pero buena
 
 **Gráfica 2. Principales causas de la no denuncia**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-2.-Principales-causas-de-la-no-denuncia.jpg "Fuente: elaboración propia con información de la Envipe (2016)")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-2.-Principales-causas-de-la-no-denuncia.jpg)
+![](https://ucarecdn.com/6bcb58a3-7712-4daf-8c87-d75f069c38b5/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-2.-Principales-causas-de-la-no-denuncia.jpg)
 
 Fuente: elaboración propia con información de la Envipe (2016)
 
@@ -68,7 +74,9 @@ A nivel internacional es común que la mayor parte de los delitos cometidos no s
 
 **Tabla 1. Comparación internacional de la cifra negra**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Tabla-1.-Comparacio%CC%81n-internacional-de-la-cifra-negra.jpg "Fuente: elaboración propia con base en la información  de la Organización de Estados Americanos y de la Secretaría Nacional de Seguridad Pública de Brasil Nota: se tomaron las cifras oficiales más actualizadas por país.")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Tabla-1.-Comparacio%CC%81n-internacional-de-la-cifra-negra.jpg)
+![](https://ucarecdn.com/e3f61aa4-b8d5-4644-8c8b-ae452fe645f8/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/07/Tabla-1.-Comparacio%CC%81n-internacional-de-la-cifra-negra.jpg)
 
 Fuente: elaboración propia con base en la información  de la Organización de Estados Americanos y de la Secretaría Nacional de Seguridad Pública de Brasil Nota: se tomaron las cifras oficiales más actualizadas por país.
 
@@ -76,7 +84,9 @@ El diagnóstico sobre el estado de la seguridad en México no debe excluir el an
 
 Finalmente, es importante recalcar que aun cuando los resultados de las encuestas de percepción deben tomarse con cautela, la información que proporciona la Envipe permite aproximar las dimensiones y características del delito en México, lo que resulta fundamental para el **diseño de políticas efectivas** de combate a la delincuencia.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Seguridad_Info_C1.jpg "Infografía Capítulo 1 «Una mirada al resto del iceberg: la cifra negra»")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Seguridad_Info_C1.jpg)
+![](https://ucarecdn.com/25916b27-4217-4818-b44c-bef2748e4f1d/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/07/Seguridad_Info_C1.jpg)
 
 Infografía Capítulo 1 «Una mirada al resto del iceberg: la cifra negra»
 
@@ -90,7 +100,9 @@ Ahora bien, es deseable que la estimación del gasto nacional en seguridad conte
 
 **Gráfica 3. Evolución del gasto federal en seguridad (mdp)**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-3.-Evolucio%CC%81n-del-gasto-federal-en-seguridad-mdp.jpg "Fuente: Elaboración propia con información de la Cuenta Pública (SHCP)")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-3.-Evolucio%CC%81n-del-gasto-federal-en-seguridad-mdp.jpg)
+![](https://ucarecdn.com/b65e341c-2a72-4b3f-a949-519220a03118/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-3.-Evolucio%CC%81n-del-gasto-federal-en-seguridad-mdp.jpg)
 
 Fuente: Elaboración propia con información de la Cuenta Pública (SHCP)
 
@@ -98,7 +110,9 @@ En 2015, 40% del gasto federal en seguridad se destinó a la seguridad nacional
 
 **Gráfica 4. Gasto federal en seguridad pública por función presupuestal 2015**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-4.-Gasto-federal-en-seguridad-pu%CC%81blica-por-funcio%CC%81n-presupuestal-2015-1024x658.jpg "Fuente: elaboración propia con información de la Cuenta Pública Federal (SHCP)")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-4.-Gasto-federal-en-seguridad-pu%CC%81blica-por-funcio%CC%81n-presupuestal-2015.jpg)
+![](https://ucarecdn.com/826d2c73-2ae1-4d06-b0a1-98dfb351ad8d/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-4.-Gasto-federal-en-seguridad-pu%CC%81blica-por-funcio%CC%81n-presupuestal-2015.jpg)
 
 Fuente: elaboración propia con información de la Cuenta Pública Federal (SHCP)
 
@@ -108,7 +122,9 @@ Para 2015, **el gasto en seguridad interna del país representó el 1.4% del ga
 
 **Gráfica 5. Gasto en seguridad interior como porcentaje (%) del gasto total**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-5.-Gasto-en-seguridad-interior-como-porcentaje-del-gasto-total.jpg "Fuente: elaboración propia con información de la (OCDE) y de la SHCP Nota: el dato de México es para 2015 y el resto de los países 2014")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-5.-Gasto-en-seguridad-interior-como-porcentaje-del-gasto-total.jpg)
+![](https://ucarecdn.com/d8a377f1-6f56-47e7-8bcd-2a53336af092/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-5.-Gasto-en-seguridad-interior-como-porcentaje-del-gasto-total.jpg)
 
 Fuente: elaboración propia con información de la (OCDE) y de la SHCP Nota: el dato de México es para 2015 y el resto de los países 2014
 
@@ -116,7 +132,9 @@ Comparado con otras categorías de gasto, **la seguridad interior recibió poca
 
 **Gráfica 6. Gasto federal en seguridad interior comparado con otras categorías de gasto (2015)**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-6.jpg "Fuente: elaboración propia con información de la Cuenta Pública Federal (SHCP)")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-6.jpg)
+![](https://ucarecdn.com/e5b0d9e5-46cd-403c-ba88-3732dbf7aa6f/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-6.jpg)
 
 Fuente: elaboración propia con información de la Cuenta Pública Federal (SHCP)
 
@@ -138,7 +156,9 @@ Un aspecto destacable de la presente administración ha sido su apuesta por la p
 
 **Gráfica 7. Proporción del gasto en prevención por ramo adminitrativo**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-7.jpg "Fuente: elaboración propia con información del PEF (2017)")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-7.jpg)
+![](https://ucarecdn.com/f7bedbb9-c249-49d2-983e-2ccd07d5e92f/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-7.jpg)
 
 Fuente: elaboración propia con información del PEF (2017)
 
@@ -154,7 +174,9 @@ Fuente: elaboración propia con información del Inegi (2016)
 
 En conclusión, muchos **rubros del gasto en seguridad son opacos**, tanto en su destino como en los resultados que producen. Esto implica que no existe información confiable sobre qué funciona y qué no, lo que debilita la toma de decisiones sobre la permanencia, eliminación o modificación de los programas. Sólo con información pertinente y detallada sobre las prioridades de gasto y sus resultados será posible mejorar la eficiencia de este rubro presupuestal.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Seguridad_Info_C3.jpg "Infografía capítulo 3 «El gasto subnacional en seguridad»")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Seguridad_Info_C3.jpg)
+![](https://ucarecdn.com/a7120f1e-bc0a-48f3-9781-77d07af2fc11/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/07/Seguridad_Info_C3.jpg)
 
 Infografía capítulo 3 «El gasto subnacional en seguridad»
 
@@ -187,7 +209,9 @@ En 2016, la Nueva Estructura Programática fusionó el SPA y el Subsemun y c
 
 **Gráfica 8. Evolución del FASP, SPA, Subsemun y Fortaseg (2001-2017)**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-8.-Evolucio%CC%81n-del-FASP-SPA-Subsemun-y-Fortaseg-2001-2017.jpg "Fuente: elaboración propia con base en información del DOF Nota: precios base 2010. Para 2017 se consideró únicamente el INPC de enero")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-8.-Evolucio%CC%81n-del-FASP-SPA-Subsemun-y-Fortaseg-2001-2017.jpg)
+![](https://ucarecdn.com/78dfa58c-da56-4d9b-b469-bce4f8fc0268/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-8.-Evolucio%CC%81n-del-FASP-SPA-Subsemun-y-Fortaseg-2001-2017.jpg)
 
 Fuente: elaboración propia con base en información del DOF Nota: precios base 2010. Para 2017 se consideró únicamente el INPC de enero
 
@@ -195,7 +219,9 @@ Los fondos federales en seguridad presentan algunos problemas en su implementaci
 
 **Tabla 4. Principales problemas identificados por la ASF en la gestión de los fondos federales en seguridad**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Tabla_4.jpg "Fuente: elaboración propia con información de la (ASF)")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Tabla_4.jpg)
+![](https://ucarecdn.com/1077c931-5568-4a84-8378-175d3ada76a0/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/07/Tabla_4.jpg)
 
 Fuente: elaboración propia con información de la (ASF)
 
@@ -203,7 +229,9 @@ Considerando que buena parte de los recursos que se invierten a nivel subnaciona
 
 Los OBA pueden darse entre el gobierno y un proveedor de servicios o entre el gobierno nacional y los gobiernos locales. Particularmente, la eficiencia de los fondos federales en seguridad puede potenciarse mediante un tipo de OBA denominado **Acuerdo Intergubernamental**. En este tipo de contrato se delinean funciones y responsabilidades del gobierno federal y los gobiernos subnacionales para garantizar el cumplimiento de resultados medibles (Beeck Center and Georgetown University, 2014). Por ejemplo, las observaciones de la ASF en cuanto a los fondos federales en seguridad dejan ver que en algunas entidades los indicadores de resultados son inexistentes o insuficientes; que no existe voluntad para medir el impacto de los recursos y que los informes de seguimiento sobre el ejercicio, destino y resultados de los fondos no se entregan con regularidad y su calidad es cuestionable. Con los OBA buena parte de estos problemas son subsanados, ya que la entrega de recursos está atada a la obtención de resultados tangibles. Por tanto, la generación de indicadores pertinentes –así como su medición y reporte periódicos– son condiciones necesarias para que los gobiernos subnacionales puedan acceder a estos recursos.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Seguridad_Info_C4.jpg "Infografía capítulo 4 «¿Más policias ¿menos violencia?»")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Seguridad_Info_C4.jpg)
+![](https://ucarecdn.com/e7ae3fca-b6c0-429e-8fac-2b76611b4c50/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/07/Seguridad_Info_C4.jpg)
 
 Infografía capítulo 4 «¿Más policias ¿menos violencia?»
 
@@ -217,7 +245,9 @@ En primer lugar,un comparativo internacional nos permite observar que México es
 
 **Imagen 1. Radiografía del homicidio en el mundo**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Imagen-1.-Radiografi%CC%81a-del-homicidio-en-el-mundo.jpg "Fuente: (UNODC, 2013)")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Imagen-1.-Radiografi%CC%81a-del-homicidio-en-el-mundo.jpg)
+![](https://ucarecdn.com/7d5bbc3d-fd34-4c31-b151-bace373a096f/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/07/Imagen-1.-Radiografi%CC%81a-del-homicidio-en-el-mundo.jpg)
 
 Fuente: (UNODC, 2013)
 
@@ -225,7 +255,9 @@ Ser considerado como uno de los países más violentos del mundo es producto, en
 
 **Gráfica 9. Evolución del número de homicidios dolosos en México**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-9.-Evolucio%CC%81n-del-nu%CC%81mero-de-homicidios-dolosos-en-Me%CC%81xico.jpg "Fuente: elaboración propia con información del (SESNSP)")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-9.-Evolucio%CC%81n-del-nu%CC%81mero-de-homicidios-dolosos-en-Me%CC%81xico.jpg)
+![](https://ucarecdn.com/177197d4-85c5-4664-adcd-875da127f22b/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-9.-Evolucio%CC%81n-del-nu%CC%81mero-de-homicidios-dolosos-en-Me%CC%81xico.jpg)
 
 Fuente: elaboración propia con información del (SESNSP)
 
@@ -233,7 +265,9 @@ Fuente: elaboración propia con información del (SESNSP)
 
 **Tabla 5. La tasa de homicidios en los estados (2016)**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Tabla-5.-La-tasa-de-homicidios-en-los--484x1024.jpg "Fuente: elaboración propia con información del (SESNSP)")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Tabla-5.-La-tasa-de-homicidios-en-los-.jpg)
+![](https://ucarecdn.com/3e33574e-f18d-4dc4-bb90-888b584c3bd6/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/07/Tabla-5.-La-tasa-de-homicidios-en-los-.jpg)
 
 Fuente: elaboración propia con información del (SESNSP)
 
@@ -241,7 +275,9 @@ Un aspecto que debe destacarse es que de 2010 a 2016, **doce entidades federati
 
 **Tabla 6. Comportamiento de la tasa de homicidios por entidad federativa**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Tabla-6.-Comportamiento-de-la-tasa-de--477x1024.jpg "Fuente: elaboración propia con información del (SESNSP)")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Tabla-6.-Comportamiento-de-la-tasa-de-.jpg)
+![](https://ucarecdn.com/163d3f48-01fb-4e17-99d2-dd92a174e9c9/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/07/Tabla-6.-Comportamiento-de-la-tasa-de-.jpg)
 
 Fuente: elaboración propia con información del (SESNSP)
 
@@ -249,7 +285,9 @@ La tasa de homicidios es una variable comúnmente usada para medir el grado de v
 
 **Gráfica 10. Evolución de los delitos de fuero común registrados**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-10.-Evolucio%CC%81n-de-los-delitos-de-fuero-comu%CC%81n-registrados.jpg "Fuente: elaboración propia con información del SESNSP")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-10.-Evolucio%CC%81n-de-los-delitos-de-fuero-comu%CC%81n-registrados.jpg)
+![](https://ucarecdn.com/0bad1fe5-4d69-4f76-8afd-008b8e356f87/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-10.-Evolucio%CC%81n-de-los-delitos-de-fuero-comu%CC%81n-registrados.jpg)
 
 Fuente: elaboración propia con información del SESNSP
 
@@ -257,7 +295,9 @@ Actualmente, **el delito de fuero común más frecuente es el robo** (principa
 
 **Gráfica 11. Radiografía del delito (2016)**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-11.-Radiografi%CC%81a-del-delito-2016-1024x738.jpg "Fuente: elaboración propia con información del SESNSP")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-11.-Radiografi%CC%81a-del-delito-2016.jpg)
+![](https://ucarecdn.com/49acdf2b-b9d8-4b10-ba29-e9c5713603ab/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/07/Gra%CC%81fica-11.-Radiografi%CC%81a-del-delito-2016.jpg)
 
 Fuente: elaboración propia con información del SESNSP
 
@@ -277,13 +317,15 @@ Estos resultados pueden deberse al **poco personal dedicado a la administració
 
 **Tabla 8. Comparación internacional de los elementos dedicados a la administración de justicia**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/07/Tabla_8-1024x760.jpg "Fuente: elaboración propia con información de UNODC (2013)")](https://www.ethos.org.mx/wp-content/uploads/2017/07/Tabla_8.jpg)
+![](https://ucarecdn.com/207ba88a-c1a1-43d5-81bf-e8d3c3e3a51e/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/07/Tabla_8.jpg)
 
 Fuente: elaboración propia con información de UNODC (2013)
 
 Los datos presentados dan cuenta de que la procuración y administración de justicia pueden ser un cuello de botella para el Sistema Nacional de Seguridad Pública, ya que existen muchos elementos persiguiendo el delito y pocos dedicados a estas funciones.
 
-#  **Recomendaciones**
+# **Recomendaciones**
 
 El diagnóstico sobre el gasto y el estado de la seguridad pública en México muestra que hay muchas tareas pendientes. Sin embargo, algunos de los cambios más apremiantes que favorecerán la eficiencia de los recursos y, por lo tanto, la reducción de la inseguridad son:
 
@@ -293,8 +335,6 @@ El diagnóstico sobre el gasto y el estado de la seguridad pública en México m
 4. **Incluir incentivos orientados a resultados en el diseño de los fondos federales.**Las recomendaciones de la ASF dan cuenta de la existencia de muchas áreas de oportunidad en cuanto a la gestión de los fondos federales en seguridad. No obstante, las observaciones más comunes recalcan la poca efectividad, transparencia y rendición de cuentas sobre el uso de los recursos. De ahí que resulte fundamental incluir en las reglas de operación de los fondos mecanismos novedosos, como los OBA, para atar la entrega de recursos a resultados concretos y medibles, así como a las mejoras en los sistemas de transparencia y rendición de cuentas estatales.
 5. **Fortalecer la procuración y administración de justicia.** El aumento del número de jueces y agentes del Ministerio Público, así como el fortalecimiento de sus capacidades, redundará en una procuración y administración de justicia expedita y eficaz. Hasta ahora, el aumento de recursos para la función de Justicia observado en los últimos años no ha correspondido con los resultados obtenidos en estas áreas.
 6. **Promover la cultura de la denuncia.** En México, buena parte de la cifra negra es explicada por la ineficiencia y desconfianza en las instituciones que persiguen el delito y procuran justicia; por ello, el combate de la corrupción en los cuerpos policíacos y en los Ministerios Públicos, así como las mejoras en sus procesos, redundarán en mayores niveles de denuncia. Paralelamente, se deben promover los mecanismos seguros de denuncia que traduzcan la información proporcionada por el ciudadano en resultados tangibles.
-
-
 
 # **Bibliografía**
 
