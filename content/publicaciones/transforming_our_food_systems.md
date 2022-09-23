@@ -48,7 +48,9 @@ It is urgently important to identify inspirational examples that show that chang
 
 We’ve identified 23 Mexican entrepreneurs that are working to directly or indirectly address at least one of these challenges and transform our food systems through their innovative and inspiring initiatives, projects, and companies.
 
-![](https://www.ethos.org.mx/wp-content/uploads/2019/07/tamoa-2.jpg)Maizajo, Tamoa, and Cheelzi work to protect biodiversity using native seeds, from criollo corn to cacao. Yolcán, Rancho La Inmaculada, and Villa de Patos are committed to land restoration and organic farming practices.
+![](https://ucarecdn.com/edbec29a-5aa1-4a9f-8559-f8d718584901/)
+
+Maizajo, Tamoa, and Cheelzi work to protect biodiversity using native seeds, from criollo corn to cacao. Yolcán, Rancho La Inmaculada, and Villa de Patos are committed to land restoration and organic farming practices.
 
 Ekologi, Biobolsa, and Tierra de Monte offer clear examples that “yes, we can!” substitute agrochemicals with sustainable alternatives.
 
