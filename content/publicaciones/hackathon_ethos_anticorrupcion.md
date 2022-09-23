@@ -2,8 +2,8 @@
 title: Hackathon Ethos Anticorrupción
 date: 2017-11-16T01:18:52.171Z
 img: https://ucarecdn.com/9d0c3614-d823-4eb2-9e08-a33ef7547d1b/
-category: anticorrupcion
 autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+category: anticorrupcion
 extracto: En Ethos Laboratorio de Políticas Públicas, conscientes de los
   principales retos para el desarrollo y progreso de México y América Latina,
   decidimos aprovechar las nuevas tecnologías para desarrollar una herramienta
@@ -17,7 +17,9 @@ extracto: En Ethos Laboratorio de Políticas Públicas, conscientes de los
 
 # Resumen ejecutivo
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/11/32259991673_653602a92a_z.jpg)](https://www.ethos.org.mx/wp-content/uploads/2017/11/32259991673_653602a92a_z.jpg)
+![](https://ucarecdn.com/05c80ead-8da8-4d91-a8c7-25990276f2e0/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/11/32259991673_653602a92a_z.jpg)
 
 Foto: Ethos Laboratorio de Políticas Públicas
 
@@ -33,7 +35,9 @@ Finalmente, es necesario señalar que las respuestas tecnológicas a la corrupci
 
 # Introducción
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/11/32674616112_d0f988a2ba_z.jpg)](https://www.ethos.org.mx/wp-content/uploads/2017/11/32674616112_d0f988a2ba_z.jpg)
+![](https://ucarecdn.com/e32c289a-78f7-479f-9ce5-75b4518e9029/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/11/32674616112_d0f988a2ba_z.jpg)
 
 Foto: Hackers & Founders
 
@@ -53,7 +57,9 @@ Bajo esta lógica, en Ethos Laboratorio de Políticas Públicas decidimos buscar
 
 Contamos con el apoyo de [Hackers and Founders (H/F)](https://www.hf.cx/), un equipo de expertos en tecnología con experiencia en la organización de estos eventos. Adicionalmente, elegimos [Wayra México](https://www.openfuture.org/es/space/wayra-ciudad-de-mexico) como sede al ser un espacio dinámico e interactivo de *coworking* y aceleración de empresas con experiencia previa albergando diversos hackathones.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/11/32787114196_4ebeba518a_z.jpg)](https://www.ethos.org.mx/wp-content/uploads/2017/11/32787114196_4ebeba518a_z.jpg)
+![](https://ucarecdn.com/8c4f2c86-d5d6-4696-b9b3-d25da443353b/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/11/32787114196_4ebeba518a_z.jpg)
 
 Foto: Hackers & Founders
 
@@ -61,7 +67,9 @@ Foto: Hackers & Founders
 
 Para lograr una comunicación efectiva, desarrollamos una imagen del evento que fuera acorde a lo que buscábamos transmitir y así, posicionar y diferenciar nuestro Hackathon. Con el apoyo de diseñadores, **creamos un logo que fuera reflejo de la identidad institucional y que conectara visualmente con el mundo de la tecnología**. Con base en esta imagen, se desarrollaron todos los materiales impresos y digitales necesarios para el Hackathon.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/11/32013618093_50596a2f25_z.jpg)](https://www.ethos.org.mx/wp-content/uploads/2017/11/32013618093_50596a2f25_z.jpg)
+![](https://ucarecdn.com/6c507b2e-14ca-4524-bc04-7d5bd074ff99/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/11/32013618093_50596a2f25_z.jpg)
 
 Foto: Hackers & Founders
 
@@ -69,7 +77,9 @@ También creamos una **página web**, la cual funcionó como la plataforma dond
 
 Para lograr una amplia convocatoria, hicimos **labor de difusión a través de redes sociales y medios impresos**. Además, realizamos acuerdos con directores de universidades y representantes de organizaciones civiles para extender la invitación al mayor público posible. Más allá de lograr el número de participantes previstos, la campaña tuvo como objetivo **mostrar a la ciudadanía que pueden contribuir con ideas creativas al combate a la corrupción**.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/11/32828067095_7b9a231048_z.jpg)](https://www.ethos.org.mx/wp-content/uploads/2017/11/32828067095_7b9a231048_z.jpg)
+![](https://ucarecdn.com/67dfaf64-5045-47ea-8067-fb38dcd6417f/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/11/32828067095_7b9a231048_z.jpg)
 
 Foto: Hackers & Founders
 
@@ -83,7 +93,9 @@ Previo al evento, realizamos un taller anticorrupción (*bootcamp*) con la final
 
 # Día 1
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/11/32787091876_ca2440f85f_z.jpg)](https://www.ethos.org.mx/wp-content/uploads/2017/11/32787091876_ca2440f85f_z.jpg)
+![](https://ucarecdn.com/e953fa0c-f79a-4aec-a39a-63f698e71ee8/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/11/32787091876_ca2440f85f_z.jpg)
 
 Foto: Hackers & Founders
 
@@ -91,7 +103,9 @@ Foto: Hackers & Founders
 
 El **Hackathon Ethos Anticorrupción** se llevó a cabo el fin de semana del **28 y 29 de enero de 2017**. Durante el primer día se realizó el registro de participantes, la conformación de equipos, el registro de los proyectos y el desarrollo de los mismos con el apoyo de los mentores.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/11/33075109915_5ec31a82eb_z.jpg)](https://www.ethos.org.mx/wp-content/uploads/2017/11/33075109915_5ec31a82eb_z.jpg)
+![](https://ucarecdn.com/6acfef10-8d51-4f3a-963e-b0eeaba9802b/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/11/33075109915_5ec31a82eb_z.jpg)
 
 Foto: Ethos Laboratorio de Políticas Públicas
 
@@ -101,7 +115,9 @@ Para aquellos participantes que no acudieron al Taller Anticorrupción, impartim
 
 Después de la plática, los equipos comenzaron a trabajar en la **definición de sus propuestas y a medio día registraron sus prototipos** mediante el uso de Google Forms. Una vez hecho esto, empezaron a programar y a desarrollar sus proyectos.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/11/32013599013_66982af6d2_z-1.jpg)](https://www.ethos.org.mx/wp-content/uploads/2017/11/32013599013_66982af6d2_z-1.jpg)
+![](https://ucarecdn.com/9c6a90b6-414e-41b0-b6ef-d6661f23a9c3/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/11/32013599013_66982af6d2_z-1.jpg)
 
 Foto: Hackers & Founders
 
@@ -109,7 +125,9 @@ Foto: Hackers & Founders
 
 Al Hackathon asistieron 20 equipos con diversas ideas para combatir la corrupción. De los participantes, **48% buscaban fomentar la denuncia ciudadana** con ideas como: generar un sistema de grabación que exhibiera actos de corrupción al momento a través de la red o crear mapas que ubicaran las quejas de los ciudadanos con el fin de identificar las instancias públicas más corruptas.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/11/Captura-de-pantalla-2017-11-29-a-las-12.38.10.png)](https://www.ethos.org.mx/wp-content/uploads/2017/11/Captura-de-pantalla-2017-11-29-a-las-12.38.10.png)
+![](https://ucarecdn.com/f3793193-3115-4b60-ad9a-c51b3c92e2d0/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/11/Captura-de-pantalla-2017-11-29-a-las-12.38.10.png)
 
 Por otra parte, el **24% de las propuestas se concentró en temas relacionados con el monitoreo del actuar gubernamental** como: poner a disposición de la ciudadanía la información sobre licitaciones públicas y adquisiciones para darle seguimiento al uso de recursos públicos o crear perfiles públicos de los funcionarios para registrar quiénes han participado en actos corruptos.
 
@@ -127,7 +145,9 @@ El **reto de los mentores** fue dar respuesta a las diversas preguntas que rea
 
 # Día 2
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/11/32787097676_00d9747745_z.jpg)](https://www.ethos.org.mx/wp-content/uploads/2017/11/32787097676_00d9747745_z.jpg)
+![](https://ucarecdn.com/560a617a-afe4-4f17-b965-2078a70bc799/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/11/32787097676_00d9747745_z.jpg)
 
 Foto: Hackers & Founders
 
@@ -135,7 +155,9 @@ Foto: Hackers & Founders
 
 El segundo día, los participantes contaron con unas horas más de trabajo antes de iniciar con los demo pitches para ir reduciendo el número de equipos en competencia. Posteriormente, los finalistas presentaron sus propuestas ante el jurado, quienes eligieron a los tres ganadores.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/11/32674624972_730465dac6_z.jpg)](https://www.ethos.org.mx/wp-content/uploads/2017/11/32674624972_730465dac6_z.jpg)
+![](https://ucarecdn.com/f6794694-1f78-4021-8741-774ae665f5ab/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/11/32674624972_730465dac6_z.jpg)
 
 Foto: Hackers & Founders
 
@@ -143,7 +165,9 @@ Foto: Hackers & Founders
 
 Por la mañana, los equipos recibieron las últimas mentorías antes de ser llamados al demo pitch consistente en exponer de manera precisa su idea ante un jurado panel. Para elegir a los ocho proyectos que pasarían a la ronda final, se conformaron tres mesas con tres jueces cada una, ante quienes se hicieron los pitches. Los jueces de esta primera ronda fueron los mismos mentores. Finalmente, los equipos que superaron esta prueba quedaron como finalistas y expusieron su proyecto ante el jurado principal, quienes eligieron a los finalistas.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/11/Captura-de-pantalla-2017-11-29-a-las-12.52.10.png)](https://www.ethos.org.mx/wp-content/uploads/2017/11/Captura-de-pantalla-2017-11-29-a-las-12.52.10.png)
+![](https://ucarecdn.com/f6c491e8-5697-4810-81be-e0e76ae0e862/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/11/Captura-de-pantalla-2017-11-29-a-las-12.52.10.png)
 
 Elementos considerados en la evaluación / Iconos: The Noun Project
 
@@ -155,7 +179,9 @@ Las preguntas realizadas por los jueces analizaban el alcance que podría tener 
 
 A la final pasaron aquellas propuestas que, además de cumplir con los criterios de los jueces, eran innovadoras. La mayoría se centraban en temas de asistencia para combatir la corrupción. Por ejemplo, SaúlBot, CachaPuercos, Pérez Niño y Defensa Vial tenían como propósito dar asesoría legal al instante en distintas situaciones, además de guiar al usuario para presentar una denuncia en caso de que hubiera un caso de corrupción.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/11/Captura-de-pantalla-2017-11-29-a-las-12.54.50.png)](https://www.ethos.org.mx/wp-content/uploads/2017/11/Captura-de-pantalla-2017-11-29-a-las-12.54.50.png)
+![](https://ucarecdn.com/18244cf1-9b1c-42d1-b0a9-d4ff75a2ea5a/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/11/Captura-de-pantalla-2017-11-29-a-las-12.54.50.png)
 
 Tabla 1. Equipos finalistas
 
@@ -163,19 +189,25 @@ Otras aplicaciones, como Sonar, pretendían monitorear las licitaciones federale
 
 Los elegidos contaron con unas cuantas horas adicionales para detallar su proyecto y diseñar una presentación final.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/11/Captura-de-pantalla-2017-11-29-a-las-13.01.21.png)](https://www.ethos.org.mx/wp-content/uploads/2017/11/Captura-de-pantalla-2017-11-29-a-las-13.01.21.png)
+![](https://ucarecdn.com/ec730003-9c94-48be-b889-607584937da2/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/11/Captura-de-pantalla-2017-11-29-a-las-13.01.21.png)
 
 #### Jueces
 
 La mesa principal de jueces –presidida por José Luis Chicoma, director general de Ethos– estuvo conformada por personas con experiencia en distintos temas, como la transparencia, rendición de cuentas y cultura de la legalidad y que son miembros de ONG, instituciones gubernamentales, medios de comunicación y organismos de representación empresarial reconocidos a nivel nacional. En Ethos buscamos que el jurado calificador fuera un grupo multidisciplinario, representativo y complementario para que, entre todos, eligieran la aplicación con mayor potencial de generar un impacto real. Los jueces elegidos fueron los siguientes:
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/11/Captura-de-pantalla-2017-11-29-a-las-13.04.38.png)](https://www.ethos.org.mx/wp-content/uploads/2017/11/Captura-de-pantalla-2017-11-29-a-las-13.04.38.png)
+![](https://ucarecdn.com/2123ebd4-3f7e-47d3-8a67-3f19a9092627/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/11/Captura-de-pantalla-2017-11-29-a-las-13.04.38.png)
 
 Tabla 2. Jueces
 
 **Los jueces fueron aconsejados por expertos técnicos con amplia experiencia en el mundo de la tecnología** y por la coordinadora del evento, Liliana Alvarado, Directora de Desarrollo Económico y Social de Ethos. Su acompañamiento fue fundamental para que el juzgado identificara con claridad qué soluciones eran verdaderamente realizables.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/11/Captura-de-pantalla-2017-11-29-a-las-13.04.48.png)](https://www.ethos.org.mx/wp-content/uploads/2017/11/Captura-de-pantalla-2017-11-29-a-las-13.04.48.png)
+![](https://ucarecdn.com/62ed69bc-f373-44da-8193-a01d05ebded6/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/11/Captura-de-pantalla-2017-11-29-a-las-13.04.48.png)
 
 Tabla 3. Expertos técnicos
 
@@ -189,7 +221,9 @@ La votación de estos jueces, se hizo en dos partes. En la primera, tras la pres
 
 El primer lugar lo obtuvo Fáctico con una aplicación denominada Escudo Ciudadano, la cual se inspiró en el hecho de que los trámites ante los Ministerios Públicos (MP) son de los más corruptos según las encuestas oficiales. La app busca acompañar al ciudadano y empoderarlo al momento de acudir a un MP, informándole desde un inicio cuál es el más cercano y mejor evaluado.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/11/32013685163_24b0b044e7_z-300x200.jpg)](https://www.ethos.org.mx/wp-content/uploads/2017/11/32013685163_24b0b044e7_z.jpg)
+![](https://ucarecdn.com/29f6800d-c363-4c0c-a5c5-572c065a43cd/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/11/32013685163_24b0b044e7_z.jpg)
 
 Foto: Hackers & Founders
 
@@ -199,7 +233,9 @@ La mayor ventaja que encontraron los jueces de esta aplicación es la **ayuda o
 
 Los jueces coincidieron en que la interfaz es sencilla y la forma de realizar las evaluaciones es ágil y entretenida. No obstante, a pesar de estas virtudes, también se discutió que **los ciudadanos no asisten regularmente al MP**, limitando el alcance de la aplicación.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/11/32704590591_73dcc88131_z-300x200.jpg)](https://www.ethos.org.mx/wp-content/uploads/2017/11/32704590591_73dcc88131_z.jpg)
+![](https://ucarecdn.com/16d1c8b4-8cab-4ccf-92ea-7ed1419c73e8/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/11/32704590591_73dcc88131_z.jpg)
 
 Foto: Hacker & Founders
 
@@ -227,7 +263,9 @@ Los integrantes de CachaPuercos fueron acreedores a 5 mil pesos por parte de Hac
 
 # Reflexión final
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/11/32229644884_e3628a3f6c_b.jpg)](https://www.ethos.org.mx/wp-content/uploads/2017/11/32229644884_e3628a3f6c_b.jpg)
+![](https://ucarecdn.com/750fb773-5fbf-435c-97ce-46695b8172bc/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/11/32229644884_e3628a3f6c_b.jpg)
 
 Foto: Ethos Laboratorio de Políticas Públicas
 
