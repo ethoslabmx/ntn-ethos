@@ -169,7 +169,9 @@ El estudio muestra la necesidad de incrementar la articulación entre los actore
 
 Finalmente, este primer documento de la AIIMx, más allá de ser una aproximación al conocimiento de la situación de la inversión de impacto en México que desemboca en la generación de recomendaciones, busca ser un punto de encuentro para que los diferentes actores que integran el ecosistema generen diálogos y acciones concretas orientadas a la creación de las condiciones necesarias para que a nivel sistema, desde una perspectiva social, económica, institucional y normativa, la inversión de impacto se posicione como una alternativa al modelo de inversión tradicional y genere la transformación social que el país necesita.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2018/10/Inversi%C3%B3n-de-impacto-AIIMX-Infograf%C3%ADas-1.jpg)](https://www.ethos.org.mx/wp-content/uploads/2018/10/Inversi%C3%B3n-de-impacto-AIIMX-Infograf%C3%ADas-1.jpg)
+![](https://ucarecdn.com/f035aea9-d4dd-4d07-a0a9-283ac18f7d0d/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2018/10/Inversi%C3%B3n-de-impacto-AIIMX-Infograf%C3%ADas-1.jpg)
 
 # Introducción
 
@@ -203,7 +205,9 @@ Este reporte parte de la lógica de que si los actores clave tienen una visión 
 
 En la siguiente sección se presenta qué es y qué no es la inversión de impacto, así como los principales elementos y aspectos que la definen. La segunda, tercera y cuarta sección presentan el análisis y diagnóstico de cada uno de los componentes referidos anteriormente. La quinta sección expone una serie de reflexiones, a modo de conclusión, con relación a la inversión de impacto en México y los retos a los que se enfrenta para alcanzar su potencial de impacto y cambio sistémico.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2018/10/Artboard-2-copy.png)](https://www.ethos.org.mx/wp-content/uploads/2018/10/Artboard-2-copy-e1539816264240.png)
+![](https://ucarecdn.com/1e29d545-2249-4a10-9092-1bb20659d2d3/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2018/10/Artboard-2-copy-e1539816264240.png)
 
 # Cap. 1
 
@@ -271,7 +275,9 @@ El ecosistema de inversión de impacto está impulsado por las necesidades a las
 
 El sector de inversión de impacto en México se encuentra en construcción, aunque muestra una amplia actividad con diferentes participantes y perspectivas provenientes de diferentes sectores desde la década de los ochenta (Figura 5). Los primeros pasos en esta construcción comienzan con la creación, de Fomento Social Citibanamex, con el interés de favorecer al desarrollo de una política social que contribuya al bienestar de la población, y el impulso, por parte de Nacional Monte de Piedad, de fondos para la atención de la población en situación de vulnerabilidad.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2018/10/AIIMX-timeline.png)](https://www.ethos.org.mx/wp-content/uploads/2018/10/AIIMX-timeline.png)
+![](https://ucarecdn.com/7140a6a1-8a4f-43f5-a8e2-92b7006d3d7b/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2018/10/AIIMX-timeline.png)
 
 Figura 5. Iniciativas y actores clave en la construcción del ecosistema de inversión de impacto en México
 
@@ -283,7 +289,9 @@ La construcción de este ecosistema ha incrementado la capacidad de México para
 
 La revisión anterior del concepto de inversión de impacto, sus factores diferenciales y la evolución que ha seguido este ecosistema sientan las bases para la comprensión del estado en que se encuentra actualmente a nivel país y soportan la definición las recomendaciones que se hacen para su consolidación en el corto, mediano y largo plazo.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2018/10/Artboard-2-copy-2-e1539816466981.png)](https://www.ethos.org.mx/wp-content/uploads/2018/10/Artboard-2-copy-2-e1539816466981.png)
+![](https://ucarecdn.com/e3b03f9f-96a7-4337-be02-c52bf25b87a2/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2018/10/Artboard-2-copy-2-e1539816466981.png)
 
 # Cap. 2
 
@@ -336,7 +344,9 @@ Esta situación se encuentra en sintonía con los resultados de una encuesta apl
 
 Además, 84.8% respondieron que su empresa/organización cuenta con metas sociales alineadas con la misión social y 81.4% recopilan datos sobre el progreso de esas metas a largo y corto plazo, pero solamente el 54.8% utilizan una metodología específica para medir el impacto de sus actividades. Las razones más frecuentes para no aplicar una metodología específica fueron la falta de conocimiento sobre qué metodología aplicar y falta de personal con las habilidades o experiencia necesarias para implementarla. En cambio, la principal razón reportada para medir el impacto fue para mejorar la gestión de riesgos y oportunidades, y atraer inversión de impacto.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2018/10/Artboard-21-copy-5.png)](https://www.ethos.org.mx/wp-content/uploads/2018/10/Artboard-21-copy-5.png)
+![](https://ucarecdn.com/02c14048-1ffb-45df-9690-5548883a08f9/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2018/10/Artboard-21-copy-5.png)
 
 Figura 6. Principales sistemas de medición y reporteo de impacto del sector mexicano
 
@@ -436,7 +446,9 @@ Largo plazo
 * Fomentar, desde el sector público y privado, la migración de los conceptos de inversión tradicional a unos de inversión de impacto con el fin de consolidar una cultura de invertir regularmente en empresas con objetivos positivos para la sociedad y el medio ambiente.
 * Promover la creación y adaptación de instrumentos de inversión que permitan a los inversionistas tradicionales participar en inversiones de impacto a través de portafolios más grandes y diversificados.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2018/10/Artboard-2-copy-3-e1539816665474.png)](https://www.ethos.org.mx/wp-content/uploads/2018/10/Artboard-2-copy-3-e1539816665474.png)
+  ![](https://ucarecdn.com/a7ae4e3e-f934-40af-8e05-26ec22168845/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2018/10/Artboard-2-copy-3-e1539816665474.png)
 
 # Cap. 3
 
@@ -524,7 +536,9 @@ Por ejemplo, en lugar de contar el volumen de medicamentos recetados a los pacie
 
 La transacción de un BIS generalmente involucra por lo menos tres clases de actores, además de la población beneficiaria (Figura 8): los **inversionistas**, quienes otorgan capital al **proveedor**, quien presta servicios sociales a una población beneficiaria. El **gobierno** acuerda reembolsar al inversionista su inversión con una tasa de retorno previamente definida, si el servicio logra los resultados predeterminados. Además de estas tres clases de agentes, el apoyo legal y técnico puede ser necesario. Por ejemplo, un **intermediario** puede tener la responsabilidad de recaudar capital y reunir a las partes interesadas para llegar a un acuerdo en cuanto a los detalles transaccionales. Adicionalmente, un **evaluador** o un grupo de verificadores, tienen que medir los resultados obtenidos (el evaluador puede ser interno, es decir, uno de los agentes ya involucrados). Dentro de los Bonos de Impacto existen variaciones de este modelo básico (ver: Zülow et al., 2017), tal como se explica en la siguiente sección.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2018/10/Artboard-21-copy-6.png)](https://www.ethos.org.mx/wp-content/uploads/2018/10/Artboard-21-copy-6.png)
+![](https://ucarecdn.com/5e100ec6-7003-4f53-91a6-8c1a61d5fc8d/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2018/10/Artboard-21-copy-6.png)
 
 Figura 7. Beneficios por actores de los esquemas de Pago por Resultado y los Bonos de Impacto
 
@@ -536,7 +550,9 @@ El esquema de los BIS comenzó a utilizarse en el Reino Unido hace casi una déc
 
 En los Estados Unidos, la primera experiencia con los BIS también estuvo relacionada con la reincidencia carcelaria y en 2009, se constituyó el *Social Innovation Fund* (SIF). Este fondo fue constituido con recursos federales durante la administración Obama (2009) para financiar proyectos que pudieran entregar evidencias de impacto (SIF Classic). A partir de 2014, SIF dedicó 20% de sus fondos para el desarrollo de proyectos de PpR (CNCS, 2018).
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2018/10/Artboard-21-copy-7.png)](https://www.ethos.org.mx/wp-content/uploads/2018/10/Artboard-21-copy-7.png)
+![](https://ucarecdn.com/f945dd19-a4bf-4a05-9a40-0495a9ef7d20/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2018/10/Artboard-21-copy-7.png)
 
 Figura 8. Actores principales de un Bono de Impacto Social
 
@@ -645,7 +661,9 @@ Largo plazo
 * Re-diseñar un marco legislativo y reglas de operación que permitan la utilización de recursos públicos y privados en BIS y PpR en México, donde los inversionistas definan las problemáticas sociales en donde desean invertir y el gobierno no está teniendo el impacto esperado.
 * Constituir un fondo de inversión de impacto con un porcentaje de los recursos de los ANR como mecanismo que garantice que la operación de los recursos se destine a proyectos con impacto social con resultados medibles.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2018/10/Artboard-2-copy-4.png)](https://www.ethos.org.mx/wp-content/uploads/2018/10/Artboard-2-copy-4.png)
+  ![](https://ucarecdn.com/2bfcf715-821a-4e4d-8391-e59d6155b802/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2018/10/Artboard-2-copy-4.png)
 
 # Cap. 4
 
@@ -669,7 +687,9 @@ El ecosistema de inversión de impacto, tal como se ha mencionado, tiene como pa
 
 **A nivel de la creación de la demanda de espacios para la inversión, el impulso a las capacidades del emprendedor social así como su asesoría y vinculación con el ecosistema es fundamental**. Para que esto sea posible, es necesario el apoyo de organizaciones, intermediarios y otros proveedores de servicios enfocados en estos objetivos.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2018/10/Artboard-21-copy-8.png)](https://www.ethos.org.mx/wp-content/uploads/2018/10/Artboard-21-copy-8.png)
+![](https://ucarecdn.com/16b659e7-0c7c-4d9a-90ee-8fcc80e4a8e2/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2018/10/Artboard-21-copy-8.png)
 
 Figura 9. Capacidades clave en el fortalecimiento del ecosistema de inversión de impacto por actor
 
