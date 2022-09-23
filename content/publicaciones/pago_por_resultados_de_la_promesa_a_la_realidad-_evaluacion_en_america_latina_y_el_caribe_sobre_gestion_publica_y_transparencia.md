@@ -299,9 +299,11 @@ A partir de lo anterior, proponemos dos formas de modelar el esquema de Pago por
 
 En la sección 2 del compendio, presentamos esquemas de la estructura de incentivos dirigidos a los Agentes movilizada para cada una de las quince experiencias estudiadas11.
 
+![](https://ucarecdn.com/3c5db0d7-0173-4b7a-abb7-0b9fc9d494b2/)
+
 ###### el nivel de exigencia del incentivo
 
-![](https://www.ethos.org.mx/wp-content/uploads/2019/12/Pago-por-resultados-info-extra-3.png)El nivel de exigencia del incentivo se refiere al nivel de presión al que está sometido el Agente para cumplir con los indicadores establecidos. Se compone de dos elementos:
+El nivel de exigencia del incentivo se refiere al nivel de presión al que está sometido el Agente para cumplir con los indicadores establecidos. Se compone de dos elementos:
 
 * el reto metodológico y operativo al que se enfrenta para alcanzar los resultados, que se deriva del nivel de dificultad de las métricas; y,
 * el motivo para alcanzar dichos resultados, producto del esquema de pago establecido: uso, porcentajes, modalidades y frecuencia de los pagos.
@@ -396,7 +398,9 @@ La eficacia designa el “logro de los objetivos de una intervención, por medio
 
 En este contexto, entendemos la innovación social como el desarrollo de nuevos modelos de intervención que permitan atender problemas sociales existentes poco o mal atendidos.
 
-![](https://www.ethos.org.mx/wp-content/uploads/2020/01/Pago-por-resultados-supuesto-5-300x300.png)\
+![](https://ucarecdn.com/5c74000a-a8be-4e1b-b81d-5a8da2522121/)
+
+\
 Al priorizar los resultados en lugar de los procesos para alcanzarlos, el Pago por Resultados brinda una mayor flexibilidad, autonomía y tiempo para que los Agentes puedan adaptar sus modelos de intervención según el contexto y necesidades identificadas. La generación de una base de evidencias importante como producto de la medición de métricas permite realizar estos ajustes de manera más informada y rigurosa que en las intervenciones tradicionales.
 
 ##### f. criterio 6: exigencia del incentivo
