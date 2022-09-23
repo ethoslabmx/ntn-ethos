@@ -17,7 +17,9 @@ file: https://ucarecdn.com/0555e951-5d52-4d13-97a3-7fd3a01d6c8d/
 
 **Sergio Rincón y Alejandro Melgoza / Ethos Laboratorio de Políticas Públicas***
 
-![](https://www.ethos.org.mx/wp-content/uploads/2020/05/Tabaco-y-Covid-interior-1-412x1024.jpg)Era mediodía y un hombre atravesaba la Ciudad de México en su automóvil en medio de la pandemia por COVID-19.  En su maletín llevaba casi una decena de dispositivos de tecnología de última generación, y cargaba con una terminal bancaria. Pero el joven con cubrebocas y guantes de látex no era un trabajador del sector salud, era un promotor de la tabacalera Philip Morris International (PMI), la cual ha desarrollado, al igual que su competencia, British American Tobacco (BAT), una estrategia para enganchar nuevos clientes a que fumen tabaco o consuman nicotina “de manera más novedosa” y “menos dañina” durante la cuarentena. 
+![](https://ucarecdn.com/a8a92238-4970-4796-a748-429b1c382346/)
+
+Era mediodía y un hombre atravesaba la Ciudad de México en su automóvil en medio de la pandemia por COVID-19.  En su maletín llevaba casi una decena de dispositivos de tecnología de última generación, y cargaba con una terminal bancaria. Pero el joven con cubrebocas y guantes de látex no era un trabajador del sector salud, era un promotor de la tabacalera Philip Morris International (PMI), la cual ha desarrollado, al igual que su competencia, British American Tobacco (BAT), una estrategia para enganchar nuevos clientes a que fumen tabaco o consuman nicotina “de manera más novedosa” y “menos dañina” durante la cuarentena. 
 
 Tras agendar una cita en el sitio web oficial, el agente de ventas de Philip Morris llegó al punto que se le indicó en la colonia Juárez, el pasado 24 de marzo. Sacó modelos de iQOS, una especie de pipa de colores con luces a la cual se le insertan pequeños cigarrillos de tabaco comprimido llamados “Heets” con sabores de lo más diverso —nueces, té, cítricos, frutos del bosque, yerbabuena y mentolados— que al fumarlos no generan ceniza, sino un aerosol de nicotina semejante al humo.
 
@@ -103,9 +105,6 @@ Pero este anuncio parece un poco tardío. Según fuentes de Conadic que pidieron
 
 “Llega tardía, muy tardía, pero es parte de la estrategia de las tabacaleras y sus defensores diputados y senadores, y la interferencia que hacen contra las políticas públicas de salud contra el tabaquismo”, comenta un exservidor público de Conadic que ha pedido el anonimato.
 
-*\*Para este reportaje se buscó la postura de Philip Morris Internacional (PMI), British American Tobacco (BAT), Cofepris y la Secretaría de Salud, pero al cierre de la edición no hubo respuesta.\
-*Este reportaje forma parte de Fostering transparency and accountability in the design and implementation of tobacco control policies, un proyecto de Ethos Laboratorio de Políticas Públicas, que contó con la coordinación general de Liliana Alvarado, Rodrigo Bolaños y Silvia Márquez. Edición: Karla Casillas Bermúdez. Diseño: Óscar Alva. Este documento fue posible gracias a una subvención administrada por la Unión Internacional Contra la Tuberculosis y Enfermedades Respiratorias (The Union) y financiada por Bloomberg Philantropies. El contenido de este estudio es responsabilidad de los autores y bajo ningún caso debe considerarse que refleja el punto de vista de The Union o de Bloomberg Philantropies.*
-
-
+*\*Para este reportaje se buscó la postura de Philip Morris Internacional (PMI), British American Tobacco (BAT), Cofepris y la Secretaría de Salud, pero al cierre de la edición no hubo respuesta.*Este reportaje forma parte de Fostering transparency and accountability in the design and implementation of tobacco control policies, un proyecto de Ethos Laboratorio de Políticas Públicas, que contó con la coordinación general de Liliana Alvarado, Rodrigo Bolaños y Silvia Márquez. Edición: Karla Casillas Bermúdez. Diseño: Óscar Alva. Este documento fue posible gracias a una subvención administrada por la Unión Internacional Contra la Tuberculosis y Enfermedades Respiratorias (The Union) y financiada por Bloomberg Philantropies. El contenido de este estudio es responsabilidad de los autores y bajo ningún caso debe considerarse que refleja el punto de vista de The Union o de Bloomberg Philantropies.*
 
 <!--EndFragment-->
