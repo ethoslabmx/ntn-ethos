@@ -155,15 +155,15 @@ Nada regula sus estrategias y prohíbe el conflicto de interés. Solo se avanzó
 
 A una década, los resultados revelan que las torres, caballos, alfiles y peones de BAT y PMM hicieron mejores movimientos y acumularon mayor puntaje en la protección a su corona negra, pues la acción de prioridad más “alta” para combatir el tabaquismo, que es subir los impuestos, no ha alcanzado su meta; y de hecho, el gravamen se desgastó con el tiempo, ante la falta de actualizaciones a la inflación y mayores cuotas, coinciden los expertos consultados.
 
- 
-
 ## **¿GANÓ LA SALUD PÚBLICA?** 
 
 “¡Tu mejor botella!” pidió Rosemary Safie a un mesero del restaurante del Palacio Legislativo de San Lázaro[ la madrugada del 19 de octubre](https://www.jornada.com.mx/2019/10/19/politica/007n3pol) de 2019, según reportó La Jornada. En ese festejo *petit comité* había otros cabilderos como Shirley Almaguer, y el jefe de la Unidad de Política de Ingresos Tributarios de SHCP, Francisco Arias. Celebraban el revés al elevar el IEPS al alcohol, cerveza, refrescos, alimentos de alto contenido calórico y cigarros. Escena que resume el jaque mate al bloqueo legislativo.
 
 Los impuestos al tabaco se contemplan en el[ artículo 6 del Convenio Marco](https://www.who.int/tobacco/economics/taxation/es/), como una de las medidas más eficaces para desincentivar su consumo, prevenirlo en generaciones futuras y mitigar los daños a la salud pública.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2020/10/Tabaco-e-impuestos-Gra%CC%81fica.jpg)](https://www.ethos.org.mx/wp-content/uploads/2020/10/Tabaco-e-impuestos-Gra%CC%81fica.jpg)
+![](https://ucarecdn.com/acd75995-aa89-4154-ae53-89fb3d3a9075/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2020/10/Tabaco-e-impuestos-Gra%CC%81fica.jpg)
 
 Y aunque 2020 inició con un aumento de seis a siete pesos al precio de la cajetilla de cigarros (hasta 64 pesos para las marcas más populares), de ellos solo 2.9 pesos corresponden[ al ajuste a la inflación de la cuota fija](https://www.dof.gob.mx/nota_detalle.php?codigo=5581292&fecha=09/12/2019), pendiente por casi una década.  
 
@@ -223,10 +223,10 @@ Ahora parece haber más fuerza desde posiciones del gobierno: “(López-Gatell)
 
 Pero la partida está en el aire con una apertura semiabierta e iniciativas que apuestan a cubrir la meta de referencia del 75%, sin claridad en el tipo de ataque y defensa que se jugará ni en la transparencia de las acciones e interacciones. Veremos de quién será ahora el Jaque Mate. 
 
-***\*\**Shirley Almaguer, Alfonso Ramírez Cuéllar, Ernesto Cordero, la Alianza Contra Productos Ilegales, y la tabacalera British American Tobacco (BAT) no respondieron a solicitudes de entrevista, hasta el cierre de este reportaje.*** 
+**\*\***Shirley Almaguer, Alfonso Ramírez Cuéllar, Ernesto Cordero, la Alianza Contra Productos Ilegales, y la tabacalera British American Tobacco (BAT) no respondieron a solicitudes de entrevista, hasta el cierre de este reportaje.*** 
 
-*\*\**Este reportaje forma parte de Fostering transparency and accountability in the design and implementation of tobacco control policies, un proyecto de Ethos Laboratorio de Políticas Públicas, que contó con la coordinación general de Rodrigo Bolaños y Silvia Márquez, así como el apoyo de Lisa Grabinsky, Alejandra Moreno y Gabriel Reyes. Edición: Karla Casillas Bermúdez.*
+\*\***Este reportaje forma parte de Fostering transparency and accountability in the design and implementation of tobacco control policies, un proyecto de Ethos Laboratorio de Políticas Públicas, que contó con la coordinación general de Rodrigo Bolaños y Silvia Márquez, así como el apoyo de Lisa Grabinsky, Alejandra Moreno y Gabriel Reyes. Edición: Karla Casillas Bermúdez.*
 
-*\*\**Este documento fue posible gracias a una subvención administrada por la Unión Internacional Contra la Tuberculosis y Enfermedades Respiratorias (The Union) y financiada por Bloomberg Philanthropies. El contenido de este estudio es responsabilidad de los autores y bajo ningún caso debe considerarse que refleja el punto de vista de The Union o de Bloomberg Philanthropies.*
+\*\***Este documento fue posible gracias a una subvención administrada por la Unión Internacional Contra la Tuberculosis y Enfermedades Respiratorias (The Union) y financiada por Bloomberg Philanthropies. El contenido de este estudio es responsabilidad de los autores y bajo ningún caso debe considerarse que refleja el punto de vista de The Union o de Bloomberg Philanthropies.*
 
 <!--EndFragment-->
