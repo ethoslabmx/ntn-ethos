@@ -20,7 +20,9 @@ Después de un minuto de publicidad descubres que lo que te quieren vender es un
 
 En el video en el que se promociona su llegada a México, se dice que este dispositivo es “el más poderoso y más satisfactorio”, y a Jessica, de 20 años de edad, le llamó la atención de inmediato; por eso fue una de las primeras personas en preguntar por el precio (499 pesos). De inmediato le respondieron y le recomendaron visitar la tienda en línea. Luego de algunos días, ella lo compró. 
 
-![](https://www.ethos.org.mx/wp-content/uploads/2020/05/Influencer-de-nicotina-interior-2-568x1024.jpg)“Yo ya había probado un vaporizador con nicsalt (sales de nicotina) y los e-liquids (líquido de sabores), pero este modelo me llamó la atención, estaba muy padre y quería invertir en algo que me durara”, nos cuenta.
+![](https://ucarecdn.com/9f2d2be4-94d2-4b54-8ed2-02a63811157f/)
+
+“Yo ya había probado un vaporizador con nicsalt (sales de nicotina) y los e-liquids (líquido de sabores), pero este modelo me llamó la atención, estaba muy padre y quería invertir en algo que me durara”, nos cuenta.
 
 Sharon, otra joven también preguntó en la *fanpage* de Vype si había alguna sucursal en Guadalajara, Jalisco. Le dijeron que sí y le dieron el detalle de las plazas comerciales.
 
@@ -110,7 +112,9 @@ Para el doctor Juan Wolfgang Zinser Sierra, integrante del Consejo Mexicano cont
 
 “Lo que se tarda en desarrollar, hasta los 24 o 25 años que alcanza su madurez, es el lóbulo frontal de la corteza cerebral. Y esto es importante porque se encarga del juicio, que es el que se encarga de planear, de evaluar riesgos. Al no tener esta parte desarrollada, un joven puede manejar un coche a gran velocidad y no lo ve riesgoso, aunque sea inteligente o un buen alumno, y lo hace porque no tiene esa capacidad de juicio, esa capacidad de poner en la balanza decisiones como fumar. La industria tabacalera le vende a los jóvenes por esto, sabiendo que ellos no están planeando el futuro, no están previendo las afectaciones”, detalla Zinser Sierra.
 
-![](https://www.ethos.org.mx/wp-content/uploads/2020/05/Influencer-de-nicotina-interior-4-300x245.jpg)Todo eso tiene que ver con la formación, por ejemplo, de [comunidades de vapeo](https://www.facebook.com/watch/?ref=search&v=1678506618884295&external_log_id=7357da6f-ecb4-4705-8941-739b616a1fbd&q=vape%20tricks) donde es común que se lancen retos sobre quién puede realizar [figuras geométricas](https://www.facebook.com/watch/?ref=search&v=1167414676789333&external_log_id=a184bcf6-fa8d-4748-8dc6-a00ff677299b&q=vape%20art) o inclusive [“arte” con vapor](https://www.facebook.com/watch/?ref=search&v=1726336347485968&external_log_id=a184bcf6-fa8d-4748-8dc6-a00ff677299b&q=vape%20art). A todo esto se le llama “[vapeo extremo](https://www.youtube.com/watch?v=Ci78gyupiY8)”. También hay youtubers como el [Mono Vapeador](https://www.youtube.com/user/elmonovapeador/videos), el canal de [Vaporingos ](https://www.youtube.com/channel/UC-ZxANzQILwgN-UqQBzesQA/videos)y [More than Vapers](https://www.youtube.com/watch?v=g_H7l9rfUKY&t=685s). En México, las comunidades se centran en Facebook, en grupos de vapeadores extremos. 
+![](https://ucarecdn.com/3ea12271-3d04-4676-848e-be94997bcd0e/)
+
+Todo eso tiene que ver con la formación, por ejemplo, de [comunidades de vapeo](https://www.facebook.com/watch/?ref=search&v=1678506618884295&external_log_id=7357da6f-ecb4-4705-8941-739b616a1fbd&q=vape%20tricks) donde es común que se lancen retos sobre quién puede realizar [figuras geométricas](https://www.facebook.com/watch/?ref=search&v=1167414676789333&external_log_id=a184bcf6-fa8d-4748-8dc6-a00ff677299b&q=vape%20art) o inclusive [“arte” con vapor](https://www.facebook.com/watch/?ref=search&v=1726336347485968&external_log_id=a184bcf6-fa8d-4748-8dc6-a00ff677299b&q=vape%20art). A todo esto se le llama “[vapeo extremo](https://www.youtube.com/watch?v=Ci78gyupiY8)”. También hay youtubers como el [Mono Vapeador](https://www.youtube.com/user/elmonovapeador/videos), el canal de [Vaporingos ](https://www.youtube.com/channel/UC-ZxANzQILwgN-UqQBzesQA/videos)y [More than Vapers](https://www.youtube.com/watch?v=g_H7l9rfUKY&t=685s). En México, las comunidades se centran en Facebook, en grupos de vapeadores extremos. 
 
 El investigador Inti Barrientos asegura que este tipo de comunidades son “atractivas” para adolescentes y el hecho que existan y se vean estos videos hace que los jóvenes conozcan estos productos. 
 
@@ -152,7 +156,9 @@ El abogado Javier Zúñiga explica que el decreto contra la importación de esto
 
 “Como está formulado el decreto, hay una limitante que es la venta, distribución y comercialización, pero entre las grandes virtudes es que hace una clasificación basada en evidencia científica. No es lo mismo hablar de cigarro electrónico —que cada quien entendía lo que quería—, que hablar de sistemas electrónicos de administración de nicotina”, agrega el jurista. 
 
-![](https://www.ethos.org.mx/wp-content/uploads/2020/05/Influencer-de-nicotina-Interior-3-300x215.jpg)Además este decreto habla de los graves daños a la salud comprobados en países como Estados Unidos, y advertidos por la OMS.
+![](https://ucarecdn.com/0757f922-a2d4-4f78-bff0-47c3881c6c8c/)
+
+Además este decreto habla de los graves daños a la salud comprobados en países como Estados Unidos, y advertidos por la OMS.
 
 Pero para las dos grandes empresas, esto no representa el fin, pues en sus reportes anuales han informado a sus inversionistas que están preparados con un cuerpo legal para interponer amparos e incluso para sensibilizar a las autoridades a que comprendan mejor estos productos. 
 
