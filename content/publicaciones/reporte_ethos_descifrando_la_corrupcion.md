@@ -2,8 +2,8 @@
 title: "Reporte Ethos: Descifrando la Corrupción"
 date: 2017-03-24T00:35:32.660Z
 img: https://ucarecdn.com/31c49ee7-908c-443a-9848-b8b2ebd7c22c/
-category: anticorrupcion
 autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+category: anticorrupcion
 extracto: En el presente documento se realiza un análisis sobre las causas y
   consecuencias de la corrupción en México. A través de una revisión exhaustiva
   de la literatura, un análisis de las principales leyes que rigen su combate y
@@ -42,7 +42,7 @@ Lo anterior hace que no haya consenso en su definición, ni tampoco evidencia cl
 
 Otros organismos internacionales definen a la corrupción acotándola al sector público, como la OCDE (OCDE,2013):
 
-***Uso indebido del poder por servidores públicos** (elegidos o designados), **ya sea de forma activa o pasiva, para obtener beneficios privados** (financieros u otros).*
+**\*Uso indebido del poder por servidores públicos** (elegidos o designados), **ya sea de forma activa o pasiva, para obtener beneficios privados** (financieros u otros).*
 
 La anterior es la definición más aceptada en la literatura existente y es la más mencionada por organismos internacionales como el FMI y la ONU (FMI, 2016).
 
@@ -94,8 +94,8 @@ Primero, deben existir individuos con alto poder discrecional. Este poder es aqu
 
 **Cuadro 1. La regulación en el otorgamiento de bienes y servicios**
 
-|   
-| *De acuerdo a una teoría elaborada por Shleifer y Vishny (1993), el poder discrecional podría ser consecuencia de una regulación mal diseñada sobre el otorgamiento de bienes y servicios, lo que ocasiona posibles rentas económicas a la burocracia. En ambos casos, el gobierno proporciona el bien o servicio, aunque difiere la forma en que los individuos o empresas pueden obtenerlos:* *1**) Monopolio.** El gobierno pone a disposición un bien o derecho a través de una sola agencia. De acuerdo a este modelo, un funcionario público puede limitar la oferta del bien, o simplemente no otorgarlo, a menos que se le ofrezca un incentivo monetario para hacerlo. El nivel de corrupción irá acorde a las probabilidades de que ésta sea detectada y de su castigo. Sin embargo, los niveles de penalización y probabilidad de ser detectado afectaran el monto y la frecuencia de pagos extra judiciales más no la esencia del problema.* ***2) Competencia**. Es cuando cada uno de los bienes o derechos está disponible a través de diversas agencias gubernamentales, y éstas no estén coludidas entre ellas. Por ejemplo, si un individuo necesita obtener un permiso en especial pero una de las agencias le pide soborno, entonces tendrá la posibilidad de irse a otra, hasta encontrar aquella que no lo haga o le exija lo menos.De acuerdo a los mismos autores, el monto y frecuencia de los pagos extrajudiciales será menor en el segundo caso, ya que la competencia tenderá a llevar el nivel de corrupción a cero. Cabe mencionar que Svenson (2005) aclara que la competencia solamente funcionará cuando se trata del otorgamiento de bienes o servicios, y no cuando se trata de la aprobación de un proyecto o servicio ya que la corrupción más bien aumentará.* |
+\|\
+| *De acuerdo a una teoría elaborada por Shleifer y Vishny (1993), el poder discrecional podría ser consecuencia de una regulación mal diseñada sobre el otorgamiento de bienes y servicios, lo que ocasiona posibles rentas económicas a la burocracia. En ambos casos, el gobierno proporciona el bien o servicio, aunque difiere la forma en que los individuos o empresas pueden obtenerlos:* *1**) Monopolio.** El gobierno pone a disposición un bien o derecho a través de una sola agencia. De acuerdo a este modelo, un funcionario público puede limitar la oferta del bien, o simplemente no otorgarlo, a menos que se le ofrezca un incentivo monetario para hacerlo. El nivel de corrupción irá acorde a las probabilidades de que ésta sea detectada y de su castigo. Sin embargo, los niveles de penalización y probabilidad de ser detectado afectaran el monto y la frecuencia de pagos extra judiciales más no la esencia del problema.* **\*2) Competencia**. Es cuando cada uno de los bienes o derechos está disponible a través de diversas agencias gubernamentales, y éstas no estén coludidas entre ellas. Por ejemplo, si un individuo necesita obtener un permiso en especial pero una de las agencias le pide soborno, entonces tendrá la posibilidad de irse a otra, hasta encontrar aquella que no lo haga o le exija lo menos.De acuerdo a los mismos autores, el monto y frecuencia de los pagos extrajudiciales será menor en el segundo caso, ya que la competencia tenderá a llevar el nivel de corrupción a cero. Cabe mencionar que Svenson (2005) aclara que la competencia solamente funcionará cuando se trata del otorgamiento de bienes o servicios, y no cuando se trata de la aprobación de un proyecto o servicio ya que la corrupción más bien aumentará.* |
 
 [![](https://www.ethos.org.mx/wp-content/uploads/2017/03/Captura-de-pantalla-2017-04-05-a-las-2.45.09-p.m..png "Tabla 1.1")](https://www.ethos.org.mx/wp-content/uploads/2017/03/Captura-de-pantalla-2017-04-05-a-las-2.45.09-p.m..png)
 
@@ -361,7 +361,9 @@ Es por ello que, de acuerdo a las definiciones establecidas anteriormente, se pu
 
 **Tabla 4. Sanciones por delito electoral cometido dependiendo de las funciones**
 
-[![Tabla 4. Sanciones por delito electoral cometido dependiendo de las funciones](https://www.ethos.org.mx/wp-content/uploads/2017/04/Captura-de-pantalla-2017-04-18-a-las-5.30.34-p.m..png "Tabla 4. Sanciones por delito electoral cometido dependiendo de las funciones")](https://www.ethos.org.mx/wp-content/uploads/2017/04/Captura-de-pantalla-2017-04-18-a-las-5.30.34-p.m..png)
+![](https://ucarecdn.com/b43f5fb3-bbb1-4224-a402-6c6d280dca47/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/04/Captura-de-pantalla-2017-04-18-a-las-5.30.34-p.m..png)
 
 Fuente: elaboración propia con base en el Código Penal Federal Nota: Salarios Mínimos = SM
 
@@ -371,7 +373,9 @@ A pesar de que en los últimos 30 años se han hecho diversas modificaciones ins
 
 **Diagrama 1. Evolución de instituciones con sus leyes y programas en contra de la corrupción**
 
-[![Fuente: elaboración propia. ](https://www.ethos.org.mx/wp-content/uploads/2017/04/diagrama_1_reporte_corrupcion_cap3.png "Diagrama 1")](https://www.ethos.org.mx/wp-content/uploads/2017/04/diagrama_1_reporte_corrupcion_cap3.png)
+![](https://ucarecdn.com/e268818b-6d3a-49cb-a0f8-6f1dc70842aa/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/04/diagrama_1_reporte_corrupcion_cap3.png)
 
 Fuente: elaboración propia. 1 Recientemente el TRICOCEL cambió a ser el Tribunal Electoral del Poder Judicial de la Federación. 2 Recientemente el IFE cambió a Instituto Nacional Electoral. 3 Recientemente el IFAI cambió su nombre por Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales INAI.
 
@@ -407,7 +411,9 @@ Entre 1998 y 2014, se ha acumulado una gran cantidad de denuncias sobre corrupci
 
 **Tabla 5. Total de denuncias penales presentadas por la13 ASF a la PGR**
 
-[![Tabla 5. Total de denuncias penales presentadas por la ASF a la PGR](https://www.ethos.org.mx/wp-content/uploads/2017/04/Captura-de-pantalla-2017-04-18-a-las-5.32.56-p.m..png "Tabla 5. Total de denuncias penales presentadas por la ASF a la PGR")](https://www.ethos.org.mx/wp-content/uploads/2017/04/Captura-de-pantalla-2017-04-18-a-las-5.32.56-p.m..png)
+![](https://ucarecdn.com/22cd9cdf-764b-431b-a6ed-dbecba7e102d/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/04/Captura-de-pantalla-2017-04-18-a-las-5.32.56-p.m..png)
 
 Fuente: obtenido de (ASF, 2016)14
 
@@ -472,7 +478,9 @@ Para su elaboración se consideraron puntos clave para mejorar la figura del ser
 
 **Tabla 6. Principales propuestas de la sociedad civil para la LGRA**
 
-[![Tabla 6. Principales propuestas de la sociedad civil para la LGRA](https://www.ethos.org.mx/wp-content/uploads/2017/04/Captura-de-pantalla-2017-04-18-a-las-5.47.45-p.m..png "Tabla 6. Principales propuestas de la sociedad civil para la LGRA")](https://www.ethos.org.mx/wp-content/uploads/2017/04/Captura-de-pantalla-2017-04-18-a-las-5.47.45-p.m..png)
+![](https://ucarecdn.com/ec2f93e0-d3db-4f85-b3ee-1ff1d9521c99/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/04/Captura-de-pantalla-2017-04-18-a-las-5.47.45-p.m..png)
 
 Fuente: elaboración propia con base en la Iniciativa de la Ley 3 de 3 consultada en su sitio en línea.
 
@@ -528,11 +536,13 @@ Por último, en la tabla 7 se mencionan otros países que en su combate a la cor
 
 **Tabla 7. Medidas implementadas para el combate a la corrupción en países seleccionados**
 
-[![Tabla 7. Medidas implementadas para el combate a la corrupción en países seleccionados](https://www.ethos.org.mx/wp-content/uploads/2017/04/Captura-de-pantalla-2017-04-16-a-las-6.19.49-p.m..png "Tabla 7. Medidas implementadas para el combate a la corrupción en países seleccionados")](https://www.ethos.org.mx/wp-content/uploads/2017/04/Captura-de-pantalla-2017-04-16-a-las-6.19.49-p.m..png)
+![](https://ucarecdn.com/dcd9cce9-f19e-4f77-a2e7-475916d27f7b/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/04/Captura-de-pantalla-2017-04-16-a-las-6.19.49-p.m..png)
 
 Fuente: elaboración propia con base en (Carrillo, 2014), (Manion, 1996), Transparencia Internacional (2013) y (Transparency International, 2016)22.
 
-####  **4.2 MEJORES PRÁCTICAS DE LOS ORGANISMOS ANTICORRUPCIÓN**
+#### **4.2 MEJORES PRÁCTICAS DE LOS ORGANISMOS ANTICORRUPCIÓN**
 
 De acuerdo al análisis realizado por la OCDE (2008) las principales **acciones para evitar la corrupción deben originarse de un esfuerzo coordinado para: investigar, monitorear y perseguir así como prevenir, educar y generar consciencia en los individuos.** De esta forma, según una comparación internacional de los organismos anticorrupción, estos deben tener las siguientes características si se desea que funcionen adecuadamente:
 
