@@ -36,7 +36,9 @@ Las principales observaciones del capítulo 1 son:
 * La matriz energética de México se basa principalmente en fuentes de energía provenientes de combustibles fósiles. La **generación de electricidad depende de estas fuentes en un 80%** por lo tanto, se requiere fomentar medidas de EE para reducir el impacto ambiental del consumo de electricidad.
 * México tiene un gran potencial para la EE. A través del FOTEASE, existe un apoyo importante para este tipo de proyectos pero se deben impulsar nuevos instrumentos que **no dependan exclusivamente de las finanzas públicas** e impliquen mayor participación de la banca privada y empresas. Lo anterior para acelerar el cumplimiento de las metas en la reducción de emisiones.
 
-[![Aumento de temperatura](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnergetica-RE-1.gif "Aumento de temperatura")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnergetica-RE-1.gif)
+  ![](https://ucarecdn.com/97ea3c13-a443-4f51-a37b-e884e1adcd9f/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnergetica-RE-1.gif)
 
 Aumento de temperatura
 
@@ -51,7 +53,9 @@ Las principales observaciones del capítulo 2 son:
 * El análisis de las leyes de **Jalisco, Nuevo León, Sonora, Tabasco y Yucatán**, deja ver que en términos generales son buenas leyes, que apuntan en la dirección correcta. Sin embargo, hace falta pulir aspectos específicos de sus legislaciones.
 * El **reto más importante** es crear los arreglos institucionales y los incentivos para que las instituciones públicas implemente proyectos de EE, por ejemplo, etiquetar los ahorros generados para nuevos proyectos de la institución implementadora.
 
-[![Mapa de estados](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-RE-Mapa.png "Mapa de estados")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-RE-Mapa.png)
+  ![](https://ucarecdn.com/b26016f1-79e8-4aa1-84d5-608ecfc3ef40/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-RE-Mapa.png)
 
 Estados de la república
 
@@ -70,15 +74,12 @@ Las principales conclusiones de esta publicación son las siguientes:
 **Para metas ambiciosas es necesario implementar proyectos ambiciosos.**
 
 1. Se deben guiar los apoyos a los sectores de mayor consumo energético y por lo tanto más contaminantes.
-
 2. Se deben complementar con incentivos reales para la adopción de estas prácticas y que involucren a todos los actores participantes en las cadenas de producción.
 
 **Campaña de comunicación efectiva para comunicar los retos y soluciones.**
 
 3. La sociedad es clave para el impulso de la EE, una barrera para su consolidación es limitado el acceso a la información y difusión.
-
 4. La cultura de un consumo eficiente no existe en México como consecuencia principalmente del subsidio en el precio de la electricidad en los hogares.
-
 5. Impulsar campañas de concientización para fortalecer la adopción de mejores prácticas respecto al consumo de la energía incluyendo gasolinas y diésel.
 
 **Mitigar la percepción del riesgo en la inversión en eficiencia energética.**
@@ -116,7 +117,6 @@ Las principales conclusiones de esta publicación son las siguientes:
 **Las leyes de los estados analizados son favorables pero existen retos.**
 
 14. El análisis de las leyes de Jalisco, Nuevo León, Sonora, Tabasco y Yucatán, deja ver que en términos generales son buenas leyes, que apuntan en la dirección correcta.
-
 15. El reto más importante es crear los arreglos institucionales y los incentivos para que las instituciones públicas implementen proyectos de EE, por ejemplo etiquetar los ahorros generados para nuevos proyectos de la institución implementadora.
 
 **Necesario diversificar la cartera de proyectos.**
@@ -143,7 +143,9 @@ México se encuentra en el momento preciso para identificar las barreras y adopt
 
 La **Reforma Energética y la Ley de Transición Energética** (LTE) rompen un importante paradigma mexicano al presentar una estrategia para descarbonizar la economía y reducir la dependencia a los combustibles fósiles. Esta dependencia ha generado retos económicos que han desencadenado impactos sociales y medioambientales. Para lo anterior, estos instrumentos expresan abiertamente la necesidad de una transformación energética desde los cimientos. México necesita explorar nuevos caminos para fortalecer su economía, garantizar su independencia energética y lograr alcanzar la seguridad energética para su población.
 
-[![Infografía parte 1](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Intro-Inf1.png "Infografía parte 1")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Intro-Inf1.png)
+![](https://ucarecdn.com/abc49338-5142-46a4-bd4c-8a9e9688b48d/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Intro-Inf1.png)
 
 “Actualmente el país:” Infografía, Introducción, Parte I
 
@@ -153,7 +155,9 @@ Paralelamente, en la **Estrategia Nacional de Energía 2014-2028** se consider
 
 La **reducción de emisiones**, también se presenta como una acción primordial, siendo este el primer beneficio de la EE. México publicó en 2012 la **Ley General de Cambio Climático** (LGCC), la cual menciona a la EE como clave en las acciones de mitigación. De la misma manera ha establecido su compromiso en el **Acuerdo de París** a través de la denominada Contribución Prevista y Determinada a Nivel Nacional (Intended Nationally Determined Contribution, INDC, por sus siglas en inglés), en donde el país ha expresado su compromiso en reducir de manera incondicionada emisiones de Gases de Efecto Invernadero (GEI) y contaminantes de vida corta en un 25% para 2030.
 
-[![Infografía parte 2](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Intro-Inf2.png "Infografía parte 2")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Intro-Inf2.png)
+![](https://ucarecdn.com/42a41f60-eb1d-40fc-81e5-c393fa38bd38/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Intro-Inf2.png)
 
 “Los proyectos en EE” Infografía, Introducción, Parte II
 
@@ -165,7 +169,9 @@ Por todo lo anterior, es determinante **impulsar el mercado** actual de EE, r
 
 La **Ley de Asociaciones Público Privadas**, bajo este contexto, tiene un papel crucial, ya que ha permitido incrementar la participación entre actores privados y públicos para la creación de proyectos, principalmente para aquellos relacionados a infraestructura carretera y hospitalaria. Dentro de las consideraciones de la Ley, **los proyectos de EE son posibles**, pero es importante tener en cuenta diferentes aspectos, técnicos y presupuestarios, previos a su implementación a través de una Asociación Público Privada (APP). Para lo anterior, el análisis de los **marcos normativos federales y estatales es clave para avanzar en este proceso**.
 
-[![Infografía parte 3](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Intro-Inf3.png "Infografía parte 3")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Intro-Inf3.png)
+![](https://ucarecdn.com/f2042754-2ef2-468c-9d51-73438602abbc/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Intro-Inf3.png)
 
 “Marco normativo adecuado” Infografía, Introducción, Parte III
 
@@ -197,7 +203,9 @@ Es por ello que en estos cambios se incluye la eficiencia, pero no solo la energ
 
 Un concepto utilizado para describir esta tendencia, de buscar el crecimiento económico y reducir el uso de recursos es **desacoplar**. Este término pretende guiar a los países a la búsqueda de reducir su intensidad en el uso de recursos mientras se incrementa su PIB. Es decir, **disminuir la cantidad de recursos, que se requiere para hacer crecer una economía**. Existen dos clasificaciones para el desacoplamiento, el absoluto y el relativo. Mientras el primero se refiere a la disminución general, impulsada para países desarrollados, el segundo va de la mano con economías en desarrollo al incentivar la disminución del indicador de Intensidad en Material Doméstico.
 
-[![Infografía parte 1](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Inf1.png "Infografía parte 1")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Inf1.png)
+![](https://ucarecdn.com/ec76e140-b75f-4dd6-b009-2aed8556d7ef/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Inf1.png)
 
 “Frente al cambio climático se necesita” Infografía, Capítulo 1, Parte I
 
@@ -249,7 +257,9 @@ Los beneficios de la EE suelen ser muy específicos y tienden a abarcar difere
 
 Además de los beneficios anteriores la AIE en su documento “Capturando los múltiples beneficios de la eficiencia energética”, menciona una variedad de beneficios complementarios, los cuales se agruparon en la siguiente manera: s**ociales, económicos y medioambientales**. A continuación, se explican estos beneficios en un contexto nacional. El siguiente diagrama describe algunos de los impactos dentro de las esferas antes mencionadas:
 
-[![Figura I.1. Los múltiples beneficios de la eficiencia energética.](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Fig1_1.gif "Esquema Beneficios")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Fig1_1.gif)
+![](https://ucarecdn.com/76f24873-7823-4526-bdc9-ce73b63a72f7/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Fig1_1.gif)
 
 Figura I.1. Los múltiples beneficios de la eficiencia energética.\
 Fuente: Elaboración propia con información de la AIE.
@@ -286,7 +296,9 @@ Del Protocolo de Kyoto al Acuerdo de París ha habido una evolución en los esfu
 
 Es así que los beneficios medioambientales rebasan cualquiera de los presentados anteriormente en el largo plazo y de la misma manera impulsan el desarrollo sustentable que abarca las esferas sociales y económicas. Por estas razones, la implementación de proyectos de EE deben ser impulsados tanto por el gobierno federal como por los locales para garantizar, en el presente como en el futuro, una **mejor calidad de vida**.
 
-[![Infografía parte 2 BENEFICIOS](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Inf2.png "Infografía parte 2 BENEFICIOS")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Inf2.png)
+![](https://ucarecdn.com/e92c270b-aba0-494c-82b7-50ee30ddb4ee/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Inf2.png)
 
 “Beneficios” Infografía, Capítulo 1, Parte II
 
@@ -306,7 +318,9 @@ Posteriormente, se organizaron las **Conferencias de las Partes** (COP) a trav
 
 Estas reuniones permitieron reforzar los compromisos llegando al reciente ratificado **Acuerdo de París** el cual tiene una base en la búsqueda de la transición energética para la mitigación del cambio climático y ha tenido el respaldo de países como Estados Unidos, China, Reino Unido y México. A continuación, se presenta la línea del tiempo de los eventos más relevantes en materia de desarrollo sostenible:
 
-[![Figura I.2. Línea del tiempo de hitos del desarrollo sostenible.](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Fig1_2.png "Esquema Línea de tiempo")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Fig1_2.png)
+![](https://ucarecdn.com/8863f405-f4c1-4c29-97e6-8af5635760bb/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Fig1_2.png)
 
 Figura I.2. Línea del tiempo de hitos del desarrollo sostenible.\
 Fuente: Elaboración propia con información de la Organización de las Naciones Unidas.
@@ -333,7 +347,9 @@ A nivel internacional, PNUMA identifica que **edificios representan el mayor 
 
 A continuación, se presenta para el año 2012 el panorama global para el consumo energético:
 
-[![Figura I.3. Consumo final de energía por sector 2012.](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Fig1_3.png "Esquema Consumo Energético por Sector")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Fig1_3.png)
+![](https://ucarecdn.com/f3828043-1341-421d-9144-2d6658c5a513/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Fig1_3.png)
 
 Figura I.3. Consumo final de energía por sector 2012.\
 Fuente: Elaboración propia con información de la AIE en documento de PNUMA.
@@ -342,7 +358,9 @@ En términos de países, la AIE menciona que aproximadamente dos tercios de la
 
 **Figura I.4. Emisiones de Co2 por combustibles fósiles (Mt Co2) (2014)**
 
-[![Figura I.4. Emisiones de Co2 por combustibles fósiles (Mt Co2) (2014)](https://www.ethos.org.mx/wp-content/uploads/2017/02/C1-6.gif "Emisiones CO2")](https://www.ethos.org.mx/wp-content/uploads/2017/02/C1-6.gif)
+![](https://ucarecdn.com/3659cdf2-f8d8-4023-80a4-be4be3e7c3ce/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/C1-6.gif)
 
 Figura I.4. Emisiones de Co2 por combustibles fósiles (Mt Co2) (2014)\
 Fuente: Agencia Internacional de Energía.
@@ -361,14 +379,18 @@ La AIE, este año, publicó como parte del Energy Efficiency Market Report 2016
 
 La AIE considera 7 áreas prioritarias para las políticas públicas de EE. Cada una de estas áreas se complementa para garantizar una cobertura **horizontal y vertical** dentro de la implementación de estrategias públicas para su impulso. De la misma manera, estas describen proyectos necesarios para fomentar el mercado de EE en cada uno de los países.
 
-[![Figura I.5. Áreas Prioritarias](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Fig1_5.png "Esquema Áreas Prioritarias")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Fig1_5.png)
+![](https://ucarecdn.com/ced2aee7-b996-4460-93b3-a3154efd6132/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Fig1_5.png)
 
 Figura I.5. Áreas Prioritarias\
 Fuente: Elaboración propia con información de la AIE.
 
 Para llevar a cabo la implementación de la variedad de proyectos en EE, se reconoce la principal **barrera como el acceso a financiamiento**. Es por lo anterior que la AIE considera la colaboración público privada para combatir esta barrera a través de diferentes mecanismos específicos que se relacionan con créditos, riesgo y el marco normativo.
 
-[![Figura I.6. Barreras financieras](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Fig1_6.png "Tabla Barreras financieras")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Fig1_6.png)
+![](https://ucarecdn.com/f5c9c018-9809-4fef-80b9-764ae99bbb28/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Fig1_6.png)
 
 Figura I.6. Barreras financieras\
 Fuente: Limaye en AIE (2011).
@@ -387,7 +409,9 @@ Sobre esta base, existen ejemplos internacionales que han buscado a través de u
 
 * La característica más importante del fondo de la Unión Europea es la posibilidad de apoyar otros fondos en distintos países miembros. Este mecanismo reconoce la importancia de **generar instrumentos de financiamiento** para impulsar el mercado de EE.
 
-[![Tabla I.1 FONDO EUROPEO EN EFICIENCIA ENERGÉTICA (EEEF)](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_1.png "Tabla EEEF")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_1.png)
+  ![](https://ucarecdn.com/7c52b672-2e90-4dea-8788-5879458793af/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_1.png)
 
 Tabla I.1 FONDO EUROPEO EN EFICIENCIA ENERGÉTICA (EEEF)
 
@@ -395,7 +419,9 @@ Tabla I.1 FONDO EUROPEO EN EFICIENCIA ENERGÉTICA (EEEF)
 
 * Este fondo en Canadá es exclusivo para los municipios, cubre diferentes temas incluido el de EE. Apoyo en la parte de financiamiento, pero también cubre la parte del conocimiento y apoyo técnico. Por otro lado, maneja subsidios para el apoyo en las primeras fases para luego brindar apoyo a través de créditos en la implementación.
 
-[![Tabla I.2 GREEN MUNICIPAL FUND](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_2.png "Tabla Green Municipal Fund")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_2.png)
+  ![](https://ucarecdn.com/8a1ac371-73a0-4805-be46-7608cf19a873/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_2.png)
 
 Tabla I.2 GREEN MUNICIPAL FUND
 
@@ -403,7 +429,9 @@ Tabla I.2 GREEN MUNICIPAL FUND
 
 * Londres es una ciudad muy dinámica y que por sus características de consumo energético requiere el impulso de proyectos en EE. Este fondo surge con el apoyo del Fondo Regional Europeo y el Fondo Verde de Londres (European Regional Development Fund y de London Green Fund).
 
-[![Tabla I.3 LONDON ENERGY EFFICIENCY FUND (LEEF)](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_3.png "Tabla LEEF")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_3.png)
+  ![](https://ucarecdn.com/7800f55a-c265-4778-894b-6e2c83dd26dc/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_3.png)
 
 Tabla I.3 LONDON ENERGY EFFICIENCY FUND (LEEF)
 
@@ -431,7 +459,9 @@ Por último, es necesario mencionar que México fue uno de los países más entu
 
 Es por todo lo anterior que se requiere **analizar el contexto mexicano para encontrar las oportunidades y comprender las barreras** que existen actualmente para la implementación de proyectos de EE. En consecuencia, identificar un espacio para las APP y las colaboraciones entre el gobierno y otros actores que permitan facilitar en la parte técnica y financiera concretar estas implementaciones.
 
-[![Fotografía Celular Televisión](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Img1.jpg "Fotografía Celular Televisión")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Img1.jpg)
+![](https://ucarecdn.com/e9f76b06-a4db-45d3-8e13-6a8a210301e1/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Img1.jpg)
 
 El reto: cambiar la cultura y mejorar la comprensión de los efectos del desperdicio en el uso de la energía. Foto: [Yahoo! ACTUALITÉS](https://fr.news.yahoo.com/trois-grands-changements-vont-bouleverser-060000841.html)
 
@@ -449,7 +479,9 @@ Para lograr una mayor comprensión de sus impactos, en la ENCC, se presenta la v
 
 La infraestructura clave para el funcionamiento del país también está en riesgo, en este estudio se presenta el daño que pueden sufrir estructuras en diferentes ámbitos. Por ejemplo, en el sector energético, PEMEX puede tener daños en el 46% del total de infraestructura, así como CFE en un 30%, el **20% del total de los planteles educativos** y en el sector salud, el 16% del total de unidades médicas a nivel nacional.
 
-[![Figura I.7. Marco Normativo Nacional Clave para el Cambio Climático](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Fig1_7.png "Esquema Marco Normativo")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Fig1_7.png)
+![](https://ucarecdn.com/de83a799-322d-4ec9-a45c-a8deb30aa239/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Fig1_7.png)
 
 Figura I.7. Marco Normativo Nacional Clave para el Cambio Climático\
 Fuente: Elaboración propia
@@ -494,7 +526,9 @@ El análisis sobre el consumo de energía en el sector residencial está integra
 
 Dentro de la región OCDE, **México es el país con menor consumo per cápita de energía** con casi menos del 40% del promedio de los demás países. Existen dos factores que determinan el consumo energético del país, el crecimiento de la economía y el crecimiento de la población. En México se espera que estos dos factores aumentarán el consumo de energía nacional hasta un 25% mientras que los países de la OCDE bajarán su consumo energético derivado de sus mejoras en tema de eficiencia. **Si México pretende cumplir con el crecimiento económico** esperado y al mismo tiempo cumplir sus compromisos respecto a la reducción de las emisiones de GEI **tiene que acelerar la implementación de proyectos de EE**.
 
-[![Infografía parte 3 MÉXICO HOY](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Inf3.png "Infografía parte 3 MÉXICO HOY")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Inf3.png)
+![](https://ucarecdn.com/34f61fc3-dfbe-4221-9882-f357a68c2a10/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Inf3.png)
 
 “México hoy”, Infografía, Capítulo 1, Parte III
 
@@ -514,7 +548,9 @@ La estructura conceptual, así como las atribuciones que se tienen previstas de 
 
 **Gráfico I.8 Marco legal de la transición energética – CONUEE, 2014**
 
-[![Esquema Flecha](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Fig1_8.png "Esquema Flecha")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Fig1_8.png)
+![](https://ucarecdn.com/248a12a8-e920-482d-b8ba-d3390c931d0d/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Fig1_8.png)
 
 Fuente: Tomado de Estrategia de Transición para Promover el Uso de Tecnologías y Combustibles más Limpios pág 2.
 
@@ -526,7 +562,9 @@ Es digno de reconocer que a pesar de contar con una vida institucional relativam
 
 Una de los pilares para esta consolidación del entramado institucional antes mencionado se ve reflejado en el diseño de las metas e indicadores que a nivel general se encuentra expresado en el **Programa Nacional de Aprovechamiento Sustentable de la Energía**. En este documento se encuentran **6 objetivos** específicos que delimitan las políticas específicas en materia de EE, tal como se presenta a continuación:
 
-[![Objetivos](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_4.png "Objetivos")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_4.png)
+![](https://ucarecdn.com/2ee2fa0c-333e-4a3e-b2e0-9dac350033d1/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_4.png)
 
 Tabla I.4
 
@@ -589,14 +627,18 @@ El FOTEASE, es uno de los instrumentos más importantes en el financiamiento al
 
 La estructura del Fondo es la siguiente: fideicomitente la SHCP, fideicomisario es SENER y como fiduciaria Banobras.
 
-[![FOTEASE](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_5.png "FOTEASE")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_5.png)
+![](https://ucarecdn.com/f933feca-238e-4225-8d35-14759b3e376c/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_5.png)
 
 Tabla I.5\
 Fuente: Elaboración propia con información de FOTEASE.
 
 A continuación, se presenta en términos de recursos y porcentaje la cobertura del Fondo, se puede observar en la siguiente tabla que la prioridad ha sido la EE.
 
-[![Tabla I.6 Destino de los Recursos del FOTEASE](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_6.png "Tabla Destino de Recursos del FOTEASE")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_6.png)
+![](https://ucarecdn.com/127745ae-532d-4a77-b66a-238ad58abc1b/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_6.png)
 
 Tabla I.6 Destino de los Recursos del FOTEASE\
 Fuente: Elaboración propia con información del Informe Cero SENER.
@@ -607,7 +649,9 @@ Los montos a través de este Fondo representan un gran apoyo a las actividades d
 
 El FIDE es un fideicomiso privado creado en 1990, sin fines de lucro, cuyo objetivo es la promoción de la EE a través de diferentes medidas dirigidas a diferentes sectores para **garantizar una cobertura equitativa** y de apoyo. Los fideicomitentes son CONCAMIN, CANACINTRA, CANAME, CMIC, CNEC, SUTERM, la fiduciaria es Nacional Financiera y los fideicomisarios la CFE y consumidores de energía eléctrica.
 
-[![Tabla FIDE](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_7.png "Tabla FIDE")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_7.png)
+![](https://ucarecdn.com/db17a0bb-0f86-422c-9abd-ee173be22753/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_7.png)
 
 Tabla I.7\
 Fuente: Elaboración propia con información de FIDE.
@@ -629,7 +673,9 @@ Esta línea de programas se enfoca principalmente en la **sustitución de tecno
 * **Programa Horario de Verano**: Este programa se implementó desde 1996 y ha sido una de las medidas más exitosas pero con poca difusión de sus efectos positivos. El objetivo es **disminuir el consumo de energía eléctrica** para aumentar en aprovechamiento de la luz natural. Para la CFE es programa con **múltiples beneficios**, en el año 2015 se obtuvo un ahorro de 1,046 GWh equivalentes a $1,470 millones de pesos y a 1.33 millones barriles de petróleo no consumidos, evitando **466 mil tCO2eq evitadas**.
 * **Programa de Eficiencia Energética en la Administración Pública Federal**: Desde 1999 este programa se ha implementado, actualmente la CONUEE lo promueve principalmente para inmuebles, flotas vehiculares e instalaciones de las dependencias y entidades pertenecientes al gobierno federal. El objetivo es promover el consumo y uso eficiente de la energía, lo cual ha tenido como resultado una reducción de 5,483 Gh hasta el año 2012.
 
-[![Tabla I.8 Proyectos de eficiencia energética en la APF - CONUEE, 2014](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_8.png "Tabla Proyectos de EE CONUE 2014")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_8.png)
+  ![](https://ucarecdn.com/12c24600-f7c8-40bb-9f14-11a3eb0ae545/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_8.png)
 
 Tabla I.8 Proyectos de eficiencia energética en la APF – CONUEE, 2014\
 Fuente: CONUEE. Informe de resultados de ahorro de energía en la APF, 2014
@@ -698,7 +744,9 @@ Uno de los principales retos considerados es la corta administración municipal 
 
 La CONUEE, para este proyecto específico para Jalisco Nuevo León y Sonora, reportó un ahorro de energía eléctrica de más de 15 GWh/año, un **ahorro estimado de $38 millones de pesos** en la facturación eléctrica y una reducción en las emisiones de GEI de 7,680 tCO2 eq/año. El total de población beneficiada fue de más de **773 mil habitantes**.
 
-[![Tabla I.9 Proyectos de Alumbrado Público - CONUEE - Jalisco, Nuevo León y Sonora 2016.](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_9.png "Tabla Proyectos de alumbrado público")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_9.png)
+![](https://ucarecdn.com/00326178-4dd7-4a0f-ab0d-303c12acc119/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_9.png)
 
 Tabla I.9 Proyectos de Alumbrado Público – CONUEE – Jalisco, Nuevo León y Sonora 2016.\
 Fuente: Elaboración propia con información de la CONUEE, 2016.
@@ -715,14 +763,18 @@ Para la segunda etapa, existe un **financiamiento de 3 mil millones de pesos**�
 
 El Consejo Americano de la Eficiencia Energética (ACEEE por sus siglas en inglés), una organización sin fines de lucro que promueve programas, tecnologías y proyectos para la EE, publicó un estudio comparativo, **International Energy Efficiency Scorecard 2016**, del desempeño en el tema de EE a nivel internacional. Aunque los resultados deben tomarse de manera cautelosa, el análisis de los indicadores energéticos utilizados para integrar los resultados resulta interesante para localizar a México, a nivel internacional, en términos de EE.
 
-[![Tabla I.10 Factores evaluados por el Scorecard en dos categorías: Desempeño y Política](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_10.png "Tablas Factores evaluados")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_10.png)
+![](https://ucarecdn.com/f8b75fed-3320-472c-826e-2c503a67ab08/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_10.png)
 
 Tabla I.10 Factores evaluados por el Scorecard en dos categorías: Desempeño y Política\
 Fuente: Elaboración propia con información de ACEEE.
 
 El análisis de la ACEEE está orientado a tomar en cuenta métricas orientadas a evaluar políticas en favor de la EE y el desempeño de la eficiencia en los países evaluados. Los indicadores de EE de México en términos de **desempeño y política pública** resaltan algunas **áreas de oportunidad**. Estas oportunidades son desarrolladas más adelante en la sección de conclusiones de este capítulo y en el capítulo 3 enfocado en oportunidades en proyectos de EE en México.
 
-[![Tabla Desempeño / Política en México](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_11_12.png "Tabla Desempeño / Política en México")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_11_12.png)
+![](https://ucarecdn.com/c11a6445-550e-433d-8267-90b457e60ba2/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap1-Tab1_11_12.png)
 
 Fuente: Elaboración propia con información de ACEEE.
 
@@ -822,7 +874,9 @@ La aplicación de los lineamientos mencionados anteriormente tiene el propósito
 
 En segundo lugar, porque a **nivel estatal** las leyes no aclaran que las Secretarías de Finanzas respectivas, deben revisar y aprobar sólo esos dos análisis, y por lo tanto lo que procede es que evalúen y aprueben la totalidad del **expediente técnico**, el cual incluye otros análisis que no tienen que ver con el trabajo de los ministerios de finanzas, por ejemplo, análisis medioambientales.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/02/C2-1.png "Infografía ¿POR QUÉ VÍA APP?")](https://www.ethos.org.mx/wp-content/uploads/2017/02/C2-1.png)
+![](https://ucarecdn.com/7bd80681-70d0-47c1-bbc5-b3ba785788c9/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/C2-1.png)
 
 “Por qué vía APP?” Infografía Capítulo 2, Parte I
 
@@ -914,7 +968,9 @@ C. Proyectos de APP con **aportaciones diferentes a dinero** (por ejemplo, l
 
 A continuación, se explicarán las **particularidades** para cada tipo de proyecto, pero antes se ofrece una imagen en la que pueden visualizarse las **diferentes actividades** que deben realizarse para cada proyecto de APP:
 
-[![Tabla Proceso de aprobación APP](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Tab1.png "Tabla Proceso de aprobación APP")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Tab1.png)
+![](https://ucarecdn.com/9bc65f57-856c-4568-9950-080a95570b58/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Tab1.png)
 
 Tabla Proceso de aprobación APP
 
@@ -952,7 +1008,9 @@ Cuando el proyecto **no contemple** el uso de recursos del PEF, será necesar
 
 Los **accionistas** esperan recibir **dividendos** correspondientes a los títulos de sus acciones, mientras que los prestamistas o acreedores (sean estos bancos, entidades financieras de otro tipo o el mercado mismo) esperan recibir pagos regulares en los términos de sus instrumentos deuda (contratos, bono y otros títulos), que regularmente corresponde a un **porcentaje de su inversión**, y que pueden ser de renta fija o variable. A su vez, una parte de los recursos que se generen por la actividad de la SPE, deberán ser destinados al pago de deuda. El esquema de entradas y salidas de los **recursos financieros** en una APP opera de la siguiente manera:
 
-[![Esquema Estructura financiera APP](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnergetica-C2-3.png "Esquema Estructura financiera APP")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnergetica-C2-3.png)
+![](https://ucarecdn.com/ac733ac4-b393-4774-a0a8-2d13146c4f90/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnergetica-C2-3.png)
 
 Esquema Estructura financiera APP\
 Fuente: Elaboración propia con información del BID (2016).
@@ -995,7 +1053,9 @@ La **rentabilidad social** del proyecto se mide a través de un análisis Cost
 
 De acuerdo con los *Lineamientos que establecen las disposiciones para determinar la conveniencia de llevar a cabo un proyecto mediante un esquema de asociación público privada (DOF, 31/12/13)* de la SHCP, las **dependencias y entidades** que pretendan realizar proyectos bajo el esquema de APP, para determinar su conveniencia, deberán aplicar las siguientes herramientas, de conformidad con los mismos y con el ***Manual de Proyectos de APP***:
 
-[![Tabla II.2. Herramientas del análisis de conveniencia](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Tab2.png "Tabla Herramientas conveniencia")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Tab2.png)
+![](https://ucarecdn.com/be0bfed5-abcb-462a-88a4-28a92424e77e/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Tab2.png)
 
 Tabla II.2. Herramientas del análisis de conveniencia\
 Fuente: Elaboración propia con información de los lineamientos de conveniencia SHCP
@@ -1042,7 +1102,9 @@ Las **legislaciones** de APP en las entidades federativas guardan cierto niv
 
 A continuación, procederemos a realizar un análisis de las legislaciones en APP de los estados de **Jalisco, Nuevo León, Sonora, Tabasco y Yucatán**, con base en parámetros como los sujetos de la ley, el objeto de los proyectos que regula, las características principales de los proyectos, los requisitos exigidos para la integración del expediente técnico, los lineamientos y otros instrumentos normativos aplicables a nivel local y federal, los requisitos de los **contratos** (plazos, garantías, régimen patrimonial y propiedad intelectual), sólo por mencionar los más relevantes.
 
-[![Mapa de estados](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Mapa.png "Mapa de estados")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Mapa.png)
+![](https://ucarecdn.com/b6e6f88f-2f53-46fb-aa62-ab174c3ba363/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Mapa.png)
 
 Mapa de estados
 
@@ -1068,7 +1130,9 @@ Ya con la venia del Congreso se puede constituir el **Comité de Adjudicación*
 
 La anterior, explicación sobre el proceso de **diseño y operación** de un contrato de APP en Jalisco se puede sintetizar en el siguiente esquema:
 
-[![PROCESO DE APROBACIÓN LEY PIPS](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Fig2.png "PROCESO DE APROBACIÓN LEY PIPS")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Fig2.png)
+![](https://ucarecdn.com/3cba0248-c5cd-4f1b-81b0-9a170d9060e7/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Fig2.png)
 
 Proceso de aprobación Ley PIPS\
 Fuente: Elaboración propia
@@ -1092,7 +1156,9 @@ Dicho proyecto consiste en la **sustitución de 21,000 luminarias** por lámpa
 
 La implementación exitosa del proyecto en Tonalá coadyuva a **fortalecer el uso del esquema de APP** en Jalisco, sobre todo en materia de EE; aunado al hecho de que el Plan Estatal de Desarrollo (PED) Jalisco (2013-2033) considera a la APP como un **mecanismo de financiamiento para proyectos de inversión**.
 
-[![TONALÁ](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-img1.jpg "TONALÁ")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-img1.jpg)
+![](https://ucarecdn.com/791ec1cc-3d9d-483b-bcaa-85de819cbcc6/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-img1.jpg)
 
 TONALÁ\
 Foto: [Sitio web de la Universidad de Guadalajara](http://www.udg.mx/es/noticia/estudiantes-iniciaran-inventario-de-edificios-historicos-en-tonala)
@@ -1113,7 +1179,9 @@ Esta ley contempla una **diversidad de sujetos participantes**, es decir, no se
 
 Los temas susceptibles de ser materia de un proyecto APP son: inversión en infraestructura, **prestación de servicios**, proyectos productivos, investigación científica, **desarrollo tecnológico**, competitividad de las actividades productivas y generación de empleo. Las últimas dos áreas mencionadas permiten en un primer momento encuadrar cualquier proyecto de APP para la **EE**.
 
-[![GENERALIDAD APP NUEVO LEÓN](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-img2.jpg "GENERALIDAD APP NUEVO LEÓN")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-img2.jpg)
+![](https://ucarecdn.com/7afa39d4-dad0-4c3f-8b0d-5fc718c149b7/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-img2.jpg)
 
 GENERALIDAD APP NUEVO LEÓN\
 Foto: [Samuel Zeller](https://unsplash.com/@samuelzeller)
@@ -1134,7 +1202,9 @@ Después de haber obtenido la autorización de financiamiento, **el proyecto pu
 
 Esta formalización puede hacerse directamente (contrato), mediante fideicomiso (solo con fiduciarias nacionales) u otros mecanismos legales, por un **plazo máximo de 40 años** o el que señale la ley que regula la vigencia de autorización para la prestación de los servicios. Lo que implica que puede haber proyectos que tengan una duración de más de 40 años. La anterior, explicación sobre el procedimiento se puede sintetizar en el siguiente esquema:
 
-[![GRÁFICA PROCESO DE APROBACIÓN NL](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Fig3.png "GRÁFICA PROCESO DE APROBACIÓN NL")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Fig3.png)
+![](https://ucarecdn.com/7e30fc80-c17d-4ed1-aea3-0bf4cbd1a1b9/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Fig3.png)
 
 GRÁFICA PROCESO DE APROBACIÓN NL\
 Fuente: Elaboración propia
@@ -1179,7 +1249,9 @@ Una vez obtenida las **dos autorizaciones** se procede a licitar o adjudicar e
 
 La anterior, explicación sobre la ruta a seguir para implementar un contrato de PPS se puede sintetizar en el siguiente esquema:
 
-[![GRÁFICA PROCESO DE APROBACIÓN YUCATÁN](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Fig4.png "GRÁFICA PROCESO DE APROBACIÓN YUCATÁN")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Fig4.png)
+![](https://ucarecdn.com/d9d1d08a-b1e0-4db3-8160-96d89e6f9cef/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Fig4.png)
 
 GRÁFICA PROCESO DE APROBACIÓN YUCATÁN\
 Fuente: Elaboración propia.
@@ -1208,7 +1280,9 @@ Este proyecto se dio a conocer mediante la licitación pública nacional número
 
 **El financiamiento** de este proyecto es uno de los temas más controversiales ya que el Congreso estatal aprobó para ello **411 millones de pesos con un pago anual de 33 millones**; sin embargo, hasta abril de 2016 se habían erogado 700 millones y las nuevas estimaciones de la obra ascienden a 4,643 millones de pesos, con un pago anual de referencia de $221,142,822; mientras que en 2015 el Museo obtuvo ingresos por $7,660,694.00, en consecuencia el Museo **no es autofinanciable** y requiere que el Estado se haga cargo del cumplimiento del contrato o se renegocie la cuantía de la contraprestación.
 
-[![MUSEO YUCATÁN](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnergetica-Cap2-Img3.jpg "MUSEO YUCATÁN")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnergetica-Cap2-Img3.jpg)
+![](https://ucarecdn.com/c1bb01b6-3ce2-40ee-8ec1-50e036a5e75f/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnergetica-Cap2-Img3.jpg)
 
 MUSEO YUCATÁN\
 Foto: [The Wonder Lists](http://thewonderlists.com/the-top-10-ancient-wonders-list)
@@ -1247,7 +1321,9 @@ Después de haber llevado a cabo el procedimiento, se procede a la **firma del 
 
 La anterior, explicación sobre la ruta a seguir para implementar un contrato de PPS se puede sintetizar en el siguiente esquema:
 
-[![PROCESO DE APROBACIÓN. LEY DE ALIANZAS SONORA](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Fig5.png "PROCESO DE APROBACIÓN. LEY DE ALIANZAS SONORA")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Fig5.png)
+![](https://ucarecdn.com/7dca88a5-a13f-4f1b-9f51-d0d073026ecd/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Fig5.png)
 
 PROCESO DE APROBACIÓN. LEY DE ALIANZAS SONORA\
 Fuente: Elaboración propia.
@@ -1266,7 +1342,9 @@ Hasta el momento en Sonora **no se ha suscrito ningún contrato** de alianza p
 
 En el **artículo 78** de la ley citada se autorizó la celebración de contratos bajo el esquema de alianza público privada, hasta por un monto de un mil millones de pesos y por un plazo de 5 a 25 años. Enseguida, en el **art. 79** de la misma ley aprobó la celebración de contratos bajo el esquema de alianza público privada, hasta por un monto de **450 millones de pesos** en proyectos de **autoabastecimiento de energía eléctrica por generación fotovoltaica** en las dependencias y organismos del Ejecutivo estatal.
 
-[![GENERACIÓN FOTOVOLTAICA](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnergetica-Cap2-Img4.jpg "GENERACIÓN FOTOVOLTAICA")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnergetica-Cap2-Img4.jpg)
+![](https://ucarecdn.com/da97321e-2fd0-466e-9bd5-f02e67e8f380/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnergetica-Cap2-Img4.jpg)
 
 GENERACIÓN FOTOVOLTAICA\
 Foto: [Jason Blackeye](https://unsplash.com/@jeisblack)
@@ -1303,7 +1381,9 @@ Finalmente, es de reconocerse que la ley de APP de Tabasco en su artículo 33 
 
 Todo este proceso de aprobación se puede sintetizar en el siguiente esquema:
 
-[![TABLA LEY DE APP TABASCO](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Fig6.png "TABLA LEY DE APP TABASCO")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Fig6.png)
+![](https://ucarecdn.com/2a64fbca-164c-4dad-89a8-f92a8d3d01b8/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Fig6.png)
 
 TABLA LEY DE APP TABASCO\
 Fuente: Elaboración propia.
@@ -1331,7 +1411,9 @@ Si bien es cierto, no existe una disposición expresa en la LAPPETM que regule l
 
 Finalmente, para que este **marco jurídico integral** cumpla con los resultados deseados es preciso que la sociedad tabasqueña, junto con las Secretarías de: Planeación y Finanzas, y de Desarrollo Económico y Turismo lo **aprovechen al máximo** realizando proyectos que impulsen el desarrollo de la entidad, así lo mandata el art. 23 cuarto párrafo de la LAPPT, y donde una de las áreas claves es la EE.
 
-[![Infografía RETOS](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Inf2.png "Infografía RETOS")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Inf2.png)
+![](https://ucarecdn.com/8c4ac19f-9361-4466-8f9d-216c58f6dad3/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Inf2.png)
 
 “Retos” Infografía, Capítulo 2, Parte II
 
@@ -1345,7 +1427,9 @@ Con base en lo anterior hemos formulado las siguientes conclusiones:
 * El **marco normativo de APP**, tanto a nivel federal como en las entidades federativas, es adecuado para el desarrollo de **proyectos de EE**. Sin embargo, por un lado, se han identificado **debilidades** en algunas partes de las legislaciones de APP estatales, mientras que por otro lado, hace falta tomar en cuenta las nuevas reglas derivadas de la **Ley de Disciplina Financiera** para los Estados y Municipios. Ambas situaciones obligan a los Congresos locales a continuar trabajando para fortalecer y **modernizar el marco regulatorio de las APP** en sus entidades.
 * En todo caso, los hechos muestran que para implementar proyectos de EE no es suficiente contar con una legislación en APP. Además, se requiere que las entidades federativas establezcan los **arreglos institucionales** que motiven y brinden los incentivos necesarios para su implementación. Estos arreglos pueden tomar la forma de acuerdos a nivel administrativo, reformas a las leyes orgánicas de la administración pública, y concretamente la posibilidad de **crear fideicomisos para garantizar el pago** basado en los **ahorros generados por el proyecto**.
 
-[![Infografía ANÁLISIS](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Inf3.png "Infografía ANÁLISIS")](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Inf3.png)
+  ![](https://ucarecdn.com/288a6867-6245-444d-aa54-1b57b4834f08/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/02/EficienciaEnerg%C3%A9tica-Cap2-Inf3.png)
 
 “Análisis comparativo” Infografía, Capítulo 2, Parte III
 
@@ -1365,7 +1449,9 @@ De la misma manera, se busca resaltar las características de los **proyectos d
 
 Como se ha destacado anteriormente, **el rol del sector público es primordial**. Es por ello que a continuación se destacan programas dirigidos a disminuir el consumo energético en edificios de uso público. Los cuales pueden incluir escuelas, hospitales, universidades, centros de deporte, oficinas de la administración pública, entre otros.
 
-[![Infografía potencial en México](https://www.ethos.org.mx/wp-content/uploads/2017/03/EficienciaEnerg%C3%A9tica-Cap3-Inf1.png "Infografía potencial en México")](https://www.ethos.org.mx/wp-content/uploads/2017/03/EficienciaEnerg%C3%A9tica-Cap3-Inf1.png)
+![](https://ucarecdn.com/bc318452-2b7f-4cca-8431-5301200d4a20/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/03/EficienciaEnerg%C3%A9tica-Cap3-Inf1.png)
 
 “Potencial en México” Infografía, Capítulo 3, Parte I
 
@@ -1379,7 +1465,9 @@ Al ser libre al 100% de tasa de interés busca no afectar en el presupuesto al i
 
 En el segundo esquema, el **Fondo Reciclable**, el cual es manejado por una organización pública, con una aportación de Salix más una pública de este sector. Un ejemplo puede ser en el tema de salud, donde se financian proyectos para estas instituciones, se da el préstamo y se regresa para mantener el monto del Fondo y **utilizarlo nuevamente** en otros proyectos en el mismo sector. Por lo anterior, es que recibe ese nombre.
 
-[![SALIX](https://www.ethos.org.mx/wp-content/uploads/2017/03/EficienciaEnergetica-C3-3.jpg "SALIX")](https://www.ethos.org.mx/wp-content/uploads/2017/03/EficienciaEnergetica-C3-3.jpg)
+![](https://ucarecdn.com/6563f972-7c15-45fd-a938-c2d4da25f482/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/03/EficienciaEnergetica-C3-3.jpg)
 
 SALIX\
 Foto: [Novatech](https://www.novatech.co.uk/business/casestudy-ryehillsschool.html)
@@ -1392,7 +1480,9 @@ Lo anterior permite la implementación de un proyecto público-privado por un co
 
 El contrato bajo este tipo de proyectos tiene un rol protagónico. Ahí se define, previo a la implementación, cuál será el porcentaje de ahorro estimado, el cual generalmente se encuentra alrededor del 25%, lo que sucederá con los ahorros adicionales y el plazo de pago. Este modelo de contrato comúnmente usado se presenta en un contexto de proyectos más ambiciosos permitiendo una **colaboración más atractiva**, y facilitando la implementación para el sector público.
 
-[![ESPB](https://www.ethos.org.mx/wp-content/uploads/2017/03/EficienciaEnergetica-Cap3-Img1.jpg "ESPB")](https://www.ethos.org.mx/wp-content/uploads/2017/03/EficienciaEnergetica-Cap3-Img1.jpg)
+![](https://ucarecdn.com/ef5184d8-a130-435c-bc66-a60bf3bbe821/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/03/EficienciaEnergetica-Cap3-Img1.jpg)
 
 ESPB\
 Foto: [Berliner Energie Agentur](http://www.berliner-e-agentur.de/sites/default/files/uploads/bilder/projekte/p2lgspandauerrathaus.jpg)
@@ -1415,7 +1505,9 @@ La colaboración público privada se realiza entre la Comisión Europea y la Gre
 
 Más allá del impulso a la innovación, el esquema ha permitido la interacción de diversos actores entre los que se encuentran las PyMEs. Permitiendo, este proyecto, la transferencia de conocimiento entre diversos sectores y especialidades **fortaleciendo la economía** solucionando el problema de emisiones a través del promover la eficiencia energética en el transporte.
 
-[![European Green Vehicles Initiative ](https://www.ethos.org.mx/wp-content/uploads/2017/03/Eficiencia-Energetica-C3-5.jpg "European Green Vehicles Initiative ")](https://www.ethos.org.mx/wp-content/uploads/2017/03/Eficiencia-Energetica-C3-5.jpg)
+![](https://ucarecdn.com/fc6d3f14-9047-4447-af23-bc8ec80b1bf5/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/03/Eficiencia-Energetica-C3-5.jpg)
 
 European Green Vehicles Initiative\
 Foto: [IP](http://ip.com/news/2015/07/ertrac-supports-the-collaboration-agreement-signed-between-jrc-and-egvia-on-electric-vehicle-battery-testing/)
@@ -1428,7 +1520,9 @@ Los tipos de medidas que se incluyen son basadas en diferentes incentivos, algun
 
 Sustentando en lo anterior, se tienen los objetivos de reducción de emisiones para Londres en un 60% para el año 2025 presentados en su **Estrategia de Mitigación de Cambio Climático y Energía**. Además, buscan poder satisfacer la demanda de transporte, ya que se estima que la población llegue a crecer hasta los 10 millones **para 2030**.
 
-[![Ultra Low Emission Vehicle Plan](https://www.ethos.org.mx/wp-content/uploads/2017/03/EficienciaEnergetica-Cap3-Img-VPlan.png "Ultra Low Emission Vehicle Plan")](https://www.ethos.org.mx/wp-content/uploads/2017/03/EficienciaEnergetica-Cap3-Img-VPlan.png)
+![](https://ucarecdn.com/1fb72ca1-8996-49c4-8b43-f4d60dbd3d59/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/03/EficienciaEnergetica-Cap3-Img-VPlan.png)
 
 Ultra Low Emission Vehicle Plan\
 Foto: [Transport for London](http://content.tfl.gov.uk/ulev-delivery-plan.pdf)
@@ -1445,7 +1539,9 @@ Este proyecto, no solo cumple con el principio de ser energéticamente más efic
 
 Bajo el principio de economía circular la empresa Philips, se mantiene presente durante todo el ciclo de vida del producto. Una de las ventajas de lo antes mencionado es que al reemplazar algún accesorio del sistema instalado se puede solo sustituir la parte da- ñada garantizando una **eficiencia en el uso de materiales**. Disminuyendo así, aún más, el impacto ambiental.
 
-[![Aeropuerto Schiphol](https://www.ethos.org.mx/wp-content/uploads/2017/03/EficienciaEnergetica-Cap3-Img-aero.jpg "Aeropuerto Schiphol")](https://www.ethos.org.mx/wp-content/uploads/2017/03/EficienciaEnergetica-Cap3-Img-aero.jpg)
+![](https://ucarecdn.com/29b10343-439e-4809-93e4-a61109d2928a/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/03/EficienciaEnergetica-Cap3-Img-aero.jpg)
 
 Aeropuerto Schiphol\
 Foto: [Inventor Spot](http://inventorspot.com/articles/airport_gate_g7_designed_your_comfort_no_kidding)
@@ -1464,7 +1560,9 @@ IKEA, es una de las compañías que destaca por implementar su programa SEEP, cu
 
 Dado el interés de los proveedores y de la empresa principal para darle seguimiento al programa y mantener los resultados, se construyó un **Índice de Proveedores Sustentables**, el cual se encuentra integrado por cuatro componentes: gestión de energía, producción energéticamente eficiente, energía renovable y eficiencia sobre el uso de materia prima. Lo anterior, demuestra una estrategia clara y completa de este corporativo que logró fortalecer a sus proveedores a través de la eficiencia energética.
 
-[![IKEA](https://www.ethos.org.mx/wp-content/uploads/2017/03/EficienciaEnergetica-Cap3-Img-ikea.jpg "IKEA")](https://www.ethos.org.mx/wp-content/uploads/2017/03/EficienciaEnergetica-Cap3-Img-ikea.jpg)
+![](https://ucarecdn.com/b032dd76-e8d6-40dc-871d-14aafa5b223e/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/03/EficienciaEnergetica-Cap3-Img-ikea.jpg)
 
 IKEA\
 Foto: [JUSTIN LANE/Corbis](http://karmajonezknows.com/tag/relationships/page/2)
@@ -1481,7 +1579,9 @@ Después de una semana aproximadamente en uso, este termostato puede aprender lo
 
 Este termostato, además, puede identificar la ubicación del usuario a través de su celular y apagarse automáticamente cuando no se está en casa. Por todo lo anterior, este tipo de tecnologías y su acceso debe ser promovido para fomentar la eficiencia energética en los hogares. Como anteriormente se ha mencionado, reducir el uso de energía permite tener disminuir el gasto en este rubro generando beneficios económicos para las familias.
 
-[![NEST LEARNING THERMOSTAT](https://www.ethos.org.mx/wp-content/uploads/2017/03/EficienciaEnergetica-Cap3-Img-term.jpg "NEST LEARNING THERMOSTAT")](https://www.ethos.org.mx/wp-content/uploads/2017/03/EficienciaEnergetica-Cap3-Img-term.jpg)
+![](https://ucarecdn.com/4ab66552-f35e-451f-86ab-2b2584940211/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/03/EficienciaEnergetica-Cap3-Img-term.jpg)
 
 Nest Learning Thermostat\
 Foto: [Nest Support – How to set up the Nest Learning Thermostat](https://www.youtube.com/watch?v=UuZvwgO5gWA)
@@ -1498,7 +1598,9 @@ Este tipo de proyectos presentados en esta sección, buscan complementar la visi
 
 Si México quiere lograr sus objetivos presentados en el reciente Acuerdo de París, debe de hacer mayor difusión sobre la EE sobre las energías renovables. La **Transición Energética** no se va a lograr a menos que se construya y fortalezca el mercado bloque por bloque. Los retos existen y las soluciones deben de desarrollarse e implementarse. Ethos, considera que las APPs para EE brindan la oportunidad precisa para articular los eslabones y lograr que México sea una economía baja en carbono en un futuro cercano.
 
-[![ETIQUETAS](https://www.ethos.org.mx/wp-content/uploads/2017/03/EficienciaEnergetica-Cap3-Img-tags.jpg "ETIQUETAS")](https://www.ethos.org.mx/wp-content/uploads/2017/03/EficienciaEnergetica-Cap3-Img-tags.jpg)
+![](https://ucarecdn.com/db35377c-23d0-40f0-ab06-56d62799ac40/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/03/EficienciaEnergetica-Cap3-Img-tags.jpg)
 
 Etiquetas\
 Foto: [Home you](https://www.homeyou.com/tips-saving-money-this-winter)
