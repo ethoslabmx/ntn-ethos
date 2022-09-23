@@ -98,7 +98,9 @@ Es necesario recalcar que, si bien el gasto federalizado representa la mayoría 
 
 **Gráfica 1. Promedio del gasto federalizado como proporción del PIB anual (2006-2019) distribuido a los estados**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-grafica-1.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-grafica-1.png)
+![](https://ucarecdn.com/505e505e-c7d9-4f08-9ab4-a0e3495f2664/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-grafica-1.png)
 
 Fuente: elaboración propia con base en Estadísticas Oportunas del Sector Público (SHCP) y cifras del PIB (INEGI).
 
@@ -111,7 +113,9 @@ No obstante, las cifras de la recaudación local palidecen respecto a lo que obt
 **Gráfica 2. Distribución del origen de los ingresos de las entidades federativas**\
 **(2006-2019)**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-grafica-2.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-grafica-2.png)
+![](https://ucarecdn.com/018f8a16-2732-4cbc-820a-17c1de277200/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-grafica-2.png)
 
 Fuente: elaboración propia con base en INEGI.
 
@@ -119,7 +123,9 @@ En el caso de los municipios, las aportaciones y participaciones federales repre
 
 **Gráfica 3. Distribución del origen de los ingresos municipales (2006-2019).**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-grafica-3.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-grafica-3.png)
+![](https://ucarecdn.com/34ef7e0f-2818-46c5-8a06-0bf3bb7a4fde/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-grafica-3.png)
 
 Fuente: elaboración propia con base en INEGI.
 
@@ -129,7 +135,9 @@ Los ingresos ordinarios, a su vez, se clasifican en impuestos, derechos, product
 
 **Tablas 5. Principales tipos de ingresos ordinarios locales**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-tabla-5.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-tabla-5.png)
+![](https://ucarecdn.com/f21677cb-11fe-40e9-84da-067b2349a8cc/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-tabla-5.png)
 
 Fuente: elaboración propia con base en INAFED e INEGI.
 
@@ -141,7 +149,9 @@ Un análisis particular de los impuestos estatales revela que 7 de cada 10 pesos
 
 **Gráfica 4. Distribución de la recaudación de los impuestos estatales (2006-2019)**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-grafica-4-1.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-grafica-4-1.png)
+![](https://ucarecdn.com/4e0ae54e-5826-440e-afda-269fe22ac6b8/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-grafica-4-1.png)
 
 Fuente: elaboración propia con base en INEGI.
 
@@ -151,13 +161,17 @@ En este tenor, las cifras acerca de los recursos provenientes de los impuestos m
 
 **Gráfica 5. Distribución de la recaudación de los impuestos municipales (2006-2019).**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-grafica-5.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-grafica-5.png)
+![](https://ucarecdn.com/bb6fda2d-4e52-45f7-8904-746cefebd984/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-grafica-5.png)
 
 Fuente: elaboración propia con base en INEGI.
 
 Como se puede observar, tanto para las entidades como para los municipios, existen amplias áreas de oportunidad para fortalecer sus respectivas políticas de ingreso. En el caso de los municipios, un punto que podría repercutir enormemente para tener finanzas públicas más sanas se encuentra en el predial, ya que su recaudación no sólo ayudaría al municipio, sino también permitiría reducir la dependencia hacia las entidades y la federación. Si bien existen varias oportunidades de mejora a nivel estatal, este reporte se enfocará principalmente en analizar la problemática a municipal, en particular, del impuesto predial.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-quote-3.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-quote-3.png)
+![](https://ucarecdn.com/6eef9520-3183-48d6-83f7-605432420cd1/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-quote-3.png)
 
 # **2.**
 
@@ -177,7 +191,9 @@ Ante esta situación, el gobierno federal comenzó la implementación de una ser
 
 **Cuadro 1. Programas federales para mejorar la recaudación del predial**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-cuadro-1.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-cuadro-1.png)
+![](https://ucarecdn.com/79c567fe-b906-4070-922b-72f01718e99b/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-cuadro-1.png)
 
 Fuente: elaboración propia con base en INEGI ( 2017), SEDATU (2018) y Unda (2017).
 
@@ -189,7 +205,9 @@ Al respecto, cabe señalar que estos incentivos no han tenido el impacto deseado
 
 **Cuadro 2. Programa de Modernización Catastral de Banobras**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-cuadro-2.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-cuadro-2.png)
+![](https://ucarecdn.com/43a0bdda-cfdc-423b-a7b8-5cbf36e51c47/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-cuadro-2.png)
 
 Fuente: elaboración propia con base en la solicitud de información a Banobras.
 
@@ -203,7 +221,9 @@ Una vez que se identificaron todas las propiedades, el siguiente paso es la defi
 
 **Tabla 6. Tipos de sistemas de valuación de la propiedad**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-tabla-6.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-tabla-6.png)
+![](https://ucarecdn.com/ba7c2a5a-2d84-4fc4-bf10-d7d34ec49e28/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-tabla-6.png)
 
 Fuente: elaboración propia con base en Bahl (2009).
 
@@ -213,7 +233,9 @@ Es a partir del catastro y de la mano del proceso de definición del valor de la
 
 **Tabla 7. Tipos de tasas del impuesto predial**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-tabla-7.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-tabla-7.png)
+![](https://ucarecdn.com/82674e01-da3b-4f2d-9f4b-3a15439215ba/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-tabla-7.png)
 
 Fuente: elaboración propia con base en Bahl (2009).
 
@@ -225,7 +247,9 @@ A pesar de todas las reformas descritas, a la fecha, México continúa siendo un
 
 **Gráfica 6. Impuestos a la propiedad en países de la OCDE como porcentaje del PIB (2018)**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-grafica-6.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-grafica-6.png)
+![](https://ucarecdn.com/0c7aec45-e993-475b-8008-8d167d412043/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-grafica-6.png)
 
 Fuente: elaboración propia con base en la OECD. Notas: para Australia y México se reporta el año 2017. En esta gráfica los impuestos a la propiedad se consideran los impuestos recurrentes y no recurrentes a la propiedad como traslaciones, predial, herencias, al capital, entre otros.
 
@@ -233,7 +257,9 @@ La recaudación de México también es baja cuando se compara con otros países 
 
 **Gráfica 7. Impuestos a la propiedad en países de Latinoamérica y el Caribe como porcentaje del PIB (2017)**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-grafica-7.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-grafica-7.png)
+![](https://ucarecdn.com/859161b4-8b2d-4039-94b3-fe43c514ff5e/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-grafica-7.png)
 
 Fuente: elaboración propia con base en OECD (2020) . Nota: para México se reportan los datos de 2016, los últimos reportados a la OCDE.En esta gráfica los impuestos a la propiedad se consideran los impuestos recurrentes y no recurrentes a la propiedad como sucesiones, herencias, donaciones, transacciones financieras y de capital, sobre la riqueza neta, entre otros.
 
@@ -245,7 +271,9 @@ Es necesario señalar que en ambos indicadores hubo un comportamiento anómalo d
 
 **Gráfica 8. Comportamiento de los municipios respecto al impuesto predial (2006-2019)**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-grafica-8.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-grafica-8.png)
+![](https://ucarecdn.com/41712e48-34cb-4ca7-a071-3f01edd34a4e/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-grafica-8.png)
 
 Fuente: elaboración propia con base en las Finanzas públicas estatales y municipales del INEGI. Nota: el número de municipios considerados es de 2,465, el dato más reciente reportado. Si bien este número ha tenido cambios lo largo de los años, al ser el denominador de la fracción, el porcentaje reportado arriba es un aproximado con una variación mínima respecto al porcentaje real.
 
@@ -259,7 +287,9 @@ Estas circunstancias explican que a pesar de que en 2019 la recaudación del pre
 
 **Mapa 1. Recaudación del impuesto predial respecto al PIB estatal (promedios 2006-2019)**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-mapa-1.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-mapa-1.png)
+![](https://ucarecdn.com/7d3374c4-5c73-46f8-a643-a7ad6269b013/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-mapa-1.png)
 
 Fuente: elaboración propia con base en INEGI. Nota: se excluye a la Ciudad de México.
 
@@ -267,17 +297,23 @@ Otras tendencias pueden observarse cuando se considera el comportamiento del pre
 
 **Tabla 8. Recaudación del impuesto predial por región en México (promedio de 2006 a 2019)**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-tabla-8.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-tabla-8.png)
+![](https://ucarecdn.com/6ebddf2c-428c-4081-bc5a-4dd778af0b36/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-tabla-8.png)
 
 Fuente: elaboración propia con base en la OCDE (2007) y Censo de Población y Vivienda 2010, principales resultados por localidad. Nota (1): los promedios y porcentajes son para el periodo 2006-2019. Notas (2): De acuerdo con la OCDE (2007) un municipio es rural cuando el 80% de su población vive en localidades de menos de 15,000 habitantes, de lo contrario, es considerado un municipio urbano. Nota (3): Debido a que el cobro del impuesto predial en la Ciudad de México está centralizado, se omitió del análisis.
 
 En general, los municipios que destacan en cada región en términos de recaudación del predial son aquellos del tipo metropolitano que cuentan con importancia económica, comercial y turística, como puede verse en el Mapa 2. Por ejemplo, algunos polos económicos como San Pedro Garza García, Nuevo León (norte); Tlajomulco de Zúñiga, Jalisco (centro-norte) y Huixquilucan, Estado de México (centro) destacan por sus altos niveles. De igual forma, atractivos turísticos como Los Cabos, Baja California Sur (norte), Zihuatanejo y Acapulco, Guerrero (centro-sur) o Tulum, Quintana Roo (Sur-Sureste) -donde se localiza Cancún- tienen altos niveles de recaudación.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-quote-64.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-quote-64.png)
+![](https://ucarecdn.com/d8b2953f-e7a8-4ee3-ba2d-bde224c975f6/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-quote-64.png)
 
 **Mapa 2. Recaudación del impuesto predial con respecto al ingreso total de los municipios, por región. Promedio del periodo 2006-2019 (porcentaje)**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-mapa-2.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-mapa-2.png)
+![](https://ucarecdn.com/e82f78d0-10d3-498b-ad2f-a62edb8bf242/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-mapa-2.png)
 
 Fuente: elaboración propia con base en el Indicador Trimestral de la Actividad Económica Estatal y Finanzas Públicas Estatales y Municipales del INEGI.
 
@@ -298,7 +334,9 @@ Los recursos humanos, dentro de la estructura administrativa de cualquier ayunta
 
 La falta de experiencia de los trabajadores en la recaudación se refleja en el manejo inadecuado de los sistemas de contabilidad, información, control y procesos administrativos, lo que dificulta que los catastros municipales se mantengan actualizados, lo que a su vez provoca que los municipios desconozcan su verdadero potencial de recaudación local (García del Castillo, 1994; Unda Gutiérrez & Moreno Jaimes, 2015; CEFP, 2019). En muchas ocasiones, aunque la información esté disponible y actualizada, la inexperiencia de los servidores públicos provoca que ésta sea desaprovechada (World Bank, 2016).
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-quote-6.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-quote-6.png)Otro elemento que está relacionado con la falta de profesionalización del personal es su alta rotación, ya que la permanencia en sus respectivos puestos y equipos de trabajo suele estar en función de los ciclos de gobierno de las presidencias municipales. Por esta razón, la especialización y experiencia de los trabajadores se ve mermada e impide el aprovechamiento del conocimiento adquirido, así como la continuidad en las estrategias formuladas cada trienio, lo que repercute en los resultados de largo plazo (entrevista Mónica Unda, 2020).
+![](https://ucarecdn.com/911200b1-4f9a-44e4-a015-3929727d368c/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-quote-6.png)Otro elemento que está relacionado con la falta de profesionalización del personal es su alta rotación, ya que la permanencia en sus respectivos puestos y equipos de trabajo suele estar en función de los ciclos de gobierno de las presidencias municipales. Por esta razón, la especialización y experiencia de los trabajadores se ve mermada e impide el aprovechamiento del conocimiento adquirido, así como la continuidad en las estrategias formuladas cada trienio, lo que repercute en los resultados de largo plazo (entrevista Mónica Unda, 2020).
 
 Por esta razón, es necesario que el cuerpo burocrático sea ajeno al mandato político, pues ello asegura que los servidores públicos respondan al interés del ciudadano y no a criterios personales o partidistas. La forma más común de lograrlo es a través del establecimiento de servicios civiles de carrera que prioricen los criterios meritocráticos y profesionales para la selección, permanencia y ascenso de los trabajadores (Cejudo, 2016).
 
@@ -327,7 +365,9 @@ La popularidad de los gobernantes y su interés por mantener un nivel de aceptac
 
 En el caso particular del impuesto predial, la problemática se observa en las implicaciones político-electorales que genera un gravamen que suele ser impopular por naturaleza (Espinosa, Martínez y Martell, 2018, Slack y Bird, 2014 y Slack, 2013), pues se asume que la implementación de una política agresiva de recaudación tributaria, en combinación con una escasa cultura de pago, generaría efectos negativos en la percepción del ciudadano sobre el gobernante (CEFP, s/f), afectando así sus aspiraciones políticas a otros cargos de elección popular. Por ejemplo, existen algunos municipios en los que se podría renovar el valor del predial para aumentar la recaudación, ya que cuentan con valores catastrales actualizados, sin embargo, ésta práctica no es implementada por los alcaldes debido al costo político que representa.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-quote-10.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-quote-10.png)
+![](https://ucarecdn.com/0fef43d8-187d-4a67-a779-fa26c399cef8/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-quote-10.png)
 
 Por esta razón, los alcaldes han optado por recurrir a otras fuentes de ingreso que, además de garantizarles la obtención de recursos que no serán generados mediante el cobro de impuestos al contribuyente, les permitirá evadir el costo político de esta decisión. Frecuentemente, esta alternativa se encuentra en las transferencias federales, por lo que se sostiene que, conforme aumenta su proporción en el sector público municipal, la recaudación local disminuye, ya que actúan como un desincentivo para las autoridades recaudadoras locales (Burgess & Stern, 1993; Unda Gutiérrez & Moreno Jaimes, 2015).
 
@@ -361,7 +401,9 @@ En este sentido, la autora señala que las variables de tipo interno tienen un l
 
 Tomando en consideración esta limitante, la autora desarrolló un modelo econométrico cuyos resultados muestran que la recaudación del impuesto predial es mayor en aquellos municipios con menor pobreza, menor alfabetismo y más desigualdad. En otras palabras, la evidencia estadística mostró que los municipios que recaudan más predial tienen mayores niveles de riqueza y educación, aunque presentan una mayor inequidad en el ingreso. Esta visión describe la relación entre lo que ocurre al interior de los municipios y su impacto en las finanzas públicas locales, pero hay otra visión, más polémica, asociada con el impacto de las transferencias federales en la recaudación local.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-quote-8.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-quote-8.png)
+![](https://ucarecdn.com/0c6cbf30-1cfa-4790-b95a-496eafdb82a8/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-quote-8.png)
 
 La discusión al respecto proviene del desincentivo que generan las transferencias en la recaudación del impuesto predial, puesto que eliminan la presión que padecen las autoridades locales al momento de exigir el pago de los impuestos a sus ciudadanos. La explicación de este hecho se basa en el peso que tienen las transferencias federales en el ingreso total de los municipios del país, provocando que los ayuntamientos no perciban una necesidad real de allegarse de recursos propios, lo que, a su vez, les permite evitar el descontento de los ciudadanos y el costo político que conllevan esas decisiones.
 
@@ -401,7 +443,9 @@ Otro mecanismo asociado con la economía conductual que ha sido explorado recien
 
 **Cuadro 3. Los premios a los contribuyentes para fomentar el pago del impuesto predial**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-cuadro-3.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-cuadro-3.png)
+![](https://ucarecdn.com/0f45a3c7-fa19-4f16-ad71-9a92cc6cf305/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-cuadro-3.png)
 
 Fuente: elaboración propia con base en Carrillo, Castro y Scartascini (2019).
 
@@ -417,7 +461,9 @@ Sin embargo, una opción para aquellas regiones en las que este tipo de sancione
 
 Es necesario mencionar que esta estrategia no siempre es la más adecuada, en comparación con la postura amigable que puede ser adoptada. Un ejemplo claro ocurrió en Minnesota, en donde se realizó un experimento con un grupo de contribuyentes al que se le dio cuatro tipos de información distinta: a algunos se les dijo que sus impuestos serían utilizados para educación, seguridad, etcétera; a otros se les comunicó las sanciones por no pagar; a otros más se les dio asesoría en caso de que no comprendieran el llenado de formatos y; al último grupo, se les dijo que el 90% de los contribuyentes de Minnesota ya habían cumplido con sus obligaciones tributarias. La única que mostró efectos significativos fue la última (Thaler & Sunstein, 2009).
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-quote-78.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-quote-78.png)Aunque los factores señalados en esta sección (administrativo, político, económico, así como el del contribuyente y sus incentivos) pueden describir el problema de manera general, la realidad municipal muestra que no es posible tener un diagnóstico ni una solución única, ya que las características, problemas y necesidades de cada uno de los municipios son específicas. Esta situación de heterogeneidad representa un área de oportunidad para proponer, innovar y explorar otros caminos que complementen las estrategias implementadas hasta el momento, ya que, incluso los incentivos, requieren de una estrategia focalizada en las características sociodemográficas de cada zona.
+![](https://ucarecdn.com/69999aa5-3790-461e-8d56-ef794e9fcbca/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-quote-78.png)Aunque los factores señalados en esta sección (administrativo, político, económico, así como el del contribuyente y sus incentivos) pueden describir el problema de manera general, la realidad municipal muestra que no es posible tener un diagnóstico ni una solución única, ya que las características, problemas y necesidades de cada uno de los municipios son específicas. Esta situación de heterogeneidad representa un área de oportunidad para proponer, innovar y explorar otros caminos que complementen las estrategias implementadas hasta el momento, ya que, incluso los incentivos, requieren de una estrategia focalizada en las características sociodemográficas de cada zona.
 
 # **4.**
 
@@ -427,7 +473,9 @@ En el apartado anterior se desarrolló un diagnóstico general sobre la situaci�
 
 **Tabla 9. Municipios con mayor nivel de recaudación del predial por región (promedio de 2006 a 2019)**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-tabla-9.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-tabla-9.png)
+![](https://ucarecdn.com/84aa87ab-5177-408c-9f01-8a5360d3b29f/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-tabla-9.png)
 
 Fuente: elaboración propia con base en el Indicador Trimestral de la Actividad Económica Estatal y Finanzas Públicas Estatales y Municipales del INEGI. Nota: De acuerdo con la OCDE (2007), un municipio es rural cuando el 80% de su población vive en localidades de menos de 15,000 habitantes, de lo contrario, es considerado un municipio urbano.
 
@@ -447,7 +495,9 @@ La importancia de la capacitación radica en lograr que los servidores públicos
 
 De manera paralela, como se mencionó en la sección pasada, es importante que el cuerpo burocrático sea ajeno al mandato político, ya que ello asegura que los servidores públicos respondan a los intereses de los ciudadanos y no a criterios personales o partidistas. La forma más común de lograrlo es a través del establecimiento de servicios civiles de carrera.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-quote-99.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-quote-99.png)
+![](https://ucarecdn.com/e51ea2c8-56f4-461e-8e89-b7e18400a78b/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-quote-99.png)
 
 En este sentido, se identificó que los municipios de mayor recaudación en el país han contado con programas o cursos de capacitación para su personal. Estos abordaron distintos temas, que van desde mejorar la atención al público, hasta perfeccionar el uso y manejo de los sistemas de gestión catastral municipal. Un ejemplo es Huixquilucan, en el estado de México, que implementó medidas exitosas para profesionalizar al personal de la tesorería municipal vinculado con las tareas de administración tributaria que consistieron en la capacitación técnica, jurídica y fiscal de los servidores públicos. Esta acción contribuyó al incremento sustancial de la recaudación del impuesto predial en el municipio (FENAMN, S/A.).
 
@@ -466,7 +516,9 @@ Uno de los municipios que recientemente ha obtenido buenos resultados es Tulum, 
 La cartografía catastral es la representación gráfica de los predios urbanos y rurales dentro de los límites municipales y está disponible en formato digital e impreso en papel. El uso de uno u otro está en función de la disponibilidad de recursos financieros y tecnológicos del ayuntamiento, así como de la capacitación de su personal en el uso de nuevas tecnologías.\
 El formato de la cartografía determina la facilidad con la que se puede conocer la ubicación espacial de cada uno de los predios del municipio, así como sus condiciones socioeconómicas. Estos elementos son importantes para la generación de políticas públicas y planes sectoriales tanto de la federación como de los estados (INEGI, 2016).
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-qupote-formato-88.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-qupote-formato-88.png)En el caso puntual de los municipios, se identificó que todos hacen uso de ambos formatos, sin embargo, resulta importante señalar que los municipios de San Pedro Garza García, Nuevo León; Tlajomulco de Zúñiga, Jalisco y; Tulum, Quintana Roo han migrado por completo al formato digital. Esta práctica, además de privilegiar el uso de la tecnología, permite reducir los costos económicos y ambientales, en virtud de que se deshecha el uso del papel como medio para registrar y llevar el control de la cartografía municipal.
+![](https://ucarecdn.com/69104a38-de75-4c5e-afc1-591a719ebc9e/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-qupote-formato-88.png)En el caso puntual de los municipios, se identificó que todos hacen uso de ambos formatos, sin embargo, resulta importante señalar que los municipios de San Pedro Garza García, Nuevo León; Tlajomulco de Zúñiga, Jalisco y; Tulum, Quintana Roo han migrado por completo al formato digital. Esta práctica, además de privilegiar el uso de la tecnología, permite reducir los costos económicos y ambientales, en virtud de que se deshecha el uso del papel como medio para registrar y llevar el control de la cartografía municipal.
 
 Un buen ejemplo de cómo puede ser aprovechada la información digital se encuentra en la “Plataforma Mapa Digital” de Tlajomulco de Zúñiga, la cual permite la estandarización, normalización, gestión, administración y publicación de la cartografía municipal para múltiples fines, por ejemplo, el ordenamiento territorial y planeación urbana o bien, la identificación de servicios públicos municipales que aún están pendientes por instalar o mejorar (Gobierno Municipal de Tlajomulco, S/A).
 
@@ -508,7 +560,11 @@ El factor político se analizó tomando en consideración la alternancia de los 
 
 Otro tema relevante que podría estar asociado con mayores niveles de recaudación es la comunicación entre el contribuyente y la autoridad recaudadora. Para generar una primera aproximación, se optó por hacer una revisión de los programas que implementan los municipios para fomentar la participación de los ciudadanos en el proceso; por una parte, se indagó cuáles eran los programas de apoyo al contribuyente, descritos anteriormente; y por otra, los de sanciones a evasores, que se caracterizan por penalizar económicamente a los evasores.
 
-Aunque el objetivo de este análisis no es conocer los impactos ni alcances de la difusión, es necesario señalar que una comunicación adecuada tendría que ser, en primer lugar, fácil de consultar. Bajo esta premisa, se revisó la página oficial de los municipios con mayor recaudación por región geográfica para saber cuáles eran los mensajes que se compartían sobre el predial. A partir de ello, se observó si los ayuntamientos informaban a los contribuyentes sobre estos programas con el mismo énfasis o bien, si alguno de ellos era priorizado.[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-qupte-23.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-qupte-23.png)
+Aunque el objetivo de este análisis no es conocer los impactos ni alcances de la difusión, es necesario señalar que una comunicación adecuada tendría que ser, en primer lugar, fácil de consultar. Bajo esta premisa, se revisó la página oficial de los municipios con mayor recaudación por región geográfica para saber cuáles eran los mensajes que se compartían sobre el predial. A partir de ello, se observó si los ayuntamientos informaban a los contribuyentes sobre estos programas con el mismo énfasis o bien, si alguno de ellos era priorizado
+
+![](https://ucarecdn.com/e631d9ba-f919-4079-be7c-e43fae7ccd48/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-qupte-23.png)
 
 Los resultados mostraron que los ayuntamientos no transmitieron las sanciones a los ciudadanos con la misma intensidad con la que la que se dieron a conocer los beneficios que se otorgan para promover y facilitar el pago. Si bien es cierto que la literatura señala que la mejor estrategia para obtener resultados positivos es comunicar los incentivos “amigables”, esto no significa que los “no amigables” deban ser sustituidos. Por el contrario, deben complementarse, pues transmitir las consecuencias de no hacerlo también es importante.
 
@@ -526,13 +582,17 @@ En la tabla 10 se encuentran los rubros en los que podría incidir cada orden de
 
 **Tabla 10. Acciones que puede implementar cada orden de gobierno para mejorar la recaudación del impuesto predial en México**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-tabla-10.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-tabla-10.png)
+![](https://ucarecdn.com/e6963fc0-35f0-4971-850c-133f8d0aeb22/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-tabla-10.png)
 
 Fuente: elaboración propia con base en la información de este reporte.
 
 De acuerdo con el diagnóstico que se elaboró, la implementación de las acciones en los primeros dos órdenes de gobierno sería suficiente para observar cambios en la recaudación. Sin embargo, hay que subrayar que esto no debe ser entendido como una receta, pues en un país con municipios tan heterogéneos como lo es México, impide la materialización de esta idea (particularmente porque el 80% de los municipios son rurales). Lo anterior es esencial porque, de no tomarse en consideración, se estaría cometiendo un error de inclusión, es decir, se estaría beneficiando a municipios con alta recaudación y que son eficientes, en lugar de concentrar el apoyo en los municipios menos favorecidos.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-qupte-0002.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-qupte-0002.png)\
+![](https://ucarecdn.com/79fcc7b7-52df-4437-bf47-36d794665ce9/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-qupte-0002.png)\
 Aunque el objetivo de estas líneas no es promover una solución única, la investigación hasta ahora realizada permite sugerir algunos de los caminos que podrían ser explorados para encontrar soluciones en el corto plazo a partir de los elementos y atribuciones de los propios municipios, es decir, se trata de aprovechar los mecanismos actuales y hacerlos funcionar.
 
 #### **Los municipios rurales:un acercamiento distinto**
@@ -545,7 +605,9 @@ En este punto, resulta conveniente retomar la influencia que tienen los convenio
 
 **Tabla 11. Municipios rurales con mayor nivel de recaudación predial para cada región (Promedio de 2006 a 2019)**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-tabla-11.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-tabla-11.png)
+![](https://ucarecdn.com/32e16214-7dfa-4230-844c-1ee1969fb6cc/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Predial-2021-tabla-11.png)
 
 Fuente: elaboración propia con base en el Indicador Trimestral de la Actividad Económica Estatal y la base de Finanzas Públicas Estatales y Municipales del INEGI.
 
