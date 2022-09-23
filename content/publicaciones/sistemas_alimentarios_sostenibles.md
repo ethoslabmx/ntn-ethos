@@ -63,7 +63,9 @@ La pandemia ha fomentado la **perpetuación de un círculo vicioso que involucr
 
 ***Fig. 1 El círculo vicioso del COVID-19 y los sistemas alimentarios en México***
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Brief-Sistemas-Alimentarios-pdf.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Brief-Sistemas-Alimentarios-pdf.png)
+![](https://ucarecdn.com/02178a75-868c-4b3b-a003-1cca0c511a73/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Brief-Sistemas-Alimentarios-pdf.png)
 
 Para los sectores agropecuario y pesquero en 2020, se tuvo una expectativa de producción (en toneladas) del 5.5% superior respecto a 2019. **Sin embargo, este crecimiento se proyectó para granos básicos y caña de azúcar (CEDRSSA, 2020c),** cultivos ampliamente subsidiados y de producción mayoritariamente mecanizada. **Por el contrario, los productos alimentarios más afectados por la crisis han sido los perecederos: los animales vivos, las frutas y hortalizas** —cuya cría o cultivo tienden a ser intensivos en mano de obra (FAO y CEPAL, 2020f). 
 
@@ -77,7 +79,9 @@ El objetivo de las presentes recomendaciones es **colocar a la producción y el
 
 ### **Producción sostenible de alimentos**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Sistemas-Alimentarios-Sostenible-2.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Sistemas-Alimentarios-Sostenible-2.png)
+![](https://ucarecdn.com/243009c2-1d20-4eb4-bf2b-26d737506836/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Sistemas-Alimentarios-Sostenible-2.png)
 
 En el contexto de la pandemia en México, se contempló una caída en la demanda de leche entre un 10 y 15%, que afectó tanto a grandes productores como a los pequeños; estos últimos componen el 88% de la industria lechera (FAO y CEPAL, 2020e). Por otro lado, se observó cierta reducción en la tasa de crecimiento (-10%) de las exportaciones en general y, en particular, un -7.2% en frutas y hortalizas (FAO y CEPAL, 2020e). 
 
@@ -175,7 +179,9 @@ Además, la viabilidad para incorporar técnicas de producción agrícola sosten
 
 ### **Mercados públicos, de barrio y mayoristas** 
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Sistemas-Alimentarios-Sostenible-3.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Sistemas-Alimentarios-Sostenible-3.png)
+![](https://ucarecdn.com/60ecd3be-bb42-4345-8b7a-728f887a0a14/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Sistemas-Alimentarios-Sostenible-3.png)
 
 El eslabón de distribución y consumo (compra-venta del producto final) de los alimentos es uno de los más complejos. Sus características influyen en la venta eficiente de productos perecederos, evitando el desperdicio de alimentos, impactos medioambientales por emisión de GEI en el transporte, temporalidad de los alimentos, calidad nutricional, empoderamiento y protección laboral, entre otros.
 
@@ -184,8 +190,6 @@ La actual pandemia ha resultado en disrupciones en el transporte de alimentos, a
 Asimismo, el cierre temporal de algunos mercados de barrio y la disminución en el número de clientes llevó a algunos comerciantes a descartar hasta el 80% de productos perecederos, como fue el caso de fruterías y verdulerías en México (FAO y CEPAL, 2020c). Cabe mencionar que, como casos de éxito en la recuperación de alimentos, la Central de Abasto de la CDMX implementó el proyecto ITACATE, por medio del cual —de acuerdo a la Dra. Marcela Villegas, Coordinadora General— se han donado 261 toneladas de alimentos, fomentando la cultura del “no desperdicio” con algunos comerciantes e incorporando al sector de recolectores dentro de la cadena el aprovechamiento de productos ecológicos y perecederos. Por lo tanto, estos centros tienen el potencial de reducir la pérdida y el desperdicio de alimentos.
 
 Finalmente, los mercados públicos y las cadenas cortas agroalimentarias representan opciones adecuadas para fomentar la accesibilidad justa a alimentos, disminuyendo a los intermediarios e incrementando los ingresos directos de los productores.
-
- 
 
 #### ***2.1 Regionalización y acortamiento de cadenas agroalimentarias*** 
 
@@ -242,7 +246,9 @@ Finalmente, el aumento en el uso del *e-commerce* asociado con la pandemia tra
 
 ### **Dietas saludables, sostenibles y asequibles**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Sistemas-Alimentarios-Sostenible-1.png)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Sistemas-Alimentarios-Sostenible-1.png)
+![](https://ucarecdn.com/7b87c037-3893-4f88-8d68-3abd5630c965/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Sistemas-Alimentarios-Sostenible-1.png)
 
 La pandemia del COVID-19 ha sido particularmente letal en la población mexicana con una tasa de mortalidad del 8.6% (Redacción El Universal, 2020), siendo **los altos índices de malnutrición y comorbilidades —como enfermedades cardiovasculares y diabetes mellitus— los principales factores de riesgo para el desarrollo de complicaciones** (Kánter Coronel, 2020). 
 
