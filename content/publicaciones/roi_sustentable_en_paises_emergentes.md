@@ -70,9 +70,11 @@ A lo largo de los talleres, se elaboraron siete casos de estudio en colaboració
 
 Por lo anterior, **el presente estudio los incluye**: los antecedentes de la medición del retorno de inversión para las actividades sustentables, una descripción de la metodológica para la medición del retorno de inversión para actividades sustentables en el contexto mexicano, los casos de estudio de las empresas para la medición del ROI Sustentable y los resultados y recomendaciones en el tema. En el anexo del estudio se encuentra un manual detallado de la metodología completa de ROI Sustentable.
 
-# **Capítulo 1** 
+# **Capítulo 1**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/09/SROI_infografia2_web.jpg "Infografía 2: Antecedentes del ROI Sustentable")](https://www.ethos.org.mx/wp-content/uploads/2017/09/SROI_infografia2_web.jpg)
+![](https://ucarecdn.com/c3bd564a-15d2-49c1-8524-7e18c325ba20/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/09/SROI_infografia2_web.jpg)
 
 Infografía: Antecedentes del ROI Sustentable
 
@@ -80,7 +82,7 @@ Infografía: Antecedentes del ROI Sustentable
 
 Desde finales de 1980 han surgido varias iniciativas por parte de organismos internacionales, academia, fundaciones y del sector privado para fomentar la **adopción de medidas sustentables por parte de empresas privadas**, tanto para su propio beneficio organizacional, como para un beneficio común. Hay diferentes factores que conducen a este cambio, siendo el más importante la globalización, la cual aceleró tanto los beneficios del desarrollo económico como las desventajas del mismo alrededor del mundo.3 El rápido crecimiento y expansión de empresas internacionales ha generado preguntas acerca del papel de éstas en todos los aspectos de la sociedad, así como su impacto en la sociedad y en el medio ambiente. Particularmente cuando las empresas operan bajo normas legales discrepantes. El siguiente capítulo ofrece un breve resumen de los movimientos e iniciativas de sustentabilidad corporativa y medición de impacto que llevaron a ROI Sustentable, tanto a nivel internacional como en México, para dar un mejor conocimiento del contexto y la justificación de su desarrollo.
 
-### **El surgimiento de la sustentabilidad corporativa** 
+### **El surgimiento de la sustentabilidad corporativa**
 
 La sustentabilidad corporativa **no es un concepto con una definición universal**, ha sido utilizado como una etiqueta general para una gran variedad de iniciativas y actividades. Sin embargo, el consenso acerca de la sustentabilidad corporativa se forma alrededor de una combinación de factores económicos, sociales y ambientales relacionados con las actividades de la empresa.44
 
@@ -112,7 +114,7 @@ En el área privada, a finales de 1997, el *Roberts Enterprise Development Fund
 
 Desde el punto de vista de estas métricas, **el valor se crea cuando se hacen cambios que impactan positivamente la vida de las personas**. Parte de este valor se captura a través de precios de mercado aproximados de las actividades sustentables. A medida que se fue asentando el marco internacional para el entendimiento de lasustentabilidad en términos económicos, sociales y medioambientales, varias instituciones han empezado a fomentar la implementación de estos instrumentos de medición financiera en empresas privadas en varias regiones del mundo.
 
-###  **La sustentabilidad corporativa en México**
+### **La sustentabilidad corporativa en México**
 
 La sustentabilidad corporativa en América Latina es un concepto relativamente nuevo. Existen empresas y organizaciones sociales suficientemente activas en la responsabilidad social y medioambiental.
 
@@ -142,7 +144,9 @@ El ROI Sustentable es una herramienta que ofrezca mayor claridad en los benefi
 
 # **Capítulo 2**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/09/SROI_infografia3_web.jpg 'Infografía 2 «ROI Sustentable en México"')](https://www.ethos.org.mx/wp-content/uploads/2017/09/SROI_infografia3_web.jpg)
+![](https://ucarecdn.com/cd9976e9-588c-47f1-8428-eccfe456cb0b/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2017/09/SROI_infografia3_web.jpg)
 
 «ROI Sustentable en México”
 
@@ -188,9 +192,11 @@ La información de ROI Sustentable se presenta en un caso de estudio o en un 
 
 Al final de este documento se presenta **la metodología completa de ROI Sustentable con una explicación de los pasos y ejemplos** (ver Anexo: Metodología de ROI Sustentable).
 
+![](https://ucarecdn.com/d5aacb36-0088-4bc0-b317-4979a2653e72/)
+
 # **Casos**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/09/SROI_infografia4_web.jpg)](https://www.ethos.org.mx/wp-content/uploads/2017/09/SROI_infografia4_web.jpg)
+[](https://www.ethos.org.mx/wp-content/uploads/2017/09/SROI_infografia4_web.jpg)
 
 Infografía capítulo 2: «Casos de estudio»
 
@@ -287,7 +293,9 @@ Aprendizajes**
 
 **»** Para la implementación futura del ROI Sustentable se pueden incluir analizar factores ambientales y sociales adicionales. Para facilitar esto, se puede recomendar el desarrollo de un centro interno de datos para registrar todas las actividades y sus posibles impactos.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/09/original.png)](https://www.liverpool.com.mx/tienda/home.jsp)**EMPRESA:** Liverpool[](https://www.liverpool.com.mx/tienda/home.jsp)**SECTOR:** Tiendas departamental\
+![](https://ucarecdn.com/c82cbfc7-662e-4c88-93d1-7bcfd03cdd96/)
+
+[](https://www.liverpool.com.mx/tienda/home.jsp)**EMPRESA:** Liverpool[](https://www.liverpool.com.mx/tienda/home.jsp)**SECTOR:** Tiendas departamental\
 **TEMA DE SUSTENTABILIDAD:** Eficiencia energética
 
 Liverpool es una cadena de tiendas departamentales con una selección de productos y servicios para el vestido y el hogar. Fue fundada en 1847 en la Ciudad de México y en 1965 empezó a cotizar en la Bolsa Mexicana de Valores. En los ochenta y noventa adquirió otras tiendas departamentales establecidas en el país, como Fábricas de Francia. Liverpool opera en 30 estados y 59 ciudades de México con 58,145 colaboradores. En 2015 tenía 118 almacenes, 25 centros comerciales y 3.9 millones de tarjetas de crédito de marca propia. La empresa cuenta con 1.5 millones de metros cuadrados de área de venta. Su expansión internacional la realizó en 2010 cuando adquirió el 50% de Regal Forest. Liverpool registró ingresos totales de $91.2 millones de pesos en 2015, con una utilidad neta de $9 millones de pesos.
@@ -355,7 +363,9 @@ Elaboración propia con información de la empresa
 
 **»** La incorporación de datos de sustentabilidad de las actividades corporativas desde el comienzo de cada proyecto mejorará los cálculos futuros de ROI Sustentable.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2017/09/nestle-logo-5.png)](https://www.nestle.com.mx/)
+![](https://ucarecdn.com/c26dca05-95d9-48d1-95fc-a7eec20b11a8/)
+
+[](https://www.nestle.com.mx/)
 
 **EMPRESA:** Nestlé**\
 SECTOR:** Alimentos y bebidas\
@@ -418,8 +428,6 @@ Elaboración propia con información de la empresa
 **»** Los datos para la identificación y medición de impactos económicos y ambientales son más accesibles que los datos para impactos sociales, aunque la inclusión de impactos sociales adicionales en futuros cálculos de ROI Sustentable dará una imagen más completa de los proyectos y valor agregado para la empresa.
 
 **»** Cuanto mejor sea la comunicación entre los diferentes departamentos de la empresa, especialmente con respecto al lenguaje técnico y los procesos internos, más fácil y más rápido es medir el ROI sustentable.
-
- 
 
 ### **Reciclaje y economía circular**
 
@@ -493,8 +501,6 @@ Elaboración propia con información de la empresa
 **»** El mayor desafío fue la identificación y recolección de los datos de la actividad. No fue posible obtener datos significativos sobre el impacto social generado a cada grupo de interés. Por lo mismo, el cálculo del ROI Sustentable se enfoca en los beneficios medioambientales.
 
 **»** Una elaboración de proxies detallados y estandarizados para la industria papelera en México, y para zonas específicas, aumentaría la medición y la información estratégica sobre sustentabilidad.
-
- 
 
 ![](https://www.ethos.org.mx/wp-content/uploads/2017/09/Logo-KCM-Social.png)
 
@@ -718,7 +724,7 @@ En Ethos consideramos que esta visión integral de la sustentabilidad será desa
 
 # **Anexo**
 
-###  **Metodología de ROI Sustentable**
+### **Metodología de ROI Sustentable**
 
 \
 La siguiente sección presenta la metodología de ROI Sustentable, la cual fue aplicada por las empresas participantes a los estudios de caso.
@@ -737,7 +743,7 @@ Para:
 * Determinar el retorno de sus inversiones en actividades sustentables
 * Reportar el ROI Sustentable a los grupos de interés
 
-###  **Definiciones**
+### **Definiciones**
 
 La metodología ROI Sustentable ayuda a identificar, delimitar y analizar las variables necesarias para medir el impacto de una actividad sustentable. En esta sección se presentan las diferentes definiciones de conceptos que se utilizan para su cálculo.
 
@@ -761,7 +767,7 @@ La metodología ROI Sustentable ayuda a identificar, delimitar y analizar las 
 
 Deben desarrollarse métricas específicas de cada variable para ver el impacto de las actividades sustentables y poder medirlo como un beneficio monetario. La efectividad de la evaluación métrica depende de la calidad de los datos y ésta, a su vez, depende del registro y seguimiento que hacen los diferentes departamentos de la empresa (sustentabilidad, contabilidad, recursos humanos, financieros) de sus actividades sustentables.
 
-###  **Principios** 
+### **Principios** 
 
 El ejercicio de ROI Sustentable está basado en siete principios:55
 
@@ -822,7 +828,7 @@ La detección y monetización de los impactos son clave en el proceso de medici�
 
 En la siguiente parte del proceso de identificación y monetización de *impactos* hay que identificar variables ***proxies*** de diferentes fuentes, ya sea de la propia empresa, encuesta de los grupos de interés, cámaras industriales, encuestas o censos nacionales e internacionales para darle un valor monetario al impacto.
 
-**Variable *proxy*. Desarrollo de indicadores para monetizar el impacto*.* **Los indicadores para medir el impacto de losimpactos *s*on las variables *proxies* (variables sustituto). Se pueden usar tres series de variables *proxy* o indirectas: históricas, estimadas y científicas. Las posibles fuentes de información que pueden ser utilizadas para obtenerlas son:
+**Variable *proxy*. Desarrollo de indicadores para monetizar el impacto*.*** Los indicadores para medir el impacto de losimpactos *s*on las variables *proxies* (variables sustituto). Se pueden usar tres series de variables *proxy* o indirectas: históricas, estimadas y científicas. Las posibles fuentes de información que pueden ser utilizadas para obtenerlas son:
 
 ![](https://www.ethos.org.mx/wp-content/uploads/2017/09/Captura-de-pantalla-2017-10-19-a-las-12.52.42.png)
 
@@ -830,8 +836,9 @@ Es importante delimitar el tiempo de la evaluación de los impactos para no sobr
 
 ![](https://www.ethos.org.mx/wp-content/uploads/2017/09/Captura-de-pantalla-2017-10-19-a-las-12.52.56.png)
 
-**\
-4. Establecer el alcance de los impactos** **Especificación monetaria del impacto**
+\*\*\
+
+4. Establecer el alcance de los impactos\*\* **Especificación monetaria del impacto**
 
 Antes de proceder al cálculo de ROI sustentable en términos financieros, hay que afinar el impacto monetario analizando cuatro filtros importantes: atribución, *deadweight*, desplazamiento y  *drop-off*.
 
@@ -868,8 +875,9 @@ En general, en el cálculo del ROI Sustentable se analiza una actividad sustenta
 
 **Período de recuperación de flujos netos de efectivo a valor presente**A través de este método se puede determinar el tiempo requerido para recuperar la inversión inicial neta: en cuántos años los flujos de efectivo igualarán el monto de la inversión inicial. La fórmula que se utiliza para calcular el período de recuperación es: Tiempo de recuperación = Inversión/flujo neto de efectivo
 
-**\
-6. Utilización del ROI Sustentable**  
+\*\*\
+
+6. Utilización del ROI Sustentable\*\*  
 
 **Informe al consejo y a los grupos de interés**La información de ROI Sustentable se presenta en un caso de estudio o en un reporte final. Se informa al consejo de la empresa y también a los grupos de interés: individuos, trabajadores, comunidades, sociedad, y gobierno. A través del informe del ROI Sustentable  se pueden evaluar las mejores prácticas de la empresa en términos de sustentabilidad y aplicar las estrategias correspondientes.
 
@@ -1092,8 +1100,6 @@ Esto es aproximadamente 30 veces más que los focos incandescentes y 5 veces má
 Se utilizan 3,525,080.21 KWh con incandescentes actuales, al instalar las luminarias LED se usarían 1,052,962.21 KWh.
 
 [34 . ](https://www.ethos.org.mx/ethos-publications/roi-sustentable-en-paises-emergentes-2/#note_34)- 
-
- 
 
 Luminarias LED tienen un Color Rendering Index (CRI - medida de calidad) de 90, contra un CRI de los focos comunes de 44, lo cual da como resultado colores más puros, nítidos, vivos y profundos.
 
