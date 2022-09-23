@@ -120,7 +120,9 @@ Una de las características de este programa es el importante volumen del person
 
 **Cuadro 1. Tipo y funciones del personal operativo de Sembrando Vida**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2020/11/cuadro-1.png)](https://www.ethos.org.mx/wp-content/uploads/2020/11/cuadro-1.png)
+![](https://ucarecdn.com/ec2da520-5e77-43b4-b422-1381c785ee3b/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2020/11/cuadro-1.png)
 
 Fuente: elaboración propia con datos de la Secretaría de Bienestar.
 
@@ -155,7 +157,9 @@ En el cuadro 2, apuntamos algunos problemas de diseño, de acuerdo a cada interp
 
 **Cuadro 2. Naturaleza del programa y problemas de diseño asociados**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2020/11/cuadro-2.png)](https://www.ethos.org.mx/wp-content/uploads/2020/11/cuadro-2.png)
+![](https://ucarecdn.com/ead8644a-91c8-41a0-895c-49e432f143e3/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2020/11/cuadro-2.png)
 
 Fuente: elaboración propia
 
@@ -179,11 +183,9 @@ Asimismo, los indicadores de seguimiento del programa tendrían que evolucionar 
 
 Las urgencias por conformar el padrón de sembradores e iniciar el proceso de transferencia parecen haberse llevado a cabo a costa de **aspectos sumamente estratégicos para una intervención de esta índole**: 
 
-1) el **diseño de los sistemas agroforestales,** que sea conforme a las condiciones agroecológicas de cada territorio, así como, las condiciones económicas y capacidades de los productores; 
-
-2) la **realización de estudios de mercado,** que validen la factibilidad comercial y financiera de proponer ciertas especies de árboles; 
-
-3) la **planeación logística para la adquisición y abastecimiento de las plantas** para establecer las plantaciones. 
+1. el **diseño de los sistemas agroforestales,** que sea conforme a las condiciones agroecológicas de cada territorio, así como, las condiciones económicas y capacidades de los productores; 
+2. la **realización de estudios de mercado,** que validen la factibilidad comercial y financiera de proponer ciertas especies de árboles; 
+3. la **planeación logística para la adquisición y abastecimiento de las plantas** para establecer las plantaciones. 
 
 Cabe señalar que existe un sinfín de experiencias de proyectos de producción agropecuaria y forestal **que han fracasado** por haber omitido el aspecto comercial o la estrategia de adquisición de insumos, desde su planteamiento productivo. 
 
@@ -367,7 +369,9 @@ Para obtener más detalles al respecto, se realizaron 2 solicitudes de informaci
 
 **Gráfica 1: Promedio de árboles por beneficiario en cada entidad, año 2019**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2020/11/figura-1.png)](https://www.ethos.org.mx/wp-content/uploads/2020/11/figura-1.png)
+![](https://ucarecdn.com/bbae4c51-7e54-4712-b4ea-262e19dc5ebb/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2020/11/figura-1.png)
 
 Fuente: elaboración propia, a partir de Padrón de beneficiarios de Sembrando Vida 2019 e información proporcionada por la SEBIEN en la solicitud con folio 0002000089220
 
@@ -480,11 +484,9 @@ El diseño de los programas prioritarios muestra una verdadera preocupación del
 
 Para este año, vemos imprescindible resolver tres temas urgentes para evitar, en la medida de lo posible, el **corrompimiento paulatino** del programa: 
 
-1) en primer lugar, regularizar la forma en que se **adjudican los contratos** en el marco de la operación del programa, para desincentivar prácticas corruptas relacionadas con la proveeduría; 
-
-2) en segundo lugar, implementar un **sistema de información** robusto del programa, que incluya información sobre los sembradores, sus parcelas, los sistemas de producción agroforestales, las CAC, la labor de los técnicos en campo, la asignación de insumos y materiales, entre otros; para transparentar los avances reales del programa y evitar posibles suspicacias sobre un uso indebido de las transferencias; 
-
-3) en tercer lugar, elaborar e implementar un **manual de procesos del programa**  que estandarice sus principales procesos (CONEVAL 2020), para evitar las irregularidades. 
+1. en primer lugar, regularizar la forma en que se **adjudican los contratos** en el marco de la operación del programa, para desincentivar prácticas corruptas relacionadas con la proveeduría; 
+2. en segundo lugar, implementar un **sistema de información** robusto del programa, que incluya información sobre los sembradores, sus parcelas, los sistemas de producción agroforestales, las CAC, la labor de los técnicos en campo, la asignación de insumos y materiales, entre otros; para transparentar los avances reales del programa y evitar posibles suspicacias sobre un uso indebido de las transferencias; 
+3. en tercer lugar, elaborar e implementar un **manual de procesos del programa**  que estandarice sus principales procesos (CONEVAL 2020), para evitar las irregularidades. 
 
 Cabe recordar que los señalamientos del presente informe tienen como objetivo **prevenir posibles malos manejos y prácticas corruptas en un futuro**. Dadas las experiencias pasadas, es deseable desplegar amplios esfuerzos de vigilancia y análisis para detectar de qué forma podría corromperse en un futuro. Ello es aún más relevante si partimos del reconocimiento de que el proceso de corrupción de un programa es difícilmente reversible; los costos para la sociedad no se limitan únicamente al presupuesto del programa corrompido, sino también, a la curva de aprendizaje de la administración pública en términos de desarrollo de políticas públicas de calidad. Creemos, en efecto, que la corrupción erosiona profundamente la profesionalización y la mejora continua de los modelos de intervención sociales. 
 
