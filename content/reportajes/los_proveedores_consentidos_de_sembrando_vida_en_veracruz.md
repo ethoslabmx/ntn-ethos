@@ -153,7 +153,9 @@ Se buscó la postura de los funcionarios de Sembrando Vida que aquí se menciona
 
 Sin embargo, Randú Ortiz sí respondió. El funcionario negó que haya forzado a sus subordinados a favorecer a ciertos proveedores y a presionar a sembradores. Pero aseguró que el facilitador Alan Rabolledo sí favoreció a proveedores, por lo que fue dado de baja, aunque no precisó la fecha. Sobre la investigación que personal de prensa de la Secretaría de Bienestar asegura que está en marcha, el coordinador territorial mencionó que, hasta el momento, a él no se le ha notificado. 
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/09/Sembrando-Vida-LINEA-DEL-TIEMPO-V.1.2..jpg)](https://www.ethos.org.mx/wp-content/uploads/2021/09/Sembrando-Vida-LINEA-DEL-TIEMPO-V.1.2..jpg)
+![](https://ucarecdn.com/955ae070-fd46-4373-9e91-d0289ca26270/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/09/Sembrando-Vida-LINEA-DEL-TIEMPO-V.1.2..jpg)
 
 #### **Represalias contra técnicos** 
 
