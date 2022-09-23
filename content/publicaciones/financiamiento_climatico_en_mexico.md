@@ -32,8 +32,6 @@ file: https://ucarecdn.com/a7f85d35-4e5e-4bbe-a21c-c5ad79fcd81c/
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 **SOBRE ESTE DOCUMENTO:**
@@ -90,7 +88,9 @@ Desde 2013, el Presupuesto de Egresos de la Federación (PEF) incluye un Anexo T
 
 **Gráfico 1. México: Recursos públicos federales para la adaptación y mitigación de los efectos del cambio climático por secretaría o dependencia (en pesos mexicanos), 2013-2020**
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/01/Latinoame%CC%81rica-Sostenible-%C2%BFCo%CC%81mo-impulsar-una-recuperacio%CC%81n-justa-y-resiliente-a-partir-del-financiamiento-clima%CC%81tico-en-Me%CC%81xico_-2-pdf.png)](https://www.ethos.org.mx/wp-content/uploads/2021/01/Latinoame%CC%81rica-Sostenible-%C2%BFCo%CC%81mo-impulsar-una-recuperacio%CC%81n-justa-y-resiliente-a-partir-del-financiamiento-clima%CC%81tico-en-Me%CC%81xico_-2-pdf.png)
+![](https://ucarecdn.com/0a9a0311-28c7-40c7-a321-56e9ece1d2da/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/01/Latinoame%CC%81rica-Sostenible-%C2%BFCo%CC%81mo-impulsar-una-recuperacio%CC%81n-justa-y-resiliente-a-partir-del-financiamiento-clima%CC%81tico-en-Me%CC%81xico_-2-pdf.png)
 
 Fuente: Elaboración propia con datos del Anexo 16 del Presupuesto de Egresos de la Federación, 2013-2020
 
