@@ -27,15 +27,21 @@ Chicas y chicos ríen, los amigos se abrazan, las parejas se besan. En las entra
 
 En la capital del país, el [reglamento](http://paot.org.mx/centro/reglamentos/df/pdf/REGLAMENTOS_DF_PDF/RGTO_NO_FUMADORES_DF_04_04_2008.pdf) vigente de la **[Ley de protección a la salud de los no fumadores](http://paot.org.mx/centro/reglamentos/df/pdf/REGLAMENTOS_DF_PDF/RGTO_NO_FUMADORES_DF_04_04_2008.pdf)** establece que en áreas de servicio al aire libre se podrá fumar siempre y cuando el humo del tabaco no invada un paso forzoso para las personas (una entrada o salida), no penetre al interior de los espacios cerrados, y **no haya ninguna barrera que impida la circulación del humo**, como los toldos, marquesinas o techos de acrílico tan comunes en ciertos bares y restaurantes con mesas al aire libre. De ahí el nombre de “falsas terrazas”, ya que fumar en todos esos lugares con toldos, así estén en las aceras, afecta de una u otra manera a los no fumadores.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Mapa-Reforma-Juarez-Centro-Ethos-Falsas-Terrazas-2020.jpg)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Mapa-Reforma-Juarez-Centro-Ethos-Falsas-Terrazas-2020.jpg)
+![](https://ucarecdn.com/481be42b-2231-4a68-b46b-42a270dbda98/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Mapa-Reforma-Juarez-Centro-Ethos-Falsas-Terrazas-2020.jpg)
 
 Pero no solo eso. A partir del 1 de julio —cuando el semáforo naranja permitió a los locales volver a abrir con horario limitado—, la jefa del gobierno capitalino fue muy precisa al indicar que **[“estaba prohibido fumar en todas las áreas”](https://www.jefaturadegobierno.cdmx.gob.mx/comunicacion/nota/mensaje26-de06-la2020-jefa-de-gobierno-claudia-sheinbaum-pardo-durante-la-videoconferencia-de-prensa-en-el-antiguo-palacio-del-ayuntamiento)** de los restaurantes a fin de evitar una posible propagación del virus, según el acuerdo extraordinario publicado en la [Gaceta Oficial de la CDMX](https://data.consejeria.cdmx.gob.mx/portal_old/uploads/gacetas/18c869325129e45aebab11d8a694049f.pdf). Si un restaurante incumple la norma por primera vez, es acreedor a una llamada de atención, si reincide recibirá una multa, y si permite fumar por tercera ocasión será clausurado, según el **[Plan Gradual hacia la Nueva Normalidad de CDMX](https://covid19.cdmx.gob.mx/storage/app/media/plan%20gradual%20hacia%20la%20nueva%20normalidad%20en%20la%20ciudad%20de%20mexico/semaforo-naranja-260620.pdf)**. “El Acuerdo de la ciudad suple al reglamento (…) Se antepone proteger la vida humana de manera temporal”, explica el abogado Javier Zúñiga, experto en regulación del tabaco.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Mapa-Algarin-Ethos-Falsas-Terrazas-2020.jpg)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Mapa-Algarin-Ethos-Falsas-Terrazas-2020.jpg)
+![](https://ucarecdn.com/bfadd514-c5ff-437c-b9f8-8c75c45c217d/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Mapa-Algarin-Ethos-Falsas-Terrazas-2020.jpg)
 
 “Lo que vemos en la Zona Rosa, Condesa, Roma o cualquier lugar en el que hay mesas en las aceras; o que sacan dos o tres sillitas y (los clientes) están fumando es algo muy desafortunado; porque **cada quien ha interpretado los espacios exteriores a su conveniencia**”, explica Norma Ibáñez, asesora legal de [Códice](https://codicesc.com/acerca-de/), una organización de la sociedad civil dedicada a temas de salud, y exfuncionaria de la Conadic, quien añade que eso sucede a raíz de los **vacíos legales** presentes como no señalar la definición precisa de una “terraza”.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/02/Mapa-Coyoacan-Ethos-Falsas-Terrazas-2020.jpg)](https://www.ethos.org.mx/wp-content/uploads/2021/02/Mapa-Coyoacan-Ethos-Falsas-Terrazas-2020.jpg)
+![](https://ucarecdn.com/c763d303-62fb-4ef0-b1d4-460d12ae0245/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2021/02/Mapa-Coyoacan-Ethos-Falsas-Terrazas-2020.jpg)
 
 Ethos constató que la “nueva normalidad” no dista de lo que sucedía antes de la pandemia, y las prácticas más comunes de los fumadores continúan afectando a los que no lo son; y esto se debe en gran parte, a una serie de **omisiones por parte de las autoridades** para hacer cumplir las normas, coinciden expertos entrevistados para este reportaje.
 
@@ -153,7 +159,7 @@ Si bien las llamadas interferencias suponen retos, los especialistas coinciden q
 
 “Valdría la pena que con esto vaya para adelante. Ha quedado claro que **las comorbilidades son importantes en una emergencia sanitaria**. Es momento de volver a aplicarlo como se hizo en 2008 hasta que por diversas razones se debilitó su aplicación”, concluye Tenorio.
 
-*\*\**Al cierre de este reportaje no respondieron a las solicitudes de entrevista la SSA, la Cofepris, la Agepsa y las presidencias de las comisiones de salud de las cámaras de diputados y senadores. Tampoco atendió a la petición el exsecretario de Salud capitalino, Armando Ahued.*
+\*\***Al cierre de este reportaje no respondieron a las solicitudes de entrevista la SSA, la Cofepris, la Agepsa y las presidencias de las comisiones de salud de las cámaras de diputados y senadores. Tampoco atendió a la petición el exsecretario de Salud capitalino, Armando Ahued.*
 
 *\*Este reportaje forma parte de Fostering Transparency and Accountability in the Design and Implementation of Tobacco control Policies, un proyecto de Ethos Laboratorio de Políticas Públicas, que contó con la coordinación general de Rodrigo Bolaños, Lisa Grabinsky y Silvia Márquez. Edición: Karla Casillas Bermúdez. Diseño: Óscar Alva.*\
 *Este documento fue posible gracias a una subvención administrada por la Unión Internacional Contra la Tuberculosis y Enfermedades Respiratorias (The Union) y financiada por Bloomberg Philantropies. El contenido de este estudio es responsabilidad de los autores y bajo ningún caso debe considerarse que refleja el punto de vista de The Union o de Bloomberg Philantropies.*
