@@ -52,7 +52,9 @@ Sobre la declaración anterior, el doctor Malo explicó que la estrategia public
 
 De acuerdo con los expertos que conforman la organización Salud Justa, además de esta campaña que se acompañó de influencers que utilizaban los dispositivos electrónicos, una de las interferencias más relevantes fue la del 21 de marzo de 2021, cuando el diputado del PRI Fernando Galindo [convocó a organizaciones, empresarios, cámaras y productores de tabaco al parlamento abierto](http://www5.diputados.gob.mx/index.php/esl/Comunicacion/Boletines/2021/Marzo/16/6092-La-Comision-de-Economia-analiza-con-el-sector-empresarial-reformas-a-la-Ley-General-para-el-Control-del-Tabaco) *Análisis de las Diversas Iniciativas que Reforman y Adicionan Artículos de la Ley General para el Control del Tabaco*, organizado por la Comisión de Economía*.* La OMS establece en el “[Convenio Marco para el Control del Tabaco](http://apps.who.int/iris/bitstream/handle/10665/42813/9243591010.pdf;jsessionid=E9FD0B3C5BC5B96A96CFD82C3DBC8820?sequence=1)”que cuando se trate de la formulación de la política de salud pública, se deben evitar las reuniones innecesarias entre la industria y funcionarios tomadores de decisiones.
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2020/05/Influencer-de-nicotina-Linea-del-tiempo-v.1.3-VYPE-1.jpg)](https://www.ethos.org.mx/wp-content/uploads/2020/05/Influencer-de-nicotina-Linea-del-tiempo-v.1.3-VYPE-1.jpg)[![](https://www.ethos.org.mx/wp-content/uploads/2020/05/Influencer-de-nicotina-Linea-del-tiempo-v.1.3-IQOS.jpg)](https://www.ethos.org.mx/wp-content/uploads/2020/05/Influencer-de-nicotina-Linea-del-tiempo-v.1.3-IQOS.jpg)
+![](https://ucarecdn.com/f280457d-5437-4d45-92ff-6d26e2877a7c/)
+
+[](https://www.ethos.org.mx/wp-content/uploads/2020/05/Influencer-de-nicotina-Linea-del-tiempo-v.1.3-VYPE-1.jpg)[](https://www.ethos.org.mx/wp-content/uploads/2020/05/Influencer-de-nicotina-Linea-del-tiempo-v.1.3-IQOS.jpg)
 
 Ante ello, Salud Justa y otras instituciones acusaron al diputado de violar el artículo 5.3 de dicho convenio.  No solo eso, sino que los expertos a favor de la regulación del tabaco fueron invitados unas horas antes al parlamento, lo que evitó que en este foro existieran posiciones sobre el daño ocasionado a la salud por el tabaco. 
 
@@ -128,20 +130,22 @@ La votación de abril pasado en la Cámara de Diputados fue un avance, que llega
 
 “No pierdo esperanza que la propuesta en el Senado se discuta y apruebe (…) Todavía tenemos que renovar una buena parte de la ley para cumplir los compromisos de México y posteriormente discutir la parte de nuevos productos”, concluyó Inti Barrientos, investigador del INSP. 
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/08/Reformas-antitabaco-llegan-chimuelas-a-Senado-ETHOS-Linea-del-tiempo_Page_1.jpg)](https://www.ethos.org.mx/wp-content/uploads/2021/08/Reformas-antitabaco-llegan-chimuelas-a-Senado-ETHOS-Linea-del-tiempo_Page_1.jpg)
+![](https://ucarecdn.com/dcfd0df2-a4fc-4442-98f9-32218f2959e1/)
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/08/Reformas-antitabaco-llegan-chimuelas-a-Senado-ETHOS-Linea-del-tiempo_Page_2.jpg)](https://www.ethos.org.mx/wp-content/uploads/2021/08/Reformas-antitabaco-llegan-chimuelas-a-Senado-ETHOS-Linea-del-tiempo_Page_2.jpg)
+![](https://ucarecdn.com/69e5ee49-0b04-4e2d-ac70-d96b966c917a/)
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/08/Reformas-antitabaco-llegan-chimuelas-a-Senado-ETHOS-Linea-del-tiempo_Page_3.jpg)](https://www.ethos.org.mx/wp-content/uploads/2021/08/Reformas-antitabaco-llegan-chimuelas-a-Senado-ETHOS-Linea-del-tiempo_Page_3.jpg)
+![](https://ucarecdn.com/3b938100-5b8c-4662-a14d-fa621972508f/)
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/08/Reformas-antitabaco-llegan-chimuelas-a-Senado-ETHOS-Linea-del-tiempo_Page_4.jpg)](https://www.ethos.org.mx/wp-content/uploads/2021/08/Reformas-antitabaco-llegan-chimuelas-a-Senado-ETHOS-Linea-del-tiempo_Page_4.jpg)
+![](https://ucarecdn.com/7090875f-35a5-4cdf-9cf9-d3760f60f5b3/)
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/08/Reformas-antitabaco-llegan-chimuelas-a-Senado-ETHOS-Linea-del-tiempo_Page_5.jpg)](https://www.ethos.org.mx/wp-content/uploads/2021/08/Reformas-antitabaco-llegan-chimuelas-a-Senado-ETHOS-Linea-del-tiempo_Page_5.jpg)
+![](https://ucarecdn.com/8a0fc9af-b7bc-4720-9703-e28d771f0a8e/)
 
-[![](https://www.ethos.org.mx/wp-content/uploads/2021/08/Reformas-antitabaco-llegan-chimuelas-a-Senado-ETHOS-Linea-del-tiempo_Page_6.jpg)](https://www.ethos.org.mx/wp-content/uploads/2021/08/Reformas-antitabaco-llegan-chimuelas-a-Senado-ETHOS-Linea-del-tiempo_Page_6.jpg)
+![](https://ucarecdn.com/465404a2-3dcd-43b7-bcde-47630963d1ba/)
 
-*\*\**Este reportaje contó con la coordinación general de Yahir Acosta y Silvia Márquez, así como el apoyo de Sebastián Guzmán y Maura Arzate. Edición: Mael Vallejo.*
+[](https://www.ethos.org.mx/wp-content/uploads/2021/08/Reformas-antitabaco-llegan-chimuelas-a-Senado-ETHOS-Linea-del-tiempo_Page_6.jpg)
 
-*\*\**Este documento ha sido elaborado con la ayuda de una subvención de STOP, un organismo de control de la industria tabacalera mundial, financiado por Bloomberg Philanthropies y se compone de una asociación entre el Grupo de Investigación de Control del Tabaco de la Universidad de Bath, el Centro Global para la Buena Gobernanza del Tabaco. Control (GGTC), la Unión Internacional contra la Tuberculosis y Enfermedades Pulmonares (La Unión) y Vital Strategies. El contenido de este documento es responsabilidad exclusiva de los autores y en ningún caso puede considerarse que refleja las posiciones de STOP ni las de los donantes.*
+\*\***Este reportaje contó con la coordinación general de Yahir Acosta y Silvia Márquez, así como el apoyo de Sebastián Guzmán y Maura Arzate. Edición: Mael Vallejo.*
+
+\*\***Este documento ha sido elaborado con la ayuda de una subvención de STOP, un organismo de control de la industria tabacalera mundial, financiado por Bloomberg Philanthropies y se compone de una asociación entre el Grupo de Investigación de Control del Tabaco de la Universidad de Bath, el Centro Global para la Buena Gobernanza del Tabaco. Control (GGTC), la Unión Internacional contra la Tuberculosis y Enfermedades Pulmonares (La Unión) y Vital Strategies. El contenido de este documento es responsabilidad exclusiva de los autores y en ningún caso puede considerarse que refleja las posiciones de STOP ni las de los donantes.*
 
 <!--EndFragment-->
