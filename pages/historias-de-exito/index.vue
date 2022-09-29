@@ -1,5 +1,6 @@
 <template>
   <div class="app">
+    <JumbotronEjeVue title="Historias de Éxito" subtitle=" " image="historias-de-exito-thumb.jpg" />
     <div class="com">
       <div class="nav-movil">
         <li class="" v-for="(historia,index) in historias" :key="index">
@@ -95,8 +96,11 @@
 <script>
 import { pipelinePrimaryTopicReference } from '@babel/types';
 import { mounted } from 'vue';
-
+import JumbotronEjeVue from '~/components/JumbotronEje.vue';
 export default {
+  components: {
+    JumbotronEjeVue
+  },
   data() {
     return {
       section: null,
