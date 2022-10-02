@@ -1,7 +1,7 @@
 ---
-title: CONSTRUYENDO RESILIENCIA AL CAMBIO CLIMÁTICO EN COMUNIDADES PESQUERAS DE
-  SINALOA Y YUCATÁN
-date: 2022-08-30T02:25:18.594Z
+title: Construyendo resiliencia al cambio climático en comunidades pesqueras de
+  Sinaloa y Yucatán
+date: 2022-10-01T02:25:18.594Z
 img: https://ucarecdn.com/da155d2f-6d1c-47e5-b176-65b50760ddd5/
 video: https://www.youtube.com/watch?v=Tq-8usS0j40
 extracto: El cambio climático afecta en gran medida a comunidades que viven de
