@@ -98,7 +98,7 @@
             <hr>
           </div>
           <div class="lg:ml-6  block  widget-twitter mt-6 lg:mt-0 mx-auto">
-            <a class="twitter-timeline" data-lang="es" data-width="300" data-height="450" data-theme="light" href="https://twitter.com/ethoslabmx?ref_src=twsrc%5Etfw">Tweets by ethoslabmx</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            <a class="twitter-timeline" data-lang="es" data-width="300" data-height="450" data-theme="light" href="https://twitter.com/EthosInnovacion?ref_src=twsrc%5Etfw">Tweets by EthosInnovacion</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
           </div>
 
         </div>
