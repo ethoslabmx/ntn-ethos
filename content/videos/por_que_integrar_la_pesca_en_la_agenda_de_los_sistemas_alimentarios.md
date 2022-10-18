@@ -1,6 +1,6 @@
 ---
 title: ¿Por qué integrar la pesca en la agenda de los sistemas alimentarios?
-date: 2022-10-07T19:07:11.734Z
+date: 2022-10-07T21:02:11.734Z
 autor: Ethos
 video: https://www.youtube.com/watch?v=ykQq58PG3Pg
 category: desarrollo-sostenible
