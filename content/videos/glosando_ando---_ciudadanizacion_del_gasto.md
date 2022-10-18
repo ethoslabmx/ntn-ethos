@@ -1,6 +1,6 @@
 ---
 title: Glosando ando... ciudadanización del gasto
-date: 2022-09-21T18:06:06.705Z
+date: 2022-09-21T20:06:06.705Z
 autor: Ethos
 video: https://www.youtube.com/watch?v=5c1XHtKMQpk
 category: anticorrupcion
