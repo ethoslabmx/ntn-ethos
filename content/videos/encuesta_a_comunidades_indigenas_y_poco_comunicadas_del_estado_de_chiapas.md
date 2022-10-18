@@ -1,6 +1,6 @@
 ---
 title: Encuesta a comunidades indígenas y poco comunicadas del estado de Chiapas
-date: 2022-09-21T18:55:59.859Z
+date: 2022-09-21T18:20:59.859Z
 autor: Ethos
 video: https://www.youtube.com/watch?v=rFnoqbSSdpg
 category: anticorrupcion
