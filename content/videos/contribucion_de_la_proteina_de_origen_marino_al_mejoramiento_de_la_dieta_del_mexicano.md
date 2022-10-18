@@ -1,7 +1,7 @@
 ---
 title: Contribución de la proteína de origen marino al mejoramiento de la dieta
   del mexicano
-date: 2022-10-07T19:08:13.215Z
+date: 2022-10-07T19:10:13.215Z
 autor: Ethos
 video: https://www.youtube.com/watch?v=K0sG_MgUrKM
 category: desarrollo-sostenible
