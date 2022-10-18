@@ -1,7 +1,7 @@
 ---
 title: Criterios para la evaluación de perfiles aspirantes a cargos por
   designaciones públicas
-date: 2022-09-21T18:54:12.269Z
+date: 2022-09-21T18:40:12.269Z
 autor: Ethos
 video: https://www.youtube.com/watch?v=NSZXmoqXAmg
 category: anticorrupcion
