@@ -1,7 +1,7 @@
 ---
 title: "Inauguración del foro «Del mar a la mesa: Pesca y Sistemas Alimentarios
   Sostenibles en México»"
-date: 2022-10-07T20:06:12.161Z
+date: 2022-10-07T21:06:12.161Z
 autor: Ethos
 video: https://www.youtube.com/watch?v=-U7TsFrzPtg
 category: desarrollo-sostenible
