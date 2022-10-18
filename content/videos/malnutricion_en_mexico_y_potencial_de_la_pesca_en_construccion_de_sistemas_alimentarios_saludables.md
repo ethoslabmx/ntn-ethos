@@ -1,7 +1,7 @@
 ---
 title: Malnutrición en México y potencial de la pesca en construcción de
   sistemas alimentarios saludables
-date: 2022-10-07T19:07:41.210Z
+date: 2022-10-07T20:07:41.210Z
 autor: Ethos
 video: https://www.youtube.com/watch?v=Ez4tSda3VtQ
 category: desarrollo-sostenible
