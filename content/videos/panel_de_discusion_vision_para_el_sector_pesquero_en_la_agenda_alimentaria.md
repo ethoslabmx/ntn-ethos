@@ -1,6 +1,6 @@
 ---
 title: Panel de discusión Visión para el sector pesquero en la agenda alimentaria
-date: 2022-10-07T20:10:01.926Z
+date: 2022-10-07T19:00:01.926Z
 autor: Ethos
 video: https://www.youtube.com/watch?v=Q3YhLalBnbg
 category: desarrollo-sostenible
