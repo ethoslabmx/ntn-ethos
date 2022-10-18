@@ -1,6 +1,6 @@
 ---
 title: Estado de la seguridad alimentaria y la nutrición en el mundo
-date: 2022-10-07T19:06:45.203Z
+date: 2022-10-07T21:04:45.203Z
 autor: Ethos
 video: https://www.youtube.com/watch?v=iKZARBbP_vs
 category: desarrollo-sostenible
