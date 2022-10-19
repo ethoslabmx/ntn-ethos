@@ -1,6 +1,6 @@
 ---
 title: Cuenta México con los recursos para incrementar energías renovables
-date: 2019-06-14T10:16:15.280Z
+date: 2019-06-14T10:15:15.280Z
 img: https://ucarecdn.com/7adc8412-ec1c-44ca-8203-51178b2702a6/
 autor: "La Prensa "
 link: https://www.la-prensa.com.mx/mexico/cuenta-mexico-con-los-recursos-para-incrementar-energias-renovables-3765103.html
