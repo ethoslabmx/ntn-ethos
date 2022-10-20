@@ -13,6 +13,15 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+    ],
+    script: [
+      // Google Analytics Code
+      {
+        src: "https://www.googletagmanager.com/gtag/js?id=G-69W6XFWJ9Z",
+        async: true,
+      },
+      // Import analitics.js file
+      { src: "/js/analitics.js" },
     ]
   },
 
@@ -82,6 +91,6 @@ export default {
     }
   },
   googleAnalytics: {
-    id: 'UA-79280404-1'
+    id: 'G-69W6XFWJ9Z'
   }
 }
