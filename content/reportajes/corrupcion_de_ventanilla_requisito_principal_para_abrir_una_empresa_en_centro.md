@@ -3,7 +3,7 @@ title: "Corrupción de ventanilla: requisito principal para abrir una empresa en
   Centro"
 date: 2022-03-22T22:07:07.233Z
 img: https://ucarecdn.com/d1f06423-fddd-438f-99d4-e95ce239906c/
-autor: Ethos
+autor: "Alexis Cerino. Para: El Edén"
 category: anticorrupcion
 extracto: Para agilizar la apertura de negocios, los empresarios de Tabasco
   proponen recurrir a herramientas tecnológicas para evitar a los funcionarios
