@@ -2,7 +2,7 @@
 title: TIJUANA, LEJOS DE TRÁMITES SIMPLIFICADOS Y DIGITALIZADOS
 date: 2022-02-16T19:03:13.934Z
 img: https://ucarecdn.com/bde232f5-04e3-4783-908d-c7ff97540694/
-autor: Ethos
+autor: "Alejandro Aldán. Para: La Jornada Baja California"
 category: anticorrupcion
 extracto: Hay quejas constantes de la ciudadanía sobre la burocracia excesiva
   para la apertura de negocios en Tijuana, rubro que ha caído estrepitosamente
