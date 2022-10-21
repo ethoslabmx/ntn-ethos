@@ -9,8 +9,4 @@ extracto: El cambio climático afecta en gran medida a comunidades que viven de
   estrategias que les permitan sortear los retos y adaptarse mejor ante los
   efectos que vienen.
 ---
-<!--StartFragment-->
-
 El cambio climático afecta en gran medida a comunidades que viven de la pesca. Por eso acudimos con ellas para apoyarlas a crear herramientas y estrategias que les permitan sortear los retos y adaptarse mejor ante los efectos que vienen.
-
-<!--EndFragment-->
