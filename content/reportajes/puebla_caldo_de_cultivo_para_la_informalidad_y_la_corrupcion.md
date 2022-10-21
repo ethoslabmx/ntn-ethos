@@ -2,7 +2,7 @@
 title: Puebla, caldo de cultivo para la informalidad y la corrupción
 date: 2022-03-10T22:43:46.917Z
 img: https://ucarecdn.com/d1f06423-fddd-438f-99d4-e95ce239906c/
-autor: Ethos
+autor: "Gabriela García. Para: El Sol de Puebla"
 category: anticorrupcion
 extracto: Ante la histórica lentitud burocrática que inhibe el emprendedurismo
   formal, empresarios, organizaciones internacionales y gobiernos locales se
