@@ -4,7 +4,7 @@ title: "Redes de participación ciudadana incluyentes: el mejor camino para
 date: 2022-09-25T17:50:12.845Z
 img: https://ucarecdn.com/24354cc1-4d04-4ca6-b97d-d4193b0f0cc2/
 img-alt: Creación de redes de participación ciudadana
-autor: Emiliano Montes de Oca y Ana Paola González. Para Animal Político
+autor: "Emiliano Montes de Oca y Ana Paola González. Para: Animal Político"
 medio: .
 link: https://www.animalpolitico.com/blog-invitado/redes-de-participacion-ciudadana-incluyentes-para-combatir-la-corrupcion/
 category: anticorrupcion
