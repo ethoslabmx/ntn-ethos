@@ -2,7 +2,7 @@
 title: Financiamiento climático en México
 date: 2021-01-26T16:32:53.150Z
 img: https://ucarecdn.com/1172700e-ec15-4cdf-8e76-4d26563f0179/
-autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: Yahir Acosta y Sebastián Guzmán
 category: desarrollo-sostenible
 extracto: Una recuperación justa y resiliente implica promover medidas que
   reflejen la interdependencia entre la economía, la salud y la sociedad con el
