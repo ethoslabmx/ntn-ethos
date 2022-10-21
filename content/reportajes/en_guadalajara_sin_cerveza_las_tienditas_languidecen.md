@@ -2,7 +2,7 @@
 title: En Guadalajara, sin cerveza, las tienditas languidecen
 date: 2022-03-22T22:19:19.594Z
 img: https://ucarecdn.com/d1f06423-fddd-438f-99d4-e95ce239906c/
-autor: Ethos
+autor: "Sergio Blanco. Para: Territorio"
 category: anticorrupcion
 extracto: La venta de alcohol permite la sobrevivencia de las tienditas, pero
   obtener un permiso puede resultar muy tardado.
