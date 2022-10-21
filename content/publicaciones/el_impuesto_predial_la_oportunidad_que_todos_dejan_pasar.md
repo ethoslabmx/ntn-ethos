@@ -2,7 +2,7 @@
 title: "El impuesto predial: la oportunidad que todos dejan pasar"
 date: 2021-02-10T20:35:17.905Z
 img: https://ucarecdn.com/3c6185e1-9836-42cf-8304-de941836b387/
-autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: Rodrigo Bolaños y Arturo Franco
 category: finanzas-publicas
 extracto: "El debate sobre la necesidad de aumentar los ingresos propios de los
   gobiernos locales no es reciente. Sin embargo, las circunstancias por las que
