@@ -2,7 +2,7 @@
 title: CONTRATACIÓN Y FINANCIAMIENTO PARA LA ENERGÍA SOLAR EN LA CIUDAD DE MÉXICO
 date: 2020-05-07T21:56:15.168Z
 img: https://ucarecdn.com/7f70993b-e025-4583-9dd8-3d5c434a4506/
-autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: Yahir Acosta, Sebastián Guzmán y Camille Legrand
 category: ciudades-del-futuro
 extracto: Como parte del Programa de Apoyo a la implementación de la Transición
   Energética en México  (TrEM) de la Cooperación Alemana al Desarrollo
