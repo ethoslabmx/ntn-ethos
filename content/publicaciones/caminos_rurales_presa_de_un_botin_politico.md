@@ -2,7 +2,7 @@
 title: "CAMINOS RURALES: PRESA DE UN BOTÍN POLÍTICO"
 date: 2019-09-30T23:34:22.094Z
 img: https://ucarecdn.com/e37bf82e-73cb-4047-ac59-09fa7be9a625/
-autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: Alejandro Alegría y Miguel Ángel Santibáñez
 category: finanzas-publicas
 extracto: Los caminos rurales son una de las bases más importantes para el
   desarrollo de las comunidades. El proceso de obtención de recursos para su
