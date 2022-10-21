@@ -3,7 +3,7 @@ title: "Convocatoria para el financiamiento de proyectos de cambio: Recuperació
   justa y resiliente de nuestras comunidades ante el COVID-19"
 date: 2022-10-04T00:59:57.953Z
 img: https://ucarecdn.com/48413284-f3f5-41f6-ae49-98e351dec2e9/
-autor: Ethos
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: inclusion
 extracto: Buscamos proyectos de cambio que contribuyan a la reactivación justa y
   resiliente, que consideren las afectaciones de la pandemia del COVID-19 en las
