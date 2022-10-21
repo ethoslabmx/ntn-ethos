@@ -4,8 +4,8 @@ title: "Del mar a la mesa: la pesca sostenible como alternativa para la
 date: 2022-10-17T18:00:52.046Z
 img: https://ucarecdn.com/d35c1bb7-97bc-4dfc-ba19-04dff2f8c47d/
 img-alt: Pesca sustentable
-autor: Ana Paula Sandoval, Daniela Oropeza y Verne Martínez. Para Animal Político
-medio: .
+autor: Ana Paula Sandoval, Daniela Oropeza y Verne Martínez
+medio: Animal Político
 link: https://www.animalpolitico.com/blog-invitado/del-mar-a-la-mesa-la-pesca-sostenible-como-alternativa-para-la-seguridad-alimentaria/
 category: desarrollo-sostenible
 extracto: A pesar de que México tiene un alto nivel de producción pesquera
