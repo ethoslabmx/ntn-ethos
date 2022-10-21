@@ -4,7 +4,7 @@ title: "CRUEL ENCRUCIJADA PARA LOS EMPRENDEDORES EN MATAMOROS: INFORMALIDAD O
 date: 2022-02-28T19:59:21.415Z
 img: https://ucarecdn.com/d1f06423-fddd-438f-99d4-e95ce239906c/
 img-alt: Portada CRUEL ENCRUCIJADA PARA LOS EMPRENDEDORES
-autor: Ethos
+autor: "Rosy Pereda Rangel. Para: Expreso"
 category: anticorrupcion
 extracto: Los pequeños empresarios en esta frontera abren sus negocios y van
   tramitando permisos con la esperanza de que la delincuencia no toque a su
