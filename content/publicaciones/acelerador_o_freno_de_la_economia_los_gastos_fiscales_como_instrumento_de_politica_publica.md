@@ -3,7 +3,7 @@ title: "Acelerador o freno de la economía: Los gastos fiscales como instrumento
   de política pública"
 date: 2021-07-13T19:30:06.983Z
 img: https://ucarecdn.com/e717281a-d2fb-41c9-bfcc-4b6c2cc555ff/
-autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: Arturo Franco
 category: finanzas-publicas
 extracto: "Comúnmente, los gobiernos hacen frente a sus responsabilidades
   mediante el gasto público. Sin embargo, también es posible que recurran a
