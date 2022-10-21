@@ -2,7 +2,7 @@
 title: La odisea de abrir un micronegocio en México
 date: 2022-08-02T04:18:24.894Z
 img: https://ucarecdn.com/c2946e4c-f1da-47e8-87ab-0cd338537baa/
-autor: Ethos
+autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 category: anticorrupcion
 extracto: Un negocito puede ser la oportunidad de obtener ingresos económicos,
   pero antes de atender al primer cliente hay que “capotear” burocracia,
@@ -75,7 +75,7 @@ Así, entre morosidad institucional, herramientas digitales que no acaban de mad
 
 *Una investigación y una encuesta realizadas en 15 municipios del país revelan las trabas que enfrentan los emprendedores que osan abrir y operar un changarro de manera formal.*
 
-**Por: Ethos**
+**Por: Ethos Innovación en Políticas Públicas**
 
 Abren sus puertas todas las mañanas con la expectativa de que vecinos y clientes ocasionales ingresen y soliciten algo de lo que hay en sus anaqueles y refrigeradores. A estos negocios los conocemos como tiendas de abarrotes, misceláneas, changarros, minisúpers, papelerías, farmacias de barrio, unidades económicas que el Inegi calcula suman poco más de dos millones, en las cuales trabajan de una a cinco personas, giros comerciales y de servicios que no implican riesgos a la salud o la seguridad. Son pequeños emprendimientos cuya viabilidad suele depender de las ganancias que dejan las ventas de cada día.
 
@@ -612,7 +612,7 @@ De acuerdo a los testimonios y a las propias declaraciones de funcionarios, la m
 
 # PUE
 
-### **Puebla, caldo de cultivo para la informalidad y la corrupción** 
+### **Puebla, caldo de cultivo para la informalidad y la corrupción**
 
 *Ante la histórica lentitud burocrática que inhibe el emprendedurismo formal, empresarios, organizaciones internacionales y gobiernos locales se unen para intentar revertir el problema.*
 
@@ -648,7 +648,7 @@ Puebla es víctima de un problema estructural que lo aqueja desde hace décadas 
 
 # MER
 
-### **Ubican máximo obstáculo para emprender en Mérida: el SAT** 
+### **Ubican máximo obstáculo para emprender en Mérida: el SAT**
 
 *A pesar de ser uno de los municipios con más emprendimientos, las penurias para los empresarios aún no terminan porque el SAT se ha convertido en su peor enemigo.*
 
@@ -692,7 +692,7 @@ De eso depende no solo la sobrevivencia, sino el nacimiento de nuevos emprendedo
 
 # CEN
 
-### **Corrupción de ventanilla: requisito principal para abrir una empresa en Centro** 
+### **Corrupción de ventanilla: requisito principal para abrir una empresa en Centro**
 
 *Para agilizar la apertura de negocios, los empresarios de Tabasco proponen recurrir a herramientas tecnológicas para evitar a los funcionarios corruptos.*
 
@@ -744,7 +744,7 @@ En este contexto, hay mucho trabajo que hacer todavía. Los pequeños empresario
 
 # MTY
 
-### **Extorsiones: la amenaza para los pequeños negocios en Monterrey** 
+### **Extorsiones: la amenaza para los pequeños negocios en Monterrey**
 
 *Es imprescindible agilizar los trámites burocráticos para los microempresarios, pero es aún más urgente frenar la ola de extorsiones tanto del crimen como de funcionarios corruptos.*
 
@@ -792,7 +792,7 @@ Es evidente, en este contexto, lo complejo que resulta la actividad empresarial 
 
 # GDL
 
-### **En Guadalajara, sin cerveza, las tienditas languidecen** 
+### **En Guadalajara, sin cerveza, las tienditas languidecen**
 
 *La venta de alcohol permite la sobrevivencia de las tienditas, pero obtener un permiso puede resultar muy tardado.*
 
