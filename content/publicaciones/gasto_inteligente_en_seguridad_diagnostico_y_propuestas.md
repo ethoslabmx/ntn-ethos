@@ -2,7 +2,7 @@
 title: "GASTO INTELIGENTE EN SEGURIDAD: DIAGNÓSTICO Y PROPUESTAS"
 date: 2017-10-18T14:03:47.116Z
 img: https://ucarecdn.com/c275b5dc-550c-48b3-9410-214a3114213b/
-autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: Liliana Alvarado y Dalia Toledo
 category: finanzas-publicas
 extracto: Los recursos del gobierno federal son la principal fuente de ingresos
   para combatir la inseguridad en el país. Incluso, su crecimiento se ha
