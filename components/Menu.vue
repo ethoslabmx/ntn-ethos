@@ -66,7 +66,7 @@
                       <li class="">
                         <NuxtLink class="bg-gray-200 hover:bg-primary hover:text-white py-3 px-6 block whitespace-no-wrap"
                           to="/anticorrupcion/reportajes">
-                          REPORTAJES PERÍODISTCOS</NuxtLink>
+                          REPORTAJES PERIODÍSTICOS</NuxtLink>
                       </li>
                       <li class="">
                         <NuxtLink class="bg-gray-200 hover:bg-primary hover:text-white py-3 px-6 block whitespace-no-wrap"
@@ -105,7 +105,7 @@
                       <li class="">
                         <NuxtLink class="bg-gray-200 hover:bg-primary hover:text-white py-3 px-6 block whitespace-no-wrap"
                           to="/finanzas-publicas/reportajes">
-                          REPORTAJES PERÍODISTCOS</NuxtLink>
+                          REPORTAJES PERIODÍSTICOS</NuxtLink>
                       </li>
                       <li class="">
                         <NuxtLink class="bg-gray-200 hover:bg-primary hover:text-white py-3 px-6 block whitespace-no-wrap"
@@ -143,7 +143,7 @@
                       <li class="">
                         <NuxtLink class="bg-gray-200 hover:bg-primary hover:text-white py-3 px-6 block whitespace-no-wrap"
                           to="/desarrollo-sostenible/reportajes">
-                          REPORTAJES PERÍODISTCOS</NuxtLink>
+                          REPORTAJES PERIODÍSTICOS</NuxtLink>
                       </li>
                       <li class="">
                         <NuxtLink class="bg-gray-200 hover:bg-primary hover:text-white py-3 px-6 block whitespace-no-wrap"
@@ -181,7 +181,7 @@
                       <li class="">
                         <NuxtLink class="bg-gray-200 hover:bg-primary hover:text-white py-3 px-6 block whitespace-no-wrap"
                           to="/ciudades-del-futuro/reportajes">
-                          REPORTAJES PERÍODISTCOS</NuxtLink>
+                          REPORTAJES PERIODÍSTICOS</NuxtLink>
                       </li>
                       <li class="">
                         <NuxtLink class="bg-gray-200 hover:bg-primary hover:text-white py-3 px-6 block whitespace-no-wrap"
@@ -219,7 +219,7 @@
                       <li class="">
                         <NuxtLink class="bg-gray-200 hover:bg-primary hover:text-white py-3 px-6 block whitespace-no-wrap"
                           to="/inclusion/reportajes">
-                          REPORTAJES PERÍODISTCOS</NuxtLink>
+                          REPORTAJES PERIODÍSTICOS</NuxtLink>
                       </li>
                       <li class="">
                         <NuxtLink class="bg-gray-200 hover:bg-primary hover:text-white py-3 px-6 block whitespace-no-wrap"
@@ -336,7 +336,7 @@
                               <li class="">
                                 <NuxtLink
                                   to="/anticorrupcion/reportajes">
-                                  REPORTAJES PERÍODISTCOS</NuxtLink>
+                                  REPORTAJES PERIODÍSTICOS</NuxtLink>
                               </li>
                               <li class="">
                                 <NuxtLink
@@ -371,7 +371,7 @@
                               <li class="">
                                 <NuxtLink
                                   to="/finanzas-publicas/reportajes">
-                                  REPORTAJES PERÍODISTCOS</NuxtLink>
+                                  REPORTAJES PERIODÍSTICOS</NuxtLink>
                               </li>
                               <li class="">
                                 <NuxtLink
@@ -406,7 +406,7 @@
                               <li class="">
                                 <NuxtLink
                                   to="/desarrollo-sostenible/reportajes">
-                                  REPORTAJES PERÍODISTCOS</NuxtLink>
+                                  REPORTAJES PERIODÍSTICOS</NuxtLink>
                               </li>
                               <li class="">
                                 <NuxtLink
@@ -441,7 +441,7 @@
                               <li class="">
                                 <NuxtLink
                                   to="/ciudades-del-futuro/reportajes">
-                                  REPORTAJES PERÍODISTCOS</NuxtLink>
+                                  REPORTAJES PERIODÍSTICOS</NuxtLink>
                               </li>
                               <li class="">
                                 <NuxtLink
@@ -476,7 +476,7 @@
                               <li class="">
                                 <NuxtLink
                                   to="/inclusion/reportajes">
-                                  REPORTAJES PERÍODISTCOS</NuxtLink>
+                                  REPORTAJES PERIODÍSTICOS</NuxtLink>
                               </li>
                               <li class="">
                                 <NuxtLink
