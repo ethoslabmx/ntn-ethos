@@ -3,7 +3,7 @@ title: "Crimen y corrupción: los jinetes apocalípticos para el emprendedor en
   Solidaridad"
 date: 2022-03-07T22:47:54.300Z
 img: https://ucarecdn.com/d1f06423-fddd-438f-99d4-e95ce239906c/
-autor: Ethos
+autor: "Lourdes Cruz. Para: El Diario de Yucatán"
 category: anticorrupcion
 extracto: La pandemia y estos dos males crónicos impiden el florecimiento
   económico, denuncian empresarios en Solidaridad.
