@@ -2,7 +2,7 @@
 title: "Inseguridad, corrupción y costos regulatorios son los principales
   obstáculos para abrir un negocio: CCE"
 date: 2022-08-04T23:14:35.502Z
-img: https://ucarecdn.com/0338c833-3fdf-4ba5-bf07-b68d0a5fccff/
+img: https://ucarecdn.com/62e37b29-22c0-4835-b59e-0411d5bda721/
 autor: Lilia González
 link: https://www.eleconomista.com.mx/amp/empresas/Inseguridad-corrupcion-y-costos-regulatorios-son-los-principales-obstaculos-para-abrir-un-negocio-CCE-20220804-0047.html
 category: anticorrupcion
