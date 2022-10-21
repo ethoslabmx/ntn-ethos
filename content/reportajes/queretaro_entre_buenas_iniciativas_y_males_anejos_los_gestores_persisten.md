@@ -2,7 +2,7 @@
 title: "QUERÉTARO: ENTRE BUENAS INICIATIVAS Y MALES AÑEJOS, LOS GESTORES PERSISTEN"
 date: 2022-02-14T19:05:49.066Z
 img: https://ucarecdn.com/df7c31c4-60fc-497e-8797-c4f947f7138f/
-autor: Ethos
+autor: "Patricia López Núñez. Para: Plaza de Armas"
 category: anticorrupcion
 extracto: En el municipio de Querétaro las autoridades se han esforzado por
   digitalizar los trámites, pero los gestores y la informalidad parecen ser un
