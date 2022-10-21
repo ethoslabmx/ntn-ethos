@@ -2,7 +2,7 @@
 title: " CIUDADES SOSTENIBLES: SISTEMAS DE TRANSPORTE URBANO"
 date: 2021-09-21T15:56:20.547Z
 img: https://ucarecdn.com/49a5e209-e0cc-4fde-bab8-8d05fd83c3eb/
-autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: Yahir Acosta, Sebastián Guzmán y Camille Legrand
 category: ciudades-del-futuro
 extracto: En México, uno de los servicios públicos que enfrenta mayores retos es
   el transporte público y el costo de los proyectos de este sector es una de las
