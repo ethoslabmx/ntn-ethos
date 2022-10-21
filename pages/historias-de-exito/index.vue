@@ -52,7 +52,7 @@
           <h1 class="animate scaleIn">{{historia.title}}</h1>
             <lite-youtube :videoid="historia.video.slice(historia.video.indexOf('v=')+2)" :playlabel="historia.title"
               params="controls=0&start=0&modestbranding=2&rel=0&enablejsapi=1" class="" />
-            <!--<p>{{historia.extracto}}</p>-->
+            <p>{{historia.extracto}}</p>
         </section>
       </div>
       <nav class="com__nav">
@@ -516,6 +516,11 @@ export default {
   }
 }
 
+.com__section--text p{
+  width: 80%;
+  margin: 25px auto;
+  max-width: 700px;
+}
 
 /* animation classes */
 
