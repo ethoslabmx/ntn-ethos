@@ -2,7 +2,7 @@
 title: "Extorsiones: la amenaza para los pequeños negocios en Monterrey "
 date: 2022-03-22T22:09:55.110Z
 img: https://ucarecdn.com/d1f06423-fddd-438f-99d4-e95ce239906c/
-autor: Ethos
+autor: "Daniela García. Para: Blog del Regio"
 category: anticorrupcion
 extracto: Es imprescindible agilizar los trámites burocráticos para los
   microempresarios, pero es aún más urgente frenar la ola de extorsiones tanto
