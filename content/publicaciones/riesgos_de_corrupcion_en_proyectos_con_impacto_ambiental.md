@@ -2,7 +2,7 @@
 title: Riesgos de corrupción en proyectos con impacto ambiental
 date: 2022-08-12T20:51:54.245Z
 img: https://ucarecdn.com/c59d7b77-990a-4beb-b77e-c8461e1ba895/
-autor: Ethos
+autor: Néstor Génis y Laure Delalande
 category: anticorrupcion
 extracto: Dado los grandes intereses económicos que movilizan los proyectos
   ambientales, así como la complejidad de los procesos de regulación
