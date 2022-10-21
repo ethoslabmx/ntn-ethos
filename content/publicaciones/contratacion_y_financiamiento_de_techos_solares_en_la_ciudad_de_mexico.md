@@ -2,7 +2,7 @@
 title: CONTRATACIÓN Y FINANCIAMIENTO DE TECHOS SOLARES EN LA CIUDAD DE MÉXICO
 date: 2020-06-11T15:57:33.300Z
 img: https://ucarecdn.com/007f6e2f-226f-4aac-9543-24284238ca37/
-autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: Yahir Acosta, Sebastián Guzmán y Camille Legrand
 category: ciudades-del-futuro
 extracto: El taller tuvo el propósito de presentar a los representantes de la
   industria de desarrolladores de proyectos fotovoltaicos los resultados del
