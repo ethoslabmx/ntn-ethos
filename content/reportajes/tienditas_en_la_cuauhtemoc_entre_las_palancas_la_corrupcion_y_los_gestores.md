@@ -3,7 +3,7 @@ title: TIENDITAS EN LA CUAUHTÉMOC, ENTRE LAS PALANCAS, LA CORRUPCIÓN Y LOS GES
 date: 2022-02-24T20:10:10.616Z
 img: https://ucarecdn.com/d1f06423-fddd-438f-99d4-e95ce239906c/
 img-alt: portada tiendas corrupción
-autor: Ethos
+autor: "Concepción Peralta Silverio. Para: Emeequis"
 category: anticorrupcion
 extracto: En el corazón de la capital mexicana la digitalización de trámites no
   arraiga en el pequeño comercio, lo cual propicia la injerencia
