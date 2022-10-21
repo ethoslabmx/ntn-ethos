@@ -2,8 +2,8 @@
 title: ¿Nacen, crecen y se reproducen? Un ciclo atípico para las Mipymes en México
 date: 2022-08-11T21:58:03.548Z
 img: https://ucarecdn.com/6c0ce465-fe2a-4489-926e-a3812f8f8a55/
-autor: "Liliana Alvarado. Para: El Economista"
-medio: .
+autor: Liliana Alvarado
+medio: El Economista
 link: https://www.eleconomista.com.mx/opinion/Nacen-crecen-y-se-reproducen-Un-ciclo-atipico-para-las-Mipymes-en-Mexico-20220811-0081.html
 category: anticorrupcion
 extracto: La apertura de cualquier negocio conlleva grandes retos, por lo que es
