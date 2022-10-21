@@ -3,7 +3,7 @@ title: TRÁMITES CONFUSOS Y TARDADOS INCENTIVAN LA INFORMALIDAD EN CHIHUAHUA
 date: 2022-02-25T20:08:00.348Z
 img: https://ucarecdn.com/d1f06423-fddd-438f-99d4-e95ce239906c/
 img-alt: portada trámites confusos
-autor: Ethos
+autor: "Manuel Escogido Z. Para: El Diario de Chihuahua"
 category: anticorrupcion
 extracto: Los nuevos emprendedores prefieren abrir sus locales sin los permisos
   debidos, y a veces con acuerdos extraoficiales, en lugar de atravesar el
