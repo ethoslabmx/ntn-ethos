@@ -3,7 +3,7 @@ title: "Hacia un México Sostenible: Asociaciones Público Privadas en eficienci
   energética"
 date: 2017-02-26T23:08:18.536Z
 img: https://ucarecdn.com/8c1e5cd2-1656-4b57-a966-d925bc735ed5/
-autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: Yahir Acosta y Aleithya Morales
 category: ciudades-del-futuro
 extracto: En el contexto actual México enfrenta retos y compromisos de gran
   escala a nivel nacional e internacional relacionados a las finanzas públicas,
