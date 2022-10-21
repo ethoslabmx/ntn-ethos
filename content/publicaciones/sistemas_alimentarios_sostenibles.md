@@ -2,7 +2,7 @@
 title: Sistemas Alimentarios Sostenibles
 date: 2021-02-02T16:30:27.946Z
 img: https://ucarecdn.com/0cba4f86-77f2-4e17-9cb5-6adda4f0635e/
-autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: Ximena Mejía y Laure Delalande
 category: desarrollo-sostenible
 extracto: En el contexto de la pandemia del COVID-19, la tasa de desempleo en
   México subió a 5.5% en junio 2020, y se estima que el 44% del empleo total (≥
