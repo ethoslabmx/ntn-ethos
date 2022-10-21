@@ -2,7 +2,7 @@
 title: Panorama de la recuperación en México ante la pandemia por la COVID-19
 date: 2022-03-18T01:02:22.495Z
 img: https://ucarecdn.com/4f4756b6-19f4-4f97-a5f1-e137bfbfc2a6/
-autor: Ethos
+autor: Laure Delalande y Néstor Génis
 category: desarrollo-sostenible
 extracto: La pandemia de la COVID-19 ha sido la mayor crisis que México ha
   presenciado en los últimos cincuenta y seis años, en particular debido a sus
