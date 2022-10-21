@@ -1,10 +1,10 @@
 ---
 title: "Combatir la corrupción en programas sociales: una novedad del ATA 2023"
-date: 2022-10-18T17:58:27.439Z
+date: 2022-09-27T17:58:27.439Z
 img: https://ucarecdn.com/9796bcf5-a4d6-46e7-be22-2b38891b4372/
 img-alt: Programas sociales en el Anexo Transversal Anticorrupción
-autor: Dalia Toledo y Armando Becerril
-medio: Animal Político
+autor: Dalia Toledo y Armando Becerril. Para Animal Político
+medio: .
 link: https://www.animalpolitico.com/blog-invitado/combatir-la-corrupcion-en-programas-sociales-una-novedad-del-ata-2023/
 category: anticorrupcion
 extracto: Es bueno que la Secretaría del Bienestar participe en el combate de la
