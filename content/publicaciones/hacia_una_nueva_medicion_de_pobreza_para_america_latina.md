@@ -2,7 +2,7 @@
 title: Hacia una nueva medición de pobreza para América Latina
 date: 2010-12-01T22:08:13.759Z
 img: https://ucarecdn.com/b9fd347f-16b9-4319-95b9-415ebacf6bef/
-autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: Alicia Santana Cartas
 category: inclusion
 extracto: América Latina es una región de grandes rezagos en su desarrollo
   social, lo cual se ve reflejado en los altos niveles de pobreza y marginación
