@@ -2,7 +2,7 @@
 title: EN TORREÓN EL SARE PROMETIÓ MUCHO Y CUMPLIÓ POCO
 date: 2022-02-21T18:59:43.957Z
 img: https://ucarecdn.com/add94c70-8250-471b-9393-5a7f44850526/
-autor: Ethos
+autor: "Francisco Rodríguez. Para: Vanguardia"
 category: anticorrupcion
 extracto: La digitalización de trámites y la aplicación del SARE no terminan de
   dar resultados para emprendedores que se ven orillados a la informalidad.
