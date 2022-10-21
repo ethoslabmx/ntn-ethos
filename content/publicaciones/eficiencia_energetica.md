@@ -2,8 +2,8 @@
 title: Eficiencia Energética
 date: 2021-02-02T22:54:34.408Z
 img: https://ucarecdn.com/eedc6aca-d13f-4253-ae37-cc99968a25d5/
+autor: Yahir Acosta, Sebastián Guzmán y Camille Legrand
 category: ciudades-del-futuro
-autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
 extracto: "La eficiencia energética (EE) es clave para el proceso de
   recuperación económica justa y resiliente, principalmente por tres razones: 1)
   genera empleos; 2) protege el medio ambiente y combate el cambio climático; y,
