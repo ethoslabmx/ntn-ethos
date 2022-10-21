@@ -2,7 +2,7 @@
 title: "Control del tabaco: Recomendaciones"
 date: 2021-03-24T04:00:39.129Z
 img: https://ucarecdn.com/f3cc8bbb-1369-434a-9af9-8fdeea564247/
-autor: ETHOS INNOVACIÓN EN POLÍTICAS PÚBLICAS
+autor: Rodrigo Bolaños
 category: finanzas-publicas
 extracto: El tabaquismo es una de las principales causas de morbilidad y
   mortalidad evitable en el mundo. Sus efectos ocasionan daños graves a la salud
