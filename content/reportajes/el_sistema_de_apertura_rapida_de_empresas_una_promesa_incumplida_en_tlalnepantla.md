@@ -3,7 +3,7 @@ title: "El Sistema de Apertura Rápida de Empresas, una promesa incumplida en
   Tlalnepantla "
 date: 2022-03-01T22:50:56.502Z
 img: https://ucarecdn.com/d1f06423-fddd-438f-99d4-e95ce239906c/
-autor: Ethos
+autor: "Concepción Peralta Silverio. Para: Emeequis"
 category: anticorrupcion
 extracto: Los problemas para abrir una empresa persisten en este municipio, uno
   de los más ricos del país y a casi dos décadas de la instalación del Sistema
