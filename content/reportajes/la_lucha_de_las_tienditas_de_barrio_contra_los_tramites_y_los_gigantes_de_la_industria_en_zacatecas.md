@@ -3,7 +3,7 @@ title: LA LUCHA DE LAS TIENDITAS DE BARRIO CONTRA LOS TRÁMITES Y LOS GIGANTES D
   LA INDUSTRIA EN ZACATECAS
 date: 2022-02-14T19:04:39.887Z
 img: https://ucarecdn.com/d1f06423-fddd-438f-99d4-e95ce239906c/
-autor: Ethos
+autor: "Gerardo Romo. Para: La Jornada Zacatecas"
 category: anticorrupcion
 extracto: "Ante los embates de los gigantes de la industria y los trámites
   laberínticos, la subsistencia de las tienditas de barrio día tras día se pone
