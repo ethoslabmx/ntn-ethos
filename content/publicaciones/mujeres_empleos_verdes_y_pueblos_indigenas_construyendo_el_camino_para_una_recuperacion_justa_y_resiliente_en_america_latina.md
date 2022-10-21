@@ -3,7 +3,7 @@ title: "Mujeres, empleos verdes y pueblos indígenas: construyendo el camino par
   una recuperación justa y resiliente en América Latina"
 date: 2022-08-09T23:45:20.903Z
 img: https://ucarecdn.com/72366734-7d43-4a96-8886-1acbee3cd3bc/
-autor: Ethos
+autor: Ximena Mejía, Néstor Génis y Carolina Plata
 category: desarrollo-sostenible
 extracto: "Este policy brief presenta un diagnóstico sobre los impactos de la
   pandemia en tres grupos vulnerables de interés en México, Chile y Colombia:
