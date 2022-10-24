@@ -132,7 +132,7 @@ export default {
   },
   computed: {
     currentUrl() {
-      return 'https://radiant-semifreddo-901f94.netlify.app/anticorrupcion/publicaciones/'+this.$route.params.slug;
+      return 'https:/www.ethos.org.mx/anticorrupcion/publicaciones/'+this.$route.params.slug;
     },
     source() {
       return this.post.file;
@@ -155,6 +155,22 @@ export default {
       this.isLoading = false;
 
     },
+  },
+  head() {
+    return{
+      title: this.post.title,
+      meta: [
+        {
+          content: this.post.extracto
+        }
+      ],
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://www.ethos.org.mx/anticorrupcion/publicaciones/'+this.$route.params.slug
+        }
+      ]
+    }
   }
 };
 </script>

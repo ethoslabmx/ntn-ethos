@@ -50,9 +50,9 @@
         <section v-for="historia in historias" :key="historia.slug"
         class="com__section com__section--text centered com__bg bg-gradient-to-b from-primary to-primarylight">
           <h1 class="animate scaleIn">{{historia.title}}</h1>
-            <lite-youtube :videoid="historia.video.slice(historia.video.indexOf('v=')+2)" :playlabel="historia.title"
+          <lite-youtube :videoid="historia.video.slice(historia.video.indexOf('v=')+2)" :playlabel="historia.title"
               params="controls=0&start=0&modestbranding=2&rel=0&enablejsapi=1" class="" />
-            <p>{{historia.extracto}}</p>
+          <p>{{historia.extracto}}</p>
         </section>
       </div>
       <nav class="com__nav">
@@ -266,11 +266,13 @@ export default {
 
   &__section {
     display: flex;
-    flex-flow: column wrap;
+    flex-direction: column;
+    flex-wrap: nowrap;
     align-items: center;
     justify-content: center;
     width: 100%;
     height: 100%;
+    min-height: 70vh;
     position: absolute;
     top: 0;
     left: 0;

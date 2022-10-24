@@ -123,12 +123,28 @@ export default {
   },
   data() {
     return {
-      currentUrl:'https://radiant-semifreddo-901f94.netlify.app/anticorrupcion/publicaciones/'+this.$route.params.slug
+      currentUrl:'https://www.ethos.org.mx/ciudades-del-futuro/publicaciones/'+this.$route.params.slug
     }
   },
   methods:{
     download(file){
       window.open(file);
+    }
+  },
+  head() {
+    return{
+      title: this.post.title,
+      meta: [
+        {
+          content: this.post.extracto
+        }
+      ],
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://www.ethos.org.mx/ciudades-del-futuro/publicaciones/'+this.$route.params.slug
+        }
+      ]
     }
   }
 };

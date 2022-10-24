@@ -92,8 +92,67 @@ export default {
   },
   data() {
     return {
-      currentUrl:'https://radiant-semifreddo-901f94.netlify.app/anticorrupcion/videos/'+this.$route.params.slug
+      currentUrl:'https://www.ethos.org.mx/anticorrupcion/videos/'+this.$route.params.slug
     }
+  },
+  head() {
+    return {
+      title: this.vid.title,
+      meta: [
+        {
+          hid: "description",
+          name: "description",
+          content: this.vid.extracto,
+        },
+        {
+          hid: "og:title",
+          property: "og:title",
+          content: this.vid.title,
+        },
+        {
+          hid: "og:description",
+          property: "og:description",
+          content: this.vid.extracto,
+        },
+        {
+          hid: "og:image",
+          property: "og:image",
+          content: this.vid.img,
+        },
+        {
+          hid: "og:url",
+          property: "og:url",
+          content: this.currentUrl,
+        },
+        {
+          hid: "twitter:title",
+          name: "twitter:title",
+          content: this.vid.title,
+        },
+        {
+          hid: "twitter:description",
+          name: "twitter:description",
+          content: this.vid.extracto,
+        },
+        {
+          hid: "twitter:image",
+          name: "twitter:image",
+          content: this.vid.img,
+        },
+        {
+          hid: "twitter:card",
+          name: "twitter:card",
+          content: "summary_large_image",
+        },
+      ],
+      link: [
+        {
+          hid: "canonical",
+          rel: "canonical",
+          href: this.currentUrl,
+        },
+      ],
+    };
   },
 };
 </script>

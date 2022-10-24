@@ -114,8 +114,25 @@ export default {
   },
   data() {
     return {
-      currentUrl:'https://radiant-semifreddo-901f94.netlify.app/anticorrupcion/columnas/'+this.$route.params.slug
+      currentUrl:'https://www.ethos.org.mx/think-tanks/columnas/'+this.$route.params.slug
     }
   },
+  head() {
+    return{
+      title: this.post.title,
+      meta: [
+        {
+          content: this.post.extracto
+        }
+      ],
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://www.ethos.org.mx/think-tanks/columnas/'+this.$route.params.slug
+        }
+      ]
+    }
+  }
+
 };
 </script>

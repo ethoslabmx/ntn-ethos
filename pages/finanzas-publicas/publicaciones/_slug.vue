@@ -123,13 +123,72 @@ export default {
   },
   data() {
     return {
-      currentUrl:'https://radiant-semifreddo-901f94.netlify.app/anticorrupcion/publicaciones/'+this.$route.params.slug
+      currentUrl:'https://www.ethos.org.mx/finanzas-publicas/publicaciones/'+this.$route.params.slug
     }
   },
   methods:{
     download(file){
       window.open(file);
     }
+  },
+  head() {
+    return {
+      title: this.post.title,
+      meta: [
+        {
+          hid: "description",
+          name: "description",
+          content: this.post.extracto
+        },
+        {
+          hid: "og:title",
+          property: "og:title",
+          content: this.post.title
+        },
+        {
+          hid: "og:description",
+          property: "og:description",
+          content: this.post.extracto
+        },
+        {
+          hid: "og:image",
+          property: "og:image",
+          content: this.post.img
+        },
+        {
+          hid: "og:url",
+          property: "og:url",
+          content: this.currentUrl
+        },
+        {
+          hid: "twitter:title",
+          name: "twitter:title",
+          content: this.post.title
+        },
+        {
+          hid: "twitter:description",
+          name: "twitter:description",
+          content: this.post.extracto
+        },
+        {
+          hid: "twitter:image",
+          name: "twitter:image",
+          content: this.post.img
+        },
+        {
+          hid: "twitter:card",
+          name: "twitter:card",
+          content: "summary_large_image"
+        }
+      ],
+      link: [
+        {
+          hid: "canonical",
+          rel: "canonical",
+          href: this.currentUrl
+        }
+      ]
+    };
   }
 };
 </script>

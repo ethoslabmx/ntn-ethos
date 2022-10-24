@@ -36,28 +36,28 @@
           >
             <ul class="flex ai-center lg:justify-end">
               <li class="mr-6">
-                <a href="https://mx.linkedin.com/company/fundaci-n-ethos"
+                <a href="https://mx.linkedin.com/company/fundaci-n-ethos" target="_blank"
                   ><img src="../assets/images/linkedin.png" alt=""
                 /></a>
               </li>
               <li class="mr-6">
-                <a href="https://www.facebook.com/ethoslaboratorio"
+                <a href="https://www.facebook.com/ethosinnovacionmx" target="_blank"
                   ><img src="../assets/images/fbb.png" alt=""
                 /></a>
               </li>
               <li class="mr-6">
-                <a href="https://www.instagram.com/ethoslabmx/"
+                <a href="https://www.instagram.com/ethosinnovacion/" target="_blank"
                   ><img src="../assets/images/insta.png" alt=""
                 /></a>
               </li>
               <li class="mr-6">
-                <a href="https://twitter.com/ethoslabmx"
-                  ><img src="../assets/images/twwt.png" alt=""
-                /></a>
+                <a href="https://twitter.com/EthosInnovacion" target="_blank">
+                  <img src="../assets/images/twwt.png" alt=""/>
+                </a>
               </li>
               <li>
                 <a
-                  href="https://www.youtube.com/channel/UCnMvGlzchLKDs9-I9v9_2iw"
+                  href="https://www.youtube.com/channel/UCnMvGlzchLKDs9-I9v9_2iw" target="_blank"
                   ><img src="../assets/images/youtube.png" alt=""
                 /></a>
               </li>
