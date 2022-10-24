@@ -2,7 +2,7 @@
 title: El gigante de amoniaco y un pueblo dividido en la resistencia
 date: 2022-07-28T00:08:03.480Z
 img: https://ucarecdn.com/7ee20cc1-bd20-4bb7-a8d1-1fff214ba3a1/
-autor: Ethos
+autor: "Texto: Marcos Vizcarra y fotografías: Luis Brito. Para: El Universal"
 category: desarrollo-sostenible
 extracto: Antes de salir a pescar, cualquier persona de la Nación Mayo-Yoreme
   debe dar gracias a la naturaleza. Eleva su oración al universo para pedir por
