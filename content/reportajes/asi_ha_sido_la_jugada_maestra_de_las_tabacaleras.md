@@ -2,7 +2,8 @@
 title: " Así ha sido la ‘jugada maestra’ de las tabacaleras"
 date: 2020-10-12T18:19:44.384Z
 img: https://ucarecdn.com/9925beb0-a0ac-460b-a033-9fc921f34a69/
-autor: Nantzin Saldaña y Alejandro Melgoza / Ethos Laboratorio de Políticas Públicas
+autor: "Nantzin Saldaña y Alejandro Melgoza / Ethos Laboratorio de Políticas
+  Públicas. Para: Emeequis y Aristegui on line"
 category: finanzas-publicas
 extracto: "A ‘golpe’ de un intenso cabildeo, manipulación de la opinión pública,
   falseo de datos y vínculos poco transparentes con funcionarios y legisladores,
