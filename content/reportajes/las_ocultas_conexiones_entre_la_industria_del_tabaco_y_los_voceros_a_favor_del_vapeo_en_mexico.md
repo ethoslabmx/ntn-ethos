@@ -3,7 +3,7 @@ title: Las ocultas conexiones entre la industria del tabaco y los voceros a
   favor del vapeo en México
 date: 2021-02-18T19:16:38.912Z
 img: https://ucarecdn.com/a1c52cae-f45b-46be-a234-cd1b9a6c8a59/
-autor: " Nantzin Saldaña y Sergio Rincón"
+autor: " Nantzin Saldaña y Sergio Rincón. Para: Emeequis y Aristegui on line"
 category: finanzas-publicas
 extracto: "El 18 de febrero de 2020, representantes de la Secretaría de Salud
   federal y organizaciones civiles cancelaron su asistencia al foro “Consumo de
