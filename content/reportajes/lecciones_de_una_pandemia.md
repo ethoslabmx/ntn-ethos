@@ -2,7 +2,8 @@
 title: Lecciones de una pandemia
 date: 2021-02-10T16:36:22.570Z
 img: https://ucarecdn.com/6ae5a25d-7892-4298-a55d-40ead3789f54/
-autor: Ethos
+autor: Ethos Innovación en Políticas Publicas, Environmental Defense Fund de
+  México e Impacto Colectivo por la Pesca y la Acuacultura Mexicana
 category: desarrollo-sostenible
 extracto: Como resultado del COVID-19, el sector pesquero mexicano está
   enfrentando un gran desafío que ha puesto a prueba su resistencia,

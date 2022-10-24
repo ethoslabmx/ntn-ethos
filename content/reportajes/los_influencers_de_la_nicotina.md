@@ -2,7 +2,7 @@
 title: Los influencers de la nicotina
 date: 2020-06-01T18:13:26.677Z
 img: https://ucarecdn.com/57dc222c-3da3-4c37-afd2-23e4f7be7d53/
-autor: "Sergio Rincón "
+autor: Sergio Rincón. Para Emeequis y Aristegui on line
 category: finanzas-publicas
 extracto: De la mano de famosos, la industria tabacalera ha orquestado campañas
   de marketing encubiertas que lanzan el mensaje de que vapear y fumar tabaco

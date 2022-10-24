@@ -2,7 +2,7 @@
 title: TÉCNICOS DE SEMBRANDO VIDA SUFREN PRECARIEDAD LABORAL
 date: 2022-08-16T15:03:35.577Z
 img: https://ucarecdn.com/1d74a896-4fb5-4fdb-b2f9-477f1a0b2e1a/
-autor: "Andrés M. Estrada "
+autor: "Andrés M. Estrada. Para: El Sol de México"
 category: inclusion
 extracto: La tarde que la amenazó no se sintió intimidada. Tampoco le dio mayor
   importancia. “Está ardido porque no metí a su familia al programa”, pensó, ya

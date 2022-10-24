@@ -2,7 +2,8 @@
 title: Los proveedores consentidos de Sembrando Vida en Veracruz
 date: 2022-08-16T15:01:26.929Z
 img: https://ucarecdn.com/11ec39f0-286f-437e-b0fc-06573da8db46/
-autor: Sergio Rincón
+autor: "Sergio Rincón. Para: Proceso, Aristegui on line, Business Insider México
+  y La Lista News"
 category: inclusion
 extracto: Han pasado nueve meses desde que Gonzalo compró cerca de cinco kilos
   de semillas de jamaica. El tiempo no ha logrado aminorar su enojo y decepción.
