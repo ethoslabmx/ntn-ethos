@@ -3,7 +3,7 @@ title: Sembrando Vida el fin a las irregularidades y la corrupción o la
   continuidad del corrompimiento y clientelismo disfrazado
 date: 2022-08-16T15:05:24.157Z
 img: https://ucarecdn.com/d8b518c7-60cd-4a27-904f-5f81043869c8/
-autor: Andrés M. Estrada
+autor: "Andrés M. Estrada. Para: El Sol de México"
 category: inclusion
 extracto: A pesar del discurso de la eliminación de intermediarios para poner
   fin a la corrupción, persisten vicios en la operación del programa Sembrando
