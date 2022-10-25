@@ -168,12 +168,14 @@ export default {
   display: flex;
   align-items: stretch;
   height: auto;
+  min-height: 80vh;
   flex-direction: column;
 
   @media screen and (min-width: 720px) {
     flex-direction: row;
     overflow: hidden;
     height: calc(100vh - 85px);
+    min-height: 800px;
 
   }
 
