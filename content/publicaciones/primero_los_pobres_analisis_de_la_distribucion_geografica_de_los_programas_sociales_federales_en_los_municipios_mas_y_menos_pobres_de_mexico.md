@@ -2,7 +2,7 @@
 title: ¿Primero los pobres?  Análisis de la distribución geográfica de los
   programas sociales federales en los municipios más y menos pobres de México
 date: 2022-11-22T17:29:57.010Z
-img: https://ucarecdn.com/0704d640-4274-439f-adb0-844a704e5fb2/
+img: https://ucarecdn.com/d984a875-b796-40d1-8049-e5cd93f69e29/
 img-alt: ¿Primero los pobres?
 autor: Néstor Genis y Julieta Gutiérrez
 category: inclusion
