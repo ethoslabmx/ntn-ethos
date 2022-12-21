@@ -1,5 +1,5 @@
 ---
-nombre: Berenice Valencia
+nombre: BERENICE VALENCIA
 foto: https://ucarecdn.com/0fa76180-1404-4361-b82c-fef484ac28ee/-/crop/4304x4464/924,0/-/preview/
 puesto: INVESTIGADORA INCLUSIÓN Y DESARROLLO SOSTENIBLE
 area: inclusión y desarrollo sostenible
