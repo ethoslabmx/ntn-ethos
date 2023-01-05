@@ -1,8 +1,8 @@
 ---
-puesto: Innovación y Desarrollo Sostenible
+puesto: Inclusión y Desarrollo Sostenible
 category: internships
 date: 2023-01-05T19:54:54.954Z
-area: Innovación y Desarrollo Sostenible
+area: Inclusión y Desarrollo Sostenible
 ---
 ### PERFIL ACADÉMICO
 
