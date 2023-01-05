@@ -1,16 +1,16 @@
 ---
 puesto: Ciudades del Futuro
 category: internships
-date: 2022-09-13T00:05:15.931Z
+date: 2023-01-05T19:17:07.082Z
 area: CIUDADES DEL FUTURO
 ---
 <!--StartFragment-->
 
 ## PERFIL ACADÉMICO
 
-**Carrera: Formación en Derecho. Conocimientos en derecho administrativo, fiscal y contratación pública.**
+**Carrera:** Formación en Ingeniería. Conocimientos en desarrollo sostenible, energías renovables, sustentabilidad y medio ambiente.
 
-**Observaciones: El/la postulante debe encontrarse en proceso de titulación de la licenciatura o haber concluido su titulación en un plazo no mayor a 6 meses.**
+**Observaciones:** El/la postulante debe encontrarse en proceso de titulación de la licenciatura o haber concluido su titulación en un plazo no mayor a 12 meses.
 
 <!--EndFragment-->
 
@@ -18,10 +18,10 @@ area: CIUDADES DEL FUTURO
 
 ## RESPONSABILIDADES
 
-* Colaboración en investigaciones y análisis sobre temas relevantes en materia jurídica para diversos proyectos realizados en el área;
-* Colaboración en el desarrollo, redacción y/o presentación de reportes de investigación;
-* Colaboración en el desarrollo de eventos y talleres virtuales; y
-* Apoyo en la gestión de conocimiento y monitoreo del programa.
+* Asistencia en investigaciones y análisis sobre temas relevantes para diversos proyectos del área
+* Colaboración en el desarrollo, redacción y presentación de reportes de investigación
+* Colaboración en el desarrollo de eventos y talleres presenciales y/o virtuales
+* Colaboración en la redacción de columnas de opinión y artículos de divulgación
 
 <!--EndFragment-->
 
@@ -29,11 +29,10 @@ area: CIUDADES DEL FUTURO
 
 ## REQUISITOS
 
-* Excelente organización y responsabilidad
-* Excelentes capacidades de comunicación
-* Perfil enfocado al cumplimiento de objetivos
-* Buena redacción en español e inglés
-* Uso de Google Docs
+* Excelente organización, responsabilidad y habilidades de comunicación oral y escrita
+* Excelentes capacidades de redacción e investigación documental
+* Perfil profesional enfocado al cumplimiento de objetivos y no al trabajo por horas
+* Uso de herramientas digitales (Google Docs) y gestión de redes sociales (LinkedIn y Twitter)
 
 <!--EndFragment-->
 
@@ -41,10 +40,9 @@ area: CIUDADES DEL FUTURO
 
 ## OFRECEMOS
 
-* Trabajo directo con consultora experta en cambio climático para Ethos.
-* Oportunidad para ampliar tu CV y tus habilidades obteniendo experiencia en un *think tank.*
-* Ser parte de un equipo joven y dinámico.
-* Desarrollar la práctica de trabajar por objetivos no por horas.
+* Oportunidad para ampliar tu CV y tus habilidades obteniendo experiencia laboral en un *think tank* 
+* Impulsar tu desarrollo profesional mediante la participación activa en proyectos apoyados por              organismos internacionales
+* Ser parte de un equipo multidisciplinario, multicultural y dinámico
 
 <!--EndFragment-->
 
@@ -60,9 +58,15 @@ area: CIUDADES DEL FUTURO
 
 ## HORARIOS
 
-Lunes a viernes 10:00 – 16:00 hrs.* 
+Lunes a viernes 10:00 – 17:00 hrs.* 
 
-*\*Horario flexible. Trabajo totalmente vía remota*
+*\*Horario flexible, modalidad híbrida*
+
+Lunes y Miércoles (Presencial)
+
+Martes, Jueves y Viernes (Virtual) 
+
+Zona de Trabajo: WeWork Montes Urales 424. Cerca del Metro Línea 7 Estación Auditorio (CDMX)
 
 <!--EndFragment-->
 
