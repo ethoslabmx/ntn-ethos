@@ -20,16 +20,26 @@ Ethos, Innovación en Políticas Públicas, con el apoyo de USAID México, organ
 
 En la inauguración, nuestra directora Liliana Alvarado estuvo acompañada por [Bruce Abrams, director de Misión de USAID México](https://www.usaid.gov/who-we-are/organization/bruce-abrams), a quien agradeció el apoyo en todo este camino de fortalecimiento de organizaciones civiles; y de [Roberto Moreno, de la Secretaría Ejecutivo del Sistema Nacional Anticorrupción](https://www.gob.mx/sesna/estructuras/roberto-moreno), desde donde también se ha impulsado la vinculación con las OSC.
 
+![](https://ucarecdn.com/bbee1087-aa39-4a80-9414-4fdcd95eb30f/)
+
 Liliana Alvarado destacó que la corrupción es un fenómeno complejo y al igual que en el ámbito federal, en el subnacional esta lucha requiere de organizaciones de la sociedad civil que constituyan un contrapeso y exijan a los gobiernos combatirla adecuadamente. “La lucha anticorrupción resulta más efectiva cuando unimos esfuerzos”, dijo. 
 
 Igualmente, señaló que este encuentro se diseñó como un espacio para compartir buenas prácticas y encontrar soluciones específicas para atender las tareas pendientes en la lucha contra la corrupción, además de permitir la integración de estas organizaciones que forman parte los colectivos #FuerzaCiudadanaAnticorrupción, #PerfilesIdóneosYa y la #RedNacionalAnticorrupción, después de la pausa obligada tras la pandemia.
 
 Durante estas dos jornadas, la discusión se concentró en cinco ejes a partir de los cuales se delinearon las prioridades de esta agenda: perspectiva de género, políticas estatales anticorrupción, monitoreo del gasto, designaciones públicas y el fortalecimiento de los sistemas anticorrupción. 
 
+![](https://ucarecdn.com/499a5f3b-e0bb-4506-a20c-e3091d40ee16/)
+
 Asimismo, se contó con la presencia de integrantes del Comité de Participación Ciudadana Nacional, quienes explicaron el proceso de convocatoria para la Red Nacional de Participación Ciudadana Anticorrupción (REPCA) y presentaron a las organizaciones que la conformarán en esta primera etapa de selección.
 
 Otras actividades que contribuyeron con el fortalecimiento de las OSC fue la presentación que hicieron Karely Alvarado y José Luis Gil, de USAID México, en la que hablaron de la importancia del monitoreo y evaluación en el desarrollo, así como estrategias clave para incluir estos procesos en los proyectos de las organizaciones. Por otro lado, Adriana Greaves y Estefanía Medina, de Tojil, compartieron una ponencia sobre su experiencia en el litigio estratégico, el rol de las OSC en el combate a la corrupción y las herramientas legales para incidir en anticorrupción. 
 
+![](https://ucarecdn.com/479eb69d-a764-45e6-b17d-e69e71a408b3/)
+
 También se realizó un taller de comunicación estratégica para OSC a cargo de Moisés Arévalo y Vanessa Gómez de Comunicacin D5, y finalmente, la jornada concluyó con una mesa de discusión sobre el rol de sociedad civil en el Sistema Nacional Anticorrupción y cuáles deberían de ser los cambios dentro del sistema para obtener mejores resultados.
 
+![](https://ucarecdn.com/228bf68f-3206-41b3-b1be-9b1b1bf6e8c4/)
+
 Las organizaciones que nos acompañaron son Avance y Desarrollo por la Igualdad A.C., CCI La Laguna, CEMIDE, Ciudadan@s por la Transparencia, A.C., Solidaria México (Integra Durango), Kintiltik A.C:, Ligalab, Locallis, Morelos Rinde Cuentas, Observatorio Ciudadano de Mazatlán, Observatorio con Causa, Observatorio Regional Zamora, PC29, Transversal Think Tank, Vigilancia Ciudadana, Tierra Colectiva, Ciudadanía; género y Medio Ambiente, A.C., EGES para el desarrollo, Iniciativa Sinaloa, Código Transparencia, Movimiento por un Navojoa Mejor, CIMTRA, Observatorio de Designaciones Públicas, Karewa, Arkemetría y Gobernanza MX.
+
+![](https://ucarecdn.com/bd696e1a-f280-405c-a645-151668ba018b/)
