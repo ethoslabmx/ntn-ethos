@@ -1,6 +1,6 @@
 ---
-nombre: Carla Jiménez Vázquez
-foto: https://ucarecdn.com/1ca6c397-2b71-4a4f-a98f-19de1ff4fee5/
+nombre: Carla Jiménez
+foto: https://ucarecdn.com/8b1f594e-b240-4149-8c79-2832d379b3ed/
 puesto: Pasante
 area: ciudades del futuro
 pos: 1
