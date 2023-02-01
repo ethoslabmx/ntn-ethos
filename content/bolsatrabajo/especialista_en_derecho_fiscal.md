@@ -32,12 +32,7 @@ area: Ciudades del futuro
 
 * Ethos ofrece sueldos competitivos, con el objetivo de contar con el personal más preparado y profesional.
 * La cifra se determinará conforme las competencias de las y los candidatos.
-
-## LUGAR DE TRABAJO
-
-C﻿iudad de México, aunque podrá considerarse el trabajo a distancia 
-
-## [](https://www.ethos.org.mx/ethos/bolsa_trabajo/especialista_junior_en_materia_fiscal#horario)HORARIO en CDMX, aunque podrá considerarse el trabajo a distancia.[](https://www.ethos.org.mx/ethos/bolsa_trabajo/especialista_junior_en_materia_fiscal#enviar-cv-y-carta-de-intenci%C3%B3n-a)[](https://www.ethos.org.mx/ethos/bolsa_trabajo/comunicacion#enviar-cv-a)
+* M﻿odalidad híbrida en Ciudad de México, aunque podrá considerarse el trabajo a distancia [](https://www.ethos.org.mx/ethos/bolsa_trabajo/especialista_junior_en_materia_fiscal#enviar-cv-y-carta-de-intenci%C3%B3n-a)[](https://www.ethos.org.mx/ethos/bolsa_trabajo/comunicacion#enviar-cv-a)
 
 ## ENVIAR CV Y CARTA DE INTENCIÓN A:
 
