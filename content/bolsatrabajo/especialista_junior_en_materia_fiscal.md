@@ -40,7 +40,7 @@ area: Finanzas Públicas
 * Ethos ofrece sueldos competitivos, con el objetivo de contar con el personal más preparado y profesional.
 * La cifra se determinará conforme las competencias de las y los candidatos.
 * Tiempo completo. Se aplicará un periodo de prueba (con remuneración) de 3 meses.  
-* M﻿odalidad híbrida
+* M﻿odalidad híbrida en CDMX.
 
 ## [](https://www.ethos.org.mx/ethos/bolsa_trabajo/comunicacion#enviar-cv-a)ENVIAR CV Y CARTA DE INTENCIÓN A:
 
