@@ -1,5 +1,5 @@
 ---
-puesto: "Especialista en Derecho Fiscal "
+puesto: "Especialista Junior en Derecho Fiscal "
 category: vacantes
 date: 2023-01-31T21:39:43.187Z
 area: Ciudades del futuro
@@ -33,13 +33,13 @@ area: Ciudades del futuro
 * Ethos ofrece sueldos competitivos, con el objetivo de contar con el personal más preparado y profesional.
 * La cifra se determinará conforme las competencias de las y los candidatos.
 
-## [](https://www.ethos.org.mx/ethos/bolsa_trabajo/especialista_junior_en_materia_fiscal#horario)HORARIO
+## LUGAR DE TRABAJO
 
-Lunes a viernes de 10:00 a 18:00 h
+C﻿iudad de México, aunque podrá considerarse el trabajo a distancia 
 
-Lugar de trabajo en CDMX, aunque podrá considerarse el trabajo a distancia.
+## [](https://www.ethos.org.mx/ethos/bolsa_trabajo/especialista_junior_en_materia_fiscal#horario)HORARIO en CDMX, aunque podrá considerarse el trabajo a distancia.[](https://www.ethos.org.mx/ethos/bolsa_trabajo/especialista_junior_en_materia_fiscal#enviar-cv-y-carta-de-intenci%C3%B3n-a)[](https://www.ethos.org.mx/ethos/bolsa_trabajo/comunicacion#enviar-cv-a)
 
-## [](https://www.ethos.org.mx/ethos/bolsa_trabajo/especialista_junior_en_materia_fiscal#enviar-cv-y-carta-de-intenci%C3%B3n-a)[](https://www.ethos.org.mx/ethos/bolsa_trabajo/comunicacion#enviar-cv-a)ENVIAR CV Y CARTA DE INTENCIÓN A:
+## ENVIAR CV Y CARTA DE INTENCIÓN A:
 
 Alejandro Nájera
 
