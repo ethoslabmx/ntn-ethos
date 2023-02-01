@@ -1,5 +1,5 @@
 ---
-puesto: Especialista junior en materia fiscal
+puesto: Especialista Junior en Materia Fiscal
 category: vacantes
 date: 2023-01-16T23:01:16.024Z
 area: Finanzas Públicas
@@ -40,12 +40,7 @@ area: Finanzas Públicas
 * Ethos ofrece sueldos competitivos, con el objetivo de contar con el personal más preparado y profesional.
 * La cifra se determinará conforme las competencias de las y los candidatos.
 * Tiempo completo. Se aplicará un periodo de prueba (con remuneración) de 3 meses.  
-
-## HORARIO
-
-Lunes a viernes de 10:00 a 18:00 h
-
-M﻿odalidad híbrida
+* M﻿odalidad híbrida
 
 ## [](https://www.ethos.org.mx/ethos/bolsa_trabajo/comunicacion#enviar-cv-a)ENVIAR CV Y CARTA DE INTENCIÓN A:
 
