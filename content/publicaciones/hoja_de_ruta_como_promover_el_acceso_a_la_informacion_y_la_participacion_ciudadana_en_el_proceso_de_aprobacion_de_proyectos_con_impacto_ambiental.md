@@ -5,7 +5,7 @@ title: "Hoja de ruta: ¿Cómo promover el acceso a la información y la
 date: 2023-01-30T16:39:16.427Z
 img: https://ucarecdn.com/eac0d5b1-5c5e-4c5c-ac98-e937310bb3be/
 img-alt: Ethos proyectos ambientales
-autor: Nésto Génis
+autor: Néstor Génis
 category: desarrollo-sostenible
 extracto: "El presente documento propone una hoja de ruta con las acciones
   consideradas necesarias para implementar mecanismos contextualizados de
