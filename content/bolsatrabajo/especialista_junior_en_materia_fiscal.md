@@ -1,5 +1,5 @@
 ---
-puesto: Especialista junior en materia fiscal
+puesto: Especialista Junior en Materia Fiscal
 category: vacantes
 date: 2023-02-13T18:38:37.175Z
 ---
