@@ -1,5 +1,6 @@
 ---
-title: No se permite copiar el contenido de este sitio web
+title: Conagua debería quitar la concesión de uso de agua otorgada a la
+  constructora "Coconal"
 date: 2023-02-17T17:40:42.996Z
 img: https://ucarecdn.com/44f7c043-1bf0-44fd-ada6-a06c26d60408/
 img-alt: Pipas de agua
