@@ -9,7 +9,7 @@ date: 2022-09-13T00:12:14.961Z
 
 **Carrera:  Comunicación, Mercadotecnia, Periodismo, Diseño y Comunicación Visual o afines.**
 
-**Intereses: Redes sociales, marketing digital, fotografía, investigación, política, branding, editorial, identidad corporativa, web.**
+**Intereses: Redes sociales, marketing digital, fotografía, investigación, política, branding, identidad corporativa, web.**
 
 <!--EndFragment-->
 
