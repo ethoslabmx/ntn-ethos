@@ -1,6 +1,6 @@
 ---
 nombre: "Daniela Meléndez "
-foto: https://ucarecdn.com/dfef16bf-7c90-4ee0-92f9-13bbc5af7555/
+foto: https://ucarecdn.com/b457c1c3-5c15-49ac-ae63-fbbfc3c6aabe/
 puesto: PASANTE
 area: programa de internship
 pos: 1
