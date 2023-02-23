@@ -17,11 +17,10 @@ date: 2022-09-13T00:12:14.961Z
 
 ## RESPONSABILIDADES
 
-* Redes sociales
-* Creación de contenido
-* Planeación
-* Métricas
-* Apoyo a las distintas áreas de investigación y al área de comunicación.
+* Apoyo en planeación y redacción de contenidos para redes sociales (Twitter, LinkedIn, Instagram, Facebook y TikTok).
+* Edición de videos para reels.
+* Propuesta de contenidos para infografías en distintos formatos para redes sociales.
+* A﻿nálisis de métricas de redes sociales
 
 <!--EndFragment-->
 
