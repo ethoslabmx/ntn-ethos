@@ -1,6 +1,6 @@
 ---
 nombre: LAURE DELALANDE
-foto: /img/laure_delalande.jpg
+foto: https://ucarecdn.com/28bc75f2-7972-4ecd-8e22-dbd472d09e1d/
 puesto: Directora de Inclusión y Desarrollo Sostenible
 area: inclusión y desarrollo sostenible
 pos: 1
