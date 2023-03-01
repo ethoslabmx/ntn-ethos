@@ -1,0 +1,33 @@
+---
+title: "Impuestos saludables al tabaco: los estados pueden y deben usarlos"
+date: 2022-11-20T17:20:18.212Z
+img: https://ucarecdn.com/b62691f8-4835-4071-ade1-0308f2dde9ce/
+img-alt: Impuestos al tabaco
+autor: Yahir Acosta
+medio: Animal Político
+link: https://www.animalpolitico.com/blog-invitado/impuestos-saludables-al-tabaco-estados-pueden-y-deben-usarlos/
+category: finanzas-publicas
+extracto: Los estados pueden usar medidas fiscales para controlar la epidemia de
+  tabaquismo en sus territorios avalados por el artículo 73 de la Constitución,
+  que establece que pueden gravar cualquier actividad que no sea la producción
+  ni el consumo de tabaco labrado.
+---
+En México, existen 15 millones de personas fumadoras, lo cual representa el 17.6% de la población mexicana entre 12 y 65 años. Desafortunadamente, el tabaquismo ocasiona la muerte de 53 mil personas al año en nuestro país ([ENCODAT 2016-2017](https://encuestas.insp.mx/repositorio/encuestas/ENCODAT2016/)). En 2020, tan sólo el tratamiento médico de las enfermedades relacionadas a esta adicción fue de 116,151 millones de pesos ([Sáenz de Miera, et al, 2022](https://www.insp.mx/avisos/impuestos-saludables-para-el-control-del-tabaco-en-mexico-2022)). Además de la mortalidad y morbilidad, el tabaquismo produce otros costos económicos, [sociales](https://ciep.mx/desplazamiento-de-gasto-y-efecto-empobrecedor-del-tabaco-en-mexico/) y [ambientales](https://www.who.int/es/news/item/31-05-2022-who-raises-alarm-on-tobacco-industry-environmental-impact#:~:text=%C2%ABLos%20productos%20de%20tabaco%20son,medio%20ambiente%20cuando%20se%20desechan.).
+
+Para atender esta problemática, los gobiernos tienen a la mano políticas de control del tabaco. La Organización Mundial de la Salud (OMS), por ejemplo, recomienda utilizar un ‘[Plan de Medidas para Hacer Retroceder la Epidemia del Tabaquismo MPOWER](https://apps.who.int/iris/handle/10665/43891)’. En particular, estudios y expertos señalan que las medidas que generan mayor impacto son los impuestos. Este tipo de contribuciones fiscales, también llamados [impuestos saludables](https://www.paho.org/es/temas/impuestos-saludables), disminuyen las tasas de consumo, las enfermedades y las muertes relacionadas con el tabaquismo.
+
+En el plano federal, los impuestos al tabaco son el Impuesto Especial sobre Producción y Servicios (IEPS) y el Impuesto al Valor Agregado (IVA). En conjunto, representan el 68% del precio de venta final, mientras que la recomendación de la OMS sugiere por lo menos alcanzar  el 75%, con lo que claramente existe un margen para incrementar la tasa.
+
+Desde el ámbito subnacional, ¿hay acciones que pueden emprender los estados en materia de control de tabaco? De hecho sí, pues ya son [más de 15 estados](https://codicesc.com/2021/12/07/mexico-a-nada-de-ser-100-libre-de-humo-de-tabaco-y-emisiones/) que han aprobado una ley de control del tabaco, utilizando varias de las herramientas MPOWER sugeridas por la OMS. Sin embargo, **en México las entidades federativas no han hecho uso de los impuestos al tabaco, a pesar de contar con facultades para gravar *algunas* actividades relacionadas**. Al respecto, es importante recordar que los estados y la federación comparten facultades constitucionales, no sólo en materia impositiva, sino también en materia de salud pública. La Constitución, las leyes y los convenios federación-estados delimitan este reparto de facultades.
+
+En Ethos hemos armado este [rompecabezas](https://www.fondodeculturaeconomica.com/Ficha/9786071659781/F) y concluimos que los estados pueden usar medidas fiscales para controlar la epidemia de tabaquismo en sus territorios. Aunque la Constitución no enlista las facultades impositivas de los estados, el artículo 73 constitucional (Fracción XXIX, Numeral 5º) deja ver que los estados pueden gravar cualquier actividad que no sea la producción ni el consumo de tabaco labrado. También existen algunas actividades reservadas a la federación, por ejemplo las que están señaladas a nivel de ley en la [LIEPS](https://www.diputados.gob.mx/LeyesBiblio/ref/lieps.htm) y [LIVA](https://www.diputados.gob.mx/LeyesBiblio/ref/liva.htm).
+
+Nuestro análisis deja ver que existen por lo menos tres opciones para los estados que desean avanzar una política pública de salud para disminuir el tabaquismo: 1) una Contribución Especial por Daños a la Salud provocados por el tabaquismo (CESDA); 2) un impuesto a la venta final de tabaco; y, 3) un impuesto a la recepción comercial de tabaco.
+
+El estado de Tamaulipas recientemente hizo uso de la segunda opción. En 2020, aprobó un impuesto a la venta final de tabaco, con base en el artículo 10-C de la Ley de Coordinación Fiscal (LCF). Y aunque se concedieron algunos amparos, el impuesto sigue vigente al día de hoy. Sin embargo, el diseño de este impuesto tiene varios puntos que pueden ser mejorados, empezando por su diseño. Además, este tipo de impuesto se encuentra topado por la misma LCF a una tasa del 4.5%, lo cual limita sus impactos positivos en cuanto a la salud pública.
+
+En este sentido, la opción más atractiva para los estados sería la creación de una **Contribución Especial por Daños a la Salud provocados por el tabaquismo (CESDA)**. En el derecho fiscal, la contribución especial es una categoría tributaria que incluye dos especies: la contribución de mejoras y la contribución por gasto. Una CESDA se encuadra en este último tipo porque la actividad de una persona provoca o incrementa un gasto público ([Ríos, 2007](http://ru.juridicas.unam.mx/xmlui/handle/123456789/11396)). En otras palabras, debido a que el tabaquismo le ocasiona a los estados gastos significativos en materia de salud pública, por ejemplo, en tratamientos médicos, los estados pueden crear una contribución especial para financiar dichos gastos.
+
+En conclusión, los estados pueden usar contribuciones o impuestos saludables al tabaco, de forma constitucional y legal. Sin embargo, sus gobiernos tienen que ser responsables. El uso de este tipo de medidas fiscales debe estar diseñado con una visión integral de salud pública y no principalmente con una perspectiva recaudatoria. Para ello, los estados interesados deben hacer un análisis de viabilidad jurídica según su marco legal estatal, y estimar los impactos económicos, sociales y de salud pública.
+
+Un esfuerzo de esta naturaleza es un ganar-ganar para la sociedad y los gobiernos. Es hora de que las autoridades mexicanas a nivel estatal avancen de forma más decisiva hacia la implementación de medidas de control de tabaco que mejoren la salud pública y fortalezcan sus finanzas locales.

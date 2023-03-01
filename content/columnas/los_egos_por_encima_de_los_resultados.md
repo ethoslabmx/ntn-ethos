@@ -1,0 +1,29 @@
+---
+title: Los egos por encima de los resultados
+date: 2022-12-08T21:06:55.600Z
+img: https://ucarecdn.com/3413fc95-f03e-42c0-b9b9-b126a5d52f25/
+img-alt: Marcha a favor del INE
+autor: Liliana Alvarado
+medio: El Economista
+link: https://www.eleconomista.com.mx/opinion/Los-egos-por-encima-de-los-resultados-20221208-0026.html
+category: anticorrupcion
+extracto: Tristemente en el andar de los gobernantes, poco importa la forma en
+  la que se atienden los problemas y los resultados que se obtienen, opina
+  Liliana Alvarado. La prioridad radica en acariciar los propios egos y, cuando
+  se estima necesario, también los ajenos.
+---
+El domingo 13 de noviembre se llevó a cabo una marcha ciudadana a favor del Instituto Nacional Electoral (INE) y en contra de la reforma político electoral enviada a la Cámara de Diputados por el presidente López Obrador. Algunos de los puntos planteados en la iniciativa levantaron las alertas de la sociedad, como el cambio del Instituto Nacional Electoral (INE) por el Instituto Nacional de Elecciones y Consultas (INEC), el cual sería el encargado de organizar las elecciones en el ámbito federal y local, desapareciendo así a los Organismos Públicos Locales (OPL).
+
+Conforme a la propuesta, el INEC estaría conformado por 7 consejeros (y no 11 como sucede actualmente), quienes serían elegidos por el voto directo de los ciudadanos. Asimismo, desde el comienzo de las precampañas y hasta el inicio de la jornada electoral, se le quitaría al instituto tiempo en radio y televisión. Otro punto para resaltar es la reducción en el número de integrantes de la Cámara de Diputados y del Senado, a 300 y 96 respectivamente. Finalmente, como consecuencia del cúmulo de cambios, la iniciativa buscaría “abaratar” el costo de los procesos electorales en México.
+
+El descontento por parte de la ciudadanía no solo viene del respeto y legitimidad que con el paso de los años ha adquirido el INE. Si bien la institución no es perfecta y hay áreas de oportunidad para mejorar las reglas electorales, ha quedado demostrado que los mecanismos funcionan y la alternancia en el poder en los tres ámbitos de gobierno dan cuenta de ello. Lo que movió a la ciudadanía no fue únicamente el temor de debilitar y partidizar al INE, sino que fue una respuesta ante las continuas acciones del Ejecutivo por centralizar y concentrar el poder en sí mismo. Los cambios propuestos al INE representan la punta del iceberg, pues anteriormente ha intentado deslegitimar y desestabilizar a otras instituciones autónomas y contrapesos sobre los cuales el presidente no tiene poder absoluto. Adicionalmente, a la lista de inquietudes se suma la posibilidad de que, a través de los cambios, López Obrador quiera manipular las elecciones futuras, lo que implicaría un fuerte golpe para nuestra frágil democracia.
+
+Ese domingo la marcha transcurrió sin mayores sobresaltos. Fue una movilización bastante concurrida a la que asistieron libremente distintos sectores de la población. El número exacto no se sabe, pues las cifras varían considerablemente según la fuente, y las autoridades de la CDMX tuvieron pocos incentivos para medir la verdadera afluencia. La marcha dejó diversas lecciones y reflexiones para la oposición. No obstante, llamó la atención la respuesta del presidente.
+
+Prácticamente de inmediato López Obrador decidió organizar otra marcha. Esta se realizó dos fines de semana posteriores a la primera y fue denominada por algunos como la “contramarcha”. Según el presidente, el objetivo de la misma sería conmemorar su cuarto año de gobierno y rendir un informe de labores. No obstante, para muchos, lo que motivó la convocatoria fue mostrar su “músculo” ante la respuesta ciudadana a favor del INE.
+
+A grandes rasgos, el problema con la marcha organizada por el Ejecutivo es el objetivo que buscaba alcanzar. Es inconcebible que en un país que atraviesa por tantos problemas de violencia, corrupción, pobreza extrema, entre muchos otros, la cabeza del gobierno le dé prioridad a la organización de un evento que, en términos prácticos, no tenía ningún propósito real más que probarse a sí mismo su nivel de popularidad.
+
+En este esfuerzo, no podía quedar fuera el papel de sus incondicionales, personajes como Claudia Sheinbaum quien deja ver, una y otra vez, su incondicionalidad absoluta hacia el presidente, y que no está dispuesta a escatimar recursos de la CDMX para mostrarle su apoyo, ni dejar de elogiarlo públicamente, independientemente de lo atinado o descabellado de sus decisiones. En sus palabras, la del 27 de noviembre, “fue una marcha histórica”, a pesar de que su afluencia fue mucho menor a otras que el mismo López Obrador ha organizado en el pasado y de la movilización de recursos públicos que se requirió para garantizar la presencia de los asistentes.
+
+Parece que Claudia Sheinbaum no se siente incómoda siendo la porrista del presidente, incluso cuando ni siquiera él lo solicita. Su objetivo es claro, y desde su perspectiva, eso es lo que se requiere para ser la próxima presidenta de México, no un desempeño destacado como Jefa de Gobierno de la CDMX, ni una serie de propuestas innovadoras y vanguardistas sobre cómo abordar los problemas que amenazan al país o una agenda progresista con un enfoque de igualdad género, ni ninguna otra señal que deje ver que tiene y defiende sus ideas. Al final, tristemente en el andar de los gobernantes, poco importa la forma en la que se atienden los problemas y los resultados que se obtienen. La prioridad radica en acariciar los propios egos y, cuando se estima necesario, también los ajenos. Es así como se vislumbra que continúe la dinámica de la carrera presidencial en Morena rumbo al 2024.

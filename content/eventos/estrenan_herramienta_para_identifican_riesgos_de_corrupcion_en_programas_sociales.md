@@ -1,5 +1,5 @@
 ---
-title: Estrenan herramienta para identifican riesgos de corrupción en programas
+title: Estrenan herramienta para identificar riesgos de corrupción en programas
   sociales
 date: 2022-08-12T23:08:37.064Z
 img: https://ucarecdn.com/b367e50b-412a-498f-8081-135aaecfd2a0/

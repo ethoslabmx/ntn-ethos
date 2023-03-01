@@ -7,9 +7,9 @@ date: 2022-09-13T00:12:14.961Z
 
 ## PERFIL ACADÉMICO
 
-**Carrera:  Comunicación, Mercadotecnia, Comunicación Social, Periodismo, Diseño y Comunicación Visual o afines.**
+**Carrera:**  Comunicación, Mercadotecnia, Periodismo, Diseño y Comunicación Visual o afines.
 
-**Intereses: Redes sociales, marketing digital, fotografía, investigación, política, b**randing, editorial, identidad corporativa, web.
+**Intereses:** Redes sociales, marketing digital, fotografía, investigación, política, branding, identidad corporativa, web.
 
 <!--EndFragment-->
 
@@ -17,11 +17,10 @@ date: 2022-09-13T00:12:14.961Z
 
 ## RESPONSABILIDADES
 
-* Redes sociales
-* Creación de contenido
-* Planeación
-* Métricas
-* Apoyo al área de comunicación
+* Apoyo en planeación y redacción de contenidos para redes sociales (Twitter, LinkedIn, Instagram, Facebook y TikTok).
+* Edición de videos para reels.
+* Propuesta de contenidos para infografías en distintos formatos para redes sociales.
+* A﻿nálisis de métricas de redes sociales
 
 <!--EndFragment-->
 
@@ -41,9 +40,9 @@ date: 2022-09-13T00:12:14.961Z
 
 ## OFRECEMOS
 
-* Oportunidad para desarrollar tu currículum y tu creatividad obteniendo experiencia directa en una OSC
-* Ser parte de un equipo joven, dinámico y de diferentes nacionalidades
-* Trabajo directo en proyectos que tienen incidencia en el desarrollo social del país
+* Oportunidad para desarrollar tu currículum y tu creatividad obteniendo experiencia directa en una OSC.
+* Ser parte de un equipo joven, dinámico y multidisciplinario.
+* Trabajo directo en proyectos que tienen incidencia en el desarrollo social del país.
 
 <!--EndFragment-->
 
@@ -51,7 +50,7 @@ date: 2022-09-13T00:12:14.961Z
 
 ## CONDICIONES
 
-* Ethos no paga un salario ni ofrece compensación monetaria a los pasantes, practicantes, ni prestadores de servicio social.
+* Ethos no paga un salario ni ofrece compensación monetaria a los pasantes, practicantes ni prestadores de servicio social.
 
 <!--EndFragment-->
 
@@ -59,9 +58,9 @@ date: 2022-09-13T00:12:14.961Z
 
 ## HORARIOS
 
-Horario flexible, mínimo 20 horas a la semana*
+Horario flexible, mínimo 20 horas a la semana. * 
 
-*\*Lunes a viernes entre 10:00 y 18:00 h.*
+*\*Lunes a viernes entre 10:00 y 18:00 h*
 
 <!--EndFragment-->
 
@@ -69,9 +68,9 @@ Horario flexible, mínimo 20 horas a la semana*
 
 ## ENVIAR CV A:
 
-Bolsa de Trabajo\
-**bolsadetrabajo@laboratorioethos.com**
+Silvia Márquez\
+**silvia.marquez@ethos.org.mx**
 
-\*Favor de enviar CV haciendo referencia a «Internship Redes Sociales».
+\*Favor de enviar CV haciendo referencia a «Pasantía redes sociales»
 
 <!--EndFragment-->

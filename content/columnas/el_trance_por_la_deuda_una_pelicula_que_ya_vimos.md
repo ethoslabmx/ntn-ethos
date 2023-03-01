@@ -1,0 +1,33 @@
+---
+title: "El trance por la deuda: una película que ya vimos"
+date: 2022-11-18T16:47:49.435Z
+img: https://ucarecdn.com/53e4df1e-296b-474e-8379-fdca315675be/
+img-alt: Deuda pública
+autor: Javier González
+medio: Animal Político
+link: https://www.animalpolitico.com/blog-invitado/el-trance-por-la-deuda-una-pelicula-que-ya-vimos/
+category: finanzas-publicas
+extracto: "La Ley de Ingresos para 2023 autoriza al gobierno a obtener un monto
+  de endeudamiento neto externo de hasta 5.500 millones de dólares y 1.2
+  billones de pesos de deuda interna —uno de los montos más altos de las décadas
+  recientes— para cubrir el déficit presupuestario. "
+---
+El pasado 14 de noviembre se aprobó la [Ley de Ingresos de la Federación](https://www.dof.gob.mx/nota_detalle.php?codigo=5671325&fecha=14/11/2022#gsc.tab=0) (LIF) para el ejercicio fiscal 2023, por la que se pretende obtener 8.3 billones de pesos. Entre otros datos relevantes, la LIF autoriza al gobierno mexicano a obtener un monto de endeudamiento neto externo de hasta 5.500 millones de dólares y 1.2 billones de pesos de deuda interna —uno de los montos más altos de las décadas recientes— para cubrir el déficit presupuestario.
+
+Una comparación habitual para dimensionar el tamaño de la deuda es calcular su monto como porcentaje del Producto Interno Bruto de un país (PIB). Visto de esa manera, nuestro nivel de endeudamiento se coloca, en efecto, por debajo de otras economías avanzadas o de renta media: mientras que en México el endeudamiento a 2020 fue de 59 por ciento como porcentaje del PIB, [el promedio en los países de la OCDE](https://www.oecd-ilibrary.org/governance/general-government-debt/indicator/english_a0528cc2-en) alcanzó 95 por ciento.
+
+No obstante, esa comparación suele ser engañosa, dado que la capacidad de pago de los gobiernos es muy distinta. Si se calcula el monto de los pasivos en relación con los ingresos del sector público, el tema es mucho más preocupante, pues anticipa porciones más grandes del gasto que se destinarán año con año a financiar el servicio de la deuda. Un indicador de la fragilidad del sistema fiscal mexicano es la proporción respecto al PIB de la recaudación tributaria (17.9 por ciento) en contraste con el promedio de los países de la OCDE ([33.5 por ](https://stats.oecd.org/index.aspx?DataSetCode=REV)[ciento](https://stats.oecd.org/index.aspx?DataSetCode=REV)),  lo que impacta directamente en la suficiencia de las finanzas públicas para sufragar el costo financiero de los adeudos.
+
+Adquirir deuda no es una práctica indeseable en sí misma, siempre que se tenga un plan de mediano plazo sobre el uso de los recursos (por ejemplo, para proyectos de inversión productiva, o programas y políticas sostenibles), así como claridad sobre los compromisos futuros de pago y los medios para hacerles frente. Contraer deuda de forma responsable implica también hacer proyecciones realistas sobre el crecimiento de la economía y las presiones de gasto inflexibles, como las pensiones y el pasivo general de PEMEX.
+
+Sin embargo, en contextos de bajo crecimiento económico, incrementos en las tasas de interés internacionales, precios del petróleo inestables, elevada inflación y baja capacidad de pago, adquirir mayor deuda no parece una medida sana para las finanzas públicas. Sobre todo, cuando la evidencia en la actual administración indica que los recursos se destinarán a inversiones sin retornos claros y a programas sociales de corte clientelar que no garantizan romper con los círculos de pobreza, ni se enfocan en la construcción de capacidades o activos productivos. Más preocupante aún es el creciente aumento de los recursos destinados a estos programas en la víspera del proceso electoral 2024.
+
+Ante el importante incremento anunciado en el gasto público esperado ([11.6% superior al año anterior](https://www.ppef.hacienda.gob.mx/work/models/8uLX2rB7/PPEF2023/mo2h2PK/paquete/egresos/Proyecto_Decreto.pdf)), la única forma de mantener la ecuación bajo control es aumentando los ingresos fiscales, o bien, como se aprecia en la nueva LIF, adquiriendo deuda. Ambas rutas tienen implicaciones distintas.
+
+El incremento de los ingresos fiscales supondría una reforma integral, que incremente la recaudación mediante una base de contribuyentes más amplia y el rediseño de renuncias recaudatorias ineficientes, tales como las tasas diferenciadas del IVA y la  eliminación de subsidios generalizados regresivos, como el de la gasolina. También implicaría hacer frente de forma decisiva a la informalidad, mejorar la recaudación de impuestos locales (predial, tenencia), establecer tasas más progresivas para combatir la desigualdad, e introducir nuevas medidas que estimulen el cuidado de la salud y el medio ambiente.
+
+Naturalmente, una reforma de estas características necesita condiciones políticas muy difíciles de lograr. Para empezar, se requiere de un consenso amplio sobre el rumbo del país y sobre las prioridades de gasto —acuerdo difícil de alcanzar en un clima de alta polarización social—. También precisaría de dirigentes dispuestos a asumir la impopularidad que acarrea incrementar impuestos. Eso explica que el nuevo presidente de Colombia, Gustavo Petro, acelerara la aprobación de su reforma fiscal, aprovechando el hito histórico del cambio de gobierno y apostando una parte de su legitimidad en una coyuntura política favorable. Aun así, la reforma de Petro ha sido cuestionada por no tocar las estructuras fundamentales del sistema y quedarse en modificaciones tímidas y descafeinadas.
+
+En cuanto a la alternativa del endeudamiento, para países como México resulta la opción políticamente más viable en el momento actual. Permite manejar los costos de corto plazo, minimizar la oposición de los privados y trasladar al futuro los compromisos de pago, cuando ya sea problema de alguien más. Pero el potencial explosivo de una deuda excesiva es alto, notoriamente ante la insuficiencia de proyectos de inversión de alta rentabilidad en sectores clave como el eléctrico, el transporte, la aviación y los centros logísticos del país.
+
+La hacienda pública y el presupuesto de egresos no se encaminan hacia un desarrollo económico sostenible y resiliente, con una política de ingresos recurrentes que asegure que el tamaño del déficit no se saldrá de control. Esa película ya la vimos, en los años siguientes a las crisis económicas de 1982 y 1994, cuyas repercusiones funestas aún sufre la economía y la sociedad mexicana. Y ya vimos también el final.
