@@ -33,6 +33,21 @@ export default {
       more:true,
     }
   },
+  head() {
+    return {
+      title: 'Inclusión - Noticias',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Noticias de Inclusión'
+        }
+      ],
+      link: [
+        { rel: 'canonical', href: 'https://www.ethos.org.mx/inclusion/noticias' }
+      ]
+    };
+  },
   methods:{
     loadPosts(){
       this.getNext();

@@ -106,9 +106,16 @@ export default {
     return{
       title: this.post.title,
       meta: [
-        {
-          content: this.post.extracto
-        }
+        { hid: 'description', name: 'description', content: this.post.extracto },
+        { hid: 'og:title', property: 'og:title', content: this.post.title },
+        { hid: 'og:description', property: 'og:description', content: this.post.extracto },
+        { hid: 'og:image', property: 'og:image', content: this.post.img },
+        { hid: 'og:url', property: 'og:url', content: this.currentUrl },
+        { hid: 'og:type', property: 'og:type', content: 'article' },
+        { hid: 'twitter:title', property: 'twitter:title', content: this.post.title },
+        { hid: 'twitter:description', property: 'twitter:description', content: this.post.extracto },
+        { hid: 'twitter:image', property: 'twitter:image', content: this.post.img },
+        { hid: 'twitter:card', property: 'twitter:card', content: 'summary_large_image' },
       ],
       link: [
         {

@@ -34,6 +34,21 @@ export default {
       more:true,
     }
   },
+  head() {
+    return {
+      title: 'Finanzas Públicas - Eventos',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Eventos de Finanzas Públicas'
+        }
+      ],
+      link: [
+        { rel: 'canonical', href: 'https://www.ethos.org.mx/finanzas-publicas/eventos' }
+      ]
+    };
+  },
   methods:{
     loadPosts(){
       this.getNext();

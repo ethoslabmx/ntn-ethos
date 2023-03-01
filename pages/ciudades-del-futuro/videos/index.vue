@@ -67,6 +67,21 @@ export default {
       more: true,
     };
   },
+  head() {
+    return {
+      title: 'Ciudades del futuro - Videos',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Videos de Ciudades del futuro'
+        }
+      ],
+      link: [
+        { rel: 'canonical', href: 'https://ethos.org.mx/ciudades-del-futuro/videos' }
+      ]
+    };
+  },
    methods:{
     loadPosts(){
       this.getNext();

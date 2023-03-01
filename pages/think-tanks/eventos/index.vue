@@ -34,6 +34,21 @@ export default {
       more:true,
     }
   },
+  head() {
+    return {
+      title: 'Universo Think Tanks - Eventos',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Eventos de Universo Think Tanks'
+        }
+      ],
+      link: [
+        { rel: 'canonical', href: 'https://www.ethos.org.mx/think-tanks/eventos' }
+      ]
+    };
+  },
   methods:{
     loadPosts(){
       this.getNext();

@@ -67,6 +67,83 @@ export default {
       more: true,
     };
   },
+  head() {
+    return{
+      title: 'Videos | Anticorrupción',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Videos | Anticorrupción'
+        },
+        {
+          hid: 'og:title',
+          property: 'og:title',
+          content: 'Videos | Anticorrupción'
+        },
+        {
+          hid: 'og:description',
+          property: 'og:description',
+          content: 'Videos | Anticorrupción'
+        },
+        {
+          hid: 'og:url',
+          property: 'og:url',
+          content: 'https://ethos.org.mx/anticorrupcion/videos'
+        },
+        {
+          hid: 'og:image',
+          property: 'og:image',
+          content: 'https://ethos.org.mx/anticorrupcion/videos-jumbo.jpg'
+        },
+        {
+          hid: 'og:image:secure_url',
+          property: 'og:image:secure_url',
+          content: 'https://ethos.org.mx/anticorrupcion/videos-jumbo.jpg'
+        },
+        {
+          hid: 'og:image:alt',
+          property: 'og:image:alt',
+          content: 'Ilustración Videos Ethos'
+        },
+        {
+          hid: 'og:type',
+          property: 'og:type',
+          content: 'website'
+        },
+        {
+          hid: 'twitter:title',
+          name: 'twitter:title',
+          content: 'Videos | Anticorrupción'
+        },
+        {
+          hid: 'twitter:description',
+          name: 'twitter:description',
+          content: 'Videos | Anticorrupción'
+        },
+        {
+          hid: 'twitter:url',
+          name: 'twitter:url',
+          content: 'https://ethos.org.mx/anticorrupcion/videos-jumbo.jpg'
+        },
+        {
+          hid: 'twitter:image',
+          name: 'twitter:image',
+          content: 'https://ethos.org.mx/anticorrupcion/videos-jumbo.jpg'
+        },
+        {
+          hid: 'twitter:card',
+          name: 'twitter:card',
+          content: 'summary_large_image'
+        },
+        {
+          hid: 'twitter:image:alt',
+          name: 'twitter:image:alt',
+          content: 'Videos | Anticorrupción'
+        }
+      ]
+    }
+  },
    methods:{
     loadPosts(){
       this.getNext();

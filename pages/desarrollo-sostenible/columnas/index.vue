@@ -34,6 +34,22 @@ export default {
       more:true,
     }
   },
+  head() {
+    return{
+      title: "Desarrollo Sostenible - Columnas de opinión | Ethos",
+      meta: [
+        {
+          content: "Listado de Columnas de opinión del eje Desarrollo Sostenible",
+        }
+      ],
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://www.ethos.org.mx/desarrollo-sostenible/columnas/'
+        }
+      ]
+    }
+  },
   methods:{
     loadPosts(){
       this.getNext();

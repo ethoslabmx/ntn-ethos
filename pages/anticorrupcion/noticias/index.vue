@@ -33,6 +33,22 @@ export default {
       more:true,
     }
   },
+  head() {
+    return{
+      title: "Anticorrupción - Noticias | Ethos",
+      meta: [
+        {
+          content: "Listado de Noticias del eje Anticorrupción",
+        }
+      ],
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://www.ethos.org.mx/anticorrupcion/noticias/'
+        }
+      ]
+    }
+  },
   methods:{
     loadPosts(){
       this.getNext();

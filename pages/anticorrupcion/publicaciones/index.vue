@@ -35,6 +35,22 @@ export default {
       total
     };
   },
+  head() {
+    return{
+      title: "Anticorrupción - Publicaciones | Ethos",
+      meta: [
+        {
+          content: "Listado de Publicaciones del eje Anticorrupción",
+        }
+      ],
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://www.ethos.org.mx/anticorrupcion/publicaciones/'
+        }
+      ]
+    }
+  },
    methods:{
     loadPosts(){
       this.getNext();

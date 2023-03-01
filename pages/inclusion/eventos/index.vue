@@ -34,6 +34,21 @@ export default {
       more:true,
     }
   },
+  head() {
+    return {
+      title: 'Inclusión - Eventos',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Eventos de Inclusión'
+        }
+      ],
+      link: [
+        { rel: 'canonical', href: 'https://www.ethos.org.mx/inclusion/eventos' }
+      ]
+    };
+  },
   methods:{
     loadPosts(){
       this.getNext();

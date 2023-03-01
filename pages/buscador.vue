@@ -60,6 +60,18 @@ export default {
       resultados: []
     }
   },
+  head() {
+    return {
+      title: 'Buscador Ethos',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Buscador'
+        }
+      ]
+    }
+  },
   computed:{
     filteredResults(){
       let r = this.resultados

@@ -33,6 +33,22 @@ export default {
       more:true,
     }
   },
+  head() {
+    return{
+      title: "Ciudades del futuro - Columnas de opinión | Ethos",
+      meta: [
+        {
+          content: "Listado de Columnas de opinión del eje Ciudades del futuro",
+        }
+      ],
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://www.ethos.org.mx/ciudades-del-futuro/columnas/'
+        }
+      ]
+    }
+  },
   methods:{
     loadPosts(){
       this.getNext();

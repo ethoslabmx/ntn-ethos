@@ -22,6 +22,21 @@ export default {
       more:true,
     }
   },
+  head() {
+    return {
+      title: 'Finanzas públicas - Reportajes',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Reportajes de Finanzas públicas'
+        }
+      ],
+      link: [
+        { rel: 'canonical', href: 'https://www.ethos.org.mx/finanzas-publicas/reportajes' }
+      ]
+    };
+  },
   async asyncData({ $content }) {
     const micrositios = await $content("micrositios").where({eje:"finanzas-publicas",category:"reportajes"}).sortBy('date','desc').fetch();
     const posts = await $content("reportajes").where({category:"finanzas-publicas"}).without(['body']).sortBy('date','desc').limit(8).fetch();

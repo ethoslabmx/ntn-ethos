@@ -24,6 +24,21 @@ export default {
       more:true,
     }
   },
+  head() {
+    return {
+      title: 'Finanzas públicas - Publicaciones',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Publicaciones de Finanzas públicas'
+        }
+      ],
+      link: [
+        { rel: 'canonical', href: 'https://www.ethos.org.mx/finanzas-publicas/publicaciones' }
+      ]
+    };
+  },
   async asyncData({ $content }) {
     const micrositios = await $content("micrositios").where({eje:"finanzas-publicas",category:"publicaciones"}).sortBy('date','desc').fetch();
 

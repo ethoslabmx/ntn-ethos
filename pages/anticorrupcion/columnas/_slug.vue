@@ -123,15 +123,48 @@ export default {
       title: this.post.title,
       meta: [
         {
+          hid: 'description',
+          name: 'description',
           content: this.post.extracto
-        }
+        },
+        {
+          hid: 'og:title',
+          property: 'og:title',
+          content: this.post.title
+        },
+        {
+          hid: 'og:description',
+          property: 'og:description',
+          content: this.post.extracto
+        },
+        {
+          hid: 'og:url',
+          property: 'og:url',
+          content: this.currentUrl
+        },
+        {
+          hid: 'og:image',
+          property: 'og:image',
+          content: this.post.img
+        },
+        {
+          hid: 'og:image:secure_url',
+          property: 'og:image:secure_url',
+          content: this.post.img
+        },
+        {
+          hid: 'og:type',
+          property: 'og:type',
+          content: 'website'
+        },
       ],
       link: [
         {
           rel: 'canonical',
           href: 'https://www.ethos.org.mx/anticorrupcion/columnas/'+this.$route.params.slug
         }
-      ]
+      ],
+
     }
   }
 };

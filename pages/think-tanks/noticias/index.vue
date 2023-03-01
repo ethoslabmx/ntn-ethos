@@ -33,6 +33,21 @@ export default {
       more:true,
     }
   },
+  head() {
+    return {
+      title: 'Universo Think Tanks - Noticias',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Noticias de Universo Think Tanks'
+        }
+      ],
+      link: [
+        { rel: 'canonical', href: 'https://www.ethos.org.mx/think-tanks/noticias' }
+      ]
+    };
+  },
   methods:{
     loadPosts(){
       this.getNext();

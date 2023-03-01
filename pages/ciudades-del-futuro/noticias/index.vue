@@ -33,6 +33,21 @@ export default {
       more:true,
     }
   },
+  head() {
+    return {
+      title: 'Ciudades del futuro - Noticias',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Noticias de Ciudades del futuro'
+        }
+      ],
+      link: [
+        { rel: 'canonical', href: 'https://www.ethos.org.mx/ciudades-del-futuro/noticias' }
+      ]
+    };
+  },
   methods:{
     loadPosts(){
       this.getNext();

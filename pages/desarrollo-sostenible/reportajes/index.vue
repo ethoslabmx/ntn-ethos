@@ -24,6 +24,21 @@ export default {
       more:true,
     }
   },
+  head() {
+    return {
+      title: 'Desarrollo sostenible - Reportajes',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Reportajes de Desarrollo sostenible'
+        }
+      ],
+      link: [
+        { rel: 'canonical', href: 'https://www.ethos.org.mx/desarrollo-sostenible/reportajes' }
+      ]
+    };
+  },
   async asyncData({ $content }) {
     const micrositios = await $content("micrositios").where({eje:"desarrollo-sostenible",category:"reportajes"}).sortBy('date','desc').fetch();
     const posts = await $content("reportajes").where({category:"desarrollo-sostenible"}).without(['body']).sortBy('date','desc').limit(8).fetch();

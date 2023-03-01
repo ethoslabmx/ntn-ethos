@@ -66,6 +66,18 @@ export default {
       more: true,
     }
   },
+  head() {
+    return {
+      title: "Finanzas públicas - Videos",
+      meta: [
+        {
+          hid: "description",
+          name: "description",
+          content: "Videos de Finanzas públicas"
+        }
+      ]
+    };
+  },
   methods:{
     loadPosts(){
       this.getNext();

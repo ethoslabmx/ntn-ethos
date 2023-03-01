@@ -34,6 +34,21 @@ export default {
       more:true,
     }
   },
+  head() {
+    return {
+      title: 'Ciudades del Futuro - Eventos',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Eventos de Ciudades del Futuro'
+        }
+      ],
+      link: [
+        { rel: 'canonical', href: 'https://www.ethos.org.mx/ciudades-del-futuro/eventos' }
+      ]
+    };
+  },
   methods:{
     loadPosts(){
       this.getNext();

@@ -14,6 +14,7 @@ export default {
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ],
+    /*
     script: [
       // Google Analytics Code
       {
@@ -22,7 +23,7 @@ export default {
       },
       // Import analitics.js file
       { src: "/js/analitics.js" },
-    ]
+    ]*/
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
@@ -31,7 +32,7 @@ export default {
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: ['~/plugins/youtube.client.js',{src:'~/plugins/pdfviewer.client.js',ssr: false, mode: 'client' }],
+  plugins: ['@/plugins/gtag','~/plugins/youtube.client.js',{src:'~/plugins/pdfviewer.client.js',ssr: false, mode: 'client' }],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
@@ -44,7 +45,6 @@ export default {
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
     '@nuxtjs/google-fonts',
-    '@nuxtjs/google-analytics'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules

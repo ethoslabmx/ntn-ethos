@@ -34,6 +34,22 @@ export default {
       more:true,
     }
   },
+  head() {
+    return{
+      title: "Anticorrupción - Eventos | Ethos",
+      meta: [
+        {
+          content: "Listado de Eventos del eje Anticorrupción",
+        }
+      ],
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://www.ethos.org.mx/anticorrupcion/eventos/'
+        }
+      ]
+    }
+  },
   methods:{
     loadPosts(){
       this.getNext();

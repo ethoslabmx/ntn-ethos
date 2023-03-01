@@ -67,6 +67,24 @@ export default {
       more: true,
     }
   },
+  head() {
+    return {
+      title: "Videos | Desarrollo sostenible | Eje Ambiental",
+      meta: [
+        {
+          hid: "description",
+          name: "description",
+          content: "Videos de desarrollo sostenible"
+        }
+      ],
+      link: [
+        {
+          rel: "canonical",
+          href: "https://ethos.org.mx/desarrollo-sostenible/videos"
+        }
+      ]
+    };
+  },
 
   methods:{
     loadPosts(){

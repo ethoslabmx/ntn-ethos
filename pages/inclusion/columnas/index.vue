@@ -34,6 +34,22 @@ export default {
       more:true,
     }
   },
+  head() {
+    return{
+      title: "Inclusión - Columnas de opinión | Ethos",
+      meta: [
+        {
+          content: "Listado de Columnas de opinión del eje Inclusión",
+        }
+      ],
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://www.ethos.org.mx/inclusion/columnas/'
+        }
+      ]
+    }
+  },
  methods:{
     loadPosts(){
       this.getNext();

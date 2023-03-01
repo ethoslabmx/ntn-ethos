@@ -24,6 +24,21 @@ export default {
       more:true,
     }
   },
+  head() {
+    return {
+      title: 'Inclusión - Publicaciones',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Publicaciones de Inclusión'
+        }
+      ],
+      link: [
+        { rel: 'canonical', href: 'https://www.ethos.org.mx/inclusion/publicaciones' }
+      ]
+    };
+  },
   async asyncData({ $content }) {
     const micrositios = await $content("micrositios").where({eje:"inclusion",category:"publicaciones"}).sortBy('date','desc').fetch();
 

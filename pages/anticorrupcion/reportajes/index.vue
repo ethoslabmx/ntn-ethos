@@ -24,6 +24,22 @@ export default {
       more:true,
     }
   },
+  head() {
+    return{
+      title: "Anticorrupción - Reportajes | Ethos",
+      meta: [
+        {
+          content: "Listado de Reportajes del eje Anticorrupción",
+        }
+      ],
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://www.ethos.org.mx/anticorrupcion/reportajes/'
+        }
+      ]
+    }
+  },
   async asyncData({ $content }) {
     const micrositios = await $content("micrositios").where({eje:"anticorrupcion",category:"reportajes"}).sortBy('date','desc').fetch();
     const posts = await $content("reportajes").where({category:"anticorrupcion"}).without(['body']).sortBy('date','desc').limit(8).fetch();

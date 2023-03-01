@@ -110,6 +110,18 @@ export default {
   mounted() {
     this.setupObserver();
   },
+  head(){
+    return {
+      title: "¿QUIÉNES SOMOS? | Ethos",
+      meta: [
+        {
+          hid: "description",
+          name: "description",
+          content: "Somos un think tank que genera recomendaciones innovadoras y acciones concretas de política pública con el objeto de atender algunos de los principales retos para el desarrollo de México."
+        }
+      ]
+    };
+  },
   methods:{
     setupObserver(){
       let options = {

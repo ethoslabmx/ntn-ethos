@@ -128,6 +128,59 @@ export default {
       more:true,
     }
   },
+  head(){
+    return {
+      title: 'Ethos Innovación en Políticas Públicas',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Somos un think tank que genera recomendaciones innovadoras y acciones concretas de política pública con el objeto de atender algunos de los principales retos para el desarrollo de México.'
+        },
+        {
+          hid: 'og:title',
+          property: 'og:title',
+          content: 'Ethos Innovación en Políticas Públicas'
+        },
+        {
+          hid: 'og:description',
+          property: 'og:description',
+          content: 'Somos un think tank que genera recomendaciones innovadoras y acciones concretas de política pública con el objeto de atender algunos de los principales retos para el desarrollo de México.'
+        },
+        {
+          hid: 'og:image',
+          property: 'og:image',
+          content: 'https://ethosinnovacion.com/og-image.jpg'
+        },
+        {
+          hid: 'og:url',
+          property: 'og:url',
+          content: 'https://ethosinnovacion.com/'
+        },
+        {
+          hid: 'twitter:title',
+          property: 'twitter:title',
+          content: 'Ethos Innovación en Políticas Públicas'
+        },
+        {
+          hid: 'twitter:description',
+          property: 'twitter:description',
+          content: 'Somos un think tank que genera recomendaciones innovadoras y acciones concretas de política pública con el objeto de atender algunos de los principales retos para el desarrollo de México.'
+        },
+        {
+          hid: 'twitter:image',
+          property: 'twitter:image',
+          content: 'https://ethosinnovacion.com/og-image.jpg'
+        },
+        {
+          hid: 'twitter:card',
+          property: 'twitter:card',
+          content: 'summary_large_image'
+        },
+      ]
+    }
+  },
+
   mounted(){
     this.setupObserver();
   },

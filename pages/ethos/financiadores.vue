@@ -31,6 +31,18 @@ export default {
       financiadores,
     };
   },
+  head() {
+    return {
+      title: 'Financiadores | Ethos',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Financiadores'
+        }
+      ]
+    }
+  },
 }
 </script>
 <style lang="scss">

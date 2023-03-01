@@ -48,6 +48,18 @@ export default {
       internships
     };
   },
+  head() {
+    return {
+      title: "Bolsa de Trabajo | Ethos",
+      meta: [
+        {
+          hid: "description",
+          name: "description",
+          content: "Bolsa de Trabajo"
+        }
+      ]
+    };
+  }
 }
 </script>
 

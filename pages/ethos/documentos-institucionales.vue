@@ -31,6 +31,18 @@ export default {
       documentos
     };
   },
+  head() {
+    return {
+      title: "Documentos Institucionales | Ethos",
+      meta: [
+        {
+          hid: "description",
+          name: "description",
+          content: "Documentos Institucionales",
+        },
+      ],
+    };
+  },
   mounted(){
     this.setupObserver()
 

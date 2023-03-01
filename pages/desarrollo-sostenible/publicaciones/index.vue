@@ -25,6 +25,21 @@ export default {
       more:true,
     }
   },
+  head() {
+    return {
+      title: 'Desarrollo Sostenible - Publicaciones',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Publicaciones de Desarrollo Sostenible'
+        }
+      ],
+      link: [
+        { rel: 'canonical', href: 'https://www.ethos.org.mx/desarrollo-sostenible/publicaciones' }
+      ]
+    };
+  },
   async asyncData({ $content }) {
     const micrositios = await $content("micrositios").where({eje:"desarrollo-sostenible",category:"publicaciones"}).sortBy('date','desc').fetch();
 

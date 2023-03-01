@@ -34,6 +34,22 @@ export default {
       more:true,
     }
   },
+  head() {
+    return{
+      title: "Finanzas públicas - Columnas de opinión | Ethos",
+      meta: [
+        {
+          content: "Listado de Columnas de opinión del eje Finanzas públicas",
+        }
+      ],
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://www.ethos.org.mx/finanzas-publicas/columnas/'
+        }
+      ]
+    }
+  },
   methods:{
     loadPosts(){
       this.getNext();

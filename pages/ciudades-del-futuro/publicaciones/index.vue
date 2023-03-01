@@ -25,6 +25,21 @@ export default {
       more:true,
     }
   },
+  head() {
+    return {
+      title: 'Ciudades del futuro - Publicaciones',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Publicaciones de Ciudades del futuro'
+        }
+      ],
+      link: [
+        { rel: 'canonical', href: 'https://www.ethos.org.mx/ciudades-del-futuro/publicaciones' }
+      ]
+    };
+  },
   async asyncData({ $content }) {
     const micrositios = await $content("micrositios").where({eje:"ciudades-del-futuro",category:"publicaciones"}).sortBy('date','desc').fetch();
 

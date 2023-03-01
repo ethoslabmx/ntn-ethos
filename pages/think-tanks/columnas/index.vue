@@ -34,6 +34,22 @@ export default {
       more:true,
     }
   },
+  head() {
+    return{
+      title: "Universo Think Tanks - Columnas de opinión | Ethos",
+      meta: [
+        {
+          content: "Listado de Columnas de opinión del eje Universo Think Tanks",
+        }
+      ],
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://www.ethos.org.mx/think-tanks/columnas/'
+        }
+      ]
+    }
+  },
   methods:{
     loadPosts(){
       this.getNext();

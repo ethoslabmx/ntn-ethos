@@ -33,6 +33,21 @@ export default {
       more:true,
     }
   },
+  head() {
+    return {
+      title: 'Desarrollo Sostenible - Noticias',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Noticias de Desarrollo Sostenible'
+        }
+      ],
+      link: [
+        { rel: 'canonical', href: 'https://www.ethos.org.mx/desarrollo-sostenible/noticias' }
+      ]
+    };
+  },
   methods:{
     loadPosts(){
       this.getNext();

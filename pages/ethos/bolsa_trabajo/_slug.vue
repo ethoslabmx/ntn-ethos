@@ -58,5 +58,17 @@ export default {
       internships
     };
   },
+  head() {
+    return {
+      title: "Vacante " + this.post.puesto + " | Ethos",
+      meta: [
+        {
+          hid: "description",
+          name: "description",
+          content: "vacantes disponibles para trabajar en Ethos"
+        }
+      ]
+    };
+  }
 };
 </script>

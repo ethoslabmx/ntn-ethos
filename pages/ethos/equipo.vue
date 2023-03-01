@@ -119,6 +119,18 @@ export default {
       dg,di,fp,id,cf,cp,ar,pi,aa,cd
     };
   },
+  head() {
+    return {
+      title: "Equipo | Ethos",
+      meta: [
+        {
+          hid: "description",
+          name: "description",
+          content: "Contamos con un equipo multidisciplinario e internacional con experiencia variada en el gobierno, la academia y el sector social, motivados para realizar investigaciones e iniciativas integrales"
+        }
+      ]
+    };
+  },
   mounted(){
     //this.selectEmployee(this.dg[0].nombre);
   },
@@ -205,7 +217,7 @@ export default {
           this.p10=true;
           break;
       }
-    
+
     },
     selectEmployee(nombre) {
       if(this.seleccionado.nombre != ''){

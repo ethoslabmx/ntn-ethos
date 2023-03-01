@@ -32,6 +32,22 @@ export default {
       more: true,
     };
   },
+  head() {
+    return{
+      title: "Anticorrupción - Columnas de opinión | Ethos",
+      meta: [
+        {
+          content: "Listado de Columnas de opinión del eje Anticorrupción",
+        }
+      ],
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://www.ethos.org.mx/anticorrupcion/columnas/'
+        }
+      ]
+    }
+  },
 
   async asyncData({ $content }) {
     const columnas = await $content("columnas").where({ category: "anticorrupcion" }).without(["body"]).sortBy("date", "desc").limit(8).fetch();

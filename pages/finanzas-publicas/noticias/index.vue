@@ -33,6 +33,21 @@ export default {
       more:true,
     }
   },
+  head() {
+    return {
+      title: 'Finanzas públicas - Noticias',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Noticias de Finanzas públicas'
+        }
+      ],
+      link: [
+        { rel: 'canonical', href: 'https://www.ethos.org.mx/finanzas-publicas/noticias' }
+      ]
+    };
+  },
   methods:{
     loadPosts(){
       this.getNext();

@@ -66,6 +66,24 @@ export default {
       more: true,
     }
   },
+  head() {
+    return {
+      title: "Videos | Inclusión",
+      meta: [
+        {
+          hid: "description",
+          name: "description",
+          content: "Videos | Inclusión"
+        }
+      ],
+      link: [
+        {
+          rel: "canonical",
+          href: "https://www.ethos.org.mx/inclusion/videos"
+        }
+      ]
+    };
+  },
   methods:{
     loadPosts(){
       this.getNext();

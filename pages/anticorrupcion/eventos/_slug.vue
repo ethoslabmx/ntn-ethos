@@ -107,9 +107,15 @@ export default {
     return{
       title: this.post.title,
       meta: [
-        {
-          content: this.post.extracto
-        }
+        { hid: 'description', name: 'description', content: this.post.extracto },
+        { hid: 'og:title', property: 'og:title', content: this.post.title },
+        { hid: 'og:description', property: 'og:description', content: this.post.extracto },
+        { hid: 'og:image', property: 'og:image', content: this.post.img },
+        { hid: 'og:url', property: 'og:url', content: 'https://www.ethos.org.mx/anticorrupcion/eventos/'+this.$route.params.slug },
+        { hid: 'twitter:title', name: 'twitter:title', content: this.post.title },
+        { hid: 'twitter:description', name: 'twitter:description', content: this.post.extracto },
+        { hid: 'twitter:image', name: 'twitter:image', content: this.post.img },
+        { hid: 'twitter:card', name: 'twitter:card', content: 'summary_large_image' },
       ],
       link: [
         {

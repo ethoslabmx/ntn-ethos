@@ -108,6 +108,18 @@ export default {
       link: null
     }
   },
+  head() {
+    return {
+      title: 'Historias de Éxito | Ethos',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Historias de Éxito'
+        }
+      ]
+    }
+  },
   async asyncData({ $content }) {
     const historias = await $content("historias").sortBy('date','desc').limit(8).fetch();
 

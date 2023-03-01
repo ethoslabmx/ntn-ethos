@@ -24,6 +24,21 @@ export default {
       more:true,
     }
   },
+  head() {
+    return {
+      title: 'Inclusión - Reportajes',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Reportajes de Inclusión'
+        }
+      ],
+      link: [
+        { rel: 'canonical', href: 'https://www.ethos.org.mx/inclusion/reportajes' }
+      ]
+    };
+  },
   async asyncData({ $content }) {
     const micrositios = await $content("micrositios").where({eje:"inclusion",category:"reportajes"}).sortBy('date','desc').fetch();
     const posts = await $content("reportajes").where({category:"inclusion"}).without(['body']).sortBy('date','desc').limit(8).fetch();

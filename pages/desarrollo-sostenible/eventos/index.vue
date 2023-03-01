@@ -33,6 +33,21 @@ export default {
       more:true,
     }
   },
+  head() {
+    return {
+      title: 'Desarrollo Sostenible - Eventos',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Eventos de Desarrollo Sostenible'
+        }
+      ],
+      link: [
+        { rel: 'canonical', href: 'https://www.ethos.org.mx/desarrollo-sostenible/eventos' }
+      ]
+    };
+  },
   methods:{
     loadPosts(){
       this.getNext();
