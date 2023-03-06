@@ -8,9 +8,9 @@ area: Comunicación
 
 ## PERFIL ACADÉMICO
 
-**Carrera:** Comunicación Social, Ciencias de la Comunicación, Relaciones Internacionales, Relaciones Públicas y afines.  El/la postulante debe encontrarse en proceso de titulación de la licenciatura o haber concluido su titulación en un plazo no mayor a 12 meses.
+**Carrera:** Comunicación, Periodismo, Relaciones Públicas y afines.  El/la postulante debe encontrarse en proceso de titulación de la licenciatura o haber concluido su titulación en un plazo no mayor a 12 meses. 
 
-**Intereses:** Desarrollo e implementación de estrategias de comunicación, políticas públicas, periodismo, comunicación interna, organización de eventos, relación con medios de comunicación. 
+**Intereses:** Desarrollo e implementación de estrategias de comunicación externa e interna, relación con medios de comunicación, seguimiento de la coyuntura mediática, organización de eventos. 
 
 <!--EndFragment-->
 
@@ -18,10 +18,9 @@ area: Comunicación
 
 ## RESPONSABILIDADES
 
-* Apoyar en la implementación de las estrategias de comunicación de la organización
-* Apoyar en la coordinación logística de eventos presenciales y virtuales: conferencias de prensa, presentaciones de publicaciones, congresos, talleres.
-* Brindar apoyo en los procesos de comunicación interna.
-* Dar seguimiento para la actualización continua de bases de contactos.
+* Apoyo en la implementación de las estrategias de comunicación de la organización
+* A﻿poyo en relaciones públicas con medios de comunicación.
+* Apoyo en la coordinación y logística de eventos presenciales y virtuales: conferencias de prensa, presentaciones de publicaciones, congresos, talleres.
 * C﻿olaborar en la revisión de materiales audiovisuales.
 
 <!--EndFragment-->
@@ -33,7 +32,7 @@ area: Comunicación
 * Excelente organización, responsabilidad y habilidades de comunicación oral y escrita.
 * E﻿xcelente ortografía y redacción (se realizará prueba).
 * Se requiere el dominio de Google Drive.
-* Se considera un plus el conocimiento de programas de diseño y edición gráfica (Illustrator, InDesign, Photoshop, Audition, Premiere), manejo de redes sociales y análisis de métricas, herramientas digitales para la gestión de proyectos (Asana, Monday, ClickUp) y programas para mailing (MailChimp).
+* Se considera un plus el conocimiento de programas de diseño y edición gráfica (Illustrator, InDesign, Photoshop, Audition, Premiere), herramientas digitales para la gestión de proyectos y programas para mailing.
 
 <!--EndFragment-->
 
@@ -61,8 +60,6 @@ area: Comunicación
 ## HORARIOS
 
 Horario flexible, mínimo 20 horas a la semana
-
-Lunes a viernes, entre 10:00 y 18:00 h
 
 <!--EndFragment-->
 
