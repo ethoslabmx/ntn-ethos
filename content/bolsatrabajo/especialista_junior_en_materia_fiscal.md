@@ -1,5 +1,5 @@
 ---
-puesto: Especialista Junior en Materia Fiscal
+puesto: Especialista en Materia Fiscal
 category: vacantes
 date: 2023-02-13T18:38:37.175Z
 ---
@@ -30,15 +30,15 @@ date: 2023-02-13T18:38:37.175Z
 * Excelente manejo de bases de datos y de paquetería para visualizaciones R y Python.
 * Realizar tareas administrativas, de investigación y comunicación.
 
-## [](https://www.ethos.org.mx/ethos/bolsa_trabajo/especialista_junior_en_materia_fiscal#ofrecemos)[](https://www.ethos.org.mx/ethos/bolsa_trabajo/comunicacion#ofrecemos)OFRECEMOS
+## [](https://www.ethos.org.mx/ethos/bolsa_trabajo/especialista_junior_en_materia_fiscal#condiciones)[](https://www.ethos.org.mx/ethos/bolsa_trabajo/comunicacion#condiciones)OFRECEMOS
 
-*  Trabajar de manera directa en el desarrollo de proyectos de relevancia nacional.  
+* Salario de 25,000 a 30,000 pesos mexicanos según aptitudes. La cifra se determinará conforme las competencias de las y los candidatos.  
+* Trabajar de manera directa en el desarrollo de proyectos de relevancia nacional.
 
-## [](https://www.ethos.org.mx/ethos/bolsa_trabajo/especialista_junior_en_materia_fiscal#condiciones)[](https://www.ethos.org.mx/ethos/bolsa_trabajo/comunicacion#condiciones)CONDICIONES
+## CONDICIONES
 
-* Ethos ofrece sueldos competitivos, con el objetivo de contar con el personal más preparado y profesional.
-* La cifra se determinará conforme las competencias de las y los candidatos.   [](https://www.ethos.org.mx/ethos/bolsa_trabajo/especialista_junior_en_materia_fiscal#enviar-cv-y-carta-de-intenci%C3%B3n-a)[](https://www.ethos.org.mx/ethos/bolsa_trabajo/comunicacion#enviar-cv-a)
 * Tiempo completo. Se aplicará un periodo de prueba (con remuneración) de 3 meses.
+* M﻿odalidad híbrida.
 
 ## ENVIAR CV Y CARTA DE INTENCIÓN A:
 
