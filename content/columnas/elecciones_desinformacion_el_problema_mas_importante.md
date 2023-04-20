@@ -1,0 +1,32 @@
+---
+title: "Elecciones: desinformación, el problema más importante"
+date: 2023-04-20T16:44:46.632Z
+img: https://ucarecdn.com/f4cc8310-f6bb-49a0-afb6-9e140acee88d/
+img-alt: Fake news
+autor: Javier González
+medio: Expansión
+link: https://politica.expansion.mx/voces/2023/04/20/columnainvitada-elecciones-desinformacion-el-problema-mas-importante?_amp=true
+category: think-tanks
+extracto: Cuando la desinformación surge de actores políticos (...) se violentan
+  los derechos políticos de las personas y se erosionan los fundamentos mismos
+  de la democracia.
+---
+En su ampliamente conocido *Cómo mueren las democracias*, Steven Levitsky y Daniel Ziblatt señalan que las leyes no son suficientes para garantizar la democracia. Es necesario que normas no escritas refuercen las constituciones, y una de ellas es la tolerancia mutua, es decir, reconocer el derecho de los adversarios políticos para competir y ostentar el poder. Donde no existe ese acuerdo básico, no puede haber una democracia sostenible.
+
+Por eso preocupa que, sin asomo de prudencia o disimulo, se manipule la información sobre los actores y procesos electorales con el fin de reducir la tolerancia mutua, obtener beneficios políticos, sembrar desconfianza y cancelar la existencia de las minorías políticas. De acuerdo con un informe reciente de IDEA Internacional, la desinformación en elecciones es el contenido falso o engañoso generado y difundido deliberadamente para influir en la audiencia y generar actitudes y comportamientos negativos relacionados con la [realización de elecciones y el resultado electoral](https://www.idea.int/our-work/what-we-do/elections/information-environment-around-elections). La desinformación en elecciones tiene impactos en la percepción, actitud y comportamiento de los electores hacia los procesos, instituciones y personas involucradas en la organización de las elecciones.
+
+Recientemente se documentaron en México dos casos de propagación deliberada de información falsa para disminuir la credibilidad de los actores y procesos electorales. El primero consistió en el despliegue de una ola de mensajes sin sustento [sobre la ministra presidenta de la Suprema Corte](https://www.animalpolitico.com/verificacion-de-hechos/te-explico/cuentas-pro-amlo-desinformacion-ministra-pina)de Justicia de la Nación, Norma Piña, por parte de cuentas en redes sociales favorables al gobierno federal. Los mensajes acusan a la ministra de supuestos vínculos con el narcotráfico, corrupción y de influir en la liberación del hijo del *Chapo* Guzmán, Ovidio, hecho ostensiblemente falso. Todo ello en la víspera de la discusión en la Corte sobre las controversias constitucionales presentadas contra el Plan B de reforma electoral, promovido por el partido en el poder para limitar las atribuciones y controles del Instituto Nacional Electoral (INE).
+
+El segundo episodio fue la difusión viral de [una supuesta imagen del Ministro Javier Laynez](https://elpais.com/mexico/2023-04-02/javier-laynez-un-ministro-discreto-en-el-ojo-del-huracan-por-el-plan-b-de-lopez-obrador.html), de la misma Suprema Corte, alcoholizado y en ropa interior, que resultó ser en realidad de un cantante no muy conocido. El ministro Laynez había dado entrada a la demanda del INE precisamente contra el Plan B, suspendiendo temporalmente su aplicación. Estos casos se suman a una campaña sistemática de ataques contra las instituciones electorales —el INE y el Tribunal Electoral del Poder Judicial de la Federación— reducciones de presupuesto e intentos de influir en los procedimientos de designación de los consejeros ciudadanos.
+
+Cuando la desinformación surge de actores políticos, más aún, cuando proviene de integrantes de las instituciones del estado, convertidos en agentes activos en la propagación de narrativas engañosas, se violentan los derechos políticos de las personas y se erosionan los fundamentos mismos de la democracia.
+
+La difusión intencional de noticias falsas, calumnias y campañas generadoras de incertidumbre, afecta la confianza ciudadana en lo público, pero también limita la posibilidad de conocer, decidir con base en hechos confiables y ejercer el voto en libertad plena. La desinformación afecta igualmente el derecho de acceso a información de calidad, manipula y siembra dudas sobre la integridad del proceso electoral y sobre la legitimidad de nuestros instrumentos para transmitir pacíficamente el poder político.
+
+Lo que muy probablemente veamos en los ciclos electorales de 2023 y 2024 serán procesos envenenados por la propaganda digital, señalamientos falaces contra funcionarios electorales y judiciales, difusión de encuestas falsas para convencer a los indecisos, rumores y activistas propagando teorías conspirativas, montajes y discursos de odio. Esta contaminación psicológica se aprovecha de nuestras vulnerabilidades y propensión a reforzar nuestros prejuicios y preferencias políticas.
+
+En México transitamos por una decadencia progresiva del valor de la verdad, y por el fortalecimiento de un ambiente comunicacional en el que se permite la mentira, se construyen realidades (*post verdades*) desde el poder y se incita al rencor y a la incivilidad. La concentración de la comunicación política en unas cuantas voces y la repetición constante de mensajes divisivos han estimulado que la búsqueda de la verdad sea menos relevante que el hambre de caos, violencia y confusión.
+
+No menos importante es que la desinformación alimenta la polarización, reduce nuestra capacidad de diálogo, convivencia y entendimiento con los demás. Genera estados de opinión que favorecen la inestabilidad social, la desconfianza interpersonal y el sentido de pertenencia a la comunidad política.
+
+Por eso el tema debe preocuparnos y convocarnos a la acción. Debemos construir resiliencia social, capacidad crítica para identificar contenidos de baja calidad, fomentar la confianza en los medios profesionales, promover ejercicios de *fact-checking*, así como recuperar el papel que desempeñan los hechos, los datos y el análisis en el discurso político y en la vida pública nacional. Tal vez no alcance el tiempo para los próximos procesos electorales, pero avanzar en esa dirección será imperativo para revertir la vulneración de derechos políticos y el deterioro democrático por el que atraviesa el país.
