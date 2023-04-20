@@ -9,7 +9,7 @@ extracto: Organizaciones de la sociedad civil, entre ellas Ethos, hicimos un
   llamado urgente al Senado Mexicano para que realice los nombramientos de
   personas comisionadas pendientes en el INAI.
 ---
-Dentro de la V Cumbre Nacional de Gobierno Abierto, organizado por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales (INAI), 13 organizaciones de la sociedad civil emitimos nuestro posicionamiento ante la falta de nombramientos de tres personas coordinadoras en ese organismo.
+Dentro de la V Cumbre Nacional de Gobierno Abierto, organizado por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales (INAI), 13 organizaciones de la sociedad civil emitimos nuestro posicionamiento ante la falta de nombramientos de tres personas comisionadas de ese organismo.
 
 Liliana Alvarado, directora general de Ethos, destacó la relevancia que tienen la transparencia y el acceso a la información en el combate a la corrupción, y el papel del INAI para garantizar que la ciudadanía pueda acceder a ellas.
 
