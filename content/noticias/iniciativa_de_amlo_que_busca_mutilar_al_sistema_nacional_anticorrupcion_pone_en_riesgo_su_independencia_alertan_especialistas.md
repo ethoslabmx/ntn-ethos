@@ -1,7 +1,7 @@
 ---
 title: Iniciativa de AMLO que busca mutilar al Sistema Nacional Anticorrupción
   pone en riesgo su independencia, alertan especialistas
-date: 2023-04-19T16:12:08.653Z
+date: 2023-04-19T19:12:00.000Z
 img: https://ucarecdn.com/d8ea2746-35c0-46b2-80ec-8d2d7fc0f795/
 img-alt: Dalia Toledo, Ethos
 autor: Tania Rosas, Latinus
