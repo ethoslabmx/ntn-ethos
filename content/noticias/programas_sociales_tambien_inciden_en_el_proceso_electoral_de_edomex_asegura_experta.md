@@ -6,7 +6,7 @@ img: https://ucarecdn.com/3d3061e0-7a07-4132-b301-7b7e05eacae7/
 img-alt: Salario rosa Edomex
 autor: "Monserrat Mata, Milenio "
 link: https://www.milenio.com/politica/elecciones/programas-sociales-influir-decision-voto-edomex
-category: anticorrupcion
+category: inclusion
 extracto: “Me perece importante lo que se está viviendo en el Estado de México,
   porque estamos hablando del tipo de programas sociales que más poder tienen
   para influir sobre el voto”, señaló Laure Delalande.
