@@ -1,5 +1,5 @@
 ---
-puesto: Especialista en materia fiscal
+puesto: "Especialista en materia fiscal "
 category: vacantes
 date: 2023-04-10T18:45:48.086Z
 ---
@@ -36,7 +36,7 @@ date: 2023-04-10T18:45:48.086Z
 
 ## [](https://www.ethos.org.mx/ethos/bolsa_trabajo/especialista_junior_en_materia_fiscal#condiciones)[](https://www.ethos.org.mx/ethos/bolsa_trabajo/comunicacion#condiciones)CONDICIONES
 
-* Salario de 25,000 a 30,000 pesos mexicanos según aptitudes.
+* Salario de 30,000 a 40,000 pesos mexicanos según aptitudes.
 * Tiempo completo. Se aplicará un periodo de prueba (con remuneración) de 3 meses.
 * M﻿odalidad híbrida en Ciudad de México.[](https://www.ethos.org.mx/ethos/bolsa_trabajo/especialista_junior_en_materia_fiscal#enviar-cv-y-carta-de-intenci%C3%B3n-a)[](https://www.ethos.org.mx/ethos/bolsa_trabajo/comunicacion#enviar-cv-a)
 
