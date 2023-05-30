@@ -1,40 +1,36 @@
 ---
 puesto: Inclusión y Desarrollo Sostenible
 category: internships
-date: 2023-01-05T19:54:54.954Z
+date: 2023-05-30T19:54:54.954Z
 area: Inclusión y Desarrollo Sostenible
 ---
 ### PERFIL ACADÉMICO
 
 Carrera: Relaciones Internacionales, Políticas Públicas, Sociología, Economía, o afines.
 
-Intereses: Cambio climático, recuperación sostenible, desarrollo sostenible e inclusión social.
+Intereses: Género, trabajo de cuidados, autonomía económica  
 
 ### RESPONSABILIDADES
 
-* Coordinación de reuniones y realización de minutas. 
-* Apoyo en investigación y análisis sobre adaptación al cambio climático y recuperación sostenible a nivel local, nacional e internacional.
-* Apoyo en la coordinación de eventos online a través de plataformas virtuales (Zoom, Google Meet, Microsoft Teams, etc.)
+* Apoyo en investigación y análisis sobre programas sociales con enfoque de género. En particular interpretación de datos y generación de reportes. 
+* Coordinación de reuniones y realización de minutas. 
 * Seguimiento en las tareas de gestión de la información.
+* Apoyo en la coordinación de eventos online a través de plataformas virtuales (Zoom, Google Meet, Microsoft Teams, etc.)
 
 ### REQUISITOS
 
-* Excelente organización y responsabilidad.
-* Excelentes capacidades de comunicación.
-* Conocimiento en políticas sobre medio ambiente, cambio climático y desarrollo sostenible.  
-* Conocimiento en cuestiones de inclusión social: género, clase, racialización. 
+* Análisis de datos. 
+* Conocimiento en políticas sobre género y programas sociales.  
+* Excelente redacción en español (se realizará prueba).   
+* Conocimiento en cuestiones de inclusión social: género, clase, racialización. 
 * Estar en los últimos semestres de la carrera o ser recién egresado. 
-* Buena redacción en español (se realizará prueba).
-* Uso de Google Docs.
+* Excelente organización y responsabilidad.
 
 ### OFRECEMOS
 
 * Validación de horas de prácticas profesionales o servicio social. 
-* Trabajo directo con especialistas en desarrollo sostenible y cambio climático.
-* Oportunidad para ampliar tu CV y tus habilidades obteniendo experiencia en un think tank.
-* Ser parte de un equipo joven y dinámico.
+* Trabajo directo con especialistas en género y programas sociales.
 * Desarrollar la práctica de trabajar por objetivos no por horas.
-* Modalidad de trabajo híbrido.
 
 ### CONDICIONES
 
