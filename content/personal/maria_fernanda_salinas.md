@@ -1,6 +1,6 @@
 ---
 nombre: María Fernanda Salinas
-foto: https://ucarecdn.com/42db7d3b-5184-4bdb-8fae-829a76167f98/
+foto: https://ucarecdn.com/ae32bcc3-e5e9-44cd-8857-e9b9773b11bc/
 puesto: Pasante
 area: programa de internship
 pos: 2
