@@ -3,7 +3,7 @@ nombre: JACQUES STROOBANTS
 foto: https://ucarecdn.com/37d615b6-3d63-4fec-bda1-7f6aabbfe8dd/
 puesto: Coordinador de Finanzas Públicas
 area: finanzas públicas y anticorrupción
-pos: 2
+pos: 1
 semblanza: "Economista graduado del CIDE, con especialización en econometría por
   la Universidad de Montreal. Cuenta con 22 años de experiencia trabajando en
   investigación económica, impuestos, incentivos fiscales, auditorías,
