@@ -1,5 +1,5 @@
 ---
-nombre: Jacques Stroobants
+nombre: JACQUES STROOBANTS
 foto: https://ucarecdn.com/37d615b6-3d63-4fec-bda1-7f6aabbfe8dd/
 puesto: Coordinador de Finanzas Públicas
 area: finanzas públicas y anticorrupción
