@@ -44,5 +44,3 @@ Dalia Toledo
 d﻿alia.toledo@ethos.org.mx
 
 E﻿nviar postulación con el asunto: Pasantía Anticorrupción[](mailto:berenice.valencia@ethos.org.mx)
-
-**Enviar postulación con el asunto «Intern Inclusión y Desarrollo Sostenible»**
