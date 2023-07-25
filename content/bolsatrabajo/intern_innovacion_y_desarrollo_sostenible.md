@@ -1,7 +1,7 @@
 ---
 puesto: Innovación y Desarrollo Sostenible
 category: internships
-date: 2023-05-30T19:54:54.954Z
+date: 2023-07-25T23:21:17.531Z
 area: Inclusión y Desarrollo Sostenible
 ---
 ### PERFIL ACADÉMICO
@@ -44,4 +44,4 @@ Berenice Valencia
 
 [berenice.valencia@ethos.org.mx](mailto:berenice.valencia@ethos.org.mx) 
 
-**Enviar postulación con el asunto «Intern Inclusión y Desarrollo Sostenible»**
+**Enviar postulación con el asunto «Intern   Inclusión y Desarrollo Sostenible»**
