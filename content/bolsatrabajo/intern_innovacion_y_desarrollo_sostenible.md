@@ -1,5 +1,5 @@
 ---
-puesto: Inclusión y Desarrollo Sostenible
+puesto: Innovación y Desarrollo Sostenible
 category: internships
 date: 2023-05-30T19:54:54.954Z
 area: Inclusión y Desarrollo Sostenible
