@@ -10,6 +10,8 @@ Carrera: Relaciones Internacionales, Políticas Públicas, Sociología, Economí
 
 Intereses: Género, trabajo de cuidados, autonomía económica
 
+.﻿
+
 ### RESPONSABILIDADES
 
 * Apoyo en investigación y análisis sobre programas sociales con enfoque de género. En particular interpretación de datos y generación de reportes. 
