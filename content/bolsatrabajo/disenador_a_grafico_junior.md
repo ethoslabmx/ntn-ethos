@@ -33,7 +33,7 @@ date: 2023-08-22T21:18:45.352Z
 
 ## CONDICIONES
 
-* 12,000 a 15,000 según aptitudes.
+* 12,000 a 15,000 pesos mensuales, según aptitudes. 
 * Tiempo completo. Se aplicará un periodo de prueba (con remuneración) de 3 meses.    
 
 ## MODALIDAD
