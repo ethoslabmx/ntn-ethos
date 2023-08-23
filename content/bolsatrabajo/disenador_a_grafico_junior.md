@@ -14,19 +14,15 @@ date: 2023-08-22T21:18:45.352Z
 * Grabar y editar videos. 
 * Apoyar en la logística de eventos presenciales y virtuales.
 
-
-
 ## REQUISITOS
 
-*  3 a 5 años de experiencia profesional relevante para el  puesto.
+* 2 a 4 años de experiencia profesional relevante para el  puesto.
 * Habilidades intermedias - avanzadas de diseño editorial y edición de video. 
 * Dominio de  Adobe Creative Suite y Google WorkSpace.
 * Conocimientos intermedios de fotografía y video. 
 * Capacidad para comunicar ideas al equipo y evaluar procesos de diseño. 
 * Disponibilidad para viajar. 
 * Organización, responsabilidad y trabajo en equipo.
-
-
 
 ## OFRECEMOS
 
@@ -35,20 +31,16 @@ date: 2023-08-22T21:18:45.352Z
 * Ser parte de un equipo multidisciplinario, multicultural y dinámico
 * Trabajo directo en proyectos que tienen incidencia en el desarrollo social del país
 
-
-
 ## CONDICIONES
 
-* Ethos ofrece sueldos competitivos, con el objetivo de contar con el personal más preparado y profesional. 
+* 12,000 a 15,000 según aptitudes.
 * Tiempo completo. Se aplicará un periodo de prueba (con remuneración) de 3 meses.    
-
-
 
 ## MODALIDAD
 
-H﻿íbrida de 10:00 a 18:00 h
+H﻿íbrida* de 10:00 a 18:00 h
 
-
+Á﻿rea de trabajo en el WeWork de Montes Urales 424.
 
 ## ENVIAR CV Y BOOK A:
 
