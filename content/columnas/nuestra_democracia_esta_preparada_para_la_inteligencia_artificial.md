@@ -1,0 +1,47 @@
+---
+title: ¿Nuestra democracia está preparada para la Inteligencia Artificial?
+date: 2023-08-28T21:31:54.851Z
+img: https://ucarecdn.com/100a24fd-15eb-4212-a01e-48eb9190c622/
+img-alt: Inteligencia artificial y democracia
+autor: Javier González
+medio: La Lista
+link: https://la-lista.com/opinion/2023/08/28/nuestra-democracia-esta-preparada-para-la-inteligencia-artificial
+category: think-tanks
+extracto: "En momentos electorales como los que se aproximan, preocupan las
+  implicaciones de la IA para la salud de las democracias: puede convertirse en
+  una herramienta para el engaño y la manipulación, para influir en las
+  preferencias de los votantes, alimentar la desinformación, afectar la libertad
+  de expresión y magnificar el desprestigio de nuestras ya de por sí vapuleadas
+  instituciones electorales."
+---
+A principios de 2018 se dieron los primeros pasos para la planificación de una Estrategia Nacional de Inteligencia Artificial (AI), encabezada por el gobierno federal y algunas agencias de cooperación como la Embajada Británica. Por esas mismas fechas, México se incorporó a los Principios del Observatorio de la OCDE sobre Inteligencia Artificial (IA) y se crearon espacios desde la sociedad civil como la coalición IA2030MX, la Alianza en Inteligencia Artificial y la Sociedad Mexicana de Inteligencia Artificial.
+
+A pesar de estos esfuerzos colaborativos, el cambio de gobierno federal supuso el abandono de agendas centrales para la incorporación de México a la economía digital y del conocimiento. Un ejemplo es precisamente la IA: en lo que va del sexenio, no se han creado mecanismos, programas o iniciativas encaminadas a definir dónde estamos parados como país frente a tecnologías emergentes.
+
+Para variar, la irrupción de la IA generativa nos tomó por sorpresa. Tan ocupados como estamos en otros asuntos, apenas se han organizado foros de análisis para evaluar los riesgos y oportunidades de la IA, las consideraciones éticas y los aspectos regulatorios que tarde o temprano habremos de poner en marcha.
+
+En momentos electorales como los que se aproximan, preocupan las implicaciones de la IA para la salud de las democracias: puede convertirse en una herramienta para el engaño y la manipulación, para influir en las preferencias de los votantes, alimentar la desinformación, afectar la libertad de expresión y magnificar el desprestigio de nuestras ya de por sí vapuleadas instituciones electorales.
+
+Por otra parte, actores maliciosos pueden difundir propaganda a favor de regímenes autocráticos, o utilizar la tecnología para vincular las cédulas de identificación personal con el acceso a programas sociales y el comportamiento del voto, lo que representaría una nueva capa de [vigilancia del estado](https://www.americasquarterly.org/article/the-ai-revolution-is-coming-for-latin-america-is-it-ready/). Además, como ha advertido el escritor israelí Yuval Noah Harari, al alterar la forma en que se produce el lenguaje, la inteligencia artificial podría destruir nuestra capacidad para tener conversaciones significativas, lo que a su vez destruiría la [democracia](https://www.economist.com/by-invitation/2023/04/28/yuval-noah-harari-argues-that-ai-has-hacked-the-operating-system-of-human-civilisation).
+
+Más allá de su posible influencia sobre la democracia y la integridad de las elecciones, resulta aún más preocupante el potencial de la IA para causar daño y socavar los derechos humanos, en el cortísimo plazo. En un país con altos niveles de analfabetismo digital, los abusivos pueden emplear la tecnología para aprovechar vulnerabilidades, robar datos personales, afectar la dignidad o lanzarse contra la buena reputación de las personas.
+
+El despliegue de la **IA** ha detonado un intenso debate sobre su capacidad para comportarse de forma ética, respetando derechos y libertades fundamentales. Esto significa ser conscientes de las implicaciones que puede traer la toma de decisiones automatizada y el llamado perfilamiento de las personas en función de sus características, preferencias y comportamientos.
+
+De acuerdo con una interesante guía recientemente publicada por *DAI*, las consideraciones éticas son evidentes en escenarios donde los vehículos autónomos deben tomar decisiones ante un choque inevitable; en casos donde los sistemas de reconocimiento facial operan con sesgos raciales, de género, edad o prejuicios hacia personas con discapacidad; o bien cuando existen prácticas discriminatorias en los sectores bancario y de seguros, basadas en el procesamiento de datos sesgados. En otros casos, las personas pueden culpar a los algoritmos por injusticias que impactan negativamente sus vidas, como que sus hijos sean rechazados de una universidad o que, basados en sistemas automatizados, los jueces nieguen la libertad bajo fianza a quienes [tienen derecho](https://www.policylab.tech/_files/ugd/0e03be_5d21a0fb94f4499fb952d3714acde220.pdf) a ella.
+
+Otra implicación ética de la IA es su potencial para incrementar la desigualdad. En México existe todavía una relevante brecha digital, por lo que la sola capacidad de acceder a estos dispositivos puede ser un factor de regresividad. No todos los estratos sociales cuentan con las mismas condiciones/facilidades para utilizar, entender y procesar la nueva información. Y quienes podrán beneficiarse de las tecnologías para ampliar sus conocimientos o conectarse a la economía digital serán los grupos dominantes, tomando ventaja de los sectores más vulnerables.
+
+No pienso que estemos frente a riesgos existenciales como las pandemias o las guerras nucleares, o frente a amenazas planetarias con potencial de destrucción civilizatoria, como el cambio climático.  Por el contrario, como otras tecnologías en el pasado, la IA tiene el potencial de procesar grandes cantidades de información, creando conocimiento nuevo y útil. Los sistemas nos permitirán monitorear más eficientemente las tendencias sociales y epidémicas, generar soluciones a problemas complejos como el calentamiento global y la superación del hambre, así como motivar el crecimiento económico, la innovación y la competencia.  Como afirmaba Isaac Asimov, una máquina no se vuelve contra su creador si está diseñada apropiadamente.
+
+No podemos dormir en nuestros laureles, esperando pasivamente que otros países desarrollen leyes y prácticas para importarlas después. Las preocupaciones son reales, y pronto estaremos frente a casos de violación de derechos humanos, ya sea en cuestiones médicas, casos de contratación de personal, evaluaciones criminales, o frente a decisiones racistas y sexistas o que invisibilicen grupos minoritarios.
+
+Actualmente, en regiones como la Unión Europea hay mecanismos y normas que encaran los sesgos algorítmicos, así como los peligros para la privacidad y los derechos de propiedad intelectual. Por ejemplo, algunos usos de la IA se han prohibido directamente, como la publicidad subliminal, la vigilancia biométrica remota y algunos aspectos del reconocimiento facial. También se ha sugerido la realización de verificaciones de seguridad antes del lanzamiento de nuevas aplicaciones, acompañadas de evaluaciones de riesgos éticos, legales y de derechos humanos.
+
+Una pregunta central para el entorno mexicano será cómo garantizar el derecho a la no discriminación por cualquier motivo, así como el respeto a la dignidad y el principio de igualdad jurídica de las personas, pues los prejuicios de los programadores y los sesgos de los dispositivos pueden estar entremezclados en la caja negra de la IA.  Igualmente, será fundamental identificar la responsabilidad de los errores y la posible generación de noticias falsas, *deep fakes*, teorías conspiratorias o información difamatoria o degradante de la dignidad.
+
+[](<>)Ante este panorama, dudo mucho de la capacidad del gobierno actual para empezar siquiera a tratar el tema con seriedad, involucrando a todos los sectores sociales, sensibilizando y delineando rutas de acción, con enfoque en la protección de las personas. No se ven las condiciones institucionales para empezar a diagnosticar los problemas, valorar amenazas, diseñar reglas y sus mecanismos de implementación. No hay presupuestos asignados, ni siquiera está claro a qué actor le correspondería, qué dependencia o entidad gubernamental tendría las atribuciones necesarias, no existen los equipos especializados que pudieran estudiar las prácticas internacionales, realizar evaluaciones de riesgo de nuevos dispositivos, entre otras tareas.
+
+Lo más grave es que no están identificados los mecanismos institucionales que las personas pueden activar para hacer exigibles sus derechos, denunciar ilícitos y solicitar la reparación de los posibles daños derivados de la IA. Con la elección federal a menos de un año, y la discusión dominada por la competencia política y los inhumanos casos de violencia en el país, no podrán alcanzarse las condiciones próximamente, no parece ser una preocupación de nadie, salvo un puñado de organizaciones civiles, especialistas y agencias de cooperación internacional.
+
+Como ya adelantamos, lo más probable es que nos mantengamos a la expectativa del desarrollo de los modelos regulatorios de otras regiones del mundo, mal adaptar sus prácticas, y llegar tarde a la fiesta. Lo malo es que para cuando eso suceda se habrán presentado ya múltiples afectaciones a los derechos de las personas, que quedarán, como casi siempre, en la más negligente impunidad.
