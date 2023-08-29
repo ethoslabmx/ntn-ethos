@@ -4,7 +4,7 @@ date: 2015-10-01T22:01:18.798Z
 img: https://ucarecdn.com/978aec3c-750d-409a-bfcc-44cf5996c5a4/
 autor: José Luis Chicoma, Ernesto Urbina, Yahir Acosta, Aleithya Morales, Sofia
   Alessio, José Carlos Sierra, Christine Zülow
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Define detalladamente los pasos para la implementación de APPs
   utilizando la Ley de Obra Pública para el desarrollo de Infraestructura en
   I+D.
