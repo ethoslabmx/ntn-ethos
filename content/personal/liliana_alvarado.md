@@ -17,6 +17,6 @@ semblanza: Maestra en Políticas Públicas y Administración (LSE) y licenciada 
   anticorrupción, gasto y política fiscal. Adicionalmente, es comentarista para
   Grupo Fórmula en el noticiero de Eduardo Ruiz Healy y columnista invitada en
   el periódico El Economista.
-email: liliana.alvarado@ethos.org.mx
+email: ""
 twitter: "@lilialvaradob"
 ---
