@@ -1,0 +1,32 @@
+---
+title: "Pesca y sistemas alimentarios sostenibles en México: una discusión necesaria"
+date: 2022-09-29T19:43:10.829Z
+img: https://ucarecdn.com/aaab1478-aea0-45c5-a786-6a49f15e208d/
+img-alt: "Del mar a la mesa: Pesca y Sistemas Alimentarios Sostenibles en México"
+autor: Ethos
+category: desarrollo-sostenible
+extracto: Es importante fortalecer la pesca y acuacultura, su papel en los
+  sistemas alimentarios y la seguridad alimentaria en México, a través de
+  cambios estructurales que involucren a todos los actores de este sector.
+---
+El cambio climático, entre otrosa retos, trae consigo el de garantizar la seguridad alimentaria para una población global en crecimiento. Es decir, que las generaciones actuales y futuras tengan acceso a alimentos nutritivos, inocuos y suficientes, sin agotar los recursos existentes. Como parte de la solución, la pesca y acuacultura sostenible deben ser consideradas en la transformación y fortalecimiento de los sistemas alimentarios.
+
+En la pasada Conferencia de las Naciones Unidas sobre los Océanos, por primera vez, se reconoció el potencial de los alimentos acuáticos como catalizadores de este cambio. Para insertar a nuestro país en esta conversación internacional, Ethos Innovación en Políticas Públicas y Environmental Defense Fund de México, con el apoyo de Tinker Foundation, organizaron el foro «Del mar a la mesa: Pesca y Sistemas Alimentarios Sostenibles en México».
+
+Laure Delalande, Directora de Inclusión y Desarrollo Sostenible de Ethos, explicó que uno de los objetivos del foro es crear una agenda que vincule la pesca con los sistemas alimentarios. “Para que la pesca se vuelva parte de la discusión sobre sistemas alimentarios, tenemos que transitar de una política que se mueve según los intereses de ciertos grupos, a una política que busque el bien común”, dijo. Por su parte, Rafael Ortíz, Director General de la Iniciativa de Pesquerías Resilientes y Océanos de EDF de México, señaló que “el trabajo colaborativo es un elemento clave para lograr el objetivo del foro”.
+
+Por su parte, Pablo Arenas, Director General del Instituto Nacional de Pesca, destacó que la pesca y acuacultura deben generar mayor producción y valor agregado, a través de la obtención de certificaciones de las pesquerías, la promoción de los proyectos de mejora pesquera (FIPs), impulsar la trazabilidad y la investigación, así como trabajar en la regeneración de los recursos naturales, para que la proteína proveniente del mar, se posicione dentro de los sistemas alimentarios en México.
+
+Andrew Rhodes, Coordinador de Instrumentación de Acuerdos y Recomendaciones del Panel de Alto Nivel para una Economía Oceánica Sostenible, de la Secretaría de Relaciones Exteriores de México, resaltó que México, como parte del Panel de Alto Nivel para una Economía Oceánica Sostenible, está comprometido a avanzar en la protección efectiva de mares, costas, océanos, mientras se hace una producción sostenible para garantizar una distribución justa y equitativa de los recursos.
+
+En un videomensaje, el Embajador Stefán Jón Hafstein, Presidente de la Coalición para los Alimentos Acuáticos, enviado especial de Islandia para los Océanos, destacó que los trabajos de este Foro deben replicarse a escala global, ya que el tema de la pesca y acuacultura rara vez se incluye dentro del diálogo internacional sobre sistemas alimentarios sostenibles, a pesar de que 3 billones de personas dependen de esta fuente de alimentos directa o indirectamente. Al finalizar, declaró que extenderá una invitación para que México forme parte de la Coalición.
+
+El evento propició la oportunidad de escuchar la experiencia y perspectivas de un gran número de especialistas pertenecientes al sector público y privado, quienes a través de cuatro ponencias y un panel de discusión, aportaron su experiencia y perspectivas. La primera ponencia estuvo a cargo de Lina Pohl, representante de la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) México. En su intervención, destacó que el sector de la pesca y acuacultura sostenibles debe fortalecerse desde la política pública, y aseguró que México tiene un enorme potencial para transformar los sistemas alimentarios y acercarse a las metas de los ODS de la Agenda 2030.
+
+Abigail Benett, del Departamento de Pesca y Vida Silvestre de la Universidad Estatal de Michigan, enfatizó la importancia de integrar la pesca en la agenda de sistemas alimentarios. Más tarde, Teresa Shamah, Directora del Centro de Investigación en Evaluación y Encuestas del Instituto Nacional de Salud Pública, habló del contexto de la malnutrición en México y expuso cómo la pesca y los alimentos acuáticos son fundamentales en la construcción de sistemas alimentarios más saludables.
+
+En la última ponencia, César Salinas y Verónica Morales, del Centro de Investigaciones Biológicas del Noroeste S.C., compartieron un caso de éxito sobre los aportes de la proteína marina al mejoramiento de la dieta en México, a partir de un caso de éxito: la merluza. Este proyecto de colaboración interinstitucional incorporó a la merluza en comedores escolares para evaluar su aceptación entre menores de edad. En tres años de análisis, llegaron a la conclusión de que la merluza es una especie de enorme potencial comercial, tanto como producto gourmet como de consumo cotidiano, que aún no es aprovechado en México.
+
+Para concluir el evento, se llevó a cabo el panel de discusión “Visión para el sector pesquero en la agenda alimentaria”, moderado por Juan Manuel Calderón, Director de Políticas Públicas de EDF de México. En este participaron José Luis Carrillo, de la Confederación Mexicana de Cooperativas Pesqueras y Acuícolas; Citlalti Gomez, del Consejo Mexicano de Promoción de los Productos Pesqueros y Acuícolas; y Diana Delgadillo, de The Hunger Project México.
+
+El foro cerró con algunas recomendaciones: fortalecer la pesca y acuacultura a través de políticas públicas pesqueras más robustas; promover el consumo de los alimentos acuáticos y fortalecer su papel en los sistemas alimentarios y la seguridad alimentaria en México; consolidar la gobernanza y participación a nivel de las comunidades costeras, con un enfoque de género; promover la acuacultura rural; invertir en la investigación científica como base para la toma de mejores decisiones y, reforzar cambios estructurales que involucren a todos los actores de este sector.
