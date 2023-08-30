@@ -4,7 +4,7 @@ date: 2022-11-29T20:51:00.916Z
 img: https://ucarecdn.com/49c48c51-a735-4456-99d2-4218d1d9acfa/
 img-alt: Sebastián Guzmán Ethos
 autor: Ethos
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Sebastián Guzmán participó en el foro Eficiencia Energética en
   Ciudades y Municipios, organizado por la CONUEE, en el que compartió los
   hallazgos y las recomendaciones más relevantes en materia de gestión del agua.
