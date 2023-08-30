@@ -5,7 +5,7 @@ img: https://ucarecdn.com/62e08703-70d7-4bca-a038-8c12356539dd/
 img-alt: Torres de electricidad
 autor: Gabriela Francovigh, Energía Estratégica
 link: https://www.energiaestrategica.com/ethos-advierte-tres-aspectos-claves-que-explican-la-crisis-energetica-en-mexico/
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Especialistas del think tank alertan que el estado de emergencia
   energética emitido por el CENACE fue el desenlace de medidas del Gobierno
   basadas en ideales políticos de "alcanzar la soberanía energética" y no de
