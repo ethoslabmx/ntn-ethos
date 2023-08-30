@@ -3,7 +3,7 @@ title: Piden mejorar transparencia en proyectos de APP
 date: 2019-11-21T05:50:50.528Z
 img: https://ucarecdn.com/f8586e4f-f27c-4eec-bdd9-846af366b967/
 autor: El Heraldo de México
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: "Las Asociaciones Público-Privadas (APP) pueden ser instrumentos
   adecuados pero es necesario mejorar la transparencia de los proyectos que se
   financian a través de estos esquema, reveló un reporte de Ethos laboratorio de
