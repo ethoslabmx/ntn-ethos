@@ -3,7 +3,7 @@ title: México uno de los países más vulnerables al cambio climático
 date: 2019-02-19T10:58:45.909Z
 img: https://ucarecdn.com/fe817d09-d0b9-42db-b1d3-a961532ce4d6/
 autor: Ethos
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Expertos y representantes de la sociedad civil consideran urgente
   transitar a una economía basada en energías renovables para combatir el cambio
   climático y a su vez garantizar beneficios económicos y sociales en el corto,
