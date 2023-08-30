@@ -4,7 +4,7 @@ date: 2023-05-22T16:58:29.658Z
 img: https://ucarecdn.com/32fc94e2-635c-47e6-853d-3cfc1ca15861/
 autor: Azucena Vásquez, Reforma
 link: https://www.reforma.com/sobreejerce-cfe-17-5-su-gasto-programado/ar2608802?referer=--7d616165662f3a3a6262623b727a7a7279703b767a783a--
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: El año pasado, la Comisión Federal de Electricidad (CFE) gastó 78 mil
   711 millones de pesos más de lo programado, debido a que desembolsó mayores
   recursos para combustibles fósiles.
