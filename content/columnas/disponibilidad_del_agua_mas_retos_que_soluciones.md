@@ -5,7 +5,7 @@ img: https://ucarecdn.com/91df218a-5539-468c-a39b-950b1acc54ad/
 autor: Sebastián Guzmán y Carla Jiménez
 medio: Animal Politico
 link: https://www.animalpolitico.com/blog-invitado/disponibilidad-del-agua-mas-retos-que-soluciones/
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: En 1995, el multipremiado actor californiano Kevin Costner protagonizó
   la película Waterworld. Aunque en su momento no tuvo el éxito esperado e
   incluso algunos de sus actores fueron nominados a los premios Razzie con los
