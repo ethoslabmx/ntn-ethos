@@ -5,7 +5,7 @@ img: https://ucarecdn.com/bcf5b836-9c3a-41a2-afc1-c610a175fa3c/
 autor: Sebastián Guzmán
 medio: Expansión.
 link: https://expansion.mx/opinion/2021/06/01/servicios-publicos-eficientes-reto-metropolitano
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Los servicios públicos representan ‘la cara más aparente del
   gobierno’ y deben ser visualizados como un sistema, el cual va más allá de
   solo cubrir un conjunto de necesidades sociales. Estos cumplen un rol
