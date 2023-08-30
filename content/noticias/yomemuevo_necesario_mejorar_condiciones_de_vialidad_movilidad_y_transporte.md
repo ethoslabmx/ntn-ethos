@@ -3,7 +3,7 @@ title: "#YoMeMuevo: Necesario mejorar condiciones de vialidad, movilidad y trans
 date: 2018-04-26T10:00:28.292Z
 img: https://ucarecdn.com/8413a596-ee83-4ed9-8f61-5e61049f98f7/
 autor: Ethos Laboratorio de Políticas Públicas
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: La movilidad sostenible y segura debe ser parte esencial de todos los
   programas de gobierno. Alrededor de **14 organizaciones de la sociedad
   civil** lanzamos [\#YoMeMuevo](http://yomemuevo.org/), una iniciativa que
