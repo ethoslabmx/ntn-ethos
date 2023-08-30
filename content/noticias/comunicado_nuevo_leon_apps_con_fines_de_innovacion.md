@@ -5,7 +5,7 @@ img: https://ucarecdn.com/46f98f28-8ce1-4173-9268-21a13734321d/
 autor: José Luis Chicoma, Stephen Birtwistle, Ángeles Rodríguez, Aleithya
   Morales, Sofía Alessio
 link: https://www.ethos.org.mx/wp-content/uploads/2016/03/comunicado-nuevoleon.pdf
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Nuevo León tiene una participación destacada en activdades de CTI. A
   trravés de las APPs puede potencializar su inversión e impacto.
 ---
