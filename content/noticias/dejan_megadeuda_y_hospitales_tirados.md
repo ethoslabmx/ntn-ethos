@@ -4,7 +4,7 @@ date: 2018-06-04T22:00:51.350Z
 img: https://ucarecdn.com/ddf3927d-e5d9-48ec-b5d0-50af7f39f6a5/
 autor: Natalia Vitela
 link: https://www.reforma.com/aplicacioneslibre/articulo/default.aspx?id=1410591&md5=26880e0e22404e1543cb288823e08905&ta=0dfdbac11765226904c16cb9ad1b2efe&lcmd5=884dd6b03da56a725e13660b007e74d1
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: El Gobierno dejará a las administraciones de los próximos 25 años una
   deuda de 104 mil millones de pesos por 8 hospitales que serán construidos y
   operados por particulares con contratos asignados en 2017, un año antes de
