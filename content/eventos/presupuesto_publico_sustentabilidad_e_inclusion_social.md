@@ -4,7 +4,7 @@ date: 2020-11-20T06:05:30.630Z
 img: https://ucarecdn.com/8800e0dc-2829-4ee0-b8a4-bf4d5199a16c/
 autor: Ethos
 link: https://www.youtube.com/watch?v=rZYMfxPxZrU&t=12s
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Con el objetivo de visibilizar la importancia del presupuesto público
   como una herramienta para avanzar la agenda de reactivación transformadora,
   justa y sostenible, e identificar retos políticos, técnicos y prácticos en el
