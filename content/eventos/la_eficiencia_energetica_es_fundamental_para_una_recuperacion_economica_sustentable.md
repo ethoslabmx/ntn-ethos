@@ -4,7 +4,7 @@ title: La eficiencia energética es fundamental para una recuperación económic
 date: 2021-02-04T06:16:09.754Z
 img: https://ucarecdn.com/85535f39-5214-435c-ab43-789bd0d69387/
 autor: Ethos Laboratorio de Políticas Públicas
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: "Como parte de la alianza Latinoamérica Sostenible, conformada por
   Espacio Público, de Chile; Transforma, de Colombia, y Ethos, de México,
   elaboramos el policy brief denominado «Eficiencia Energética: un plan para la
