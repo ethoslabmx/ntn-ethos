@@ -5,7 +5,7 @@ date: 2022-04-12T01:01:39.545Z
 img: https://ucarecdn.com/15909b13-0dcc-4670-aee9-b01fb925a2f7/
 autor: " Francisco Muciño"
 link: https://www.altonivel.com.mx/economia/como-afectaria-la-reforma-electrica-a-la-inversion-extranjera-y-a-la-propia-cfe/
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: El destino de miles de millones de dólares en inversiones estará en
   juego en el Congreso de la Unión cuando se discuta y, en su caso se apruebe,
   una reforma constitucional para cambiar las reglas del juego en el sector
