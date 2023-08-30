@@ -6,7 +6,7 @@ img-alt: Soberanía energética
 autor: Sebastián Guzmán y Mariella Lona
 medio: Expansión
 link: https://expansion.mx/opinion/2023/07/12/la-soberania-energetica-que-no-llego
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Lo que hoy se vive en torno al sector energético nacional, lejos de
   ser una manipulación de la información de la prensa “conservadora”, es parte
   de las consecuencias de una mala estrategia.
