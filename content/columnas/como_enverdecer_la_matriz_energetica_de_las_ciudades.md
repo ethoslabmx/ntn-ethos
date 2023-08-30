@@ -5,7 +5,7 @@ img: https://ucarecdn.com/7032dce3-cd15-4097-85d5-29bf1924bb87/
 autor: Sebastián Guzmán y Camille Legrand
 medio: "Expansion "
 link: https://expansion.mx/opinion/2021/09/09/enverdecer-matriz-energetica-ciudades
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Las ciudades requieren un suministro ininterrumpido de energía,
   situación que las posiciona como ‘usuarios’ con un consumo intensivo. Su
   relevancia como centros neurálgicos del desarrollo económico y social
