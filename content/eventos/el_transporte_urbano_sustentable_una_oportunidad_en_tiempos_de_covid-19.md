@@ -4,7 +4,7 @@ date: 2020-09-27T16:24:53.764Z
 img: https://ucarecdn.com/dcd67fdb-7ac0-44fa-9187-0d476b6b1c51/
 autor: Ethos
 link: https://www.youtube.com/watch?v=lJuy4Lwttjg
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: En la actualidad, ante la crisis provocada por la pandemia de
   COVID-19, surgen varios retos, pero también oportunidades en distintas áreas,
   como el transporte urbano; estamos en un momento crucial para volver la mirada
