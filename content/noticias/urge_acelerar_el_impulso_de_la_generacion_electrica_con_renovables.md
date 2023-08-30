@@ -3,7 +3,7 @@ title: Urge acelerar el impulso de la generación eléctrica con renovables
 date: 2019-02-27T10:57:04.471Z
 img: https://ucarecdn.com/562db7d5-d6bb-44ad-864e-8c5ddaa80040/
 autor: Ethos
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Ciudad de México a 27 de febrero de 2019.- En México se podrían crear
   257 mil nuevos empleos. verdes, una aportación de alrededor de 3% del Producto
   Interno Bruto PIB (al tercer trimestre de 2018) y una inversión acumulada
