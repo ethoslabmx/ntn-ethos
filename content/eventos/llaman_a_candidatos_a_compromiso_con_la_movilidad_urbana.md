@@ -3,7 +3,7 @@ title: Llaman a candidatos a compromiso con la movilidad urbana
 date: 2018-05-02T05:19:28.920Z
 img: https://ucarecdn.com/237c51e8-5c15-4c7a-9e7a-00dbecf40732/
 autor: Centro Urbano
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: "Organizaciones de la sociedad civil y del sector privado convocaron
   en la Ciudad de México a candidatos a cargos de representación popular de todo
   el país a suscribir la iniciativa #YoMeMuevo, integrada por un conjunto de
