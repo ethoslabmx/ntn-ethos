@@ -5,7 +5,7 @@ date: 2019-11-27T17:22:25.991Z
 img: https://ucarecdn.com/49e1c34e-a249-4c4d-8d96-b8b0d2c620dc/
 autor: "El CEO "
 link: https://elceo.com/bienes-raices/proyectos-ferroviarios-del-acuerdo-nacional-de-infraestructura-ni-tan-nuevos/
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: El Acuerdo Nacional de Infraestructura, firmado por la iniciativa
   privada y el gobierno federal, incluye entre los 147 proyectos el desarrollo
   de ocho ferrocarriles y trenes suburbanos a lo largo de la República Mexicana,
