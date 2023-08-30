@@ -6,7 +6,7 @@ img: https://ucarecdn.com/c9fd58b4-eac8-4b1b-ad4c-825dc74c3f86/
 img-alt: Política energética México
 autor: Gabriela Francovigh, Energía Estratégica
 link: https://www.energiaestrategica.com/ethos-vislumbra-un-golpe-de-timon-en-la-politica-renovable-mexicana-tras-las-elecciones-presidenciales/
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Especialistas del think tank de recomendaciones para las metas de
   México son optimistas y creen que en los próximos años habrá un nuevo impulso
   en la política en favor de la transición energética.
