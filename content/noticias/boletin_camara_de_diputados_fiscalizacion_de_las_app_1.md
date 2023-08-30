@@ -4,7 +4,7 @@ date: 2017-01-25T23:07:44.724Z
 img: https://ucarecdn.com/21dbe38d-588a-4d0a-809e-14aa2ebd7d3a/
 autor: Comunicación Social
 link: http://www5.diputados.gob.mx/index.php/esl/Comunicacion/Boletines/2017/Enero/25/2958-Comision-de-Vigilancia-de-la-ASF-y-la-UEC-reciben-propuesta-de-sociedad-civil-sobre-fiscalizacion-de-la-inversion-publico-privada
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: La Comisión de Vigilancia de la Auditoría Superior de la Federación y
   la Unidad de Evaluación y Control (UEC) de la Cámara de Diputados recibieron
   la propuesta de la organización de la sociedad civil “Ethos, Laboratorio de
