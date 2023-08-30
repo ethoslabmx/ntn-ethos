@@ -3,7 +3,7 @@ title: México requiere más inversión para mejorar su eficiencia energética
 date: 2017-03-01T06:28:54.925Z
 img: https://ucarecdn.com/ba9ac0b8-2945-448c-82fe-b4a0c9129da2/
 autor: El Sol de México
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: México requiere una mayor inversión para lograr eficiencia energética
   pues el 80 por ciento de la matriz energética del país se basa en la que
   proviene de combustibles fósiles y, de acuerdo con la Estrategia Nacional de
