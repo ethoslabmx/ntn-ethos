@@ -3,7 +3,7 @@ title: Acuerdo de eficiencia energética entre sector privado y gobierno federal
 date: 2017-01-08T06:27:13.512Z
 img: https://ucarecdn.com/ebb0b4b4-d4f5-4685-9bcf-974afbcd5e74/
 autor: Ethos Laboratorio de Políticas Públicas
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: El pasado 20 de diciembre del 2017, en el marco de la reforma
   energética, la empresa Nestlé México ha suscrito el primer Acuerdo Voluntario
   de Eficiencia Energética con la Conuee, en presencia de autoridades de la
