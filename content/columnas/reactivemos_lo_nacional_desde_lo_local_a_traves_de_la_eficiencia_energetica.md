@@ -5,7 +5,7 @@ img: https://ucarecdn.com/942ed27d-3c44-422e-b110-6811591e7f45/
 autor: Yahir Acosta, Ana Laura Barrón y Sebastián Guzmán
 medio: "Animal Politico "
 link: https://www.animalpolitico.com/blog-invitado/reactivemos-lo-nacional-desde-lo-local-a-traves-de-la-eficiencia-energetica/
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: El COVID-19 ha dado lugar a una crisis sanitaria, económica y social
   global sin precedentes. En México, los datos son escalofriantes. En el plano
   laboral ha lanzado al desempleo a 7.5 millones de personas (IIS-UNAM, 2020).
