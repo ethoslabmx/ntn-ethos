@@ -3,7 +3,7 @@ title: Tiene Tabasco oportunidades de proyectos energéticos bajo APP
 date: 2016-09-23T22:09:40.038Z
 img: https://ucarecdn.com/8dc09885-2058-43b9-b545-91d17229d902/
 autor: " Daniel Lorca"
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Tabasco tiene un marco legal propicio para el desarrollo de proyectos
   energéticos bajo el esquema de Asociación Público Privadas (APP), adelantó el
   investigador Senior en Energía de Ethos Laboratorio de Políticas Públicas,
