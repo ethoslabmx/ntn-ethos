@@ -6,7 +6,7 @@ img-alt: Día Internacional contra el Cambio Climático
 autor: Camille Legrand y Sebastian Gutiérrez Herrero
 medio: Animal Político
 link: https://www.animalpolitico.com/blog-invitado/un-texto-mas-por-el-dia-internacional-contra-el-cambio-climatico/
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Si el COVID-19 ha abierto el camino a una “nueva normalidad”, la parte
   más grande de la ruta está frente a nosotros. Entonces, tenemos que romper con
   las ideas que ya tenemos y hacer uso de nuestra imaginación política.
