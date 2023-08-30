@@ -4,7 +4,7 @@ date: 2019-06-14T10:15:15.280Z
 img: https://ucarecdn.com/7adc8412-ec1c-44ca-8203-51178b2702a6/
 autor: "La Prensa "
 link: https://www.la-prensa.com.mx/mexico/cuenta-mexico-con-los-recursos-para-incrementar-energias-renovables-3765103.html
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: La Plataforma México, Clima y Energía (PMCE), junto con la Asociación
   Nacional de Energía Solar (ANES), la Iniciativa Climática de México A.C., El
   Poder del Consumidor, Ethos Laboratorio de Políticas Públicas, el Grupo de
