@@ -4,7 +4,7 @@ title: Asociaciones Público Privadas, pueden convertirse en instrumentos
 date: 2019-11-21T04:50:44.340Z
 img: https://ucarecdn.com/75140b7f-5741-49c1-b3cc-8f49ad6feb42/
 autor: Enfoque Noticias
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Las Asociaciones Público Privadas, pueden convertirse en instrumentos
   adecuados para la realización de infraestructura y servicios públicos de
   calidad, aseguro, director del Laboratorio Jurídico en Ethos.
