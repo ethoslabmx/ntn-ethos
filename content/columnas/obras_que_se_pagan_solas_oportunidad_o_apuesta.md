@@ -5,7 +5,7 @@ img: https://ucarecdn.com/fec02674-d2f9-4d5c-915b-eee5d2088583/
 autor: Ana Laura Barrón
 medio: Animal Politico
 link: https://www.animalpolitico.com/blog-invitado/obras-que-se-pagan-solas-oportunidad-o-apuesta/
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: El panorama económico para el año 2021 es poco alentador y sus
   repercusiones en la inversión en infraestructura son evidentes, por lo cual el
   sector público debe diversificar sus fuentes de financiamiento a través del
