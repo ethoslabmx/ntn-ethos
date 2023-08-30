@@ -5,7 +5,7 @@ img: https://ucarecdn.com/f9b19ccc-8788-492c-a1f4-3daca384e317/
 autor: Aleithya Morales
 medio: Animal Politico
 link: https://www.animalpolitico.com/blog-invitado/premio-nobel-baterias-para-una-sociedad-libre-de-combustibles-fosiles/
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Las baterías de ion litio han impulsado la transformación de la
   sociedad. La posibilidad de almacenar energía en una forma aparentemente
   sencilla, funcional y práctica ha permitido cambiar las formas tradicionales
