@@ -4,7 +4,7 @@ title: Gobierno de AMLO, cauteloso para implementar asociaciones
 date: 2019-11-21T05:43:11.295Z
 img: https://ucarecdn.com/06210f19-40fd-4e2b-bd2c-9a7227fb0a45/
 autor: El Financiero
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Si bien hay una necesidad urgente del presidente Andrés Manuel López
   Obrador por reactivar la inversión, su gobierno ha sido cauteloso en la
   implementación de los esquemas Asociaciones Público Privadas (APP) por temas
