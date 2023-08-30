@@ -3,7 +3,7 @@ title: "Remediación ambiental: la gran deuda de Pemex (que cada día crece más
 date: 2019-07-15T09:55:21.495Z
 img: https://ucarecdn.com/3625cc5a-ae8a-4781-8431-ddf4f3fc9b7b/
 autor: Ethos
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Petróleos Mexicanos tiene programado gastar este año 72% menos dinero
   a mitigar las afectaciones al medio ambiente en las zonas donde opera que lo
   que destinó el año anterior, pese a que arrastra grandes deudas en este rubro
