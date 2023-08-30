@@ -5,7 +5,7 @@ img: https://ucarecdn.com/4c671865-7416-4bdd-8a7a-e79a16f14b70/
 autor: " José Luis Chicoma, Stephen Birtwistle, Ángeles Rodríguez, Aleithya
   Morales, Sofía Alessio."
 link: https://www.ethos.org.mx/wp-content/uploads/2016/03/comunicado-hidalgo.pdf
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Hidalgo aprobó en 2011 la Ley de Apps, por lo tanto es importante
   considerar este instrumento para actividades en CTi.
 ---
