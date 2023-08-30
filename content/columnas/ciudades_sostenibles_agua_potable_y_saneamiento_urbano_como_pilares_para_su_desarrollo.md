@@ -7,7 +7,7 @@ img-alt: Tubo de agua potable
 autor: Sebastián Guzmán
 medio: Este País
 link: https://estepais.com/tendencias_y_opiniones/ciudades-sostenibles-agua-saneamiento/
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Sebastián Guzmán, Investigador en Ethos Innovación en Políticas
   Públicas, expone con claridad los retos y oportunidades que existen en cuanto
   a la gestión del agua para lograr ciudades más sostenibles.
