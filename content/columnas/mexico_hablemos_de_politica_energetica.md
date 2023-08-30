@@ -5,7 +5,7 @@ img: https://ucarecdn.com/49eda031-82a0-4699-bf0b-d03a68106f27/
 autor: "Aleithya Morales "
 medio: Animal Politico
 link: https://www.animalpolitico.com/blog-invitado/mexico-hablemos-de-politica-energetica/
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: "Después de escuchar el discurso en la toma de posesión de Andrés
   Manuel López Obrador, en el que no hizo mención al cambio climático y sí al
   apoyo hacia la industria basada en combustibles fósiles, ¿cómo imaginar a
