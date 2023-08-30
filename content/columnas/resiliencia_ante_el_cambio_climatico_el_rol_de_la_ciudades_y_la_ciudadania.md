@@ -6,7 +6,7 @@ img-alt: La gran inundación, Netflix
 autor: Sebastián Guzmán
 medio: Animal Político
 link: https://www.animalpolitico.com/blog-invitado/resiliencia-ante-el-cambio-climatico-el-rol-de-la-ciudades-y-la-ciudadania/
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Más allá de responsabilizar al gobierno local por sus decisiones, la
   organización de los ciudadanos juega un papel clave para afrontar los estragos
   causados; es decir, la sociedad y su rol activo son fundamentales para
