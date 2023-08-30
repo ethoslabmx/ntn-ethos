@@ -5,7 +5,7 @@ img: https://ucarecdn.com/3ed0eda2-1ea5-4910-b472-efa484dee1a9/
 autor: Ana Laura Barrón
 medio: Animal Politico
 link: https://www.animalpolitico.com/blog-invitado/cronica-de-una-serie-de-proyectos-de-infraestructura-cancelados/
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: El anuncio oficial de la cancelación del Nuevo Aeropuerto
   Internacional de la Ciudad de México (NAIM), por razones por demás conocidas
   -al menos en el discurso público-, puso el punto final sobre la que quizás sea
