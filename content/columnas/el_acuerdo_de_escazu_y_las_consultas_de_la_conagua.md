@@ -5,7 +5,7 @@ img: https://ucarecdn.com/c2db21a2-871d-4d1e-88ba-a879fc0987eb/
 autor: Cuauhtémoc Osorno
 medio: "Expansion "
 link: https://expansion.mx/opinion/2019/03/22/opinion-el-acuerdo-de-escazu-y-las-consultas-de-la-conagua
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Actualmente en América Latina y el Caribe se vive un contexto marcado
   por la desigualdad, la corrupción, la violación de derechos humanos y la
   degradación ambiental, por lo que es necesario impulsar estrategias regionales
