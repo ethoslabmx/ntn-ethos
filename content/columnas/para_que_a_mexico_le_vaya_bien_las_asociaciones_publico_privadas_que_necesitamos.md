@@ -6,7 +6,7 @@ img: https://ucarecdn.com/5d927048-c754-47ac-bd9d-d99cda21338e/
 autor: Ana Laura Barrón
 medio: Animal Politico
 link: https://www.animalpolitico.com/blog-invitado/para-que-a-mexico-le-vaya-bien-las-asociaciones-publico-privadas-que-necesitamos/
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: La planeación es el primer paso de la política de las inversiones
   públicas. El pasado martes 26 de noviembre el presidente Andrés Manuel López
   Obrador hizo la presentación oficial del Acuerdo Nacional de Inversión en
