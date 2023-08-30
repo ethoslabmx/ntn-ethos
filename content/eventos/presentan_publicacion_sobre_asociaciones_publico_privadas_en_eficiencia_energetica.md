@@ -4,7 +4,7 @@ title: Presentan publicación sobre Asociaciones Público Privadas en Eficiencia
 date: 2017-02-28T06:35:41.096Z
 img: https://ucarecdn.com/bb4a9826-7cb8-41bb-9f0a-58277a1e00db/
 autor: Ethos Laboratorio de Políticas Públicas
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: "Ethos Laboratorio de Políticas Públicas, con el generoso apoyo de la
   Embajada Británica en México, llevó a cabo la presentación de la publicación
   “Hacia un México Sostenible: Asociaciones Público Privadas en Eficiencia
