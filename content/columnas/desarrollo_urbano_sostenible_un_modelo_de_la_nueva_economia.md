@@ -5,7 +5,7 @@ img: https://ucarecdn.com/20e2faa1-e8e6-499d-88a8-ca2d3815d59c/
 autor: Camille Legrand y Sebastián Guzmán
 medio: "Obras Expansión "
 link: https://obras.expansion.mx/opinion/2021/07/02/desarrollo-urbano-sostenible-un-modelo-de-la-nueva-economia
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Hablar sobre desarrollo urbano ha tomado una perspectiva diferente en
   los últimos años, debido a que la incidencia de elementos como el cambio
   climático ha modificado la visión con la cual las ciudades alrededor del mundo
