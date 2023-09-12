@@ -3,7 +3,7 @@ title: Ethos expone sobre eficiencia energética en Jalisco
 date: 2017-03-27T06:33:51.616Z
 img: https://ucarecdn.com/0f187b1a-ba61-4b67-92ce-596eb39d3cc2/
 autor: Ethos Laboratorio de Políticas Públicas
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: "En el marco de nuestra iniciativa Hacia un México Sostenible:
   Asociaciones Público Privadas en Eficiencia Energética, Ethos Laboratorio de
   Políticas Públicas entregó a la Secretaría de Innovación, Ciencia y Tecnología

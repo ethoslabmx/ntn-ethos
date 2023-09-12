@@ -5,7 +5,7 @@ img: https://ucarecdn.com/2bc152ec-e558-4a52-9831-3ff1cde976cf/
 autor: Rodrigo Bolaños
 medio: "Animal Politico "
 link: https://www.animalpolitico.com/blog-invitado/el-turbio-ciclo-regulatorio-del-agua-en-mexico/
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: "Ya desde el año 2006 la Organización de las Naciones Unidas lo
   manifestaba: la crisis del agua en el mundo es, en realidad, una crisis de
   gobernabilidad, y México no está exento de ello. Aunado a que somos un país

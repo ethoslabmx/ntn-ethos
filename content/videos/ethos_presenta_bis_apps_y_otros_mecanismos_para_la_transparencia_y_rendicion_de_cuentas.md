@@ -4,7 +4,7 @@ title: "Ethos Presenta: BIS, APPs y otros mecanismos para la transparencia y
 date: 2015-10-26T21:32:31.945Z
 autor: "Ethos Laboratorio de Politicas Publicas "
 video: https://www.youtube.com/watch?v=dcQHdEVsTbE
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Expertos del sector público, privado y civil presentan sus
   experiencias y aprendizajes con diversos modelos de colaboración cómo los BIS
   y las APPs.

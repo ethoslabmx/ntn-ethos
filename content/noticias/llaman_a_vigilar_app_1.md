@@ -3,7 +3,7 @@ title: Llaman a vigilar APP
 date: 2017-01-26T23:06:12.648Z
 img: https://ucarecdn.com/72f6d806-4cc5-4195-9747-05911ca92d68/
 autor: Ethos
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: La organización civil Ethos Laboratorio de Políticas Públicas planteó
   diseñar un plan multianual de fiscalización de las asociaciones público
   privadas (APP).

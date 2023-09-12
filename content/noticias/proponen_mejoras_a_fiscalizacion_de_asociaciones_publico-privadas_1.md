@@ -4,7 +4,7 @@ date: 2017-02-08T23:03:35.415Z
 img: https://ucarecdn.com/0590dd3b-d340-4793-94bb-bb5e2cfe8aa1/
 autor: 20Minutos
 link: https://www.20minutos.com.mx/noticia/187871/0/proponen-mejoras-a-fiscalizacion-de-asociaciones-publico-privadas/
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Para mejorar la fiscalización de los recursos hacendarios en las
   llamadas Asociaciones Público-Privadas (APP), se requiere establecer un plan
   multianual de fiscalización, regular el gasto federalizado y estandarizar los

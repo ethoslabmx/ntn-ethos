@@ -3,7 +3,7 @@ title: Foro Las Ciudades del Futuro
 date: 2016-10-10T05:25:16.433Z
 img: https://ucarecdn.com/a601d5cc-7162-44a9-8f23-fcc080c0ca5a/
 autor: José Luis Chicoma
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Como parte de los trabajos de la Comisión Especial de Fomento a la
   Inversión para la Infraestructura de la Ciudad de la Asamblea Legislativa de
   la Ciudad de México, se realizó el Foro “Las Ciudades del Futuro” el pasado

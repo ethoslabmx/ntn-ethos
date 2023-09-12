@@ -4,7 +4,7 @@ date: 2019-02-14T00:31:18.651Z
 img: https://ucarecdn.com/8bc231d5-5fc8-4352-bbb6-75985094bea6/
 autor: Ana Laura Barrón
 medio: Ethos
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: "“El anuncio oficial de la cancelación del Nuevo Aeropuerto
   Internacional de la Ciudad de México (NAIM) puso el punto final sobre la que
   quizás sea una de las decisiones más controversiales del gobierno del

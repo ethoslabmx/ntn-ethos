@@ -5,7 +5,7 @@ img: https://ucarecdn.com/da66d5f7-ffc5-4664-bd1c-88b02350faf6/
 autor: Aleithya Morales y Sebastián Guzmán
 medio: Expansion
 link: https://expansion.mx/opinion/2019/07/08/gasoductos-una-falla-en-el-sistema-de-planeacion
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: El gas natural fue prioridad en el sexenio pasado por ser considerado
   un combustible importante para garantizar la transición energética; sin
   embargo, ahora que la política energética está cambiando y gira hacia una

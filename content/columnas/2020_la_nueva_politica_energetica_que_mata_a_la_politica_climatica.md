@@ -5,7 +5,7 @@ img: https://ucarecdn.com/81255dcf-e10e-435b-bf72-77aca4d9d53d/
 autor: Aleithya Morales
 medio: "Expansion "
 link: https://expansion.mx/opinion/2019/09/14/2020-la-nueva-politica-energetica-que-mata-a-la-politica-climatica
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Destinar 86,000 millones de pesos a fortalecer la producción petrolera
   del país resta recursos para impulsar la transición energética, y en este
   contexto urge comenzar a activar una política energética alineada a una

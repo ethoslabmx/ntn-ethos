@@ -3,7 +3,7 @@ title: Los retos de los think tanks en el mundo post-COVID
 date: 2021-06-29T22:47:16.415Z
 img: https://ucarecdn.com/c4c103cc-6f22-4606-9c48-49b64ad114b6/
 autor: Ethos
-category: desarrollo-sostenible
+category: think-tanks
 extracto: La COVID-19 nos ha enfrentado a importantes retos a nivel mundial, y
   en lo que se refiere a los think tanks, hubo cambios importantes en su
   operación que se discutieron en el North American Think Tank Summit 2021,

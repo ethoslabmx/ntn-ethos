@@ -3,7 +3,7 @@ title: Promueven uso de APPs para innovación
 date: 2014-03-25T06:47:37.778Z
 img: https://ucarecdn.com/5aa9ab0e-c5fb-4ab0-98fe-b2d4e1fb22fa/
 autor: Ethos
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Las APPs así como han impulsado actividades de inversión en
   infraestructura pueden ser usadas para pomoción de la Innovación, Ciencia y
   Tecnología.

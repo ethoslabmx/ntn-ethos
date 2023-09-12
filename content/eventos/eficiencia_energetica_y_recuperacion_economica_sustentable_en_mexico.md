@@ -4,7 +4,7 @@ date: 2020-10-22T05:07:50.806Z
 img: https://ucarecdn.com/1315569e-00fd-4006-bc11-3e635c4e6f06/
 autor: Ethos
 link: https://www.youtube.com/watch?v=NskaZF7JhtQ
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: El Día Mundial del Ahorro de la Energía invita a reflexionar sobre la
   sustentabilidad y la eficiencia energética, identificar los avances y las
   oportunidades que hay en México en esta materia y cuál es su rol en la

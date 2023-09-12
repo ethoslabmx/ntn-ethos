@@ -5,7 +5,7 @@ date: 2019-07-30T10:02:02.430Z
 img: https://ucarecdn.com/7f8aa8fe-cf2c-4694-89ab-2314fb082a85/
 autor: "Dinero en Imagen "
 link: https://www.dineroenimagen.com/economia/apoyos-de-tarifas-electricas-y-combustibles-van-para-los-hogares-con-mas-ingresos/112565
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Aleithya Morales, especialista en energía de Ethos Laboratorio de
   Políticas Públicas, comentó que el énfasis actual de estímulos y de mayor
   producción de gasolinas se basa en lo que hoy ocurre, pero pierde de vista que

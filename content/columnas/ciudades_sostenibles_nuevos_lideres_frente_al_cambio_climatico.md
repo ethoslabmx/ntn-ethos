@@ -5,7 +5,7 @@ img: https://ucarecdn.com/e01a002d-bc83-4f3d-8dcc-bf895e569716/
 autor: Yahir Acosta y Camille Legrand
 medio: Animal Político
 link: https://www.animalpolitico.com/blog-invitado/ciudades-sostenibles-nuevos-lideres-frente-al-cambio-climatico/
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Cuando el estado parece fallar en sus compromisos climáticos, la
   ciudad debe convertirse en el líder de la lucha contra el cambio climático.
   Emerge su papel en la escena nacional e internacional como entidad cuyos

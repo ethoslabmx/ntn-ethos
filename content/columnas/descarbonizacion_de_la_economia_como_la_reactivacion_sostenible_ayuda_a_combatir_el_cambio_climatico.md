@@ -7,7 +7,7 @@ img-alt: Fábrica contaminante
 autor: Sebastián Guzmán y Carla Jiménez
 medio: Animal Político
 link: https://www.animalpolitico.com/analisis/invitades/descarbonizacion-de-la-economia-reactivacion-sostenible-y-cambio-climatico
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Satisfacer la demanda de recursos de las ciudades y sus habitantes
   compromete a los países a establecer metas concretas de descarbonización. La
   ausencia de una transformación real, es decir, una reactivación económica no

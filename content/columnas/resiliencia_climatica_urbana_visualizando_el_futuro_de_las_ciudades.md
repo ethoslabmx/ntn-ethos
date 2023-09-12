@@ -6,7 +6,7 @@ img-alt: Ciudad de México
 autor: Sebastián Guzmán y Mariella Lona
 medio: Este País
 link: https://estepais.com/tendencias_y_opiniones/resiliencia-climatica-urbana/
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Las ciudades se presentan como los principales centros del desarrollo
   futuro de la sociedad global, ya que en ellas se congrega el 56% de la
   población actual y representan el 70% de PIB, pero también concentran el mayor

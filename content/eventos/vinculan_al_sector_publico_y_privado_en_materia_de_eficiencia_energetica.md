@@ -3,7 +3,7 @@ title: Vinculan al sector público y privado en materia de Eficiencia Energétic
 date: 2017-02-21T06:37:47.103Z
 img: https://ucarecdn.com/668621ae-55e0-4c8f-9624-70e640f171cf/
 autor: Ethos Laboratorio de Políticas Públicas
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: "Con el objetivo de promover un encuentro entre actores de gobierno a
   nivel local y federal, además de vincularlos con actores privados para
   impulsar mecanismos de financiamiento innovadores con proyectos de Eficiencia

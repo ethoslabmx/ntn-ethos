@@ -5,7 +5,7 @@ img: https://ucarecdn.com/b2f9b284-9bd5-4b83-ab83-604e5914d3d2/
 autor: Sebastián Guzmán y Pamela Monroy
 medio: Animal Político
 link: https://www.animalpolitico.com/blog-invitado/gobernanza-y-planeacion-claves-para-la-gestion-sostenible-del-agua-en-mexico/
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Durante el último siglo, el uso del agua a nivel mundial ha aumentado
   en más del doble de la tasa de crecimiento poblacional. Esta situación ha
   comenzado a surtir efectos en la disponibilidad de los recursos hídricos que,

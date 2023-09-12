@@ -5,7 +5,7 @@ img: https://ucarecdn.com/012e289f-d222-471b-87d4-965fec8e1079/
 autor: Aleithya Morales
 medio: Animal Politico
 link: https://www.animalpolitico.com/blog-invitado/sin-gasolina-y-sin-innovacion-mala-combinacion/
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: "A la película futurista sobre el fin del mundo que hemos vivido estas
   semanas se le olvidaron dos elementos cruciales: la innovación y la
   tecnología. La innovación para mitigar la crisis como resultado de la

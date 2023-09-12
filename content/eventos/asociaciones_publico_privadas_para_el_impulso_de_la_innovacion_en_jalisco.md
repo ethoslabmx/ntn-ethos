@@ -3,7 +3,7 @@ title: Asociaciones Público Privadas para el Impulso de la Innovación en Jalis
 date: 2016-02-25T06:43:17.716Z
 img: https://ucarecdn.com/24d3ad54-4af2-4ccb-8461-02b307ee5a5b/
 autor: Ethos
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: En colaboración con la SICyT de Jalisco, Ethos generó una metodología
   para la evaluación de proyectos de innovación para impulsarse en este esquema.
 ---

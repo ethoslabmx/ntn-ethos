@@ -4,7 +4,7 @@ date: 2015-10-01T22:06:22.279Z
 img: https://ucarecdn.com/adba9935-6c1e-4872-8268-40b6b656ecb9/
 autor: José Luis Chicoma, Ernesto Urbina, Yahir Acosta, Aleithya Morales, Sofia
   Alessio, José Carlos Sierra, Christine Zülow
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: ¿Qué pasaría si la siguiente gran idea que revolucione el mundo reside
   en la mente de científicos e ingenieros mexicanos? México es un país con
   enorme potencial, sin embargo solo invierte el .56% de su PIB en ciencia,

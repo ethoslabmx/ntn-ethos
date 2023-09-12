@@ -4,7 +4,7 @@ date: 2019-12-09T17:20:57.983Z
 img: https://ucarecdn.com/b4e4501c-8176-4e0e-818b-0b787ae25a3c/
 autor: Reforma
 link: https://busquedas.gruporeforma.com/reforma/Documento/Impresa.aspx?id=7242558|InfodexTextos&url=https://hemerotecalibre.reforma.com/20191209/interactiva/RNEG20191209-001.JPG&text=APP+
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Los 22 proyectos bajo el modelo de Asociación Público-Privada (APPs)
   incluidos en el Presupuesto de Egresos 2020 requerirán 9 mil 72 millones de
   pesos, pero dar seguimiento al desarrollo de las obras es imposible con la

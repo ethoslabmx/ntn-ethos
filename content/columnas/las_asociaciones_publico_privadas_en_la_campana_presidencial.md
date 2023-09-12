@@ -4,7 +4,7 @@ date: 2018-06-05T23:46:04.881Z
 img: https://ucarecdn.com/962a9852-014b-4754-a8c6-40387439adbb/
 autor: José Luis Chicoma
 medio: Ethos
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Las Asociaciones Público Privadas (APP) tienen una mala fama. Reciben
   ataques diversos, desde los ideológicos a los prácticos. Una de las
   acusaciones más frecuentes es que el Estado deja de cumplir sus

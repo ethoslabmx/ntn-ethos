@@ -3,7 +3,7 @@ title: México requiere mayor inversión para lograr Eficiencia Energética
 date: 2017-02-28T06:31:08.602Z
 img: https://ucarecdn.com/aaa9d1db-6444-4520-9003-261e88378c6d/
 autor: El  Semanario
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: "México enfrenta retos y compromisos de gran escala a nivel nacional e
   internacional relacionados con el tema de energía y cambio climático, los
   cuales forman parte de los objetivos del Plan Nacional de Desarrollo: la

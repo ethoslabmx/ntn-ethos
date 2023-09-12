@@ -5,7 +5,7 @@ img: https://ucarecdn.com/3948d0f3-17f5-480c-a98f-856d12d4c095/
 autor: Sebastián Guzmán y Carla Jiménez
 medio: Animal Politico
 link: https://www.animalpolitico.com/blog-invitado/residuos-solidos-urbanos-una-ruta-hacia-el-modelo-de-gestion-ideal/
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: En los últimos meses, a través de distintas redes sociales, circularon
   reportajes y videos del alarmante caso que se vive en el Desierto de Atacama,
   en Chile, y cómo la localidad se ha convertido en el ‘basurero de ropa del

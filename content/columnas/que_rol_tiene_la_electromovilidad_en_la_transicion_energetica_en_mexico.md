@@ -5,7 +5,7 @@ img: https://ucarecdn.com/e58aca2d-0b4c-46d3-82af-4a7e61994186/
 autor: Aleithya Morales
 medio: "Expansion "
 link: https://expansion.mx/opinion/2019/07/22/que-rol-tiene-la-electromovilidad-en-la-transicion-energetica-en-mexico
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Hablar de electromovilidad en la actualidad es necesario y urgente. No
   solo por las fuerzas del cambio tecnológico, que tienen su origen en la
   necesidad de transitar al uso más limpio de la energía, sino por la urgencia

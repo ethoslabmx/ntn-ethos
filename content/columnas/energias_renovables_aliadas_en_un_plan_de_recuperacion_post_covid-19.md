@@ -4,7 +4,7 @@ date: 2020-06-29T23:04:28.280Z
 img: https://ucarecdn.com/183a3a3e-e2e1-4f11-b8e5-e2edc8e01690/
 autor: " Ana Laura Barrón y Andrea Morales"
 medio: Ethos
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: La crisis generada por la COVID-19 alrededor del mundo es una crisis
   sin precedentes en todos los ámbitos de la vida pública, incluido el sector
   energético. Así lo ha reconocido la Agencia Internacional de Energía (IEA, por

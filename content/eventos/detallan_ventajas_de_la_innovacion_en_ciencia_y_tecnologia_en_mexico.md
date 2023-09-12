@@ -3,7 +3,7 @@ title: Detallan ventajas de la innovación en ciencia y tecnología en México
 date: 2014-03-28T06:45:29.711Z
 img: https://ucarecdn.com/7e3c39f6-e3a3-4760-ab1d-62e68f95ac46/
 autor: "Ethos "
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Se analiza el rezago existente en relación a la Innovación y se
   proponen las APPs para disminuir la brecha entre la economía mexicana a nivel
   internacional.

@@ -5,7 +5,7 @@ img: https://ucarecdn.com/aa111d51-bb84-48ad-9d8f-55cd69356bf3/
 autor: Cuauhtémoc Osorno
 medio: Expansion
 link: https://expansion.mx/opinion/2019/07/26/el-decreto-de-amlo-que-promete-agua
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Durante la campaña presidencial, Andrés Manuel López Obrador se
   comprometió a no privatizar el líquido vital y, en cambio, garantizar el
   derecho humano al agua establecido en la Constitución.

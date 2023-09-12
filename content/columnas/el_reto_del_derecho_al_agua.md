@@ -5,7 +5,7 @@ img: https://ucarecdn.com/3cdb1139-3210-4e0c-9e74-b93e1a76164d/
 autor: Cuauhtémoc Osorno
 medio: Animal Politico
 link: https://www.animalpolitico.com/blog-invitado/el-derecho-al-agua-gran-reto-para-la-cuarta-transformacion/
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: En el 2010 la Organización de las Naciones Unidas (ONU) reconoció
   mundialmente al agua y su saneamiento como un derecho humano clave para el
   desarrollo individual y social. En este sentido, México siguió la medida y en

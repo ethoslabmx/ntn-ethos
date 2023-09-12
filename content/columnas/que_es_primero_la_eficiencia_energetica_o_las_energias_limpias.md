@@ -5,7 +5,7 @@ img: https://ucarecdn.com/a29c56b1-3ad9-4105-8e41-1079338e80d5/
 autor: José Molina y Aleithya Morales
 medio: "Arena Publica "
 link: https://www.arenapublica.com/blogs/ethos-laboratorio/2016/08/03/4996
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: A raíz de la Reforma Energética y la Ley de Transición Energética, es
   importante reflexionar sobre la política pública del Gobierno de México y sus
   prioridades en el sector energético. A pesar de que los proyectos de

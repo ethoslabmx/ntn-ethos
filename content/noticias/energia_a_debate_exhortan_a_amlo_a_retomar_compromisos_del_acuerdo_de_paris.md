@@ -3,7 +3,7 @@ title: "Energía a debate: Exhortan a AMLO a retomar compromisos del Acuerdo de 
 date: 2019-11-04T10:42:23.120Z
 img: https://ucarecdn.com/95094f7c-b50b-417b-b3be-ce68b2f18f83/
 autor: Energía a debate
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Organizaciones nacionales e internacionales en defensa del ambiente
   exhortaron al presidente de la República para que modifique las estrategias
   que han estado implementando la Secretaría de Energía (Sener) y la Comisión

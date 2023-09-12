@@ -5,7 +5,7 @@ img: https://ucarecdn.com/3231ab77-d589-413a-ab92-e4d78244035d/
 autor: Aleithya Morales
 medio: "Expansion "
 link: https://expansion.mx/opinion/2019/03/09/opinion-transicion-energetica-en-pausa
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Sin duda el sector energético a través de la nueva política energética
   ha sido uno de los que más transformaciones ha presentado estos primeros 100
   días del gobierno federal. El Plan de Recuperación Petrolera y el Programa

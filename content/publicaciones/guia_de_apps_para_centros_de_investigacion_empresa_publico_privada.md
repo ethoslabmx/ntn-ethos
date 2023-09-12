@@ -4,7 +4,7 @@ date: 2015-10-01T21:59:29.400Z
 img: https://ucarecdn.com/74eead25-e430-4610-8d65-adad07426a59/
 autor: José Luis Chicoma, Ernesto Urbina, Yahir Acosta, Aleithya Morales, Sofia
   Alessio, José Carlos Sierra, Christine Zülow
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Define detalladamente los pasos para la implementación de APPs por
   medio de Empresas Público Privadas para la consolidación de Centros de
   Investigación.

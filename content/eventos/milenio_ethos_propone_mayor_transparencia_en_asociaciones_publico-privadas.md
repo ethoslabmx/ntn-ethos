@@ -3,7 +3,7 @@ title: "Milenio: Ethos propone mayor transparencia en Asociaciones Público-Priv
 date: 2019-11-21T05:57:21.185Z
 img: https://ucarecdn.com/4238a65a-8fe0-40d2-80ae-46a8dc519b11/
 autor: Milenio
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Con miras a garantizar la transparencia y rendición de cuentas en los
   proyectos de Asociaciones Público-Privadas (APP), el laboratorio de políticas
   públicas Ethos realizó nueve recomendaciones para modificar la ley en la

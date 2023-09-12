@@ -5,7 +5,7 @@ img: https://ucarecdn.com/d385790a-642f-4901-89c1-f8c153700014/
 autor: Aleithya Morales
 medio: "Expansion "
 link: https://expansion.mx/opinion/2019/01/04/opinion-una-oportunidad-para-la-movilidad-electrica-en-mexico
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Esta noticia, acompañada con la estrategia de fortalecer a la CFE, ha
   generado un respiro al tener noticias sobre el impulso de las energías
   renovables y al mismo tiempo, incertidumbre sobre el futuro del mercado

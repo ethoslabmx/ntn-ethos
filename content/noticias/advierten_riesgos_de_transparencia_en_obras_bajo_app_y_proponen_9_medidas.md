@@ -4,7 +4,7 @@ date: 2019-11-21T10:40:38.263Z
 img: https://ucarecdn.com/dff8276c-bba1-47f2-93b0-e168b5a1113c/
 autor: Obras
 link: https://obras.expansion.mx/infraestructura/2019/11/21/advierten-riesgos-de-transparencia-en-obras-bajo-app-y-proponen-9-medidas
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Contar con un plan maestros de Asociaciones Público Privadas (APP),
   crear una agencia especializada en la materia y también un repositorio único
   de proyectos bajo ese esquema, son tres de las nueve recomendaciones que hace

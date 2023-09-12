@@ -5,7 +5,7 @@ img: https://ucarecdn.com/9bb29d89-c360-4a9d-b670-ed7954a22cd9/
 img-alt: Fuga de agua potable en la alcaldía Gustavo A. Madero en 2016
 autor: Andrea Vega
 link: https://www.nmas.com.mx/nacional/crisis-de-agua-porque-gobierno-olvido-pequenas-obras-y-gasta-en-megaproyectos
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Este año, tres grandes obras tendrán más de 25 mil millones de pesos,
   pero a decir de expertos, se han olvidado de invertir en sistemas de gestión
   integral del agua

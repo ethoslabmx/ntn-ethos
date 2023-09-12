@@ -4,7 +4,7 @@ date: 2017-07-26T23:55:02.262Z
 img: https://ucarecdn.com/980c0f67-ebb0-43e7-9c7f-22fd822c3880/
 autor: "Ana Laura Barrón "
 medio: Ethos
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: "La polémica en torno al papel del Estado en la provisión de
   infraestructura y servicios públicos se ha mantenido en el centro del debate
   político y de la opinión pública, en un contexto en donde las demandas y

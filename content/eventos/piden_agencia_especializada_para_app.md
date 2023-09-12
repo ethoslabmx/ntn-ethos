@@ -3,7 +3,7 @@ title: Piden agencia especializada para APP
 date: 2019-11-21T05:45:23.177Z
 img: https://ucarecdn.com/adbd3236-ecf8-4a6f-9f65-8c18ae267c6f/
 autor: El Economista
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: La gestión de Asociaciones Público Privadas (APP), a partir de la ley
   federal publicada en el 2012, ha presentado fallas en planeación, diseño,
   procesos de contratación y evaluación de las mismas, por lo que es necesario

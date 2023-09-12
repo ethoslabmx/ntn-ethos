@@ -4,7 +4,7 @@ date: 2015-10-01T22:02:21.023Z
 img: https://ucarecdn.com/fe0465ce-0ae0-487d-a899-d2a152dd019f/
 autor: José Luis Chicoma, Ernesto Urbina, Yahir Acosta, Aleithya Morales, Sofia
   Alessio, José Carlos Sierra, Christine Zülow
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Define detalladamente los pasos para la implementación de APPs por
   medio de fideicomisos que impulsen la innovación a través de Asociaciones de
   PyMES

@@ -4,7 +4,7 @@ title: Ethos presenta propuestas para la fiscalización de las Asociaciones
 date: 2017-01-25T06:23:23.077Z
 img: https://ucarecdn.com/0380b003-f596-40f4-a8dc-cc87bf1f7f84/
 autor: José Carlos Sierra, Yahir Acosta, Jonathan Jiménez, José Luis Chicoma
-category: ciudades-del-futuro
+category: desarrollo-sostenible
 extracto: Ethos y la Unidad de Evaluación y Control de la Cámara de Diputados,
   en su búsqueda por mejorar la fiscalización, transparencia y eficiencia del
   gasto de recursos públicos, presentan propuestas para mejorar la fiscalización
