@@ -1,5 +1,5 @@
 <template>
-  <div class="app">
+  <div class="vacante">
     <JumbotronBolsa />
      <div class="bg-white border-b-16 border-primary">
       <div class="container py-20">
@@ -72,3 +72,15 @@ export default {
   }
 };
 </script>
+
+
+<style lang="scss" scoped>
+.vacante{
+  margin: 0;
+
+  li {
+    font-size: clamp(1.5rem, 1vw, 2.5rem);
+    margin: 15px 0;
+  }
+}
+</style>

@@ -25,3 +25,6 @@ firebase deploy hosting:unfoldyourworld
 git push -u origin2 mainsite  
 git push -u origin mainsite  
 git pull origin2 mainsite 
+
+#For local testing
+npx netlify-cms-proxy-server

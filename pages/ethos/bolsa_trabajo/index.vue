@@ -70,5 +70,13 @@ export default {
   :hover{
     color: var(--text-orange)
   }
+
+  li {
+    font-size: clamp(1.5rem, 1vw, 2.5rem);
+    margin: 15px 0;
+  }
 }
+
+
+
 </style>

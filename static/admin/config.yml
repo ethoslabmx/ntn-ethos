@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
   branch: mainsite # Branch to update (optional; defaults to master)
+local_backend: true
 media_library:
   name: uploadcare
   config:
@@ -28,7 +29,7 @@ collections:
       - { label: 'Imagen Principal', name: 'img', widget: 'image',  required: false }
       - { label: 'Imagen Alt', name: 'img-alt', widget: 'string' , required: false }
       - { label: 'Autor', name: 'autor', widget: 'string' , required: false}
-      - { label: 'Eje', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion"]}
+      - { label: 'Eje', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion","think-tanks","rumbo-democratico"]}
       - { label: 'Extracto', name: 'extracto', widget: 'string', required: false }
       - { label: 'Contenido', name: 'body',  widget: 'markdown'  }
       - { label: 'Archivo Adjunto', name: 'file', widget: 'file', required: false }
@@ -75,7 +76,7 @@ collections:
       - { label: 'Autor', name: 'autor', widget: 'string' }
       - { label: 'Medio', name: 'medio', widget: 'string' }
       - { label: 'Enlace artículo', name: 'link', widget: 'string', required: false }
-      - { label: 'Eje', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion","think-tanks"]}
+      - { label: 'Eje', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion","think-tanks","rumbo-democratico"]}
       - { label: 'Extracto', name: 'extracto', widget: 'string', required: false }
       - { label: 'Contenido', name: 'body', widget: 'markdown' }
       - { label: 'Galería', name: 'galeria', widget: 'image', media_library: { config: { multiple: true}}, required: false }
@@ -130,7 +131,7 @@ collections:
       - { label: 'Fecha Publicación', name: 'date', widget: 'datetime' }
       - { label: 'Autor', name: 'autor', widget: 'string' }
       - { label: 'Enlace video', name: 'video', widget: 'string' }
-      - { label: 'Eje', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion"]}
+      - { label: 'Eje', name: 'category', widget: 'select', options: ["anticorrupcion", "finanzas-publicas", "desarrollo-sostenible","ciudades-del-futuro","inclusion","rumbo-democratico"]}
       - { label: 'Extracto', name: 'extracto', widget: 'string', required: false }
       - { label: 'Contenido', name: 'body', widget: 'markdown', required: false }
   - name: 'micrositios'

@@ -19,7 +19,7 @@
             class="text-justify  xl:ml-auto lg:w-62 mt-10 lg:mt-0"
           >
             <p class="text-white">Ethos Innovación en Políticas Públicas</p>
-            <p class="text-white ">Monte Urales 424,<br> Lomas Virreyes Miguel Hidalgo,<br> 11000 CDMX</p>
+            <p class="text-white ">Montes Urales 424,<br> Lomas Virreyes Miguel Hidalgo,<br> 11000 CDMX</p>
           </div>
         </div>
         <div class="flex pt-10 pb-3 flex-wrap justify-between items-center">
@@ -32,7 +32,7 @@
             |  <span class="ml-3">ETHOS 2022</span>
           </div>
           <div
-            class="text-center mx-auto lg:text-right lg:mx-0 lg:ml-auto lg:w-1/3 mb-3 mt-6 4xl:mt-0"
+            class="text-center mx-auto lg:text-right lg:mx-0 lg:ml-auto lg:w-1/3 mb-3 mt-6 4xl:mt-0 flex justify-end"
           >
             <ul class="flex ai-center lg:justify-end">
               <li class="mr-6">
@@ -55,10 +55,15 @@
                   <img src="../assets/images/twwt.png" alt=""/>
                 </a>
               </li>
-              <li>
+              <li class="mr-6">
+                <a href="https://www.threads.net/@EthosInnovacion" target="_blank">
+                  <img src="../assets/images/threads.png" alt=""/>
+                </a>
+              </li>
+              <li class="mr-6">
                 <a
                   href="https://www.youtube.com/channel/UCnMvGlzchLKDs9-I9v9_2iw" target="_blank"
-                  ><img src="../assets/images/youtube.png" alt=""
+                  ><img width="50" height="50" src="../assets/images/youtube.png" alt=""
                 /></a>
               </li>
             </ul>
@@ -85,6 +90,24 @@ footer {
   flex-direction: column;
   align-items: flex-end;
   justify-content: space-between;
+
+  ul.flex.ai-center{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    width:  100%;
+    max-width: 320px;
+  }
+
+  .mr-6{
+    flex: 1 1 30px;
+    justify-self: center;
+    align-self:center;
+    img{
+      width: 100%;
+    }
+  }
 
   @media screen and (min-width: 768px) {
     padding: 5rem;

@@ -2,11 +2,10 @@
   <div class="privacidad border-b-16 border-primary">
     <div class="container bg-white py-20">
 
-      <div class="lg:w-2/3 w-full">
-        <h1 class="lg:text-xl text-lg  big-title mb-6">AVISO DE PRIVACIDAD</h1>
+      <div class="lg:w-4/5 m-auto w-full">
+        <h1 class="big-title">AVISO DE PRIVACIDAD</h1>
         <p class="mg:text-lg text-sm mb-3">En línea con la nueva legislación federal de protección de datos personales, por nuestro compromiso con
-          usted, por el trabajo ético y responsable que nos caracteriza, nos permitimos darle a conocer el <b>AVISO DE
-            PRIVACIDAD</b></p>
+          usted, por el trabajo ético y responsable que nos caracteriza, nos permitimos darle a conocer el AVISO DE PRIVACIDAD.</p>
         <h2 class="lg:text-xl text-lg  big-title my-6">Responsable de la protección de sus datos personales</h2>
         <p class="mg:text-lg text-sm mb-3">Avance Análisis Investigación y Estudios para el Desarrollo A.C. (en adelante Ethos), con domicilio en Montes
           Urales 424, Lomas de Chapultepec V Sección, Miguel Hidalgo, CP 11000, Ciudad de México, es responsable de
@@ -54,3 +53,38 @@
 <script>
 export default {}
 </script>
+
+<style lang="scss" scoped>
+
+.privacidad {
+  background-color: #f5f5f5;
+
+  h1.big-title{
+    text-align: center;
+    font-size: clamp(1rem, 5vw, 1.8rem);
+    margin-bottom: 30px;
+    font-weight: 500;
+  }
+
+  h2.big-title{
+    font-size: clamp(1.1rem, 1vw, 1.6rem);
+    margin: 20px 0;
+    letter-spacing: 0.22em;
+    font-weight: 500;
+  }
+
+  p{
+    margin: 10px 0;
+    line-height: clamp(1.2rem, 1.5vw, 1.6rem);
+    font-size: clamp(0.9rem, 1vw, 1.4rem);
+
+    b{
+      font-weight: 600;
+      font-size: clamp(0.7rem, 1vw, 1rem);
+    }
+  }
+
+
+}
+
+</style>
