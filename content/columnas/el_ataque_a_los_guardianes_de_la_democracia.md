@@ -1,0 +1,34 @@
+---
+title: El ataque a los guardianes de la democracia
+date: 2023-09-11T17:10:17.702Z
+img: https://ucarecdn.com/9073e088-8f11-41e0-97a5-56f95029f2b6/
+img-alt: Paquete Económico 2024
+autor: Dalia Toledo
+medio: La Lista
+link: https://la-lista.com/opinion/2023/09/11/el-ataque-a-los-guardianes-de-la-democracia-paquete-economico-2024
+category: finanzas-publicas
+extracto: El presupuesto sigue siendo utilizado para presionar o influir en las
+  decisiones de los órganos autónomos. Su uso para someter a los contrapesos no
+  es un atributo propio de las democracias, sino de gobiernos autoritarios.
+---
+En la visión más simple de democracia, el pueblo es quien pone y quita a sus gobernantes: es el gobierno de y para el pueblo. Sin embargo, son múltiples los ejemplos de gobiernos electos democráticamente que abusan del poder y se separan de la voluntad popular; por ello, en las democracias modernas existen instituciones que limitan el poder de los gobernantes, para evitar excesos y garantizar derechos mínimos.
+
+Para cumplir adecuadamente con sus funciones, estos contrapesos deben ser fuertes e independientes del poder electo, estar aislados de la esfera política y su periodicidad debe estar desfasada de la lógica electoral para generar mayor imparcialidad en sus decisiones. Asimismo, [la parte presupuestal](https://www.finanzaspublicas.hacienda.gob.mx/work/models/Finanzas_Publicas/docs/paquete_economico/cgpe/cgpe_2024.pdf) es fundamental pues, para desempeñar sus tareas de manera eficiente, no basta la buena voluntad. La asignación de recursos nos dice mucho sobre la importancia que le da el gobierno federal a estos contrapesos, por eso es importante no perder de vista el tema, sobre todo en el contexto del Paquete Económico 2024.
+
+Las funciones que desempeñan dichos árbitros son diversas, pero la principal es salvaguardar la democracia para que el poder electo no caiga en la tentación de perpetuarse, respete las reglas del juego democrático y acepte la voluntad de las y los ciudadanos.
+
+En México, estos árbitros se pueden considerar guardianes de la democracia, instituciones que funcionan como un sistema de pesos y contrapesos, y que, dada su independencia y carácter técnico, permiten garantizar los derechos de las y los mexicanos. Quizá el más conocido de esos guardianes es el Instituto Nacional Electoral (INE), que surgió del reclamo popular para arrebatar la organización de las elecciones al gobierno, pues sus incentivos estaban naturalmente alineados a los del grupo en el poder. Otros guardianes que deben proteger la naturaleza democrática del Estado son el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales ([Inai](https://home.inai.org.mx/)), la Comisión Nacional de Derechos Humanos (CNDH) y la Fiscalía General de la República (FGR), todos entes autónomos del poder político, al menos en el papel.
+
+Existen otros guardianes cuyas funciones son más regulatorias o que buscan producir estadísticas objetivas para medir el avance del país en distintos temas, como la Comisión Federal de Competencia Económica ([Cofece](https://www.cofece.mx/)), el Consejo Nacional de Evaluación de la Política de Desarrollo Social (Coneval), el Instituto Federal de Telecomunicaciones (IFT) y el Instituto Nacional de Estadística y Geografía (Inegi).
+
+Desafortunadamente, en los últimos años algunos de estos guardianes han sido atacados desde el Poder Ejecutivo, en mayor o menor medida, de distintas formas. Hemos presenciado la crítica desmedida a la utilidad del INAI, se ha puesto en duda la imparcialidad del INE, se han descalificado los resultados publicados por el Coneval sobre la pobreza, entre otros. Si bien la crítica no es mala *per se*, es perniciosa cuando va acompañada de acciones u omisiones que buscan afectar el funcionamiento o la credibilidad de dichos guardianes. Esto, nuevamente, resalta la importancia de proteger la labor de dichas instituciones frente al asedio de los grupos en el poder, para garantizar decisiones objetivas, que hagan valer el espíritu de las leyes.
+
+Para algunos de estos guardianes, el ataque ha consistido en reducciones importantes a su presupuesto. Por ejemplo, en el caso del INAI, su presupuesto pasó de 1 mil 096 mdp en 2018, durante el último año de la administración peñista, a 866 mdp en el primer año del gobierno de la 4T, una reducción de 21% en términos reales. Sobre este nuevo presupuesto, las variaciones presupuestales han sido negativas entre 2020 y 2021 o con aumentos marginales entre 2022 y 2024 de tal forma que, en todo el periodo, la variación promedio anual de su presupuesto es negativa, -3%.
+
+En el caso de la Cofece, la CNDH y la FGR, el patrón se ha repetido. Empezaron el sexenio con reducciones presupuestales importantes, respecto de 2018, y salvo en 2 años sexenio en que tuvieron incrementos marginales o se mantuvieron iguales, en el resto de los ejercicios fiscales, registraron reducciones a sus recursos, lo cual afecta directamente su funcionamiento.![El ataque a los guardianes de la democracia - el-ataque-a-los-guardianes-de-la-democracia-paquete-economico-2024](https://i0.wp.com/la-lista.com/wp-content/uploads/2023/09/el-ataque-a-los-guardianes-de-la-democracia-paquete-economico-2024.jpg?resize=800%2C389&ssl=1)En la práctica, el presupuesto sigue siendo utilizado para presionar o influir en las decisiones de los órganos autónomos. Su uso para someter a los contrapesos no es un atributo propio de las democracias, sino de gobiernos autoritarios, por lo cual, las y los legisladores deben considerar estos riesgos al momento de discutir y aprobar el paquete económico del siguiente año.
+
+En una democracia, los límites al poder son más que sanos, pues esto nos permite garantizar el ejercicio de nuestros derechos, los cuales estarán vigentes más allá del periodo que dura un gobierno. En ese sentido, una democracia privilegia el fortalecimiento de las instituciones, no su aniquilación por distintas vías, incluida la presupuestal. Debilitar a los contrapesos hoy abre la puerta para que otros partidos puedan violentar derechos cuando lleguen al poder, es por eso que defender al pueblo indudablemente implica proteger sus derechos.
+
+Gobernar para el pueblo no sólo debe entenderse como el otorgamiento de recursos a través de programas sociales, sino respetar y promover sus derechos a través de asegurar el funcionamiento, independencia y permanencia de las instituciones que velan por ellos. 
+
+**Nota: el monto utilizado para la variación de 2023 a 2024 considera el presupuesto planteado por la SHCP en el Proyecto de Presupuesto de Egresos de la Federación 2024.**
