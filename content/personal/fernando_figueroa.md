@@ -1,5 +1,5 @@
 ---
-nombre: Fernando Figueroa
+nombre: FERNANDO FIGUEROA
 foto: https://ucarecdn.com/dcd4f4a7-a0d3-4f61-a994-2e86f65ee4e8/
 puesto: DISEÑADOR GRÁFICO
 area: comunicación y prensa
