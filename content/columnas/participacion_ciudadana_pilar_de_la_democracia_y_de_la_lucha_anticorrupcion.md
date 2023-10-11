@@ -6,7 +6,7 @@ img-alt: "Participación ciudadana "
 autor: Liliana Alvarado
 medio: El Economista
 link: https://www.eleconomista.com.mx/opinion/Participacion-ciudadana-pilar-de-la-democracia-y-de-la-lucha-anticorrupcion-20230315-0036.html
-category: anticorrupcion
+category: rumbo-democratico
 extracto: "Se requieren más mecanismos que permitan canalizar efectivamente la
   participación, pero también redes de articulación que fortalezcan las
   iniciativas y que eviten la dispersión de los esfuerzos. "
