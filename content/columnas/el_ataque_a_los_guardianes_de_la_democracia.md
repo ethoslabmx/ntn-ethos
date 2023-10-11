@@ -6,7 +6,7 @@ img-alt: Paquete Económico 2024
 autor: Dalia Toledo
 medio: La Lista
 link: https://la-lista.com/opinion/2023/09/11/el-ataque-a-los-guardianes-de-la-democracia-paquete-economico-2024
-category: finanzas-publicas
+category: rumbo-democratico
 extracto: El presupuesto sigue siendo utilizado para presionar o influir en las
   decisiones de los órganos autónomos. Su uso para someter a los contrapesos no
   es un atributo propio de las democracias, sino de gobiernos autoritarios.
