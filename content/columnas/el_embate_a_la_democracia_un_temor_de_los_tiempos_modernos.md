@@ -6,7 +6,7 @@ img-alt: Democracia en riesgo
 autor: Liliana Alvarado
 medio: Opinión 51
 link: https://www.opinion51.com/invitada-liliana-embate-a-la-democracia/
-category: think-tanks
+category: rumbo-democratico
 extracto: Uno de los problemas que más preocupa es la estabilidad del régimen
   democrático, ya que durante los últimos años los focos rojos se han encendido.
 ---
