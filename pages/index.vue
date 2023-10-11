@@ -1,6 +1,6 @@
 <template>
   <div class="app home">
-    <JumbotronIndex />
+    <JumbotronIndex :notas="notas" />
     <div class="separador_header container mx-auto py-6 md:p-6 my-6 md:my-14">
       <h2 class="big-title xl:text-xl text-md text-right pr-3 tracking-widest">EJES DE INVESTIGACIÓN</h2>
       <hr>
@@ -43,6 +43,7 @@
 
 
       </div>
+      <!--      
       <div class="eje bg-white md:flex-row flex-col">
         <div class="img md:w-1/2"><img src="../assets/images/ciudades-del-futuro-thumb.jpg" alt=""></div>
         <div class="content md:w-1/2 p-8 self-center">
@@ -53,6 +54,8 @@
 
 
       </div>
+      -->
+
       <div class="eje bg-white md:flex-row-reverse flex-col">
         <div class="img md:w-1/2"><img src="../assets/images/inclusion-thumb.jpg" alt=""></div>
         <div class="content md:w-1/2 p-8 self-center">
@@ -116,9 +119,10 @@ export default {
   components: { JumbotronIndex },
   async asyncData({ $content }) {
     const columnas = await $content("columnas").sortBy('date','desc').limit(3).fetch();
-
+    const notas = await $content("cintillo").fetch().catch((error) => console.log(error.data));
     return {
       columnas,
+      notas
     };
   },
   data(){
@@ -223,9 +227,10 @@ export default {
          case "anticorrupcion":
            nombre = "Anticorrupción";
            break;
+          /*
         case "ciudades-del-futuro":
           nombre = "Ciudades del Futuro";
-          break;
+          break;*/
         case "inclusion":
           nombre = "Inclusión";
           break;

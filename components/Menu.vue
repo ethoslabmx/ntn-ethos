@@ -164,7 +164,7 @@
                       </li>
                     </ul>
                   </li>
-
+                  <!--
                   <li class="dropdown-child inline-block relative w-full">
                     <a
                       class="justify-between  inline-flex items-center py-3 px-6 w-full block bg-gray-200 hover:bg-primary hover:text-white">
@@ -202,7 +202,7 @@
                       </li>
                     </ul>
                   </li>
-
+                  -->
                   <li class="dropdown-child inline-block relative w-full">
                     <a
                       class="  inline-flex items-center py-3 px-6 w-full justify-between block bg-gray-200 hover:bg-primary hover:text-white">
@@ -299,12 +299,15 @@
               </li>
             </ul>
           </div>
+          <!--MENU MOVIL-->
           <div class="flex items-center flex-nowrap justify-end">
             <div class="search mx-6">
               <NuxtLink to="/buscador">
               <img src="../assets/images/lupa.png" alt="logo ethos"
                 class="object-cover w-full h-full" /></NuxtLink></div>
 
+
+              
             <div class="menu xl:hidden" :class="[`${$store.state.menu.menuClass}`]">
               <button class="nav-tgl" type="button" aria-label="toggle menu" @click="addActive">
                 <!-- this span just for the three dividers in the hamburger button--><span aria-hidden="true"></span>
@@ -454,6 +457,7 @@
                             </ul>
                           </div>
                         </li>
+                        <!--
                         <li class="tab tab_child">
                           <input type="radio" id="ciudades" name="rd2">
                           <label class="tab-label tab-label_child" for="ciudades">Ciudades del futuro</label>
@@ -489,6 +493,7 @@
                             </ul>
                           </div>
                         </li>
+                        -->
                         <li class="tab tab_child">
                           <input type="radio" id="inclusion" name="rd2">
                           <label class="tab-label tab-label_child" for="inclusion">Inclusión</label>
@@ -629,6 +634,7 @@ export default {
 <style lang="scss">
 .menubar {
   position: relative;
+  z-index: 100;
   .search{
     width: 35px;
     height: 35px;
@@ -779,6 +785,7 @@ input[type="radio"] {
       align-items: center;
       justify-content: flex-start;
       padding-top: 85px;
+      z-index: 1000;
 
       @media (min-width:700px) {
         height: 100vh;

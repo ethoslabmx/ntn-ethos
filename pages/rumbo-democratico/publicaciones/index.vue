@@ -1,6 +1,6 @@
 <template>
   <div class="border-b-16 border-primary app">
-    <JumbotronEje title="RUMBO DEMOCRÁTICO" subtitle="Publicaciones" image="anticorrupcion-thumb.png"/>
+    <JumbotronEje title="RUMBO DEMOCRÁTICO" subtitle="Publicaciones" image="eventos-jumbo.jpg"/>
     <ListadoPublicaciones :posts="posts" eje="rumbo-democratico" categoria="publicaciones" />
     <li class="post last">
       <div class="container px-5 xl:px-28 py-10" v-if="more">

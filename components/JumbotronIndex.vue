@@ -2,7 +2,26 @@
 <template>
 
     <div id="stripped">
-      
+      <div class="cintillo" v-if="notas.length > 0">
+        <div class="nota">
+          <h2>{{nota.title}}</h2>
+          <p>{{nota.extracto}}</p>
+          <div class="line"></div>
+          <div class="actions">
+            <a :href="nota.link">
+              <div class="btn">Leer más</div>
+            </a>
+            <div class="arrows">
+              <div class="right" @click="prev">
+                <img src="../assets/images/arrow.png" alt="">
+              </div>
+              <div class="left" @click="next"> 
+                <img src="../assets/images/arrow.png" alt="">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
       <div class="c-transition" id="banner">
         <img src="../assets/images/jumbotron-index.jpg" alt="">
       </div>
@@ -13,8 +32,16 @@ export default {
   data() {
     return {
       showOverlay:true,
+      nota:{
+        title:'',
+        extracto:'',
+        link:''
+      },
+      currentNote:0
     };
   },
+  props:['notas'],
+  
   mounted() {
     //delay 1s to show the overlay then show animation
     let mainImg = new Image();
@@ -29,7 +56,23 @@ export default {
       }, 100);
     };
     mainImg.src = require("../assets/images/jumbotron-index.jpg");
+    this.notas && this.notas[0] ? this.nota = this.notas[0]: '';
   },
+
+  methods:{
+    prev(){
+      if(this.currentNote > 0){
+        this.currentNote--;
+        this.nota = this.notas[this.currentNote];
+      }
+    },
+    next(){
+      if(this.currentNote < this.notas.length - 1){
+        this.currentNote++;
+        this.nota = this.notas[this.currentNote];
+      }
+    }
+  }
 };
 
 </script>
@@ -41,6 +84,82 @@ export default {
   border-bottom: 2rem solid #f28f78;
   min-height: calc(100% * 0.72);
   width: 100%;
+  position: relative;
+}
+
+.cintillo{
+  
+  z-index: 10;
+  color: #828282;
+  width: 100%;
+  
+  padding: 10px 25px 10px 15px;
+
+  @media screen and (min-width:768px) {
+    position: absolute;
+    top: 0;
+    left:10%;
+    width: fit-content;
+    max-width: 35%;
+    
+    &::before{
+      content:'';
+      position:absolute;
+      top:0;
+      left:-10px;
+      background-color: rgba(255,255,255,0.5);
+      width: 100%;
+      height: 100%;
+      z-index: -1;
+      transform: skewX(-10deg);
+    }
+
+  }
+
+  .line{
+    border: 1px solid #f28f78;
+    width: 40%;
+    margin: 10px 0 5px 0;
+  }
+
+  h2{
+    font-weight: bold;
+    font-size:1rem;
+  }
+
+  p{
+    font-weight: 300;
+    font-size:0.9rem;
+  }
+
+  .actions{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+
+    img{
+      width: 25px;
+      margin: 0 5px;
+      cursor: pointer;
+    }
+
+    .left{
+      transform: rotate(180deg);
+    }
+  }
+
+  .arrows{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+
+
+  }
+
+  .btn{
+    color:#f28f78;
+  }
 }
 
 .c-transition{
