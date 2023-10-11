@@ -73,6 +73,11 @@
         </div>
 
       </div>
+      <div class="container flex flex-wrap flex-row galeria" v-if="post.galeria">
+        <div class="galeria-item" v-for="(foto,index) in post.galeria" :key="index">
+          <img :src="foto" alt="">
+        </div>
+      </div>
     </div>
     <!-- <h1>{{post.title}}</h1>
     <img :src="post.img" alt="">

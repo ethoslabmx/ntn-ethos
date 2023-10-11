@@ -1,6 +1,8 @@
 <!-- Please remove this file from your project -->
 <template>
+
     <div id="stripped">
+      
       <div class="c-transition" id="banner">
         <img src="../assets/images/jumbotron-index.jpg" alt="">
       </div>

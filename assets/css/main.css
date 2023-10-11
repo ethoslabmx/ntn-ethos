@@ -106,13 +106,13 @@ footer {
 
 
 ul.dropdown-child-menu {
-  right: -115%;
+  right: -105%;
   top: 1rem;
 }
 
 @media (min-width:1400px) {
   ul.dropdown-child-menu {
-    right: -113%;
+    right: -96%;
   }
 }
 

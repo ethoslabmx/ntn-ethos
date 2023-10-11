@@ -14,6 +14,7 @@
         <div class="w-full xl:w-1/3 px-5 xl:pr-0">
           <img :src="post.img" alt="" class="shadow-xl object-cover">
         </div>
+        
         <div class="w-full xl:w-2/3 p-5 mx-auto">
           <nuxt-content :document="post" />
           <div class="share content-end flex justify-end lg:items-center md:flex-wrap xl:flex-nowrap">
@@ -72,6 +73,11 @@
           </div>
         </div>
 
+      </div>
+      <div class="container flex flex-wrap flex-row galeria" v-if="post.galeria">
+        <div class="galeria-item" v-for="(foto,index) in post.galeria" :key="index">
+          <img :src="foto" alt="">
+        </div>
       </div>
     </div>
     <!-- <h1>{{post.title}}</h1>

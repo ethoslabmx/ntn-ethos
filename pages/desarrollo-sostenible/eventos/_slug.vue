@@ -10,6 +10,7 @@
           </p>
         </div>
       </div>
+      
       <div class="flex container flex-wrap xl:flex-nowrap xl:flex-row-reverse xl:pr-0 xl:mr-0 xl:pl-15">
         <div class="w-full xl:w-1/3 px-5 xl:pr-0">
           <img :src="post.img" alt="" class="shadow-xl object-cover">
@@ -72,6 +73,11 @@
           </div>
         </div>
 
+      </div>
+      <div class="container flex flex-wrap flex-row galeria" v-if="post.galeria">
+        <div class="galeria-item" v-for="(foto,index) in post.galeria" :key="index">
+          <img :src="foto" alt="">
+        </div>
       </div>
     </div>
     <!-- <h1>{{post.title}}</h1>

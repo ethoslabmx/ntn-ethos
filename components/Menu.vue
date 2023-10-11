@@ -634,7 +634,7 @@ export default {
     height: 35px;
   }
   ul.dropdown-menu {
-    min-width: 200px;
+    min-width: 220px;
 
     li {
       letter-spacing: 1px;

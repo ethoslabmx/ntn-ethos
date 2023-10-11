@@ -5,11 +5,10 @@
         <div class="w-full xl:w-3/4 p-5">
           <h1 class="2xl:text-xl text-lg title my-4 fill-text-animation">{{ post.title }}</h1>
           <p class="my-2">{{ new Date(post.date).toLocaleDateString('es-MX', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }) }}</p>
-          <p class="my-2">Por: {{ post.autor }} <span v-if="post.medio">Para: <a :href="post.link">{{ post.medio
-          }}</a></span>
-          </p>
+          <p class="my-2">Por: {{ post.autor }} <span v-if="post.medio">Para: <a :href="post.link">{{ post.medio}}</a></span></p>
         </div>
       </div>
+      
       <div class="flex container flex-wrap xl:flex-nowrap xl:flex-row-reverse xl:pr-0 xl:mr-0 xl:pl-15">
         <div class="w-full xl:w-1/3 px-5 xl:pr-0">
           <img :src="post.img" alt="" class="shadow-xl object-cover">
@@ -72,6 +71,11 @@
           </div>
         </div>
 
+      </div>
+      <div class="container flex flex-wrap flex-row galeria" v-if="post.galeria">
+        <div class="galeria-item" v-for="(foto,index) in post.galeria" :key="index">
+          <img :src="foto" alt="">
+        </div>
       </div>
     </div>
     <!-- <h1>{{post.title}}</h1>
