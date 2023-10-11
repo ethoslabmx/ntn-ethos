@@ -6,7 +6,7 @@ img-alt: Fake news
 autor: Javier González
 medio: Expansión
 link: https://politica.expansion.mx/voces/2023/04/20/columnainvitada-elecciones-desinformacion-el-problema-mas-importante?_amp=true
-category: think-tanks
+category: rumbo-democratico
 extracto: Cuando la desinformación surge de actores políticos (...) se violentan
   los derechos políticos de las personas y se erosionan los fundamentos mismos
   de la democracia.
