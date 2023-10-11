@@ -6,7 +6,7 @@ img-alt: "Democracia "
 autor: Javier González y Jesús Cervantes
 medio: Este País
 link: https://estepais.com/tendencias_y_opiniones/dos-cimientos-de-la-democracia-confianza-y-despolarizacion/
-category: think-tanks
+category: rumbo-democratico
 extracto: Aunque la polarización en México ha alcanzado niveles preocupantes,
   aún es posible reconstruir la confianza en la democracia con espacios de
   diálogo que reivindiquen nuestro derecho a disentir.
