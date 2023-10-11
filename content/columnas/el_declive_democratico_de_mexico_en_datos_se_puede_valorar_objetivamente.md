@@ -6,7 +6,7 @@ img-alt: Democracia
 autor: Javier González y Flavia Poy
 medio: Este País
 link: https://estepais.com/tendencias_y_opiniones/declive-democratico-mexico/
-category: think-tanks
+category: rumbo-democratico
 extracto: En este texto, Javier González y Flavia Poy Barrio —miembros de Ethos
   Innovación en Políticas Públicas— analizan algunos factores que apuntan a un
   proceso de des-democratización y debilitamiento de las instituciones públicas
