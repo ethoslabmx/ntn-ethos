@@ -5,7 +5,7 @@ img: https://ucarecdn.com/cefed225-4308-4e95-9837-c35a51e30e72/
 autor: Liliana Alvarado
 medio: "El Economista "
 link: https://www.eleconomista.com.mx/opinion/El-contrapeso-gubernamental-a-la-baja-20220222-0057.html
-category: anticorrupcion
+category: rumbo-democratico
 extracto: En este sentido, los watch dogs forman parte del conjunto de
   contrapesos al gobierno. A la lista se suman algunos medios de comunicación,
   periodistas, el empresariado, los organismos autónomos y electorales, entre
