@@ -28,3 +28,6 @@ git pull origin2 mainsite
 
 #For local testing
 npx netlify-cms-proxy-server
+
+CMD
+set NODE_OPTIONS=--openssl-legacy-provider

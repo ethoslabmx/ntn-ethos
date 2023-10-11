@@ -242,7 +242,29 @@
                   </li>
                 </ul>
               </li>
+              <li class="dropdown inline-block relative ml-3">
+                <a class="  inline-flex items-center w-full">
+                  <span class="mr-1">RUMBO DEMOCRÁTICO</span>
+                  <svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                    <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
+                  </svg>
+                </a>
+                <ul class="dropdown-menu absolute hidden text-gray-700  bg-white shadow-xl p-0 m-0 w-full">
+                  <li class="">
+                    <NuxtLink class=" bg-gray-200 hover:bg-primary hover:text-white py-3 px-6 block whitespace-no-wrap"
+                      to="/rumbo-democratico/publicaciones">PUBLICACIONES</NuxtLink>
+                  </li>
+                  <li class="">
+                    <NuxtLink class=" bg-gray-200 hover:bg-primary hover:text-white py-3 px-6 block whitespace-no-wrap"
+                      to="/rumbo-democratico/columnas">COLUMNAS</NuxtLink>
+                  </li>
+                  <li class="">
+                    <NuxtLink class=" bg-gray-200 hover:bg-primary hover:text-white py-3 px-6 block whitespace-no-wrap"
+                      to="/rumbo-democratico/videos">VIDEOS</NuxtLink>
+                  </li>
 
+                </ul>
+              </li>
               <li class="dropdown inline-block relative ml-3">
                 <a class="  inline-flex items-center w-full">
                   <span class="mr-1">UNIVERSO THINK TANKS</span>
@@ -251,6 +273,10 @@
                   </svg>
                 </a>
                 <ul class="dropdown-menu absolute hidden text-gray-700  bg-white shadow-xl p-0 m-0 w-full">
+                  <li class="">
+                    <NuxtLink class=" bg-gray-200 hover:bg-primary hover:text-white py-3 px-6 block whitespace-no-wrap"
+                      to="/think-tanks/publicaciones">PUBLICACIONES</NuxtLink>
+                  </li>
                   <li class="">
                     <NuxtLink class=" bg-gray-200 hover:bg-primary hover:text-white py-3 px-6 block whitespace-no-wrap"
                       to="/think-tanks/columnas">COLUMNAS</NuxtLink>
@@ -506,9 +532,36 @@
                     <!-- <a href="#/reportajes">UNIVERSO THINKS TANKS</a> -->
 
                     <input type="radio" id="chck3" name="rd">
+                    <label class="tab-label" for="chck3"> RUMBO DEMOCRÁTICO </label>
+                    <div class="tab-content">
+                      <ul id="" class="">
+                        <li class="">
+                          <NuxtLink
+                            to="/rumbo-democratico/publicaciones">PUBLICACIONES</NuxtLink>
+                        </li>
+                        <li class="">
+                          <NuxtLink
+                            to="/rumbo-democratico/columnas">COLUMNAS</NuxtLink>
+                        </li>
+                        <li class="">
+                          <NuxtLink
+                            to="/rumbo-democratico/videos">VIDEOS</NuxtLink>
+                        </li>
+                      </ul>
+                    </div>
+
+                  </li>
+                  <li class="tab">
+                    <!-- <a href="#/reportajes">UNIVERSO THINKS TANKS</a> -->
+
+                    <input type="radio" id="chck3" name="rd">
                     <label class="tab-label" for="chck3"> UNIVERSO THINKS TANKS </label>
                     <div class="tab-content">
                       <ul id="" class="">
+                        <li class="">
+                          <NuxtLink
+                            to="/think-tanks/publicaciones">PUBLICACIONES</NuxtLink>
+                        </li>
                         <li class="">
                           <NuxtLink
                             to="/think-tanks/columnas">COLUMNAS</NuxtLink>
@@ -581,10 +634,10 @@ export default {
     height: 35px;
   }
   ul.dropdown-menu {
-    min-width: 220px;
+    min-width: 200px;
 
     li {
-      letter-spacing: 2px;
+      letter-spacing: 1px;
     }
 
 
@@ -600,7 +653,7 @@ export default {
   }
 
   li {
-
+    font-size:0.65rem;
     font-weight: 600;
     color: #5B5B5B;
   }
