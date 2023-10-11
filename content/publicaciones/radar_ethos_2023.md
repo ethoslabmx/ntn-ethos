@@ -4,7 +4,7 @@ date: 2023-04-28T16:53:53.337Z
 img: https://ucarecdn.com/6e21ba10-d2d8-4a69-be6c-20a6ecb1ebe0/
 img-alt: Radar Ethos 2023
 autor: Ethos
-category: anticorrupcion
+category: rumbo-democratico
 extracto: En su inicio, el Poder Ejecutivo planteaba una serie de modificaciones
   que darían como resultado un país más justo, equitativo, con finanzas públicas
   sanas y menos corrupción. Sin embargo, la esperanza de un cambio se ha ido
