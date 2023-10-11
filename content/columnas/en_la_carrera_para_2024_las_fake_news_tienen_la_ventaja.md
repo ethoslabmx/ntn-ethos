@@ -6,7 +6,7 @@ img-alt: Fake news
 autor: Dalia Toledo
 medio: La Lista
 link: https://la-lista.com/opinion/opinion-invitada/2023/07/10/en-la-carrera-para-2024-las-fake-news-tienen-la-ventaja
-category: think-tanks
+category: rumbo-democratico
 extracto: Desde hace varios años, algunos estudios han señalado que la sociedad
   mexicana es gran productora y consumidora de noticias falsas o engañosas (fake
   news). Pero, ¿por qué este tema debería importarnos?
