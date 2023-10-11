@@ -6,7 +6,7 @@ img-alt: INAI
 autor: Liliana Alvarado
 medio: Animal Político
 link: https://www.animalpolitico.com/analisis/invitades/contrapesos-instituciones-democratica
-category: think-tanks
+category: rumbo-democratico
 extracto: Para evitar el deterioro de los sistemas y valores democráticos,
   existen los contrapesos. Algunos tienen cierto grado de dependencia del
   Ejecutivo y otros son completamente ajenos a él. Con el paso del tiempo, estos
