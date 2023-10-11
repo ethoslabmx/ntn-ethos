@@ -6,7 +6,7 @@ img-alt: "Clientelismo electoral "
 autor: Laure Delalande
 medio: Este País
 link: https://estepais.com/tendencias_y_opiniones/programas-sociales-clientelismo-electoral/
-category: inclusion
+category: rumbo-democratico
 extracto: En este texto, Laure Delalande reflexiona sobre si los programas
   sociales del Gobierno Federal son, como a veces se suele creer, formas de
   cooptación política y clientelismo electoral.
