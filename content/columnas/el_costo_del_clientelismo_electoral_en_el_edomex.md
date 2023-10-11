@@ -6,7 +6,7 @@ img-alt: Clientelismo electoral
 autor: Néstor Genis
 medio: Animal Político
 link: https://www.animalpolitico.com/analisis/invitades/costo-del-clientelismo-electoral-edomex
-category: anticorrupcion
+category: rumbo-democratico
 extracto: En el Estado de México, el 33% del electorado se beneficia con
   programas sociales federales, mientras que el 0.05% recibe el principal
   programa social estatal. El uso clientelar de estos programas podría tener un
