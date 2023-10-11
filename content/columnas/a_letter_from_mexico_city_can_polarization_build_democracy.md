@@ -6,7 +6,7 @@ img-alt: Guardia Nacional en el Metro de la Ciudad de México
 autor: Javier González
 medio: Zócalo Public Square
 link: https://www.zocalopublicsquare.org/2023/02/27/letter-from-mexico-city-polarization-democracy/ideas/essay/
-category: think-tanks
+category: rumbo-democratico
 extracto: Too Often Disagreement Means Enmity. But Bridging Extremes Is the Best
   Bet for Our Future
 ---
