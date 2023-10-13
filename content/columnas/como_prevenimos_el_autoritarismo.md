@@ -6,7 +6,7 @@ img-alt: Autoritarismo
 autor: Javier González
 medio: Animal Político
 link: https://www.animalpolitico.com/analisis/invitades/prevencion-autoritarismo-democracia-latinobarometro
-category: think-tanks
+category: rumbo-democratico
 extracto: La desigualdad, la pobreza, la impunidad, la percepción de corrupción,
   la inseguridad y otros problemas estructurales a los que no se les ve salida,
   son los enemigos más firmes de la salud democrática.
