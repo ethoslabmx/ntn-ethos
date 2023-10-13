@@ -1,7 +1,7 @@
 ---
 title: El costo de la deuda o el costo político de aumentar el predial
 date: 2023-09-26T17:29:51.336Z
-img: https://ucarecdn.com/dc7f7dbf-5112-4ed1-b9e2-1aca2956a267/
+img: https://ucarecdn.com/63145953-c6c3-4a4a-af30-bb2cb8123705/
 img-alt: Deuda municipal
 autor: "Liliana Alvarado "
 medio: El Economista
