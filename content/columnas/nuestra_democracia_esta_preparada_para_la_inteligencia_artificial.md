@@ -6,7 +6,7 @@ img-alt: Inteligencia artificial y democracia
 autor: Javier González
 medio: La Lista
 link: https://la-lista.com/opinion/2023/08/28/nuestra-democracia-esta-preparada-para-la-inteligencia-artificial
-category: think-tanks
+category: rumbo-democratico
 extracto: "En momentos electorales como los que se aproximan, preocupan las
   implicaciones de la IA para la salud de las democracias: puede convertirse en
   una herramienta para el engaño y la manipulación, para influir en las
