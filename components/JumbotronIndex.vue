@@ -21,6 +21,7 @@
             </div>
           </div>
         </div>
+        
       </div>
       <div class="c-transition" id="banner">
         <img src="../assets/images/jumbotron-index.jpg" alt="">
@@ -37,8 +38,14 @@ export default {
         extracto:'',
         link:''
       },
-      currentNote:0
+      currentNote:0,
+      
     };
+  },
+  computed:{
+    notes(){
+      return this.notas.reverse();
+    }
   },
   props:['notas'],
   
@@ -56,21 +63,23 @@ export default {
       }, 100);
     };
     mainImg.src = require("../assets/images/jumbotron-index.jpg");
-    this.notas && this.notas[0] ? this.nota = this.notas[0]: '';
+    this.notes && this.notes.length > 0 ? this.nota = this.notes[0]: '';
   },
 
   methods:{
     prev(){
       if(this.currentNote > 0){
         this.currentNote--;
-        this.nota = this.notas[this.currentNote];
+        this.nota = this.notes[this.currentNote];
       }
+      
     },
     next(){
-      if(this.currentNote < this.notas.length - 1){
+      if(this.currentNote < this.notes.length - 1){
         this.currentNote++;
-        this.nota = this.notas[this.currentNote];
+        this.nota = this.notes[this.currentNote];
       }
+      
     }
   }
 };
@@ -88,19 +97,20 @@ export default {
 }
 
 .cintillo{
-  
+  position: relative;
   z-index: 10;
   color: #828282;
   width: 100%;
-  
+  animation: show-content 0.5s ease-out 2s forwards;
   padding: 10px 25px 10px 15px;
+  opacity: 0;
 
   @media screen and (min-width:768px) {
     position: absolute;
     top: 0;
     left:10%;
     width: fit-content;
-    max-width: 35%;
+    width: 50%;
     
     &::before{
       content:'';
@@ -116,10 +126,25 @@ export default {
 
   }
 
+  @media screen and (min-width:1200px) {
+    width: 40%;
+    min-height: 180px;
+    .nota{
+      min-height: 160px;
+    }
+  }
+
+  .nota{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
   .line{
     border: 1px solid #f28f78;
     width: 40%;
-    margin: 10px 0 5px 0;
+    margin: 10px 0 10px 0;
   }
 
   h2{
@@ -133,6 +158,8 @@ export default {
   }
 
   .actions{
+
+    width: 80%;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -201,7 +228,7 @@ export default {
   }
 
   &.is-active::before {
-    animation: remove-frame 1s ease-out 2s forwards;
+    animation: remove-frame 1s ease-out 1.5s forwards;
   }
 
   img{
@@ -230,6 +257,15 @@ export default {
   }
   100%{
     opacity: 0.1;
+  }
+}
+
+@keyframes show-content{
+  0%{
+    opacity: 0;
+  }
+  100%{
+    opacity: 1;
   }
 }
 
