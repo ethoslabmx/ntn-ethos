@@ -3,7 +3,23 @@
 
     <div id="stripped">
       <div class="cintillo" v-if="notas.length > 0">
-        <div class="nota">
+        <div class=" nota nota-img" v-if="nota.img" :style="'background-image: url('+ nota.img +');'">
+          
+          <div class="actions">
+            <a :href="nota.link">
+              <div class="btn">Leer más</div>
+            </a>
+            <div class="arrows">
+              <div class="right" @click="prev">
+                <img src="../assets/images/arrow.png" alt="">
+              </div>
+              <div class="left" @click="next"> 
+                <img src="../assets/images/arrow.png" alt="">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="nota" v-else>
           <h2>{{nota.title}}</h2>
           <p>{{nota.extracto}}</p>
           <div class="line"></div>
@@ -44,7 +60,7 @@ export default {
   },
   computed:{
     notes(){
-      return this.notas.reverse();
+      return this.notas;
     }
   },
   props:['notas'],
@@ -104,6 +120,7 @@ export default {
   animation: show-content 0.5s ease-out 2s forwards;
   padding: 10px 25px 10px 15px;
   opacity: 0;
+  
 
   @media screen and (min-width:768px) {
     position: absolute;
@@ -136,6 +153,7 @@ export default {
 
   .nota{
     height: 100%;
+    min-height: 180px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -176,12 +194,40 @@ export default {
     }
   }
 
+  .nota-img{
+    height: 100%;
+    min-height: 180px;
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    padding: 0;
+    margin: 0;
+    
+
+    .actions{
+      position: absolute;
+      bottom: 10px;
+      left: 0px;
+      background: rgba(255,255,255,0.5);
+      width: 100%;
+    }
+
+    @media screen and (min-width:768px) {
+
+      
+
+    }
+
+  }
+
   .arrows{
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
-
-
   }
 
   .btn{

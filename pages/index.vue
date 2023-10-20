@@ -119,7 +119,7 @@ export default {
   components: { JumbotronIndex },
   async asyncData({ $content }) {
     const columnas = await $content("columnas").sortBy('date','desc').limit(3).fetch();
-    const notas = await $content("cintillo").fetch().catch((error) => console.log(error.data));
+    const notas = await $content("cintillo").sortBy('date','desc').fetch().catch((error) => console.log(error.data));
     return {
       columnas,
       notas
