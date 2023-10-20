@@ -2,7 +2,7 @@
 <template>
 
     <div id="stripped">
-      <div class="cintillo" v-if="notas.length > 0">
+      <div class="cintillo" v-if="notas.length > 0" :class="nota.colors">
         <div class=" nota nota-img" v-if="nota.img" :style="'background-image: url('+ nota.img +');'">
           
           <div class="actions">
@@ -11,10 +11,10 @@
             </a>
             <div class="arrows">
               <div class="right" @click="prev">
-                <img src="../assets/images/arrow.png" alt="">
+                <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25"><path d="M7.293 4.707 14.586 12l-7.293 7.293 1.414 1.414L17.414 12 8.707 3.293 7.293 4.707z"/></svg>
               </div>
               <div class="left" @click="next"> 
-                <img src="../assets/images/arrow.png" alt="">
+                <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25"><path d="M7.293 4.707 14.586 12l-7.293 7.293 1.414 1.414L17.414 12 8.707 3.293 7.293 4.707z"/></svg>
               </div>
             </div>
           </div>
@@ -29,10 +29,10 @@
             </a>
             <div class="arrows">
               <div class="right" @click="prev">
-                <img src="../assets/images/arrow.png" alt="">
+                <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25"><path d="M7.293 4.707 14.586 12l-7.293 7.293 1.414 1.414L17.414 12 8.707 3.293 7.293 4.707z"/></svg>
               </div>
               <div class="left" @click="next"> 
-                <img src="../assets/images/arrow.png" alt="">
+                <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25"><path d="M7.293 4.707 14.586 12l-7.293 7.293 1.414 1.414L17.414 12 8.707 3.293 7.293 4.707z"/></svg>
               </div>
             </div>
           </div>
@@ -120,6 +120,47 @@ export default {
   animation: show-content 0.5s ease-out 2s forwards;
   padding: 10px 25px 10px 15px;
   opacity: 0;
+
+  &.azul{
+    color:#828282;
+    &::before{
+      background-color:rgba(116, 177, 180, 0.75);
+    }
+    p{
+      color: #eee;
+    }
+  }
+
+  &.amarillo{
+    color:#828282;
+    &::before{
+      background-color: rgba(244, 224, 142, 0.65);
+    }
+ 
+  }
+
+  &.salmon{
+    color:#828282;
+    &::before{
+      background-color: rgba(242, 143, 120, 0.65);
+    }
+
+    p, .btn{
+      color: #fff;
+    }
+
+    .line{
+      border: 1px solid #eee;
+    }
+
+    .actions{
+      
+      svg{
+        fill:#eee;
+      }
+    }
+ 
+  }
   
 
   @media screen and (min-width:768px) {
@@ -157,6 +198,8 @@ export default {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    position: relative;
+    z-index: 1;
   }
 
   .line{
@@ -167,35 +210,46 @@ export default {
 
   h2{
     font-weight: bold;
-    font-size:1rem;
+    font-size:0.9rem;
+    
+    @media screen and (min-width:768px) {
+      font-size:1rem;
+    }
   }
 
   p{
     font-weight: 300;
-    font-size:0.9rem;
+    font-size:0.7rem;
+
+    @media screen and (min-width:768px) {
+      font-size:0.9rem;
+    }
   }
 
   .actions{
-
-    width: 80%;
+    
+    width: 95%;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
     justify-content: space-between;
 
-    img{
+
+    svg{
       width: 25px;
       margin: 0 5px;
       cursor: pointer;
+      fill:#f28f78;
     }
 
-    .left{
+    .right{
       transform: rotate(180deg);
     }
   }
 
   .nota-img{
     height: 100%;
+    
     min-height: 180px;
     background-size: contain;
     background-position: center center;
@@ -210,16 +264,39 @@ export default {
 
     .actions{
       position: absolute;
-      bottom: 10px;
+      bottom: 0px;
       left: 0px;
-      background: rgba(255,255,255,0.5);
-      width: 100%;
+      padding: 5px;
+      background: rgba(0,0,0,0.5);
+      width:100%;
+      font-weight: bold;
+      
     }
 
     @media screen and (min-width:768px) {
 
-      
+      width: calc(550px *0.7);
+      height: calc(180px *0.7);
+      position: relative;
+      top: -10px;
+      left: -10px;
 
+      .actions{
+        background: rgba(0,0,0,0.4);
+        bottom: 5px;
+        width: 99%;
+        z-index: 100;
+      }
+
+    }
+
+    @media screen and (min-width: 1024px) {
+      width: 110%;
+
+      .actions{
+        bottom: 5px;
+        width: 99%;
+      }
     }
 
   }

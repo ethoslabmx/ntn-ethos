@@ -14,7 +14,7 @@
             <li><input type="checkbox" @change="checkEjes" id="cbox1" value="finanzas-publicas"> <label>Finanzas Públicas</label></li>
             <li><input type="checkbox" @change="checkEjes" id="cbox1" value="inclusion"> <label>Inclusión</label></li>
             <li><input type="checkbox" @change="checkEjes" id="cbox1" value="desarrollo-sostenible"> <label>Desarrollo Sostenible</label></li>
-            <li><input type="checkbox" @change="checkEjes" id="cbox1" value="ciudades-del-futuro"> <label>Ciudades del Futuro</label></li>
+            <li><input type="checkbox" @change="checkEjes" id="cbox1" value="rumbo-democratico"> <label>Rumbo Democrático</label></li>
           </ul>
         </div>
         <div class="busqueda-categorias">
@@ -187,6 +187,9 @@ export default {
           break;
         case "think-tanks":
           nombre = "Think Tanks";
+          break;
+        case "rumbo-democratico":
+          nombre = "Rumbo Democrático";
           break;
       }
       return nombre;

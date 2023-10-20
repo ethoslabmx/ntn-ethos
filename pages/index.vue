@@ -56,7 +56,7 @@
       </div>
       -->
 
-      <div class="eje bg-white md:flex-row-reverse flex-col">
+      <div class="eje bg-white md:flex-row flex-col">
         <div class="img md:w-1/2"><img src="../assets/images/inclusion-thumb.jpg" alt=""></div>
         <div class="content md:w-1/2 p-8 self-center">
           <h2 class="title xl:text-2xl text-lg">Inclusión</h2>
@@ -242,6 +242,9 @@ export default {
           break;
         case "think-tanks":
           nombre = "Think Tanks";
+          break;
+        case "rumbo-democratico":
+          nombre = "Rumbo Democrático";
           break;
       }
       return nombre;

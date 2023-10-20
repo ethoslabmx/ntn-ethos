@@ -49,12 +49,14 @@
                   <li v-for="e in id" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
                 </ul>
               </li>
+              <!--
               <li >
                 <div @click="showGroup(4)">CIUDADES DEL FUTURO</div>
                 <ul class="nombres" v-if="p5">
                   <li v-for="e in cf" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
                 </ul>
               </li>
+              -->
               <li >
                 <div @click="showGroup(5)">COMUNICACIÓN Y PRENSA</div>
                 <ul class="nombres" v-if="p6">
@@ -108,7 +110,8 @@ export default {
     const di = await $content("personal").where({area:'dirección de desarrollo institucional'}).only('nombre').sortBy('pos').fetch();
     const fp = await $content("personal").where({area:'finanzas públicas y anticorrupción'}).only('nombre').sortBy('pos').fetch();
     const id = await $content("personal").where({area:'inclusión y desarrollo sostenible'}).only('nombre').sortBy('pos').fetch();
-    const cf = await $content("personal").where({area:'ciudades del futuro'}).only('nombre').sortBy('pos').fetch();
+    //const cf = await $content("personal").where({area:'ciudades del futuro'}).only('nombre').sortBy('pos').fetch();
+    const rd = await $content("personal").where({area:'rumbo democratico'}).only('nombre').sortBy('pos').fetch();
     const cp = await $content("personal").where({area:'comunicación y prensa'}).only('nombre').sortBy('pos').fetch();
     const ar = await $content("personal").where({area:'administración y recursos humanos'}).only('nombre').sortBy('pos').fetch();
     const pi = await $content("personal").where({area:'programa de internship'}).only('nombre').sortBy('pos').fetch();
@@ -116,7 +119,7 @@ export default {
     const cd = await $content("personal").where({area:'consejo directivo'}).only('nombre').sortBy('pos').fetch();
     return {
       personal,
-      dg,di,fp,id,cf,cp,ar,pi,aa,cd
+      dg,di,fp,id,rd,cp,ar,pi,aa,cd
     };
   },
   head() {
@@ -157,7 +160,7 @@ export default {
       p8:false,
       p9:false,
       p10:false,
-      puestos: ["DIRECCIÓN GENERAL", "DIRECCIÓN DE DESARROLLO INSTITUCIONAL", "FINANZAS PÚBLICAS Y ANTICORRUPCIÓN", "INCLUSIÓN Y DESARROLLO SOSTENIBLE", "CIUDADES DEL FUTURO", "COMUNICACIÓN Y PRENSA", "ADMINISTRACIÓN Y RECURSOS HUMANOS", "PROGRAMA DE INTERNSHIP", "ASAMBLEA DE ASOCIADOS", "CONSEJO DIRECTIVO"],         // all of the tabs
+      puestos: ["DIRECCIÓN GENERAL", "DIRECCIÓN DE DESARROLLO INSTITUCIONAL", "FINANZAS PÚBLICAS Y ANTICORRUPCIÓN", "INCLUSIÓN Y DESARROLLO SOSTENIBLE", "RUMBO DEMOCRÁTICO", "COMUNICACIÓN Y PRENSA", "ADMINISTRACIÓN Y RECURSOS HUMANOS", "PROGRAMA DE INTERNSHIP", "ASAMBLEA DE ASOCIADOS", "CONSEJO DIRECTIVO"],         // all of the tabs
       personal: [
         { nombre: "Liliana Alvarado", puesto: "DIRECTORA GENERAL", semblanza: "Maestra en Políticas Públicas y Administración (LSE) y licenciada en Relaciones Internacionales por el ITAM. Colaboró en la SHCP, donde adquirió una amplia experiencia en materia fiscal. Asimismo, trabajó en FUNDAR en el área de presupuestos públicos, en transparencia presupuestaria y rendición de cuentas. Durante los últimos años ha recibido diversas capacitaciones en la Universidad de Harvard en temas tributarios, en la International Anti-Corruption Academy de Austria en anticorrupción, en economía del comportamiento en el CIDE, entre otras. En Ethos tiene una larga trayectoria y actualmente se desempeña como Directora General, en donde ha coordinado diversos proyectos en materia de transparencia y rendición de cuentas, anticorrupción, gasto y política fiscal. Adicionalmente, es comentarista para Grupo Fórmula en el noticiero de Eduardo Ruiz Healy y columnista invitada en el periódico El Economista.", email: "liliana.alvarado@ethos.org.mx", twitter: "" },
         { nombre: "", puesto: "", semblanza: "", email: "", twitter: "" },

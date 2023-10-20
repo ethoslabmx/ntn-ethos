@@ -148,6 +148,7 @@ collections:
       - { label: 'Imagen Principal', name: 'img', widget: 'image', required: false }
       - { label: 'Enlace', name: 'link', widget: 'string' }
       - { label: 'Extracto', name: 'extracto', widget: 'string', required: false }
+      - { label: 'Esquema de colores', name: 'colors', widget: 'select', options: ["original", "azul", "amarillo","salmon"]}
   - name: 'micrositios'
     label: 'Micrositios'
     folder: 'content/micrositios'
@@ -205,7 +206,7 @@ collections:
       - { label: 'Nombre', name: 'nombre', widget: 'string' }
       - { label: 'Foto', name: 'foto', widget: 'image', required: false }
       - { label: 'Puesto', name: 'puesto', widget: 'string' , required: false}
-      - { label: 'Area', name: 'area', widget: 'select', options: ["dirección general","dirección de desarrollo institucional","finanzas públicas y anticorrupción","inclusión y desarrollo sostenible","ciudades del futuro","comunicación y prensa","administración y recursos humanos","programa de internship","asamblea de asociados","consejo directivo"] }
+      - { label: 'Area', name: 'area', widget: 'select', options: ["dirección general","dirección de desarrollo institucional","finanzas públicas y anticorrupción","inclusión y desarrollo sostenible","ciudades del futuro","rumbo democratico","comunicación y prensa","administración y recursos humanos","programa de internship","asamblea de asociados","consejo directivo"] }
       - { label: 'Orden', name: 'pos', widget: 'number'}
       - { label: 'Semblanza', name: 'semblanza', widget: 'string' }
       - { label: 'Email', name: 'email', widget: 'string', required: false }

@@ -79,7 +79,7 @@ export default {
   margin: 0;
 
   li {
-    font-size: clamp(1.5rem, 1vw, 2.5rem);
+    font-size: clamp(0.8rem,1vw,1.5rem);
     margin: 15px 0;
   }
 }

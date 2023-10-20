@@ -5,4 +5,5 @@ link: https://www.ethos.org.mx/finanzas-publicas/columnas/el_costo_de_la_deuda_o
 extracto: Durante décadas se han publicado estudios de expertos y centros de
   investigación, en donde se ha señalado el potencial recaudatorio que tiene el
   impuesto predial.
+colors: original
 ---

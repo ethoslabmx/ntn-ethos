@@ -5,4 +5,5 @@ link: https://www.ethos.org.mx/think-tanks/columnas/como_prevenimos_el_autoritar
 extracto: La desigualdad, la pobreza, la impunidad, la percepción de corrupción,
   la inseguridad y otros problemas estructurales a los que no se les ve salida,
   son los enemigos más firmes de la salud democrática.
+colors: original
 ---
