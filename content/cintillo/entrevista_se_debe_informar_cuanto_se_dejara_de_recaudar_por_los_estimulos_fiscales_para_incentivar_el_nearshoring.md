@@ -6,4 +6,5 @@ link: https://www.ethos.org.mx/finanzas-publicas/noticias/se_debe_informar_cuant
 extracto: El miércoles la Secretaría de Hacienda publicó en el Diario Oficial de
   la Federación estímulos fiscales para atraer la inversión de empresas. Liliana
   Alvarado opina al respecto.
+colors: amarillo
 ---
