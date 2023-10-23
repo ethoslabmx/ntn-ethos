@@ -2,7 +2,7 @@
 title: Transición justa y resiliente de nuestras comunidades ante las crisis
 date: 2023-10-23T22:31:51.095Z
 autor: Ethos
-video: https://youtu.be/MsbOS8bvdWQ?si=Y6zKgfdh-t-JeQLg
+video: https://www.youtube.com/watch?v=MsbOS8bvdWQ
 category: desarrollo-sostenible
 extracto: "En la Alianza Latinoamérica Sostenible, desde el 2020 hemos
   reflexionado en torno a los desafíos que ha enfrentado la región, buscando
