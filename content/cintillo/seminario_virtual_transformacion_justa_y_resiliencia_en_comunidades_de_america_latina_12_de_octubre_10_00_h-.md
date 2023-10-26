@@ -1,5 +1,5 @@
 ---
-title: Latinoamérica Sostenible comparte experiencias de resiliencia y
+title: Evento | Latinoamérica Sostenible comparte experiencias de resiliencia y
   transición justa en comunidades de la región
 date: 2023-10-11T17:08:06.424Z
 img: ""
