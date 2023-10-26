@@ -1,5 +1,5 @@
 ---
-title: "Opinión | ¿Democracia amplificada?: cámaras de eco y burbujas
+title: "Análisis | ¿Democracia amplificada?: cámaras de eco y burbujas
   informativas en la vorágine de la información electoral"
 date: 2023-10-23T16:45:53.728Z
 link: https://estepais.com/tendencias_y_opiniones/democracia-amplificada-camaras-eco-burbujas-informativas-voragine-informacion-electoral/
