@@ -6,5 +6,5 @@ link: https://estepais.com/tendencias_y_opiniones/democracia-amplificada-camaras
 extracto: En este escrito, Silvia Márquez y Javier González discuten sobre las
   burbujas informativas y cómo podrían incidir en las elecciones que tendrán
   lugar el próximo año.
-colors: azul
+colors: amarillo
 ---
