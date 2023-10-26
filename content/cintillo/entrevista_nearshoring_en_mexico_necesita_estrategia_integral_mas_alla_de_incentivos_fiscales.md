@@ -7,4 +7,5 @@ extracto: Liliana Alvarado, directora de Ethos, dijo en entrevista que los
   incentivos fiscales son positivos para las empresas vinculadas al nearshoring,
   no obstante, anotó que el Gobierno mexicano tiene que atender otros temas que
   los incentivos por sí solos no pueden subsanar.
+colors: salmon
 ---
