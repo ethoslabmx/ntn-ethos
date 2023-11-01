@@ -12,7 +12,8 @@ extracto: En la IX sesión de la Asociación de Ciudades Capitales de México,
 galeria:
   - https://ucarecdn.com/ba4b66a9-8a18-4ce6-bb43-ab1500ed02af/
   - https://ucarecdn.com/3f40d19e-15e4-4f23-bfa0-b778dcf5d813/
-  - https://ucarecdn.com/d7d37bed-8c0a-467f-b595-2bc102472c6b/
+  - https://ucarecdn.com/80f0bcce-9689-4f21-9231-48c0b641e3d7/
+  - https://ucarecdn.com/9b6dd203-cc98-4c9b-a891-bd31f563ba7b/
 ---
 <!--StartFragment-->
 
@@ -32,5 +33,4 @@ Por otro lado, es indispensable homologar la forma en la que actualmente se cobr
 
 Finalmente, correspondería a los municipios trabajar en la actualización del catastro, la digitalización de la cartografía catastral; facilitar el pago a  contribuyentes, capacitar a los servidores públicos y eliminar o reducir las renuncias recaudatorias.
 
-\
 <!--EndFragment-->
