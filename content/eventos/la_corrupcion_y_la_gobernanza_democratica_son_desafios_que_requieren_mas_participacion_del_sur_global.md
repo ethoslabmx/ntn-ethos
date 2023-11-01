@@ -11,7 +11,7 @@ extracto: La directora de Ethos, Liliana Alvarado, participó en la conferencia
   democracia en el Sur Global.
 galeria:
   - https://ucarecdn.com/66db38bd-9cde-47e1-89fb-38ee984ff027/
-  - https://ucarecdn.com/59c45d43-c61a-44d7-924a-66771b0ef6f2/
+  - https://ucarecdn.com/a458b278-8b8f-4e42-9f7d-d040bcb91475/
 ---
 En el marco de los festejos por su décimo aniversario, [Southern Voice](https://southernvoice.org/) realizó su conferencia 2023 en Nairobi, Kenia, denominada «Impulsando la próxima década de desarrollo sostenible», un espacio para identificar áreas de la agenda de desarrollo global que requieren particularmente una mayor cooperación internacional y una mayor influencia de los países del Sur Global.\
 \
