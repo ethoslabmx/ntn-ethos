@@ -11,9 +11,9 @@ extracto: En la IX sesión de la Asociación de Ciudades Capitales de México,
   del impuesto predial y cómo aprovechar su potencial recaudatorio.
 galeria:
   - https://ucarecdn.com/ba4b66a9-8a18-4ce6-bb43-ab1500ed02af/
-  - https://ucarecdn.com/3f40d19e-15e4-4f23-bfa0-b778dcf5d813/
-  - https://ucarecdn.com/80f0bcce-9689-4f21-9231-48c0b641e3d7/
-  - https://ucarecdn.com/9b6dd203-cc98-4c9b-a891-bd31f563ba7b/
+  - https://ucarecdn.com/dd4ec094-f801-47c2-b69b-1145497f63b9/
+  - https://ucarecdn.com/6add139a-1f20-4d44-a6e9-b6abef8d6358/
+  - https://ucarecdn.com/7251525b-43d3-40a0-a4a2-84296b15ee30/
 ---
 <!--StartFragment-->
 
