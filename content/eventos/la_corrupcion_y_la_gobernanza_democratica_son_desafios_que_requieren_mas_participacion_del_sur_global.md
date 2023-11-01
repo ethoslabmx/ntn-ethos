@@ -10,9 +10,8 @@ extracto: La directora de Ethos, Liliana Alvarado, participó en la conferencia
   de Southern Voice, y destacó que la corrupción pone en riesgo el futuro de la
   democracia en el Sur Global.
 galeria:
-  - https://ucarecdn.com/e3e540e6-3f98-4c94-a0a1-bbcc7adaf0b5/
   - https://ucarecdn.com/66db38bd-9cde-47e1-89fb-38ee984ff027/
-  - https://ucarecdn.com/765778bb-4a81-4055-b89a-0ce3227efc5e/
+  - https://ucarecdn.com/59c45d43-c61a-44d7-924a-66771b0ef6f2/
 ---
 En el marco de los festejos por su décimo aniversario, [Southern Voice](https://southernvoice.org/) realizó su conferencia 2023 en Nairobi, Kenia, denominada «Impulsando la próxima década de desarrollo sostenible», un espacio para identificar áreas de la agenda de desarrollo global que requieren particularmente una mayor cooperación internacional y una mayor influencia de los países del Sur Global.\
 \
