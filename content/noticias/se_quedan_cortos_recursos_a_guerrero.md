@@ -4,6 +4,7 @@ date: 2023-11-06T16:30:44.987Z
 img: https://ucarecdn.com/d94e4e20-0839-4b7d-869f-d8e79b3f82c6/
 img-alt: Recursos destinados a Acapulco
 autor: Azucena Vásquez, Reforma
+link: https://www.reforma.com/se-quedan-cortos-recursos-a-guerrero/ar2705666
 category: finanzas-publicas
 extracto: Transfieren a septiembre 7% menos de lo planeado por SHCP. Dicen que
   situación impacta al Estado en reconstrucción por paso de 'Otis'.
