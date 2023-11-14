@@ -1,6 +1,6 @@
 ---
 nombre: SILVIA MÁRQUEZ
-foto: /img/silvia_marquez.jpg
+foto: https://ucarecdn.com/ef374106-d189-4b44-a9a7-5ac65e0bdee7/
 puesto: Directora de Comunicación y Prensa
 area: comunicación y prensa
 pos: 1
