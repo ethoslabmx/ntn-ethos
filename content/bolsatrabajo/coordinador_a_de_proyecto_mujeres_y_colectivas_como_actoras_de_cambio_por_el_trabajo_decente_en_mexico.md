@@ -88,4 +88,6 @@ Laure Delalande\
 
 \*En el asunto del correo colocar «Vacante Coordinador/a de proyecto Mujeres».
 
+**F﻿echa límite para recepción de documentos:** 8 de diciembre de 2023
+
 <!--EndFragment-->
