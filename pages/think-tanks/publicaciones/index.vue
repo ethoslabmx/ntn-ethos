@@ -1,6 +1,6 @@
 <template>
   <div class="border-b-16 border-primary app">
-    <JumbotronEje title="Think Tanks" subtitle="Publicaciones" image="desarollo-sostenible-thumb.png"/>
+    <JumbotronEje title="Think Tanks" subtitle="Publicaciones" image="universo-tt-thumb.jpg"/>
 
     <ListadoPublicaciones :posts="posts" eje="think-tanks" categoria="publicaciones" />
     <li class="post last">

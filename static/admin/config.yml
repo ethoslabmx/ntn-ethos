@@ -226,6 +226,7 @@ collections:
       - { label: 'Descripción', name: 'body', widget: 'markdown' }
       - { label: 'Fecha Publicación', name: 'date', widget: 'datetime' }
       - { label: 'Área', name: 'area', widget: 'string', required: false }
+      - { label: 'PDF Adjunto', name: 'file', widget: 'file', required: false }
   - name: 'documentos'
     label: 'Docs Institucionales'
     label_singular: 'Documento'
