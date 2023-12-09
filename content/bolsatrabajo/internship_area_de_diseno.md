@@ -66,9 +66,9 @@ Ethos busca el balance entre tu vida, tus estudios y tu trabajo. Por lo tanto, t
 
 ## ENVIAR CV A:
 
-Oscar Alva
+Silvia Márquez
 
-**oscar.alva@ethos.org.mx** 
+**silvia.marquez@ethos.org.mx**
 
 \*Favor de enviar CV haciendo referencia a «Programa de pasantías: Diseño» en el asunto. 
 
