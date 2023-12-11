@@ -1,0 +1,42 @@
+---
+title: Fortalecer la participación ciudadana para el funcionamiento de los
+  sistemas anticorrupción
+date: 2023-12-11T16:13:24.201Z
+img: https://ucarecdn.com/9b9d4709-5366-4caa-85d5-fe985c02eb79/
+img-alt: Sistema Nacional Anticorrupción
+autor: Emiliano Montes de Oca
+medio: Animal Político
+link: https://www.animalpolitico.com/analisis/invitades/fortalecer-la-participacion-ciudadana-para-el-funcionamiento-de-los-sistemas-anticorrupcion
+category: anticorrupcion
+extracto: Si el Sistema Nacional Anticorrupción no ha funcionado es porque
+  existen actores políticos que no han querido que funcione. No obstante,
+  también existen iniciativas ciudadanas que han podido impactar en la lucha
+  anticorrupción.
+---
+El **Sistema Nacional Anticorrupción** (SNA) busca coordinar a todas las instituciones, tanto federales como locales, que previenen, detectan, investigan y sancionan la corrupción, con la finalidad de instrumentar políticas públicas para prevenir y reducir al máximo este fenómeno. Estas instituciones incluyen a las fiscalías anticorrupción, órganos de fiscalización, contralorías, tribunales administrativos, consejos de la judicatura, institutos de transparencia y una figura innovadora que representa la voz ciudadana dentro de los sistemas: los **Comités de Participación Ciudadana** (CPC).
+
+A 8 años de su creación, el sistema ha dado pocos resultados, sin embargo, esto no se debe a que se trate de un “[elefante blanco](https://columnadigital.com/elefantes-blancos-el-sna-y-el-inai-asegura-lopez-obrador/)”, como lo ha asegurado el presidente de la república y diversos [mandatarios locales](https://www.elsoldetoluca.com.mx/local/anuncia-morena-que-buscara-eliminar-el-sistema-anticorrupcion-del-edomex-11035048.html); sino a que no ha existido voluntad política para echarlo a andar.
+
+En 2015 se creó el SNA y en 2016 las leyes secundarias. A partir de ahí, las legislaturas estatales tuvieron que hacer las adecuaciones necesarias para contar con marcos normativos equivalentes al federal. Sin embargo, **las legislaturas comenzaron a retrasarse por tener otras prioridades**, además de que quisieron “innovar” en sus marcos normativos e hicieron leyes muy alejadas de las leyes generales, lo que llevó a que la Suprema Corte las declarara [inconstitucionales](https://www.dof.gob.mx/nota_detalle.php?codigo=5618902&fecha=20/05/2021&print=true) y tuvieran que repetir todo el proceso de creación normativa. Afortunadamente, al día de hoy, prácticamente todos los marcos normativos ya están homologados.
+
+Otro gran problema fueron y han seguido siendo las **designaciones públicas**. Las leyes contemplan diferentes instancias como el Comité Coordinador, los CPC y las Secretarías Ejecutivas, que son quienes se articulan para diseñar e implementar las políticas públicas en la materia. Pues los poderes ejecutivos y legislativos de los estados también se han atrasado en nombrar a los titulares y a las comisiones encargadas de designar estas instancias.
+
+Un ejemplo de lo anterior ocurrió en [Nuevo León](https://contralacorrupcion.mx/las-consecuencias-de-eliminar-el-grupo-de-acompanamiento-en-nuevo-leon/), donde se agregó la figura de un Grupo de Acompañamiento que guiaría al Congreso del Estado para nombrar a la Comisión de Selección, que a su vez nombraría al CPC. Esta propuesta vino desde la sociedad civil y tenía la intención de blindar lo más posible la designación. Sin embargo, por las mismas cuestiones de captura y falta de voluntad política, ni se logró nombrar al Grupo de Acompañamiento, ni a la Comisión de Selección, ni al CPC. Al día de hoy, el CPC de ese estado sigue incompleto.
+
+Otro tema donde se ha visto la **falta de voluntad política** tiene que ver con las **políticas anticorrupción**. En enero de 2020, se aprobó la Política Nacional Anticorrupción (PNA) y en marzo de 2022, su Programa de Implementación (PI). Estos documentos de política pública son la hoja de ruta de las instituciones para la prevención y combate de la corrupción. A nivel estatal deben existir Políticas Estatales Anticorrupción (PEA) y su correspondientes PI que detallen los planes de acción a nivel local, siempre alineados con la PNA.
+
+Pues muchos estados se han atrasado en la elaboración de estos documentos por la falta de voluntad de las instituciones que conforman los comités coordinadores para aprobar las políticas o porque los CPC y las secretarías ejecutivas (que son quienes realizan las propuestas de PEA) se encuentran incompletos o sin titular, por lo que no pueden hacer las propuestas de políticas que los comités coordinadores tienen que aprobar. Al día de hoy, [28 estados tienen PEA, pero sólo 15 cuentan con PI.](https://www.sna.org.mx/politicas-estatales-anticorrupcion/)
+
+Ahora bien, aunado a todo esto, ha habido también un desinterés de los poderes ejecutivos y legislativos de dotar de presupuesto a los sistemas. Tenemos el caso del **sistema anticorrupción de la Ciudad de México** que literalmente [desapareció](https://politica.expansion.mx/cdmx/2023/03/02/desmoronamiento-del-sistema-local-anticorrupcion-cdmx) porque no se le asignó presupuesto, así como muchos otros estados que a sus CPC les han disminuido o cortado por completo su contraprestación.
+
+Pero no todas son malas noticias. Existen sistemas que han logrado salir adelante a pesar de las vicisitudes, porque han existido CPC que, con el apoyo de las secretarías ejecutivas y organizaciones de la sociedad civil, han tenido la voluntad de hacer la diferencia.
+
+En Ethos, organizamos **el [Premio Nacional](https://agua.org.mx/convocatoria/premio-nacional-de-mejores-practicas-en-la-gestion-de-los-comites-de-participacion-ciudadana-ethos/) de Mejores Prácticas en la Gestión de los CPC**. En él pudimos observar buenas prácticas como la iniciativa [Glosando ando](https://www.ethos.org.mx/anticorrupcion/videos/glosando_ando---_ciudadanizacion_del_gasto)… Ciudadanización del Gasto en Quintana Roo, que busca llevar a cabo un diálogo abierto entre la ciudadanía y las instancias de gobierno, a nivel estatal y municipal, para el análisis y la rendición de cuentas sobre aspectos puntuales del gasto público.
+
+Otra buena práctica son los [Criterios](https://www.ethos.org.mx/anticorrupcion/videos/criterios_para_la_evaluacion_de_perfiles_aspirantes_a_cargos_por_designaciones_publicas) para la evaluación de perfiles aspirantes a cargos por designaciones públicas de Jalisco, que aporta insumos técnicos de evaluación a las autoridades responsables de la selección de perfiles en procesos de designaciones públicas en la entidad; y la [Encuesta](https://www.ethos.org.mx/anticorrupcion/videos/encuesta_a_comunidades_indigenas_y_poco_comunicadas_del_estado_de_chiapas) a Comunidades Indígenas y poco Comunicadas en Chiapas, que capta la percepción de la población indígena que habita en comunidades poco comunicadas en el estado sobre cuáles son las principales causas de la corrupción que les aqueja, con la finalidad de traducirla a acciones con pertinencia cultural dentro de la PEA.
+
+De igual manera, este año implementamos el programa de capacitación Fortaleciendo a los CPC, dirigido a CPC de todo el país con el fin de compartirles conocimientos en temas de política pública, monitoreo del gasto, participación ciudadana, sistema de denuncias, liderazgo, negociación, entre otros, para que puedan cumplir con las atribuciones que la ley y las políticas les marcan.
+
+Como parte del programa, los CPC propusieron proyectos e iniciativas de incidencia para sus estados. Dichas acciones incluyeron la creación de conversatorios especializados en periodismo anticorrupción; propuestas para la digitalización de trámites; metodologías para la creación de redes ciudadanas; herramientas de evaluación de órganos internos de control; entre otras.
+
+En conclusión, **si el SNA no ha funcionado es porque existen actores políticos que no han querido que funcione**. No obstante, también existen iniciativas ciudadanas que han podido impactar en la lucha anticorrupción. Esto nos permite aseverar que en la medida en que visibilicemos y repliquemos estos esfuerzos, lograremos que el sistema comience a dar los resultados que todos esperamos. No debemos rendirnos en esta lucha, no debemos tirar a la basura ocho años de construcción de un sistema que puede funcionar.
