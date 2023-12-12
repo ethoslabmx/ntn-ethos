@@ -11,15 +11,13 @@ extracto: Emiliano Montes de Oca, coordinador anticorrupción en los estados de
   funcionan los sistemas estatales anticorrupción en la frontera norte,
   organizado por Border Center.
 ---
-Para hacer un balance del funcionamiento del Sistema Nacional Anticorrupción (SNA),es importante tener en cuenta que este no es una sola institución, ni es un órgano de prevención. Tampoco es una fiscalía que investiga delitos de corrupción ni un tribunal que sanciona. 
-
-
+Para hacer un balance del funcionamiento del Sistema Nacional Anticorrupción (SNA), es importante tener en cuenta que este no es una sola institución, ni es un órgano de prevención. Tampoco es una fiscalía que investiga delitos de corrupción ni un tribunal que sanciona. 
 
 El SNA y los sistemas estatales buscan coordinar a todas las instituciones, tanto federales como locales, que previenen, detectan, investigan y sancionan la corrupción, como el Comité de Participación Ciudadana, el Instituto Nacional de Transparencia, Acceso a la Información  y Protección de Datos Personales, la Auditoría Superior de la Federación, la Secretaría de la Función Pública, las fiscalías anticorrupción, los órganos internos de control, los jueces penales, entre otras.
 
 Así lo indicó Emiliano Montes de Oca, coordinador anticorrupción en los estados de Ethos, en la sesión la sesión individual “Balance del funcionamiento de los sistemas estatales anticorrupción”, del V Intercambio Virtual de Periodismo sobre cómo funcionan los sistemas estatales anticorrupción en la frontera norte, organizado por Border Center.
 
-Y reconoció que si bien el SNA tiene áreas de mejora, el problema no está en el modelo, ni en el diseño normativo, sino principalmente en la falta de voluntad política para echarlo a andar. “En ese sentido, la única manera de hacer que funcione es que la ciudadanía (comités de participación ciudadana, organizaciones de la sociedad civil, periodistas, académicos, sector privado, sociedad civil en general) tengan verdaderamente un papel preponderante en el sistema”, expresó.
+Y reconoció que si bien el SNA tiene áreas de mejora, el problema no está en el modelo, ni en el diseño normativo, sino principalmente en la falta de voluntad política para echarlo a andar. “La única manera de hacer que funcione es que la ciudadanía (comités de participación ciudadana, organizaciones de la sociedad civil, periodistas, académicos, sector privado, sociedad civil en general) tengan verdaderamente un papel preponderante en el sistema”, expresó.
 
 En este sentido, hizo hincapié en que desaparecer el sistema no es la solución, como se ha propuesto desde la Presidencia de la República y como se ha intentado desde diversos sistemas estatales (el caso más reciente, pero no el único, es el del Estado de México). Además de que esto no se puede hacer tan fácil, porque es un sistema regulado a nivel constitucional.
 
