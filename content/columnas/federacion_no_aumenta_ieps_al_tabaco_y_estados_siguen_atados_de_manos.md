@@ -1,6 +1,7 @@
 ---
 title: Federación no aumenta IEPS al tabaco y estados siguen atados de manos
 date: 2024-01-18T22:31:07.753Z
+img: https://ucarecdn.com/d3051037-c760-427e-a968-44e51eb2790e/
 img-alt: IEPS al tabaco
 autor: Ana Lilia Ruiz
 medio: Animal Político
