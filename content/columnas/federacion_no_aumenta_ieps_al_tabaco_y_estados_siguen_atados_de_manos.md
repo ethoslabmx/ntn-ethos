@@ -1,0 +1,23 @@
+---
+title: Federación no aumenta IEPS al tabaco y estados siguen atados de manos
+date: 2024-01-18T22:31:07.753Z
+img-alt: IEPS al tabaco
+autor: Ana Lilia Ruiz
+medio: Animal Político
+link: https://animalpolitico.com/analisis/invitades/ieps-tabaco-federacion-estados
+category: finanzas-publicas
+extracto: El gobierno federal debe impulsar una reforma fiscal que permita
+  incrementar los ingresos para sostener los niveles de gasto. Un aumento del
+  IEPS al tabaco va en sintonía con esta recomendación.
+---
+**El tabaquismo es una enfermedad costosa y mortal**. En México, los costos de salud por el tabaquismo se estiman en [116 mil millones de pesos al año](https://www.gob.mx/salud/prensa/156-costos-medicos-atribuibles-al-consumo-de-tabaco-ascienden-a-mas-de-116-mil-mdp-en-mexico#:~:text=En%20M%C3%A9xico%2C%20los%20costos%20m%C3%A9dicos%20anuales%20atribuibles%20al,tabaquismo%20pasivo%20y%20enfermedad%20pulmonar%20obstructiva%20cr%C3%B3nica%20%28EPOC%29.) por la atención de enfermedades como cáncer (en boca, garganta, riñones, hígado y pulmón), asma, enfermedad pulmonar obstructiva crónica (EPOC), entre otras. Más grave aún, de acuerdo con la [Organización Panamericana de la Salud](https://www.paho.org/es/noticias/28-9-2023-mexico-realiza-taller-analisis-encuesta-gats-iii), **fumar cobra la vida de 172 mexicanos diariamente debido al consumo y a la exposición al humo de tabaco**. Para dimensionar este problema, tan sólo en 2022 se registraron 88 muertes por homicidio al día en el país (INEGI).
+
+Hoy en día nuestro gasto en salud es insuficiente, al grado que 39 % de la población (50.4 millones de mexicanos) carecen de acceso a este tipo de servicios ([Coneval, 2022](https://www.coneval.org.mx/Medicion/Paginas/PobrezaInicio.aspx)), con lo que se violan sus derechos humanos. Es claro que el gobierno necesita más recursos para gastar en salud, pero ¿de dónde pueden obtenerse?
+
+Los **[impuestos saludables](https://www.paho.org/es/temas/impuestos-saludables#:~:text=Los%20impuestos%20saludables%20son%20medidas,carga%20sanitaria%20que%20estas%20enfrentan.)** son una gran opción. Por ejemplo, el **Impuesto Especial Sobre Producción y Servicios** (IEPS) tiene la función de inhibir el consumo de tabaco y, además, genera recursos adicionales para el gobierno. El problema es que éstos sólo representan el 68 % del valor de la cajetilla (debajo del 75 % recomendado por la Organización Mundial de la Salud). Esta brecha implica que el gobierno está dejando de percibir cerca de 15,860 millones de pesos que podrían destinarse a nuestro sistema de salud. **[1](https://animalpolitico.com/analisis/invitades/ieps-tabaco-federacion-estados#_ftn1)** **Si bien para el 2024 el gobierno hizo una actualización del IEPS al tabaco para ajustarlo a la inflación, esta es insuficiente**. Se requiere una actualización *ad valorem*, es decir, sobre el valor real de la cajetilla.
+
+Dado el potencial de los impuestos al tabaco como inhibidores del consumo y generadores de ingresos, el estado de Tamaulipas incluyó en su Ley de Hacienda 2023 un gravamen sobre este producto. Sin embargo, el ejecutivo federal interpuso una controversia constitucional porque este invadía la esfera de competencia de la federación. Este argumento fue ratificado por la Suprema Corte de Justicia de la Nación y, con ello, las entidades federativas no pueden establecer contribuciones sobre tabacos labrados.
+
+Muchos especialistas han señalado que el gobierno federal debe impulsar una **reforma fiscal** que nos permita **incrementar los ingresos** para sostener los niveles de gasto. Un **aumento del IEPS al tabaco** va en sintonía con esta recomendación. En ese sentido, este año se abre una ventana de oportunidad importante para contener el problema del tabaquismo en México: está en manos de nuestra próxima presidenta y del Poder Legislativo presentar y aprobar la iniciativa para ello. **Si la federación no quiere asumir el costo político de aumentar el precio de fumar, debemos pensar en una reforma que permita a los estados cobrar contribuciones de este tipo, hay algunos como Tamaulipas dispuestos a hacerlo**.
+
+Los impuestos al tabaco son una de las estrategias más costo-efectivas para reducir la demanda, ya que con un aumento del precio, disminuye el consumo. En ese sentido, es urgente incrementar la carga tributaria del tabaco para preservar la salud de la población, pero también para equilibrar las finanzas públicas y proteger nuestro entorno. Desafortunadamente, por años la industria ha frenado la voluntad política de nuestros gobiernos para empujar esta iniciativa que traería más beneficios colectivos e inyectaría recursos a la hacienda pública, los cuales podrían utilizarse para mejorar la salud de los mexicanos.
