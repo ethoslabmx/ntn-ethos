@@ -1,6 +1,6 @@
 ---
 nombre: ANA LILIA RUIZ
-foto: https://ucarecdn.com/886b54d9-7cd2-45d2-9ab1-a22e0b6ab6c6/
+foto: https://ucarecdn.com/732c6f89-f641-43fa-9e0d-cfab6dd050be/
 puesto: INVESTIGADORA FINANZAS PÚBLICAS
 area: finanzas públicas y anticorrupción
 pos: 3
