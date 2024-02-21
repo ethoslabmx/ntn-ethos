@@ -7,6 +7,11 @@ autor: Ana Lilia Ruiz
 medio: NTR Guadalajara
 link: https://www.ntrguadalajara.com/post.php?id_nota=210132
 category: finanzas-publicas
+extracto: El centralismo fiscal, caracterizado por la concentración de poder y
+  recursos en el gobierno central, se hace patente en diversas acciones
+  gubernamentales. Un ejemplo de ello es la facultad exclusiva que tiene la
+  Federación para cobrar impuestos sobre tabacos labrados. Pero ¿por qué esto es
+  un problema que debería importarnos?
 ---
 México, a lo largo de su historia, ha sido testigo de un arraigado centralismo que se manifiesta no solo en el ámbito político, sino también en el fiscal. El centralismo fiscal, caracterizado por la concentración de poder y recursos en el gobierno central, se hace patente en diversas acciones gubernamentales. Un ejemplo de ello es la facultad exclusiva que tiene la Federación para cobrar impuestos sobre tabacos labrados. Pero ¿por qué esto es un problema que debería importarnos?
 
