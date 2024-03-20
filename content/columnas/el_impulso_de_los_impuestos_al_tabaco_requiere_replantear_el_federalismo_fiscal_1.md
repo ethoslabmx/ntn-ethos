@@ -1,6 +1,7 @@
 ---
 title: El impulso de los impuestos al tabaco requiere replantear el federalismo fiscal
-date: 2024-03-20T18:34:42.737Z
+date: 2024-03-19T18:34:42.737Z
+img: https://ucarecdn.com/f5d0ab13-e877-49d3-a26c-662496df45ff/
 img-alt: Tabaquismo
 autor: Ana Lilia Ruiz
 medio: Animal Político
