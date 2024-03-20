@@ -1,0 +1,27 @@
+---
+title: El impulso de los impuestos al tabaco requiere replantear el federalismo fiscal
+date: 2024-03-20T18:13:24.580Z
+img: https://ucarecdn.com/456665a0-0870-4796-aca8-7f84e9fb9e39/
+img-alt: Tabaquismo
+autor: Ana Lilia Ruiz
+medio: Animal Político
+link: https://animalpolitico.com/analisis/invitades/impuestos-tabaco-federalismo-fiscal
+category: finanzas-publicas
+extracto: El desbalance entre la inversión que requieren hacer los estados para
+  atender las enfermedades causadas por fumar y las limitadas fuentes de
+  ingresos para hacerle frente, obligan a pensar en la urgencia de redistribuir
+  las potestades tributarias.
+---
+El [objetivo general del **Sistema Nacional de Coordinación Fiscal**](https://www.sncf.gob.mx/delivery?srv=1&repo=1&path=/Antecedentes/Antecedentes_SNCF.pdf) es asegurar la **equidad del sistema tributario** hacia los contribuyentes de todo el país, simplificar el sistema tributario nacional y fortalecer económicamente las finanzas estatales y municipales, a fin de alcanzar y sustentar el desarrollo económico nacional.
+
+Por muchos años, una de las grandes tareas pendientes del federalismo fiscal en México ha sido el fortalecimiento de las finanzas locales. Hoy en día, **las transferencias federales representan el 83 % de los ingresos de los estados** y con esto, las entidades federativas deben atender buena parte de los problemas que les competen como salud, educación, seguridad, inversión, entre otros. Cuando las transferencias federales se reducen, se compromete el gasto público de los gobiernos subnacionales. En ese sentido, y para garantizar que la calidad y cobertura de los programas y servicios públicos estatales no se afecte ante una caída de las participaciones y aportaciones federales, es urgente que los estados incrementen su recaudación propia. Pero para poder fortalecer las finanzas estatales se necesita una serie de ajustes al federalismo fiscal. Pongamos el caso de los impuestos al tabaco para visualizar la problemática.
+
+**El consumo de tabaco requiere que tanto la federación como los gobiernos estatales realicen fuertes inversiones de recursos para atender las enfermedades causadas por fumar**. Para dimensionar un poco la magnitud del problema y, por lo tanto, de la inversión que deben realizar los gobiernos, la Organización Panamericana de la Salud señala que el consumo de tabaco es el [principal factor de riesgo](https://www.paho.org/es/noticias/17-8-2022-lucha-contra-tabaquismo-americas-nuevo-reporte-ops) para seis de las ocho causas más frecuentes de muerte en el mundo, así como para las cuatro enfermedades no transmisibles más prevenibles y prevalentes (cardiovasculares, diabetes, cáncer y enfermedades respiratorias crónicas).
+
+A nivel estatal, la principal fuente de ingresos que tienen los gobiernos para invertir en sus sistemas de salud es el Fondo de Aportaciones para los Servicios de Salud (FASSA), el cual sólo incrementó 5 % en términos reales entre 2018 y 2023. Los estados también podrían echar mano de las participaciones del IEPS por tabaco labrado, pero además de que no están obligados a destinar estos ingresos a la salud, sólo reciben el 8 % de la recaudación total, con lo que apenas les alcanzaría para cubrir el 3.3 % de los costos médicos relacionados con el tabaquismo ([estimados en 116 mil millones de pesos](https://www.gob.mx/salud/prensa/156-costos-medicos-atribuibles-al-consumo-de-tabaco-ascienden-a-mas-de-116-mil-mdp-en-mexico#:~:text=En%20M%C3%A9xico%2C%20los%20costos%20m%C3%A9dicos%20anuales%20atribuibles%20al,tabaquismo%20pasivo%20y%20enfermedad%20pulmonar%20obstructiva%20cr%C3%B3nica%20%28EPOC%29.)).
+
+**Ante una epidemia de tabaquismo que no cede e ingresos limitados, las entidades federativas deben buscar nuevas fuentes de financiamiento.** Esto ha llevado a estados como Tamaulipas a crear impuestos estatales al tabaco. Sin embargo, el año pasado la Suprema Corte confirmó que gravar los tabacos labrados es una facultad exclusiva de la federación.
+
+El desbalance entre el tamaño del problema —y, por lo tanto, la magnitud de la inversión que requieren hacer los estados para atender las enfermedades causadas por fumar—  así como las limitadas fuentes de ingresos para hacerle frente, nos obligan a pensar que es urgente una redistribución de las potestades tributarias. Algunos expertos señalan que **los escasos ingresos propios subnacionales se deben a las mínimas fuentes gravables que tienen disponibles, ya que las más importantes se encuentran reservadas para la federación**. Tal es el caso del tabaco. Una distribución más justa de potestades le permitirá a los estados usar los impuestos para reducir el consumo de tabaco, al mismo tiempo que se fortalecen las finanzas estatales.
+
+El centralismo fiscal ha generado desafíos significativos, especialmente en áreas críticas como la salud pública, donde la lucha contra el tabaquismo requiere medidas fiscales efectivas por parte de las entidades federativas, pero carecen de la autoridad para imponer impuestos sobre el tabaco. Entonces, para lograr un equilibrio entre las obligaciones de los estados en temas tan importantes como la atención de la epidemia de tabaquismo y los recursos que pueden obtener para hacerle frente sólo podrá lograrse **dotándolos de más potestades tributarias**. La discusión sobre cómo replantear el federalismo fiscal, al menos en materia de tabaco labrado, no puede postergarse más.
