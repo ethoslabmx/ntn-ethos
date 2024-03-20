@@ -1,5 +1,5 @@
 ---
-title: "Corrupción y migración: una agenda pendiente"
+title: "Corrupción y migración: una agenda pendiente "
 date: 2024-03-20T18:18:25.877Z
 img: https://ucarecdn.com/c79396c6-e082-464c-bebf-54dc87f911ce/
 img-alt: Migrantes en México
