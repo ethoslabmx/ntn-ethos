@@ -7,9 +7,8 @@ autor: Liliana Alvarado
 medio: Southern Voice
 link: https://southernvoice.org/who-takes-care-of-the-women-taking-care/
 category: inclusion
-extracto: According to data from the [National Care System Survey (ENASIC)
-  2022,](https://en.www.inegi.org.mx/programas/enasic/2022/default.html) most
-  households in Mexico (78%) have at least one person who requires care.
+extracto: According to data from the National Care System Survey (ENASIC) 2022,
+  most households in Mexico (78%) have at least one person who requires care.
   Moreover, 75% of care work is unpaid and carried out by women. The figure
   rises to 96% in the case of early childhood care.
 ---
