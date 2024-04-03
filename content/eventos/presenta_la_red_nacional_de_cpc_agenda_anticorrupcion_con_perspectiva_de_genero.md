@@ -10,7 +10,7 @@ extracto: "Esta agenda fue un proyecto que se amplió gracias al Programa de
 ---
 Emiliano Montes de Oca, coordinador anticorrupción de Ethos en los estados, participó como presentador de la Agenda de Perspectiva de Género y Anticorrupción de la [Red Nacional de CPC](https://redcpcnacional.org/), un proyecto que se amplió gracias al Programa de Capacitación: Fortaleciendo a los CPC, diseñado e implementado por Ethos en 2023. 
 
-El especialista, quien brindó apoyo metodológico en la gestión de dicha agenda, celebró su creación es de celebrarse. “El hecho de que haya sido construida desde una Comisión de Género de una Red Nacional de CPC quiere decir que hay un trabajo colaborativo, que se está atendiendo el tema y que estamos construyendo acciones en seguimiento a la Política Nacional Anticorrupción para llevarlos a cabo en nuestras entidades federativas” precisó.
+El especialista, quien brindó apoyo metodológico en la gestión de dicha agenda, celebró su creación. “El hecho de que haya sido construida desde una Comisión de Género de una Red Nacional de CPC quiere decir que hay un trabajo colaborativo, que se está atendiendo el tema y que estamos construyendo acciones en seguimiento a la Política Nacional Anticorrupción para llevarlos a cabo en nuestras entidades federativas” precisó.
 
 Sin embargo, señaló que hay áreas que se pueden mejorar. Entre ellas, destacó la colaboración con organizaciones de la sociedad civil y colectivos, pues “si estamos hablando de una agenda de participación ciudadana, debemos incluirla desde el principio y durante su construcción”, comentó.
 
