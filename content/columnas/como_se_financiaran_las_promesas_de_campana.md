@@ -1,7 +1,7 @@
 ---
 title: ¿Cómo se financiarán las promesas de campaña?
 date: 2024-04-16T17:39:37.846Z
-img: https://ucarecdn.com/983c28b2-c8d5-40ff-83d1-9fec2c154aba/
+img: https://ucarecdn.com/5619cdc3-fa9d-4d2f-82cf-08e6cc096bb4/
 img-alt: Campañas electorales México
 autor: Jacques Stroobants
 medio: Expansión
