@@ -7,8 +7,10 @@ autor: Jacques Stroobants
 medio: Expansión
 link: https://expansion.mx/opinion/2024/04/16/como-se-financiaran-las-promesas-de-campana
 category: finanzas-publicas
-extracto: La única forma de que sus promesas de campaña tengan viabilidad
-  financiera, es si se incrementan los impuestos federales.
+extracto: "Es claro que para las personas candidatas hablar de impuestos no es
+  cómodo ni popular, pero es necesario, pues sin una modificación en el ámbito
+  fiscal, las promesas de campaña corren el riesgo de quedarse solo en eso: en
+  promesas."
 ---
 En estas semanas previas a las elecciones, cobra importancia el analizar la factibilidad de las propuestas que ha formulado cada una de las dos candidatas a la presidencia que puntean las encuestas. Como era de esperarse, ninguna de ellas plantea la posibilidad de implementar una reforma fiscal integral, pues ello se asocia a la posibilidad de perder electores. Sin embargo, la única forma de que sus promesas de campaña tengan viabilidad financiera, es si se incrementan los impuestos federales.
 
