@@ -1,9 +1,9 @@
 ---
 nombre: NÉSTOR GENIS
 foto: https://ucarecdn.com/05915db6-4b1d-4e61-948f-374071dd37bc/
-puesto: Investigador Inclusión y Desarrollo Sostenible
+puesto: Coordinador de Inclusión y Desarrollo Sostenible
 area: inclusión y desarrollo sostenible
-pos: 3
+pos: 2
 semblanza: Politólogo por la UNAM. Cuenta con diplomados en Presupuesto Basado
   en Resultados y Evaluación de Políticas y Programas Públicos por la Secretaría
   de Hacienda y Crédito Público, así como en Racismo y Xenofobia por la Red
