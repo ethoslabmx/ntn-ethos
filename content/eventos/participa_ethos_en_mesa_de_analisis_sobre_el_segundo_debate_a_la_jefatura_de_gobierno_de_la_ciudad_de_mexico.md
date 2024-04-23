@@ -1,6 +1,5 @@
 ---
-title: Participa Ethos en mesa de análisis sobre el segundo debate a la Jefatura
-  de Gobierno de la Ciudad de México
+title: Participa Ethos en mesa de análisis sobre el segundo debate chilango
 date: 2024-04-23T19:30:07.811Z
 img: https://ucarecdn.com/19f2b6ab-71cb-4a88-b84a-6874bda0dfe0/
 img-alt: Emiliano Montes de Oca
