@@ -1,0 +1,29 @@
+---
+title: "En el segundo #DebateChilango, los candidatos punteros quedan a deber en
+  propuestas anticorrupción"
+date: 2024-04-30T17:26:56.690Z
+img: https://ucarecdn.com/4c0fd966-d475-4d34-bb87-676a9e91c916/-/crop/995x566/16,0/-/preview/
+img-alt: Debate chilango
+autor: Emiliano Montes de Oca
+medio: Animal Político
+link: https://animalpolitico.com/analisis/invitades/debate-chilango-propuestas-anticorrupcion
+category: anticorrupcion
+extracto: Ninguno de los candidatos punteros a la jefatura de gobierno de la
+  CDMX realizó propuestas para atender el problema de la corrupción con las
+  autoridades de seguridad pública, no hablaron del papel de los denunciantes y
+  víctimas de la corrupción, ni hubo propuestas con enfoques interseccionales
+  que puedan atender a las minorías.
+---
+El domingo pasado se llevó a cabo el **segundo debate** entre las personas candidatas a la **jefatura de gobierno de la Ciudad de México** (CDMX). En él, se trató un tema crucial para los habitantes de la ciudad: el **combate a la corrupción**. De acuerdo con el INEGI, la CDMX es la entidad en todo el país en donde se [paga](https://latinus.us/2024/03/27/capitalinos-pagan-mas-incurrir-actos-corrupcion-cdmx-cuesta-doble-media-nacional-inegi/) más por corrupción en la realización de trámites, pagos y solicitudes de servicios, costando a sus ciudadanos el doble que la media nacional.
+
+A pesar de esta situación, **la ciudad no cuenta con una estrategia integral de combate a la corrupción** para hacer frente al problema, ya que el Sistema Local Anticorrupción, que por mandato constitucional debe existir, se encuentra [desmantelado](https://youtu.be/ghhJuycgz_c?si=yfVV5C7VqSIcgitB) desde hace 2 años: no cuenta con integrantes, no tiene presupuesto y no se ha realizado una política, un plan de implementación y mucho menos un plan de monitoreo y evaluación en la materia.
+
+Bajo este panorama, uno pensaría que el debate se centraría en propuestas para la reconstrucción del sistema o en soluciones innovadoras  para combatir este gran problema. Sin embargo, la actitud de los contendientes punteros, Clara Brugada y Santiago Taboada, se limitó a un **show mediático marcado por la confrontación personal y las acusaciones de corrupción**. Utilizaron cada minuto de su tiempo para hablar del cartel inmobiliario en la Benito Juárez o la corrupción en la alcaldía Iztapalapa, donde cada uno fue delegado. De las 2 o 3 propuestas que mencionaron (Taboada propuso la reforma a la fiscalía de la CDMX e impulsar el gobierno digital, mientras que Brugada, crear un gabinete anticorrupción y tabuladores de precios máximos) no explicaron los alcances ni las implicaciones de ninguna de ellas.
+
+El único candidato que ocupó su tiempo para presentar propuestas fue Salomón Chertorivski, quien al hablar de la corrupción la conceptualizó como un complejo sistema que debe ser combatido por otro más eficaz: el **Sistema Local Anticorrupción**. En ese sentido, propuso reconstruirlo, con la ciudadanía a la cabeza y con una fiscalía anticorrupción autónoma. Además, habló de un proyecto denominado “Transparencia 360” que buscará transparentar, en tiempo real, las acciones y las cuentas gubernamentales, con ayuda de la tecnología, especialmente en el área de compras públicas.
+
+Chertorivski propuso también la creación de un observatorio ciudadano de los programas sociales, pues es un área con altos índices de corrupción, así como impulsar el servicio profesional de carrera para la capacitación y certificación de los servidores públicos. Si bien estas ideas no son la panacea, nos dejan ver a un candidato preocupado por proponer acciones tangibles de política pública que puedan disminuir los índices de corrupción en la capital del país.
+
+A pesar de haber sido el candidato que sin duda ganó el debate, los [números](https://www.eleconomista.com.mx/politica/Se-defiende-Brugada-20240422-0005.html) no le van a dar para ganar la jefatura de gobierno, lo que nos deja con un mal sabor de boca al pensar que **quien gane no atenderá el problema de la corrupción como es debido**. Ninguno de los candidatos realizó propuestas para atender el problema de la corrupción con las autoridades de seguridad pública, siendo [este](https://latinus.us/2024/03/27/capitalinos-pagan-mas-incurrir-actos-corrupcion-cdmx-cuesta-doble-media-nacional-inegi/) el espacio de interacción en el que hay  más corrupción en la capital. Tampoco hablaron del papel de los denunciantes y víctimas de la corrupción: cómo protegerlos, cómo asegurar su anonimato, cómo incentivarles para que denuncien o cómo repararles el daño. De igual manera, hoy en día sabemos que la corrupción afecta de manera diferenciada a mujeres y hombres, a personas con discapacidad o que pertenecen a pueblos o comunidades indígenas. A pesar de ello, no hubo propuestas con enfoques interseccionales que puedan atender a estas minorías.
+
+**Si bien los debates no están hechos para desarrollar propuestas a profundidad, sí lo están para contrastarlas y precisamente debatir sobre cuál es más o menos factible, urgente y necesaria**. En verdad es triste ver el nivel de discusión que impera no sólo en la capital, sino en todos los procesos electorales que se están llevando a cabo en el país. Es responsabilidad de los candidatos hacerse de equipos de trabajo sólidos que los asesoren sobre las propuestas que van a realizar. De igual manera, contar con un nivel alto de argumentación y de debate. A nosotros, los votantes, nos toca estudiar la trayectoria y los planteamientos de las personas que quieren ocupar un puesto de elección popular, no irnos sólo con un color, una canción o un anuncio publicitario, pues de nosotros dependerá el gobierno que tengamos en los próximos 3 o 6 años.
