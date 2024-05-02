@@ -7,5 +7,5 @@ extracto: “Se entiende que los candidatos traten de no hablar del tema porque 
   irresponsabilidad al evadir una pregunta que es tan necesario contestar ante
   las finanzas públicas que tenemos”, dijo Liliana Alvarado, directora general
   de Ethos
-colors: salmon
+colors: amarillo
 ---
