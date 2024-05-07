@@ -1,9 +1,10 @@
 ---
-title: Evento | Presenta la Red Nacional de CPC agenda anticorrupción con
-  perspectiva de género
+title: "Evento | “Insuficientes y con poca claridad propuestas anticorrupción de
+  candidatos”: expertos"
 date: 2024-04-02T22:22:25.012Z
-link: https://www.ethos.org.mx/anticorrupcion/eventos/presenta_la_red_nacional_de_cpc_agenda_anticorrupcion_con_perspectiva_de_genero
-extracto: " Esta agenda fue un proyecto que se amplió gracias al Programa de
-  Capacitación: Fortaleciendo a los CPC realizado por Ethos."
+link: https://www.ethos.org.mx/anticorrupcion/noticias/insuficientes_y_con_poca_claridad_propuestas_anticorrupcion_de_candidatos_expertos
+extracto: Dalia Toledo, de Ethos, resaltó que en el país “necesitamos propuestas
+  contundentes, ya que hay una resistencia al combate a la corrupción, en
+  materia de transparencia y la impunidad es un gran dique”.
 colors: azul
 ---
