@@ -1,6 +1,6 @@
 ---
 title: Evento | Ethos presente en la OTT Conference 2024
-date: 2024-04-02T22:42:07.123Z
+date: 2024-05-23T22:42:07.123Z
 link: https://www.ethos.org.mx/think-tanks/eventos/ethos_presente_en_la_ott_conference_2024
 extracto: Liliana Alvarado, directora de Ethos, presentó la conferencia
   inaugural en la que abordó la evolución de los think tanks y la relación con
