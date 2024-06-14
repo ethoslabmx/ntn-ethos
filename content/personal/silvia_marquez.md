@@ -4,7 +4,7 @@ foto: https://ucarecdn.com/ef374106-d189-4b44-a9a7-5ac65e0bdee7/
 puesto: Directora de Comunicación y Prensa
 area: comunicación y prensa
 pos: 1
-semblanza: Maestrante en Periodismo Político (Carlos Septién) y licenciada en
+semblanza: Maestra en Periodismo Político (Carlos Septién) y licenciada en
   Comunicación (UAEMéx). En prensa escrita, radio y televisión se desempeñó como
   reportera, jefa de información, productora y conductora. Fue Subdirectora de
   Difusión en la subsecretaría encargada de la implementación del Sistema de
