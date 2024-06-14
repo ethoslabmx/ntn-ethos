@@ -16,4 +16,5 @@ semblanza: Internacionalista, especialista en Política Pública y Género y fut
   ha impulsado la transversalización de la perspectiva de género, tanto en los
   procesos organizacionales como en los proyectos de investigación aplicada en
   los que ha colaborado.
+email: ximena.mejia@ethos.org.mx
 ---
