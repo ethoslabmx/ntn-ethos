@@ -1,6 +1,6 @@
 ---
 nombre: XIMENA MEJÍA
-foto: https://ucarecdn.com/9509755e-691b-43d4-98a8-4779418e8db8/
+foto: https://ucarecdn.com/c0a97a21-4a0e-400c-879c-a18804da9cf2/
 puesto: Coordinadora de Trabajo Digno
 area: inclusión y desarrollo sostenible
 pos: 2
