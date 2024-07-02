@@ -1,5 +1,6 @@
 ---
-title: Evento | Ethos en mesa de análisis sobre el segundo debate chilango
+title: "Evento | La mejora regulatoria es esencial para combatir la corrupción:
+  Dalia Toledo"
 date: 2024-07-02T19:37:13.912Z
 link: https://www.ethos.org.mx/anticorrupcion/eventos/la_mejora_regulatoria_es_esencial_para_combatir_la_corrupcion_dalia_toledo
 extracto: Dalia Toledo, directora de Finanzas Públicas y Anticorrupción en
