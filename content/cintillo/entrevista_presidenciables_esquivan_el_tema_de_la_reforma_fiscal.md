@@ -1,11 +1,12 @@
 ---
-title: Entrevista | Presidenciables esquivan el tema de la reforma fiscal
-date: 2024-04-30T21:33:42.435Z
-link: https://www.ethos.org.mx/finanzas-publicas/noticias/presidenciables_esquivan_el_tema_de_la_reforma_fiscal
-extracto: “Se entiende que los candidatos traten de no hablar del tema porque no
-  es uno atractivo para el electorado, pero sí me parece que hay un grado de
-  irresponsabilidad al evadir una pregunta que es tan necesario contestar ante
-  las finanzas públicas que tenemos”, dijo Liliana Alvarado, directora general
-  de Ethos
-colors: amarillo
+title: Entrevista | Descolonizar la legislación ambiental hecha en Europa para
+  América Latina
+date: 2024-06-04T21:33:42.435Z
+link: https://www.ethos.org.mx/desarrollo-sostenible/noticias/descolonizar_la_legislacion_ambiental_hecha_en_europa_para_america_latina
+extracto: "Desde México, Néstor Genis, Coordinador de Inclusión y Desarrollo
+  Sostenible de Ethos, afirma que en México el tema ambiental no ha sido una
+  prioridad en los últimos años. “Además, tenemos una tensión entre legislación
+  versus implementación: porque regulaciones propias tenemos, pero no se
+  implementa y no son suficientes”."
+colors: azul
 ---
