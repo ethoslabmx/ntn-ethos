@@ -1,8 +1,8 @@
 ---
-nombre: Luis Fernando Morales
-foto: https://ucarecdn.com/d6abbfa2-1c92-404b-a57f-307acd123109/
+nombre: Glenda Ríos
+foto: https://ucarecdn.com/3b0ab6b1-ec45-4ceb-a9a1-0ccf4813660e/
 puesto: PASANTE
 area: programa de internship
 pos: 6
-semblanza: Economía, Universidad Anáhuac
+semblanza: Relaciones Internacionales, Universidad Iberoamericana
 ---
