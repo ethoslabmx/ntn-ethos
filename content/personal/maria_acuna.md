@@ -1,8 +1,8 @@
 ---
-nombre: María Acuña
-foto: https://ucarecdn.com/37099d75-8583-49e0-89e7-00a8ac907c44/
+nombre: Raizza Morán
+foto: https://ucarecdn.com/a0da0e4f-e0b2-4421-a39b-ec8395520a8f/
 puesto: PASANTE
 area: programa de internship
 pos: 2
-semblanza: Relaciones Internacionales, Tec de Monterrey
+semblanza: Ciencias Políticas y Relaciones Internacionales, UDLAP
 ---
