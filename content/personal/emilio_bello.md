@@ -1,8 +1,8 @@
 ---
-nombre: Emilio Bello
-foto: https://ucarecdn.com/c5245be2-3565-44b1-afd7-3142256d6174/
+nombre: Luisa Crespi
+foto: https://ucarecdn.com/66a16047-5138-421d-a996-ea7a583cf98f/
 puesto: Pasante
 area: programa de internship
 pos: 2
-semblanza: Economía, ITAM
+semblanza: Relaciones Internacionales, UNAM
 ---
