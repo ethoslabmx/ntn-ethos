@@ -5,6 +5,7 @@ date: 2024-07-22T21:24:44.297Z
 img: https://ucarecdn.com/1a583a81-bf17-45ee-8238-284d468c3861/
 autor: Javier González y José Francisco García
 medio: Southern Voice
+link: https://southernvoice.org/the-global-south-perspective-through-g20-recommendations-from-the-think-tank-20/
 category: think-tanks
 extracto: In this piece, we aim to outline the recommendations  of the Think
   Tank 20 (T20) engagement group to G20 leaders and negotiators, which were
