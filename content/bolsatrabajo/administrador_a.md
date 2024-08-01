@@ -8,7 +8,7 @@ area: Administración y Recursos humanos
 
 ## PERFIL ACADÉMICO
 
-**Carrera:** Contabilidad, Administración de empresas o afines. Maestría deseable.
+**Carrera:** Contabilidad. Maestría deseable.
 
 <!--EndFragment-->
 
