@@ -3,6 +3,7 @@ title: "Comunidades, adaptación y resiliencia ante el cambio climático en
   México: retos y recomendaciones a partir de nueve casos de estudio en zonas
   rurales y costeras"
 date: 2024-09-02T15:56:02.181Z
+img: https://ucarecdn.com/c0da9626-a4f4-4e10-8c60-78c2b42a2fd5/
 autor: Laure Delalande y Juan Felipe Santana Mora
 category: desarrollo-sostenible
 extracto: El desarrollo de proyectos de adaptación y resiliencia al cambio
