@@ -11,8 +11,8 @@ extracto: El desarrollo de proyectos de adaptación y resiliencia al cambio
   perspectiva local y comunitaria, dada la especificidad geográfica de los
   impactos climáticos.  Ethos Innovación en Políticas Públicas ha acompañado a
   varios proyectos que aún no han podido escalar a niveles intermunicipales o
-  regionales. En este *policy brief* analizamos sus principales desafíos y
-  hacemos propuestas para enfrentarlos.
+  regionales. En este policy brief analizamos sus principales desafíos y hacemos
+  propuestas para enfrentarlos.
 file: https://ucarecdn.com/1a3f3fda-0414-4d5b-a466-80c23850653c/
 tags: []
 ---
