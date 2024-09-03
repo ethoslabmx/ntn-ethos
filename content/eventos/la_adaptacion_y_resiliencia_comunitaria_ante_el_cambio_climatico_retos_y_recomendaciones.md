@@ -5,9 +5,9 @@ date: 2024-09-02T18:59:05.146Z
 img: https://ucarecdn.com/d4b4d42d-e0df-48f8-b304-d9c0bde0feba/
 autor: Ethos
 category: desarrollo-sostenible
-extracto: "**A partir del trabajo con comunidades locales, Ethos elaboró un
-  *policy brief* con los principales retos y recomendaciones para impulsar la
-  resiliencia comunitaria ante el cambio climático.*"
+extracto: A partir del trabajo con comunidades locales, Ethos elaboró un policy
+  brief con los principales retos y recomendaciones para impulsar la resiliencia
+  comunitaria ante el cambio climático.
 galeria: null
 ---
 <!--StartFragment-->
