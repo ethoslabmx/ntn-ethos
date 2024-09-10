@@ -2,7 +2,7 @@
 puesto: Especialista en materia fiscal
 category: vacantes
 date: 2024-09-10T00:36:15.359Z
-area: Finanzas
+area: Finanzas Públicas
 ---
 <!--StartFragment-->
 
