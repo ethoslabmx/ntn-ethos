@@ -81,6 +81,6 @@ Javier González
 
 \*Adjuntar CV y Carta de intención de máximo 1 página en donde se explique por qué considera que su perfil es el ideal para el puesto. No se revisarán documentos de postulación que no cumplan con los requisitos de extensión aquí especificada.
 
-\*﻿En el asunto del correo colocar: «Nombre Completo-Especialista fiscal»
+\*﻿En el asunto del correo colocar: «Nombre completo-especialista fiscal»
 
 <!--EndFragment-->
