@@ -50,7 +50,7 @@ area: Finanzas Públicas
 
 ## CONDICIONES
 
-* Salario de 25,000 a 30,000 pesos mexicanos según aptitudes.
+* Salario bruto de 31,000 a 36,500 pesos mexicanos, según aptitudes.
 * Tiempo completo. Se aplicará un periodo de prueba (con remuneración) de 3 meses.      
 
 <!--EndFragment-->
