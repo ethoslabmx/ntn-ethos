@@ -1,5 +1,5 @@
 ---
-nombre: Teresa López Barajas
+nombre: TERESA LÓPEZ BARAJAS
 puesto: INVESTIGADORA ANTICORRUPCIÓN
 area: finanzas públicas y anticorrupción
 pos: 3
