@@ -1,14 +1,13 @@
 ---
-nombre: JUAN CARLOS ÁLVAREZ
-foto: https://ucarecdn.com/05d83764-42d2-4a6e-83b1-1e0b046c7e84/
+nombre: DANIEL CEDILLO
+foto: https://ucarecdn.com/58c1044a-3b9e-47ac-9e4d-5026bb0af3e4/
 puesto: Administrador
 area: administración y recursos humanos
 pos: 3
-semblanza: Licenciado en Contaduría (UNAM). Cuenta con formación en
-  Administración en Organizaciones de la Sociedad Civil por la Universidad ORT y
-  en Derecho Procesal Fiscal por la UNAM. Tiene 10 años de experiencia en
-  administración y contabilidad de donatarias autorizadas, así como en la
-  prevención de lavado de dinero. Además, ha brindado asesoría y capacitación
-  pro bono a diversas organizaciones de la sociedad civil.
-email: carlos.alvarez@ethos.org.mx
+semblanza: "Maestro en Contabilidad e Impuestos (Universidad Humanista) y
+  licenciado en Administración y Gestión de PYMES (Universidad Politécnica de
+  Texcoco). Cuenta con amplia experiencia en administración, logística,
+  transporte, construcción y contabilidad de empresas privadas, despachos
+  contables y sindicatos. "
+email: daniel.cedillo@ethos.org.mx
 ---
