@@ -26,16 +26,11 @@ Desde hace 19 años el Coneval ha trabajado en la generación de evidencia para 
 
 * **Medición multidimensional de la pobreza**: mientras que en el resto del mundo la pobreza se medía desde un enfoque meramente económico, en 2009 el Coneval innovó con una metodología para su medición multidimensional,** [1](https://animalpolitico.com/analisis/invitades/coneval-desaparicion-costo#_ftn1)** lo que posicionó a México como un pionero en la materia. Desde entonces, realiza la medición bienal de la pobreza, que permite entender su evolución y proponer estrategias para atenderla de mejor manera.
 * **Evaluación de las políticas de desarrollo social**: la evaluación constante es clave para promover que las acciones que el gobierno realiza con el fin de garantizar derechos sociales y reducir la pobreza se realicen de manera más eficiente. El Coneval se encarga de liderar estas evaluaciones, **[2](https://animalpolitico.com/analisis/invitades/coneval-desaparicion-costo#_ftn2)** como lo hizo con los programas emblema de la actual administración, que en sus primeras versiones presentaron graves deficiencias, como no tener bien definida su teoría de cambio, que es básicamente el objetivo del programa y cómo se piensa alcanzarlo. Sin la asesoría del Coneval, el impacto de estos programas sería significativamente menor y los recursos públicos se gastarían de manera ineficiente.
-
-
 * **Asesoría a gobiernos locales**: el Coneval apoya a gobiernos estatales y municipales con el fortalecimiento de capacidades para mejorar el diseño y evaluación de sus políticas de desarrollo social. Según la última actualización, existen alrededor de 1,000 programas y acciones de desarrollo social estatales y 10,000 municipales; sin la asesoría del Coneval, la calidad de estos programas, que ya por sí es cuestionable en muchas regiones, disminuiría aún más y ocasionaría desperdicio de recursos económicos y humanos.
-
-
 
 Pero, ¿cómo esto nos beneficia de forma concreta a la población en general? A partir de todo este trabajo, el Coneval emite recomendaciones que, cuando hay voluntad política, se traducen en **mejores servicios públicos**, por ejemplo, con mejor atención en las clínicas de salud o en las escuelas públicas. Otro beneficio es el **gasto** **eficiente de nuestros impuestos.** Cuando un programa está mal diseñado y/o implementado y no se evalúa para identificar sus áreas de mejora, se pueden generar un círculo vicioso donde el programa se sigue ejecutando por mera inercia, independientemente de su costo y resultados, lo que significa un desperdicio de recursos. En última instancia, las acciones del Coneval son pasos pequeños pero firmes hacia la construcción de una **sociedad más justa e inclusiva**.
 
-## \
-¿Es caro el Coneval?
+## ¿Es caro el Coneval?
 
 \
 Primero hay que saber cuánto nos cuesta esta institución. Para el 2024 al Coneval se le asignó un presupuesto de 411.26 millones de pesos (mdp), lo que representa una reducción de 35.04 % en términos reales en comparación con el último año del anterior sexenio (2018), cuando se le asignaron 633.11 mdp. **[3](https://animalpolitico.com/analisis/invitades/coneval-desaparicion-costo#_ftn3) Durante este sexenio,** **el presupuesto de la institución se redujo más de una tercera parte en términos reales**.
