@@ -19,4 +19,4 @@ Asimismo, se desarrollaron cuatro talleres impartidos por los integrantes del CP
 
 Este evento, comentó Emiliano Montes de Oca, se va a replicar en otras escuelas de la entidad para invitar a más jóvenes a sumarse a la lucha anticorrupción y a generar proyectos en la materia, para lo cual pueden acercarse a organizaciones como Global Shapers Aguascalientes o el mismo CPC Aguascalientes.
 
-Este foro, denominado “Fortalecimiento de Habilidades para el Combate a la Corrupción”,  es parte de un proyecto que surgió dentro del Programa de Capacitación Fortaleciendo a los CPC, impulsado por Ethos, con el apoyo de National Endowment for Democracy.
+Este foro, denominado “Fortalecimiento de Habilidades para el Combate a la Corrupción”, es parte de un proyecto que surgió dentro del Programa de Capacitación Fortaleciendo a OSC y periodistas en Anticorrupción, impulsado por Ethos, con el apoyo de National Endowment for Democracy.
