@@ -1,155 +1,63 @@
 ---
-title: Los retos económicos de Sheinbaum para 2025
-date: 2024-11-21T17:29:03.895Z
-img: https://ucarecdn.com/dc87714d-6131-4a3a-bc0c-155ca16560ed/
-img-alt: PPEF 2025
-autor: Gabriel Nava y Santiago Nolasco, Reporte Índigo
-link: https://www.reporteindigo.com/reporte/retos-economicos-sheinbaum-paquete-economico-2025/amp/
+title: Por qué es dudoso el crecimiento y déficit que propone Sheinbaum para 2025
+date: 2024-11-21T17:36:05.817Z
+img: https://ucarecdn.com/601d4145-0d9b-41bf-a0c8-8512787a9614/
+img-alt: PPEF Claudia Sheinbaum
+autor: " Zenyazen Flores, Bloomberg"
+link: https://www.bloomberglinea.com/latinoamerica/mexico/por-que-es-dudoso-el-crecimiento-y-deficit-que-propone-sheinbaum-para-2025/?reader_id=READER_ID&url=SOURCE_URL&_=RANDOM/
 category: finanzas-publicas
-extracto: Dalia Toledo, directora de finanzas públicas de Ethos Innovación en
-  Políticas Públicas, mencionó que el 51.4 por ciento del SHRFSP es un foco de
-  alerta.
+extracto: Analistas consultados por Bloomberg Línea coincidieron en que el
+  estimado de crecimiento económico para 2025 es optimista y en que hay
+  incredulidad sobre la reducción del déficit fiscal
 ---
-Con un plan basado en la **eficiencia recaudatoria**, el aprovechamiento de la actual **coyuntura económica** y hasta el impulso del mercado interno, la **nueva administración buscará reforzar el crecimiento económico** del país, al mismo tiempo que enfrentará retos significativos como el **déficit y el endeudamiento**.
+El Paquete Económico que propuso la presidenta Claudia Sheinbaum para 2025 fue bien recibido por el mercado financiero al mostrar que tiene la intención de avanzar hacia la consolidación fiscal, sin embargo, genera dudas respecto al crecimiento económico y reducción del déficit fiscal proyectados. 
 
+Tres analistas consultados por Bloomberg Línea coincidieron en que el estimado de crecimiento económico que se proyecta para 2025 es optimista en el contexto económico e internacional actual y mostraron incredulidad sobre la reducción del déficit fiscal planeada. 
 
+La Secretaría de Hacienda proyecta que la economía mexicana crezca entre 2% y 3% en 2025, el primer año del sexenio de Sheinbaum. El rango estimado está muy por encima del 1% que estima el consenso de analistas consultados para la Encuesta Citibanamex y la encuesta de Banxico. 
 
-Se presentó el **Paquete Económico 2025** elaborado por la [Secretaría de Hacienda y Crédito Público](https://www.gob.mx/shcp) (**SHCP**), el proyecto con el cual **Claudia Sheinbaum**, presidenta de México, buscará consolidar un modelo de **desarrollo económico** caracterizado por una mayor presencia del Estado mexicano; tarea que de acuerdo con las estimaciones de la dependencia, se encuentra **llena de retos**.
+En cuanto al déficit fiscal, la apuesta es reducirlo a 3.9% como porcentaje del Producto Interno Bruto (PIB) en 2025, desde un nivel de 5,9% esperado para cierre de 2024, lo que implica un recorte del gasto de dos puntos porcentuales, alrededor de $700,000 millones. 
 
+El Proyecto de Presupuesto de Egresos de la Federación (PPEF) prevé una bolsa de 9,226 billones de pesos para 2025, mientras que se estiman ingresos presupuestarios por 8,056 billones, por lo que el Gobierno tendrá que recurrir a deuda para cubrir los ingresos faltantes y cumplir con sus compromisos de gasto. 
 
+### Hacienda peca de optimista con el crecimiento: Citibanamex
 
-Y es que, en el marco de un **menor crecimiento económico** esperado al que se alcanzará en 2024, la **SHCP espera [disminuir el déficit](https://www.reporteindigo.com/indigonomics/hacienda-disminuira-el-deficit-a-3-9-en-2025/) a 3.9 por ciento**, al mismo tiempo que se busca **reducir la pobreza** en el país, cuestión que alcanza a 36.3 por ciento de la población según los datos del **Consejo Nacional de Evaluación de la Política de Desarrollo Social**.
+Arely Medina, economista de investigación de Estudios Económicos de Citibanamex, dijo que Hacienda suele pecar de optimista en sus pronósticos al estimar un crecimiento fuera de consenso. Aunque el año pasado la economía terminó creciendo lo que pronosticó Hacienda, eso ha ocurrido pocas veces. 
 
+En 2025 advirtió- la economía enfrentará riesgos derivados de la llegada del presidente Donald Trump a Estados Unidos, y de la consolidación fiscal que implicará ajuste en el gasto público después de un 2024 con una política fiscal expansiva 
 
+“No es lo mismo que peques de optimista cuando estás con tantos riesgos a hacerlo como siempre lo venías haciendo, yo creo que por eso está llamando tanto la atención este estimado de crecimiento que tienen”, dijo.
 
-**Monserrat Aldave**, economista principal de **Casa de Bolsa Finamex**, explicó en entrevista para Reporte Índigo que la **sostenibilidad de la estrategia hacendaria** resulta una interrogante ante crecientes **presiones en el gasto y soluciones de ingresos** que parecen ofrecer únicamente impulsos de corto plazo.
+Medina dijo que en Citibanamex ven el déficit fiscal de 2025 en un nivel de 4,5% del PIB, más alto que la proyección de Hacienda, debido a que hay dudas sobre alcanzar la meta de ingresos presupuestarios ante un gasto público creciente a pesar de los recortes presupuestales a rubros como inversión física.
 
+“A pesar de que presenten una ruta de consolidación que no es tan creíble, el hecho de que hayan hecho este recorte del déficit hasta 3,9% del PIB, nos parece positivo que Hacienda reconozca eso, pero sí le falta otra pieza al rompecabezas que son los ingresos y que no hay forma de que esto se arregle si no es con una reforma fiscal”, afirmó. 
 
 
-“En general, el **paquete presupuestal** es **optimista**, tanto en los supuestos macroeconómicos como en las metas fiscales. Las **preocupaciones permanecen sin cambio**: **[recortes en sectores clave](https://www.reporteindigo.com/reporte/austeridad-y-recortes-de-la-4t-pegan-a-embajadas-y-consulados-mexico/)** como salud, educación y seguridad, **sacrificados en favor** de un aumento rígido en las obras emblemáticas del **gobierno y el gasto social**”, dijo la analista.
 
+### Quedan dudas sobre si podrán reducir el déficit: Franklin Templeton
 
+Luis Gonzali, vicepresidente y codirector de inversiones en Franklin Templeton México, calificó como optimista el rango de crecimiento del Paquete Económico 2025, pero acotó que los presupuestos siempre vienen diseñados con un sesgo optimista. 
 
-Una postura similar a la de **Janneth Quiroz**, directora de **análisis económico, cambiario y bursátil** del grupo financiero Monex, quien al ser consultada por este medio destacó que las **consideraciones expuestas por la SHCP** son diametralmente distintas al escenario base que se observa respecto al país.
+Estimó que en 2025 la economía mexicana crecerá entre 1% y 1,5%, contrario al intervalo de 2% y 3% de Hacienda. 
 
+Sobre el déficit fiscal, anotó que esta variable no resultó tan positiva como el 3% que se había puesto en los Pre-Criterios de Política Económica de 2025, lo que en gran medida se explica porque al final se optó por un recorte del gasto no tan violento para el primer año del sexenio de Sheinbaum. 
 
+“Creo que el déficit fiscal de 3,9% manda una buena señal de una consolidación fiscal, creo que el mensaje es el correcto, obviamente quedan dudas de si lo van a poder lograr”, afirmó. 
 
-“Los estimados son visiblemente más positivos que lo que actualmente tienen el **consenso del mercado** y los organismos internacionales como el **Fondo Monetario Internacional**, en prácticamente todas las variables; creo que sin duda refleja una **visión positiva por parte de la SHCP**, y a la vez retadora”, sostuvo Quiroz.
+Gonzali dijo que el mercado recibió de manera positiva el Paquete Económico y destacó que ya se haya puesto sobre la mesa una reforma fiscal, si bien Shienbaum dijo que no la planea en el corto plazo. “Por lo menos ya se empieza a hablar de una reforma fiscal que sea positiva para las finanzas públicas”.
 
-## ¿De qué va la estrategia hacendaria de Sheinbaum?
 
-El proyecto de presupuesto centra sus bases en **bienestar social con equidad**, **inversión pública estratégica**, **disciplina con [austeridad republicana](https://www.reporteindigo.com/reporte/austeridad-republicana-y-trabajo-en-conjunto-plantea-claudia-sheinbaum-a-empresarios/)** y simplificación, de acuerdo con el **documento entregado por Hacienda** al **Congreso de la Unión**.
 
+### Reducción del déficit fiscal, pero ¿a qué costo?: Ethos
 
+Dalia Toledo, directora de Finanzas Públicas de Ethos Innovación en Políticas Públicas, dijo que el pronóstico de crecimiento del Gobierno para 2025 está causando polémica porque está por encima no solo de las proyecciones de Banxico, sino también del Fondo Monetario Internacional y del Banco Mundial que no superan al 2%.
 
-Ahí se estipula que se espera **ejercer un gasto total de 9.22 billones de pesos**, en donde destaca la asignación de **835 mil 705 millones de pesos** a **programas sociales** prioritarios, como **Beca Universal de Educación Básica Rita Cetina**, **[Apoyo a Mujeres de 60 a 64 años](https://www.reporteindigo.com/reporte/apoyo-para-mujeres-sheinbaum-revela-cuanto-recibiran-las-beneficiadas/)** y **Bienestar casa por casa**, los nuevos programas anunciados por la mandataria.
+El riesgo de estimar más crecimiento -apuntó- es que Hacienda esté estimando ingresos presupuestarios más elevados de los que pudieran materializarse. Si la economía no registra el dinamismo previsto, no se va a recaudar lo que se espera de los impuestos IVA e ISR. 
 
+“Si no se llegan a recaudar los ingresos que se están estimando con ese crecimiento económico, el siguiente efecto sería que tendría que haber un recorte al gasto o un mayor endeudamiento. Eso es lo que sucede cuando tenemos estimaciones del PIB muy optimistas”, advirtió. 
 
+Toledo considera que está por verse si se logra reducir el déficit fiscal a 3,9% del PIB en 2025. Aseguró que el esfuerzo de reducir el déficit es algo positivo porque en la medida que reduzca ese déficit no habrá más endeudamiento, no obstante, hay muchos factores que irán determinando esa reducción. 
 
-También se pretende ejercer **189 mil millones de pesos** para proyectos de inversión prioritarios. De los cuales **75 mil millones de pesos** serán para **proyectos ferroviarios** con los que la actual administración planea detonar el **desarrollo económico** en diversas regiones y **traer de vuelta trenes de pasajeros** como método de transporte.
+Señaló que en 2025 habrá rubros con presupuesto castigado: la Defensa Nacional sufrirá un recorte de 43,8%, medio ambiente se le recortará el presupuesto en 39%, seguridad 36%, y también hay ajustes al gasto en salud, educación y otros que serán sensibles en la calidad de vida de los ciudadanos. 
 
-
-
-La SHCP también ha planteado que la entrega de programas sociales para dinamizar el **mercado interno**, el aprovechamiento del **nearshoring** como estímulo de la actividad económica e imán de inversión y la **optimización de la recaudación tributaria**, que pretende obtener ingresos equivalentes a 14.6 por ciento del **Producto Interno Bruto (PIB)**, figurarán como parte esencial de la estrategia.
-
-
-
-## El gran pendiente del Gobierno federal
-
-Más allá de la **asignación de recursos económicos a [programas sociales](https://www.reporteindigo.com/reporte/paquete-economico-2025-morena-asegura-que-programas-sociales-tendran-prioridad/)**, el proyecto presupuestario dado a conocer es limitado para generar un **mayor impacto positivo** entre los **grupos más vulnerables del país** ante la falta de una mayor obtención de **recursos** y el impulso de una **gran cantidad de recortes**, consideró Carlos Brown, director de **programas en Oxfam México**.
-
-
-
-“Estamos **intentando hacer un montón con unos ingresos** que llevan **años estancados**, y todos los esfuerzos que se están haciendo en estos momentos para aumentar los ingresos han sido por la **caída de los ingresos petroleros**, sumando a ello el **servicio de la deuda**, los programas sociales y las **pensiones**, obligaciones que no se van y que siguen creciendo por diversas cuestiones, y cada vez habrá **menos margen de maniobra**”, advirtió Brown.
-
-
-
-La información oficial demuestra que desde 2013 los ingresos presupuestarios no han logrado superar los **22 puntos porcentuales del PIB**, mientras que las **obligaciones del Estado mexicano continúan creciendo**.
-
-## La deuda sube a nivel histórico, el gran reto
-
-El Paquete Económico 2025 ha dejado ver las **prioridades del gobierno** de la presidenta **Claudia Sheinbaum Pardo**, pero también sus **obligaciones financieras**. La **[deuda pública](https://www.reporteindigo.com/indigonomics/deuda-publica-el-mal-necesario-mexico-recuperacion-economica-covid/)**, en su media más amplia, marcará un **nivel récord** como porcentaje del **Producto Interno Bruto (PIB)**.
-
-
-
-La Secretaría de Hacienda y Crédito Público (SHCP) ha informado que la deuda, también conocida como el **Saldo Histórico de los Requerimientos Financieros del Sector Público (SHRFSP)**, se ubicará en **51.4 por ciento del PIB**.
-
-
-
-En los **Criterios Generales de Política Económica 2025** se estimó que la **deuda pública se ubicará en 51.4 por ciento** al cierre del 2024 y 2025. Ambas estimaciones tuvieron **correcciones alcistas desde el 50.2 por ciento** pronosticado en marzo por la misma **Hacienda**.
-
-
-
-“Para 2025, se estima que el **SHRFSP**, se ubique en 51.4 por ciento del PIB, valor que permitirá conservar la **estabilidad macroeconómica del país**, garantizando además el acceso al **financiamiento** en condiciones favorables”, se lee en el documento enviado al **Congreso de la Unión**.
-
-
-
-La información de la Secretaría de Hacienda proyectó que la deuda cerraría el 2025 en 18.59 billones de pesos, cantidad mayor en 6.2 por ciento real respecto a lo aprobado para 2024.
-
-
-
-En este orden de ideas, la SHCP ha previsto que la deuda interna acapare el 84.8 por ciento del total el año entrante. En tanto que la deuda externa el 15.2 por ciento.
-
-
-
-Dalia Toledo, directora de finanzas públicas de Ethos Innovación en Políticas Públicas, mencionó a Reporte Índigo que el 51.4 por ciento del SHRFSP es un foco de alerta.
-
-
-
-“El 51.4 por ciento es una cifra histórica (…) Eso nos preocupa y también preocupa a la administración federal. Por eso la necesidad de bajar el déficit, pero aún así, con los recortes, los niveles de deuda siguen elevados”, consideró.
-
-Las proyecciones de la Secretaría de Hacienda arrojaron que el déficit fiscal cerrará el **2025 en 3.9 por ciento del PIB** desde el **5.9 por ciento de este año**.
-
-
-
-La **analista de Ethos** también afirmó la urgencia de una reforma tributaria porque el **espacio fiscal en México** se está reduciendo por los **gastos comprometidos** que representan buena parte de los egresos.
-
-
-
-Uno de los gastos comprometidos es el costo **financiero de la deuda pública**, también conocido como el **pago de intereses**. Hacienda ha previsto que la **obligación financiera se ubicaría en 1.38 billones de pesos en 2025**, un aumento de 5.4 por ciento real en comparación con lo aprobado para 2024.
-
-
-
-Por su parte, **Diego Díaz**, coordinador de **finanzas públicas** del [Instituto Mexicano para la Competitividad](https://imco.org.mx/) (**IMCO**), dijo a este medio que la proyección de la deuda-PIB de la SHCP está subestimada debido a la desaceleración económica esperada en 2025.
-
-
-
-“El gobierno tiene una expectativa optimista del **crecimiento de la economía mexicana** al proyectarlo entre **dos por ciento y tres por ciento**, cuando los bancos o casas de bolsa proyectan un crecimiento de alrededor de uno por ciento”, dijo.
-
-
-
-Explicó que, si no se cumple la **expectativa de Hacienda** la **relación deuda-PIB sería mayor**.
-
-## Techo de endeudamiento pedirá el Congreso
-
-La SHCP también informó que **solicitará al Congreso de la Unión** un **techo de endeudamiento interno** de 1.58 billones de pesos para el siguiente año. La cantidad tiene una **disminución de 22.5 por ciento** real conforme a lo aprobado para 2024.
-
-
-
-Diego Díaz explicó que la contracción en la [**contratación de deuda** ](https://www.reporteindigo.com/indigonomics/mexico-estable-en-calificacion-de-deuda-fitch-ratings/)tiene que ver con el esfuerzo de la **presente administración de lograr la consolidación fiscal**.
-
-
-
-Mencionó que lo anterior es debido a la caída proyectada en el gasto total con lo cual es menor la **necesidad de financiamiento** para cubrir el boquete entre el ingreso y gasto.
-
-
-
-Dalia Toledo consideró que el techo de **endeudamiento** propuesto está en sintonía con la intención de la presidenta de reducir la deuda. Sin embargo, para disminuir la deuda inciden otras variables como la del tipo de cambio.
-
-
-
-Por otra parte, se contempla que el **techo de endeudamiento externo** sea de **15 mil 500 millones de dólares en 2025**. Esta cantidad es **17.4 por ciento real menor a lo aprobado para este año**.
-
-
-
-## Así cerró la deuda en el pasado sexenio
-
-Al finalizar julio, **Rogelio Ramírez de la O**, el secretario de Hacienda, comentó que la **deuda en su medida más amplia** cerraría el **sexenio de Andrés Manuel López Obrador** en **48.6 por ciento  del PIB**. No obstante, en septiembre, último mes de su sexenio, se ubicó en 49.3 por ciento.
-
-
-
-**Edgar Amador Zamora**, subsecretario de Hacienda, comentó en rueda de prensa a finales de octubre que el **ratio deuda-PIB** está sujeto a la **volatilidad en el tipo de cambio** y a la volatilidad en las **tasas de interés**.
-
-
-
-“Esta volatilidad financiera va a afectar en un sentido o en otro a estos ratios. En este sentido, el **49.3 por ciento va en línea con las estimaciones**. Dependiendo cómo cierren las **variables macro-financieras** vamos a **tener una cifra distinta**”, dijo a medios de comunicación.
+“Por un lado decimos ‘qué optimista que se reduzca el déficit’ porque no nos vamos a endeudar más, pero ¿a qué costo, no? Hacer recorte al gasto es una señal positiva, pero no la solución. La solución correcta es incrementar de manera drástica los ingresos y eso solo se va a lograr con una reforma fiscal”, afirmó.
