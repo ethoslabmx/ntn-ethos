@@ -6,5 +6,5 @@ link: https://www.ethos.org.mx/finanzas-publicas/noticias/los_retos_economicos_d
 extracto: Analistas consultados por Bloomberg Línea coincidieron en que el
   estimado de crecimiento económico para 2025 es optimista y en que hay
   incredulidad sobre la reducción del déficit fiscal.
-colors: salmon
+colors: azul
 ---
