@@ -4,8 +4,8 @@ date: 2024-12-05T18:29:46.905Z
 img: https://ucarecdn.com/e2c0b75f-c5d2-4fd7-8c9c-b27797b2599f/
 img-alt: Corrupción México
 autor: Emiliano Montes de Oca
-medio: Desarmando la corrupción, MCCI
-link: https://contralacorrupcion.mx/un-gobierno-autoritario-puede-ser-eficiente-contra-la-corrupcion/
+medio: Nexos
+link: https://anticorrupcion.nexos.com.mx/un-gobierno-autoritario-puede-ser-eficiente-contra-la-corrupcion/
 category: anticorrupcion
 extracto: Existen países preponderantemente autoritarios en los que centralizar
   el poder ha servido para combatir la corrupción a costa de violentar los
