@@ -2,6 +2,7 @@
 title: Organizaciones de la sociedad civil celebran la aprobación de la reforma
   para personas trabajadoras en plataformas digitales. Posicionamiento colectivo
 date: 2024-12-13T20:52:32.911Z
+img: https://ucarecdn.com/d84c7881-5594-4bb7-80a1-657be180e92e/
 autor: Ethos, Fundación Avina, Oxfam México y ProDESC
 category: inclusion
 extracto: Las organizaciones firmantes celebramos la aprobación por el Congreso
