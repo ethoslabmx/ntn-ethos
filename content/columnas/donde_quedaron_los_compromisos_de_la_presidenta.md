@@ -6,11 +6,9 @@ autor: Liliana Alvarado
 medio: El Economista
 link: https://www.eleconomista.com.mx/opinion/quedaron-compromisos-presidenta-20250113-741683.html
 category: finanzas-publicas
-extracto: "El análisis de las prioridades del Proyecto de Presupuesto de Egresos
+extracto: El análisis de las prioridades del Proyecto de Presupuesto de Egresos
   de la Federación (PPEF) para 2025 deja ver que la presidenta no cumplirá en
-  este año con la mayoría de sus promesas. Es decir, no sería posible tener una
-  “República Sana”, una “República Segura”, una “República Educadora, Humanista
-  y Científica”, como había prometido. "
+  este año con la mayoría de sus promesas.
 ---
 El primero de octubre del 2024 Claudia Sheinbaum presentó en el Zócalo de la Ciudad de México sus compromisos de gobierno para construir “el segundo piso de la Cuarta Transformación”. El contexto fue emotivo ante la llegada de la primera mujer como presidenta de México y el reconocimiento de este hecho por personas de distintas corrientes políticas. Pasada la euforia, al mes siguiente Sheinbaum enfrentó uno de los primeros retos de su gestión, con la presentación del Paquete Económico para el 2025.
 
