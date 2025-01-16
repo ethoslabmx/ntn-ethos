@@ -1,6 +1,6 @@
 ---
 title: ¿Dónde quedaron los compromisos de la presidenta?
-date: 2025-01-14T17:29:04.042Z
+date: 2025-01-13T17:29:04.042Z
 img: https://ucarecdn.com/7dcf6c4f-13fa-4a5c-a3e3-93e4ff9468ac/
 autor: Liliana Alvarado
 medio: El Economista
