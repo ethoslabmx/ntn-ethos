@@ -1,7 +1,7 @@
 ---
 title: El futuro poco esperanzador del Sistema Nacional Anticorrupción
 date: 2025-01-29T16:11:35.678Z
-img: https://ucarecdn.com/9dd98194-3f97-40ce-b309-71ce70c67639/
+img: https://ucarecdn.com/4dc7b648-799b-47de-aa94-fb18580ee9d3/
 autor: Teresa López Barajas
 medio: Animal Político
 link: https://animalpolitico.com/analisis/invitades/sistema-nacional-anticorrupcion-adaptacion-fracaso
