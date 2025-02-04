@@ -6,11 +6,9 @@ autor: Teresa López Barajas
 medio: Animal Político
 link: https://animalpolitico.com/analisis/invitades/sistema-nacional-anticorrupcion-adaptacion-fracaso
 category: anticorrupcion
-extracto: "El Sistema Nacional Anticorrupción enfrenta una encrucijada:
-  adaptarse para cumplir su misión o hundirse en su propia burocracia y
-  conflictos internos. Sin una estrategia integral, el SNA corre el riesgo de
-  convertirse en un proyecto fallido, dejando un vacío institucional que México
-  no puede permitirse."
+extracto: Sin una estrategia integral, el SNA corre el riesgo de convertirse en
+  un proyecto fallido, dejando un vacío institucional que México no puede
+  permitirse.
 ---
 <!--StartFragment-->
 
