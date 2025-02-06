@@ -13,7 +13,7 @@ semblanza: Maestra y Licenciada en Estudios Latinoamericanos por la UNAM. Mónic
   nivel nacional e internacional, en organizaciones como el Instituto Nacional
   de las Mujeres; Oxfam Gran Bretaña; ONU Mujeres; Social Impact (consultora
   internacional para el desarrollo); el Instituto de Naciones Unidas para el
-  Desarrollo Social de España (UNRISD); Preferred by Nature (organización
-  danesa), y FLACSO Ecuador.
+  Desarrollo (UNRISD); Preferred by Nature (organización danesa), y FLACSO
+  Ecuador.
 email: monica.corona@ethos.org.mx
 ---
