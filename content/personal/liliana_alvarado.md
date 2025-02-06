@@ -14,9 +14,8 @@ semblanza: Maestra en Políticas Públicas y Administración (LSE) y licenciada 
   comportamiento en el CIDE, entre otras. En Ethos tiene una larga trayectoria y
   actualmente se desempeña como Directora General, en donde ha coordinado
   diversos proyectos en materia de transparencia y rendición de cuentas,
-  anticorrupción, gasto y política fiscal. Adicionalmente, es comentarista para
-  Grupo Fórmula en el noticiero de Eduardo Ruiz Healy y columnista invitada en
-  el periódico El Economista.
+  anticorrupción, gasto y política fiscal. Adicionalmente, es columnista
+  invitada en el periódico El Economista y en Opinión 51..
 email: ""
 twitter: "@lilialvaradob"
 ---
