@@ -1,7 +1,7 @@
 ---
 title: "Agua mal pagada: el panorama de la recaudación por suministro de agua"
 date: 2025-02-21T18:03:34.935Z
-img: https://ucarecdn.com/2ca189b3-26f0-4067-8cef-f349c2f1ffcb/-/crop/1683x1072/237,0/-/preview/
+img: https://ucarecdn.com/6533eb23-7bdf-4d72-9cf9-ce2f700d8907/-/crop/1425x1080/495,0/-/preview/
 img-alt: Recaudación agua
 autor: Liliana Alvarado
 medio: El Economista
