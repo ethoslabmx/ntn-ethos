@@ -60,7 +60,6 @@ Trabajar de manera directa en el desarrollo de proyectos de relevancia nacional.
 
 ## Enviar CV y carta de intención a:
 
-Dalia Toledo
 dalia.toledo@ethos.org.mx
 
 Adjuntar CV y Carta de intención de máximo 1 página en donde se explique por qué considera que su perfil es el ideal para el puesto. No se revisarán documentos de postulación que no cumplan con los requisitos de extensión aquí especificada.
