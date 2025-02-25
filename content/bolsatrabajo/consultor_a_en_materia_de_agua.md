@@ -8,8 +8,6 @@ area: Finanzas Públicas y Anticorrupción
 
 **Carrera:** Ciencias Políticas, Relaciones Internacionales, Administración Pública, Economía, Derecho o afines. Posgrado en Políticas Públicas, Administración Pública, Ciencias Políticas, Relaciones Internacionales o afines.
 
-
-
 ## Responsabilidades
 
 * Liderar una investigación sobre recaudación por derechos de agua en México.
@@ -17,8 +15,6 @@ area: Finanzas Públicas y Anticorrupción
 * Recopilar, sistematizar y analizar datos para robustecer la investigación.
 * Investigar buenas prácticas nacionales e internacionales sobre la gestión de Organismos Operadores de Agua u organismos afines.
 * Generar materiales de difusión (columnas de opinión, presentaciones, entre otros materiales), de acuerdo a la estrategia de comunicación de la organización o a los requerimientos del proyecto.
-
-
 
 ## Requisitos
 
@@ -33,32 +29,25 @@ area: Finanzas Públicas y Anticorrupción
 * Proactividad.
 * Excelente redacción.
 
-
-
 ## Condiciones
 
 * El salario dependerá de la experiencia y perfil del candidato seleccionado.
 * Tiempo completo. 
 * Consultoría con duración de 6 meses.
 
-
-
 ## Modalidad
 
 * Híbrida.
-
-
 
 ## Ofrecemos
 
 * Trabajar de manera directa en el desarrollo de proyectos de relevancia nacional.
 
-
-
-## Enviar CV y carta de intención a: 
+## Enviar CV y carta de intención a:
 
 Dalia Toledo
 dalia.toledo@ethos.org.mx
 
-* Adjuntar CV y Carta de intención de máximo 1 página en donde se explique por qué considera que su perfil es el ideal para el puesto. No se revisarán documentos de postulación que no cumplan con los requisitos de extensión aquí especificada.
-* En el asunto del correo colocar: << Nombre Completo – Consultor/a en materia de agua>>
+Adjuntar CV y Carta de intención de máximo 1 página en donde se explique por qué considera que su perfil es el ideal para el puesto. No se revisarán documentos de postulación que no cumplan con los requisitos de extensión aquí especificada.
+
+En el asunto del correo colocar: << Nombre Completo – Consultor/a en materia de agua>>
