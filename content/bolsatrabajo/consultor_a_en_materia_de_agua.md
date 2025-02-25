@@ -6,7 +6,7 @@ area: Finanzas Públicas y Anticorrupción
 ---
 ## **Perfil académico**
 
-**Carrera:** Ciencias Políticas, Relaciones Internacionales, Administración Pública, Economía, Derecho o afines. Posgrado en Políticas Públicas, Administración Pública, Ciencias Políticas, Relaciones Internacionales o afines.
+**Carrera:** Ciencias Políticas, Relaciones Internacionales, Administración Pública, Economía, Derecho o afines. Posgrado en Políticas Públicas, Administración Pública, Ciencias Políticas, Relaciones Internacionales o afines. 
 
 ## Responsabilidades
 
