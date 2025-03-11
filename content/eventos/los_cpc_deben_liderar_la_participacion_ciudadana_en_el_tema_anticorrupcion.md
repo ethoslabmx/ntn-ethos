@@ -1,7 +1,7 @@
 ---
 title: Los CPC deben liderar la participación ciudadana en el tema anticorrupción
 date: 2025-02-27T18:29:50.193Z
-img: https://ucarecdn.com/c2a6a24a-9341-4015-88f4-8861988d5270/
+img: https://ucarecdn.com/bf00f49a-cc8a-4be1-a0a5-818007a5839b/-/crop/610x417/350,119/-/preview/
 img-alt: Emiliano Montes de Oca, Ethos
 autor: Ethos
 category: anticorrupcion
