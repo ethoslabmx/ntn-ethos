@@ -1,5 +1,5 @@
 ---
-title: "Publicaciones | Manifiesto UNIDAS: Por el trabajo justo y la dignidad
+title: "Publicación | Manifiesto UNIDAS: Por el trabajo justo y la dignidad
   laboral de las mujeres"
 date: 2025-03-25T23:34:57.597Z
 link: https://www.ethos.org.mx/inclusion/publicaciones/manifiesto_unidas_por_el_trabajo_justo_y_la_dignidad_laboral_de_las_mujeres
