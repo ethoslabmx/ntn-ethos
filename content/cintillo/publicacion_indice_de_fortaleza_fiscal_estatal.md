@@ -6,5 +6,5 @@ extracto: Con el objetivo de evaluar la fortaleza fiscal de los estados en
   México, Ethos desarrolló el Índice de Fortaleza Fiscal Estatal, el cual
   permite comparar el desempeño de las 32 entidades federativas en función de su
   generación de ingresos, gasto público y manejo de la deuda.
-colors: azul
+colors: salmon
 ---
