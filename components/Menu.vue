@@ -50,6 +50,7 @@
                   </svg>
                 </a>
                 <ul class="dropdown-menu absolute hidden text-gray-dark  bg-white shadow-xl p-0 m-0">
+                  <!--
                   <li class="dropdown-child inline-block relative w-full">
                     <a
                       class="justify-between  inline-flex items-center py-3 px-6 w-full block bg-gray-200 hover:bg-primary hover:text-white">
@@ -87,7 +88,7 @@
                       </li>
                     </ul>
                   </li>
-
+                  -->
 
                   <li class="dropdown-child inline-block relative w-full">
                     <a
@@ -352,6 +353,7 @@
                     <div class="tab-content tab-content_parent__children">
 
                       <ul class="tabs">
+                        <!--
                         <li class="tab tab_child">
                           <input type="radio" id="anticorrupcion" name="rd2">
                           <label class="tab-label tab-label_child" for="anticorrupcion">ANTICORRUPCIÓN</label>
@@ -387,6 +389,7 @@
                             </ul>
                           </div>
                         </li>
+                        -->
                         <li class="tab tab_child">
                           <input type="radio" id="finanzas" name="rd2">
                           <label class="tab-label tab-label_child" for="finanzas">Finanzas Públicas</label>

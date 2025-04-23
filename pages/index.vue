@@ -6,6 +6,7 @@
       <hr>
     </div>
     <div class="ejes container mx-auto">
+      <!--
       <div class="eje bg-white md:flex-row-reverse flex-col">
 
         <div class="img md:w-1/2"> <img src="../assets/images/anticorrupcion-thumb.jpg" alt=""></div>
@@ -19,6 +20,7 @@
         </div>
 
       </div>
+      -->
       <div class="eje bg-white md:flex-row flex-col">
 
         <div class="img md:w-1/2"><img src="../assets/images/finanzas-publicas-thumb.jpg" alt=""></div>
