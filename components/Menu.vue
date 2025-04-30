@@ -103,11 +103,13 @@
                         <NuxtLink class=" bg-gray-200 hover:bg-primary hover:text-white py-3 px-6 block whitespace-no-wrap"
                           to="/finanzas-publicas/publicaciones">PUBLICACIONES</NuxtLink>
                       </li>
+                      <!--
                       <li class="">
                         <NuxtLink class="bg-gray-200 hover:bg-primary hover:text-white py-3 px-6 block whitespace-no-wrap"
                           to="/finanzas-publicas/reportajes">
                           REPORTAJES PERIODÍSTICOS</NuxtLink>
                       </li>
+                      -->
                       <li class="">
                         <NuxtLink class="bg-gray-200 hover:bg-primary hover:text-white py-3 px-6 block whitespace-no-wrap"
                           to="/finanzas-publicas/columnas">
@@ -141,11 +143,13 @@
                         <NuxtLink class=" bg-gray-200 hover:bg-primary hover:text-white py-3 px-6 block whitespace-no-wrap"
                           to="/desarrollo-sostenible/publicaciones">PUBLICACIONES</NuxtLink>
                       </li>
+                      <!--
                       <li class="">
                         <NuxtLink class="bg-gray-200 hover:bg-primary hover:text-white py-3 px-6 block whitespace-no-wrap"
                           to="/desarrollo-sostenible/reportajes">
                           REPORTAJES PERIODÍSTICOS</NuxtLink>
                       </li>
+                      -->
                       <li class="">
                         <NuxtLink class="bg-gray-200 hover:bg-primary hover:text-white py-3 px-6 block whitespace-no-wrap"
                           to="/desarrollo-sostenible/columnas">
@@ -217,11 +221,13 @@
                         <NuxtLink class=" bg-gray-200 hover:bg-primary hover:text-white py-3 px-6 block whitespace-no-wrap"
                           to="/inclusion/publicaciones">PUBLICACIONES</NuxtLink>
                       </li>
+                      <!--
                       <li class="">
                         <NuxtLink class="bg-gray-200 hover:bg-primary hover:text-white py-3 px-6 block whitespace-no-wrap"
                           to="/inclusion/reportajes">
                           REPORTAJES PERIODÍSTICOS</NuxtLink>
                       </li>
+                      -->
                       <li class="">
                         <NuxtLink class="bg-gray-200 hover:bg-primary hover:text-white py-3 px-6 block whitespace-no-wrap"
                           to="/inclusion/columnas">
@@ -400,11 +406,13 @@
                                 <NuxtLink
                                   to="/finanzas-publicas/publicaciones">PUBLICACIONES</NuxtLink>
                               </li>
+                              <!--
                               <li class="">
                                 <NuxtLink
                                   to="/finanzas-publicas/reportajes">
                                   REPORTAJES PERIODÍSTICOS</NuxtLink>
                               </li>
+                              -->
                               <li class="">
                                 <NuxtLink
                                   to="/finanzas-publicas/columnas">
@@ -435,11 +443,13 @@
                                 <NuxtLink
                                   to="/desarrollo-sostenible/publicaciones">PUBLICACIONES</NuxtLink>
                               </li>
+                              <!--
                               <li class="">
                                 <NuxtLink
                                   to="/desarrollo-sostenible/reportajes">
                                   REPORTAJES PERIODÍSTICOS</NuxtLink>
                               </li>
+                              -->
                               <li class="">
                                 <NuxtLink
                                   to="/desarrollo-sostenible/columnas">
@@ -507,11 +517,13 @@
                                 <NuxtLink
                                   to="/inclusion/publicaciones">PUBLICACIONES</NuxtLink>
                               </li>
+                              <!--
                               <li class="">
                                 <NuxtLink
                                   to="/inclusion/reportajes">
                                   REPORTAJES PERIODÍSTICOS</NuxtLink>
                               </li>
+                              -->
                               <li class="">
                                 <NuxtLink
                                   to="/inclusion/columnas">
