@@ -1,7 +1,7 @@
 ---
 nombre: TERESA LÓPEZ BARAJAS
 foto: https://ucarecdn.com/0f0a2715-b635-4c33-b4c6-e49c57894178/
-puesto: INVESTIGADORA ANTICORRUPCIÓN
+puesto: INVESTIGADORA
 area: finanzas públicas y anticorrupción
 pos: 3
 semblanza: Abogada por la UNAM, con máster
