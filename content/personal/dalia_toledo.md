@@ -1,7 +1,7 @@
 ---
 nombre: DALIA TOLEDO
 foto: /img/dalia-toledo2.jpg
-puesto: "Directora de Finanzas Públicas y Anticorrupción "
+puesto: "Directora de Finanzas Públicas "
 area: finanzas públicas y anticorrupción
 pos: 1
 semblanza: Maestra en Administración y Políticas Públicas (CIDE) y licenciada en
