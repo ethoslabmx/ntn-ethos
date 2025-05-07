@@ -1,7 +1,7 @@
 ---
 title: Recomendaciones para impulsar la autonomía económica de las mujeres en la
   Ciudad de México
-date: 2024-01-31T23:18:10.440Z
+date: 2024-04-30T23:18:10.440Z
 img: https://ucarecdn.com/ed4611dd-0adf-45d3-aa93-3c762af276a6/-/crop/790x1126/10,0/-/preview/
 img-alt: Recomendaciones vida económica mujeres
 autor: Ethos
