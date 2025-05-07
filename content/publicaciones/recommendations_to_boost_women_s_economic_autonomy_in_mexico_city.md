@@ -1,6 +1,6 @@
 ---
 title: Recommendations to boost women’s economic autonomy in Mexico City
-date: 2024-01-31T23:23:39.365Z
+date: 2024-04-30T23:23:39.365Z
 img: https://ucarecdn.com/828d3b2b-b660-42ae-a635-d3184588c0c7/
 img-alt: Recommendation women
 autor: Ethos
