@@ -1,6 +1,6 @@
 ---
 nombre: NÉSTOR GENIS
-foto: https://ucarecdn.com/05915db6-4b1d-4e61-948f-374071dd37bc/
+foto: https://ucarecdn.com/24bed41b-130f-46b4-90f2-0b3741170611/
 puesto: Coordinador de Inclusión y Desarrollo Sostenible
 area: inclusión y desarrollo sostenible
 pos: 2
