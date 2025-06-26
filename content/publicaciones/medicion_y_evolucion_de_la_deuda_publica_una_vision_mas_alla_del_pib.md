@@ -10,7 +10,7 @@ extracto: La deuda pública en México ha experimentado un crecimiento sostenido
   inversión física, salud y educación. Además, la capacidad de pago puede verse
   afectada si los ingresos no crecen al mismo ritmo que el gasto. La actual
   estrategia de consolidación fiscal, basada  en recortes de gasto, podría poner
-  en riesgo la sostenibilidad a largo plazo y comprome- ter el desarrollo del
+  en riesgo la sostenibilidad a largo plazo y comprometer el desarrollo del
   país. Es necesario un enfoque integral que equilibre la sostenibilidad  de la
   deuda con la inversión en sectores clave y que fortalezca la capacidad de pago
   mediante el aumento de los ingresos.
