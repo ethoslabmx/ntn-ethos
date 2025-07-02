@@ -1,6 +1,6 @@
 ---
 puesto: Intern Anticorrupción
-category: vacantes
+category: internships
 date: 2025-07-01T16:44:05.286Z
 ---
 **Perfil Académico**
