@@ -9,5 +9,5 @@ semblanza: Licenciado en Artes Plásticas (UAEMéx). Su experiencia abarca la
   ha desempeñado en el campo de la publicidad comercial y el marketing digital,
   además de haber colaborado en proyectos de carácter artístico como parte de su
   labor como diseñador gráfico.
-email: josefernando.figueroa@ethos.org.mx
+email: ""
 ---
