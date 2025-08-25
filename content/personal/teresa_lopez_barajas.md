@@ -14,5 +14,5 @@ semblanza: Abogada por la UNAM, con máster
   Comité de Participación Ciudadana en la Secretaría Ejecutiva del Sistema
   Nacional Anticorrupción, donde laboró del 2017 al 2022. Actualmente es
   investigadora anticorrupción en Ethos. 
-email: teresadej.lopez@ethos.org.mx
+email: ""
 ---
