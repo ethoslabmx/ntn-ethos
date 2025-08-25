@@ -15,5 +15,5 @@ semblanza: Licenciado en Derecho por la UNAM, con estudios en Ciencias Sociales
   Anticorrupción, un grupo de organizaciones de la sociedad civil que impulsa
   agendas anticorrupción a nivel nacional y local, y participa en el colectivo
   Perfiles Idóneos Ya!
-email: emiliano.montesdeoca@ethos.org.mx
+email: ""
 ---
