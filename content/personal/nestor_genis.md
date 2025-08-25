@@ -14,5 +14,5 @@ semblanza: Politólogo por la UNAM. Cuenta con diplomados en Presupuesto Basado
   proyectos relacionados con política de desarrollo social, riesgos de
   corrupción en programas sociales y recuperación justa y resiliente en la
   región, como parte de la Alianza Latinoamérica Sostenible.
-email: nestor.genis@ethos.org.mx
+email: ""
 ---
