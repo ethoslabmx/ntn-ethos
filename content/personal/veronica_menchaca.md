@@ -12,5 +12,5 @@ semblanza: "Maestra en Mercadotecnia (UACH) y Licenciada en Mercadotecnia (IBERO
   estado capacitando constantemente en temas de Recursos humanos y finanzas.  En
   Ethos tiene una larga trayectoria y actualmente se desempeña administrando de
   la mejor manera los recursos financieros y humanos. "
-email: veronica.menchaca@ethos.org.mx
+email: ""
 ---
