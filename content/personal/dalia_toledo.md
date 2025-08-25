@@ -15,5 +15,5 @@ semblanza: Maestra en Administración y Políticas Públicas (CIDE) y licenciada
   públicas y anticorrupción, su curso más reciente fue el International
   Anti-Corruption Summer Academy impartido por la International Anti-Corruption
   Academy en Austria.
-email: dalia.toledo@ethos.org.mx
+email: ""
 ---
