@@ -16,5 +16,5 @@ semblanza: Cuenta con estudios secretariales y de Contabilidad, así como un
   múltiples actividades, como apoyo en compras, mantenimiento, trámites
   administrativos, seguimiento a donativos, facturas, contratos de personal,
   sueldos, entre otras.
-email: beatriz.gomez@ethos.org.mx
+email: ""
 ---
