@@ -16,5 +16,5 @@ semblanza: Maestro en Políticas Públicas y Administración (LSE) y licenciado 
   esfuerzos de planeación, evaluación y generación de alianzas estratégicas.
   Adicionalmente, ha publicado diversos textos y artículos en materia de
   evaluación de políticas públicas, corrupción y desarrollo.
-email: javier.gonzalez@ethos.org.mx
+email: ""
 ---
