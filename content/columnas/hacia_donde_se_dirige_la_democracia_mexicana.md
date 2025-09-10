@@ -6,12 +6,10 @@ autor: Javier González
 medio: Este País
 link: https://estepais.com/tendencias_y_opiniones/hacia-donde-dirige-democracia-mexicana/
 category: rumbo-democratico
-extracto: No veo probable que regresemos a los tiempos autoritarios del PRI del
-  siglo XX. Tampoco pueden replicarse tal cual las experiencias de otros países
-  o regiones del mundo. La historia se construye día con día y la posibilidad de
-  moldearla depende de la comunidad política, de su capacidad de organización y
-  defensa de derechos, de la participación activa y de la exigencia por
-  transparencia y rendición de cuentas.
+extracto: No veo probable que regresemos a los tiempoLa historia se construye
+  día con día y la posibilidad de moldearla depende de la comunidad política, de
+  su capacidad de organización y defensa de derechos, de la participación activa
+  y de la exigencia por transparencia y rendición de cuentas.
 ---
 <!--StartFragment-->
 
