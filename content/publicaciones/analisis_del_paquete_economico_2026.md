@@ -11,7 +11,7 @@ extracto: El Paquete Económico 2026 es uno de los pilares sobre los cuales la
   variables que se esperan que cambien para poder atender las necesidades de
   inversión, para garantizar bienes y servicios de calidad y hacer frente a los
   problemas que frenan el crecimiento económico y que impactan en el bienestar
-  de la sociedad mexicana??
+  de la sociedad mexicana?
 file: https://ucarecdn.com/977e0e4c-d871-496e-bcfe-b6917138e21e/
 ---
 En términos presupuestales, el primer año de la administración de la presidenta Claudia Sheinbum ha estado marcado por importantes recortes al gasto público y, aunque hay un fuerte interés por sanear las finanzas, las metas de endeudamiento no se están alcanzando. En ese sentido, este paquete es el segundo de los pilares sobre los cuales la presidenta Sheinbaum cimentará su proyecto de nación, y sin una reforma fiscal que permita aumentar los ingresos significativamente, ¿cuáles son las variables que se esperan que cambien para poder atender las necesidades de inversión, para garantizar bienes y servicios de calidad y hacer frente a los problemas que frenan el crecimiento económico y que impactan en el bienestar de la sociedad mexicana? Este documento intenta dar luz sobre estas preguntas.
