@@ -1,6 +1,6 @@
 ---
 title: Publicación | Análisis del Paquete Económico 2026
-date: 2025-09-26T19:45:27.980Z
+date: 2025-09-26T20:11:00.000Z
 link: https://www.ethos.org.mx/finanzas-publicas/publicaciones/analisis_del_paquete_economico_2026
 extracto: El Paquete Económico 2026 es uno de los pilares sobre los cuales la
   presidenta Sheinbaum cimentará su proyecto de nación, y sin una reforma fiscal
