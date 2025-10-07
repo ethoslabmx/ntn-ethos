@@ -1,6 +1,6 @@
 ---
 title: La persistente brecha salarial de género en México
-date: 2025-10-07T18:23:15.144Z
+date: 2025-10-02T18:23:15.144Z
 img: https://ucarecdn.com/d83edafc-5d49-426e-8b1d-d078246767ce/
 autor: Mónica Corona
 medio: Animal Político
