@@ -5,5 +5,5 @@ link: https://www.ethos.org.mx/inclusion/columnas/la_persistente_brecha_salarial
 extracto: Cerrar la brecha salarial de género es un asunto de justicia social,
   una necesidad económica, una inversión en nuestro futuro y un pilar para
   construir un México más equitativo y próspero para todas y todos.
-colors: azul
+colors: original
 ---
