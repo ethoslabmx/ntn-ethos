@@ -6,5 +6,5 @@ link: https://www.ethos.org.mx/desarrollo-sostenible/columnas/rezagos_en_infraes
 extracto: El déficit presupuestario en materia hídrica no permite avanzar en
   garantizar el Derecho Humano al agua. Es necesario hacer asignaciones
   presupuestales suficientes considerando los retos en el sector.
-colors: original
+colors: azul
 ---
