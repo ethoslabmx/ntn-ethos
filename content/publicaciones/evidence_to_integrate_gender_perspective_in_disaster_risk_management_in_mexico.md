@@ -4,7 +4,7 @@ date: 2025-10-14T17:25:28.004Z
 img: https://ucarecdn.com/21a776b0-1697-4335-98bb-c95ebc391e83/
 img-alt: Disaster Risk Management in Mexico
 autor: Ethos
-category: desarrollo-sostenible
+category: inclusion
 extracto: We want to generate quantitative evidence to measure and understand
   the differentiated impacts of disasters on women, including those related to
   gender-based violence, highlight the need to include this information in the
