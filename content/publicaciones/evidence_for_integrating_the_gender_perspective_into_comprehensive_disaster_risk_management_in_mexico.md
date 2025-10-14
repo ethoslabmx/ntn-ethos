@@ -5,7 +5,7 @@ date: 2025-10-14T17:05:58.063Z
 img: https://ucarecdn.com/9a378ae9-4b9c-448a-9ed4-0878a22bb795/
 img-alt: Disaster risk management
 autor: Ethos
-category: desarrollo-sostenible
+category: inclusion
 extracto: "Disasters in Mexico are not only environmental but also deeply
   social. Their impacts are magnified by structural inequalities – poverty,
   gender-based violence, and unequal access to resources. Women, in particular,
