@@ -6,7 +6,7 @@ img-alt: Manejo de desastres naturales
 autor: Néstor Genis y Luisa Crespi
 medio: Animal Político
 link: https://animalpolitico.com/analisis/invitades/gestion-desastres-perspectiva-genero-deuda-pendiente
-category: desarrollo-sostenible
+category: inclusion
 extracto: "Disasters disproportionately affect vulnerable groups, and women face
   a double burden: beyond the immediate crisis, they shoulder the majority of
   domestic and care work, protecting children, the elderly, and the sick. During
