@@ -1,7 +1,7 @@
 ---
 title: "Datos abiertos en México: un escenario de retos y oportunidades "
 date: 2025-10-10T21:54:47.613Z
-img: https://ucarecdn.com/d6ec04a5-8bef-4800-a400-059d0a1eb30d/
+img: https://ucarecdn.com/d6ec04a5-8bef-4800-a400-059d0a1eb30d/-/crop/849x580/144,12/-/preview/
 autor: Ethos
 category: finanzas-publicas
 extracto: En el Primer Foro Internacional de Datos Abiertos, impulsado por
