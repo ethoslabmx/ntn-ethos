@@ -15,5 +15,5 @@ semblanza: Maestra y Licenciada en Estudios Latinoamericanos por la UNAM. Mónic
   internacional para el desarrollo); el Instituto de Naciones Unidas para el
   Desarrollo (UNRISD); Preferred by Nature (organización danesa), y FLACSO
   Ecuador.
-email: monica.corona@ethos.org.mx
+email: ""
 ---

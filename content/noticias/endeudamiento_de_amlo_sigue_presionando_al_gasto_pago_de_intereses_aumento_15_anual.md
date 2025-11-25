@@ -1,0 +1,53 @@
+---
+title: Endeudamiento de AMLO sigue presionando al gasto; pago de intereses
+  aumentó 15% anual
+date: 2025-06-12T17:06:06.894Z
+img: https://ucarecdn.com/ae805616-efdf-425a-b6c9-7926a4a95796/
+img-alt: Deuda pública
+autor: Belén Saldívar, El Economista
+link: https://www.eleconomista.com.mx/economia/endeudamiento-amlo-sigue-presionando-gasto-pago-intereses-aumento-15-anual-20250611-763347.html
+category: finanzas-publicas
+extracto: Fue el mayor crecimiento, para un mismo periodo, desde el 2023, cuando
+  el incremento observado fue de 43.3%.
+---
+El impacto del endeudamiento adquirido durante el gobierno de Andrés Manuel López Obrador sigue reflejándose en las finanzas públicas. En los primeros cuatro meses del 2025, el pago de intereses de la deuda registró un incremento significativo, de acuerdo con los datos de la Secretaría de Hacienda y Crédito Público (SHCP).
+
+En los primeros cuatro meses del año, el pago de intereses del Gobierno Federal – el principal componente del costo financiero de la deuda - sumó 267,499 millones de pesos, lo que representó un crecimiento anual de 14.8 por ciento.
+
+De esta manera, el pago de intereses tuvo su mayor crecimiento, para un mismo periodo, desde el 2023, cuando el incremento observado fue de 43.3 por ciento.
+
+Con ello, el pago de intereses representó 68% del desembolso total que realizó el gobierno de Claudia Sheinbaum en el costo financiero de la deuda, que fue de 389,705 millones de pesos en el periodo.
+
+“El costo financiero se ubicó en 33,000 millones de pesos por debajo de lo presupuestado, gracias a operaciones que mejoraron el perfil de vencimientos. No obstante, aumentó 9.1% real anual, en un entorno de condiciones financieras aún restrictivas”, destacó la Secretaría de Hacienda, a cargo de Edgar Amador Zamora, en su último informe de Finanzas Públicas y la Deuda Pública.
+
+El aumento en los recursos que el gobierno de Claudia Sheinbaum ha tenido que destinar al pago de intereses se debió a que, en el último año del sexenio pasado se realizó un endeudamiento histórico, en una coyuntura donde las tasas de interés tanto en México como en otros países estaban en niveles altos.
+
+“La causa de este gran pago de intereses es porque, al cierre del año pasado ante el monto de endeudamiento histórico al que llegamos, y con las altas tasas de interés que hubo, se debe paga más intereses; y no sólo será este año, sino también los siguientes, esto pese a que se hayan hecho ajustes en el monto de nuevas contrataciones de deuda”, indicó Jorge Cano, coordinador del Programa de Gasto Público y Rendición de Cuentas de México Evalúa.
+
+En este sentido, apuntó que la deuda que se ha contratado este año tiene menores tasas de interés, debido a que diversos bancos centrales ya han recortado el costo del dinero.
+
+El costo financiero es una de las grandes presiones del gasto público, principalmente por lo que se le tiene que destinar al pago de intereses. En su totalidad, el servicio de la deuda absorbe 13 de cada 100 pesos que se gastan del presupuesto, y deja de lado gastos esenciales para el bienestar de la población, como salud, seguridad, educación, entre otros.
+
+
+
+**Pemex, el otro actor**
+
+Otro de los componentes del costo financiero que mostró un incremento considerable fue el servicio de la deuda de Petróleos Mexicanos (Pemex), una de las petroleras más endeudadas del mundo.
+
+Entre enero y abril de este año, el costo financiero de Pemex fue de 58,038 millones de pesos, lo que representó un crecimiento anual de 42 por ciento.
+
+El incremento explicó Mireya Mondragón, investigadora de Finanzas Públicas de Ethos, podría ser debido a que 94% de los intereses que pagó Pemex fueron externos, es decir, en moneda extranjera, por lo que la depreciación del peso frente al dólar pudo incidir. 
+
+“Aunque la participación de Pemex es menor que la del gobierno federal en el costo financiero de la deuda total – es de apenas 15% - lo alarmante es que los intereses que pagó crecieron 42%”, señaló.
+
+
+
+**Deuda creció 10.3%**
+
+En el caso del Saldo Histórico de los Requerimientos Financieros del Sector Público (SHRFSP), la deuda en su medida más amplia, a abril pasado mostró un crecimiento anual de 10.3 por ciento.
+
+El informe de Hacienda mostró que, en el periodo, la deuda en su medida más amplia se ubicó en un nivel histórico de 17.5 billones de pesos.
+
+“La deuda neta del Gobierno Federal se situó en 15 billones 493,000 millones de pesos, con 83.1% contratada en el mercado interno y 79.9% a tasa fija y largo plazo. El SHRFSP ascendió a 17 billones 528,000 millones de pesos, de los cuales la deuda neta del Sector Público Federal fue de 17 billones 806,000millones de pesos, en línea con una trayectoria fiscal sostenible”, detalló Hacienda.
+
+El gobierno de Sheinbaum espera lograr una consolidación fiscal al cierre de este año, es decir, reducir los Requerimientos Financieros del Sector Público de 5.7 a 3.9% del Producto Interno Bruto (PIB).

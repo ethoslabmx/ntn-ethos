@@ -12,5 +12,5 @@ semblanza: Licenciada en Letras Latinoamericanas por la Universidad Autónoma de
   federal. Actualmente, colabora en el área de Comunicación, en Ethos, donde es
   Social Media Manager y apoya en la elaboración de campañas de difusión para
   redes sociales, generación de contenidos y corrección de documentos.
-email: maura.arzate@ethos.org.mx
+email: ""
 ---

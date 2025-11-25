@@ -16,5 +16,5 @@ semblanza: Economista por la Universidad Nacional Autónoma de México con
   Asimismo, colaboró como investigadora en el programa de gasto en México
   Evalúa. Busca incidir en la toma decisiones de política pública para conseguir
   un impacto positivo en el bienestar de la población.
-email: mireya.mondragon@ethos.org.mx
+email: ""
 ---

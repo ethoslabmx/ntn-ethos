@@ -1,8 +1,8 @@
 ---
 nombre: Leticia Jáuregui
-foto: https://ucarecdn.com/a5566012-f876-4a24-bc9a-ad0c8912f82c/
+foto: https://ucarecdn.com/4efc1587-5032-4636-8231-9399aa9e5a64/
 area: asamblea de asociados
-pos: 5
+pos: 6
 semblanza: En 2008 fundó Crea, una organización que capacita y provee asesoría a
   mujeres emprendedoras de comunidades marginadas para fortalecer e impulsar sus
   empresas. Ha realizado consultorías en torno a temas de filantropía y derechos

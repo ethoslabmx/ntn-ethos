@@ -1,7 +1,7 @@
 ---
 nombre: BEATRIZ GÓMEZ
 foto: https://ucarecdn.com/dd93923f-4fe6-447b-96a6-888ded3ef24e/
-puesto: RH
+puesto: Recursos Humanos
 area: administración y recursos humanos
 pos: 3
 semblanza: Cuenta con estudios secretariales y de Contabilidad, así como un
@@ -16,5 +16,5 @@ semblanza: Cuenta con estudios secretariales y de Contabilidad, así como un
   múltiples actividades, como apoyo en compras, mantenimiento, trámites
   administrativos, seguimiento a donativos, facturas, contratos de personal,
   sueldos, entre otras.
-email: beatriz.gomez@ethos.org.mx
+email: ""
 ---
