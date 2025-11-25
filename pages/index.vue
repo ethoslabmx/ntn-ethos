@@ -27,8 +27,11 @@
 
         <div class="content md:w-1/2 p-8 self-center">
           <h2 class="title xl:text-2xl text-lg">Finanzas Públicas</h2>
-          <p>Promovemos finanzas públicas sanas, a través de un sistema fiscal con un diseño adecuado, un nivel de ingreso óptimo y un ejercicio del gasto eficiente y transparente, tanto a nivel federal como subnacional.</p>
-            <NuxtLink class="ml-auto more-btn mt-4" to="/finanzas-publicas/publicaciones">ENTRAR <span class="icon"></span></NuxtLink>
+          <p>Promovemos finanzas públicas sanas, a través de un sistema fiscal con un diseño adecuado, un nivel de
+            ingreso óptimo y un ejercicio del gasto eficiente y transparente, tanto a nivel federal como subnacional.
+          </p>
+          <NuxtLink class="ml-auto more-btn mt-4" to="/finanzas-publicas/publicaciones">ENTRAR <span
+              class="icon"></span></NuxtLink>
 
         </div>
 
@@ -39,8 +42,11 @@
 
         <div class="content md:w-1/2 p-8 self-center">
           <h2 class="title xl:text-2xl text-lg">Desarrollo Sostenible</h2>
-          <p>Las cambiantes dinámicas sociales, económicas y ambientales nos obligan a analizar los procesos de desarrollo desde una perspectiva de crisis. Por ello, buscamos impulsar modelos de desarrollo con enfoques de justicia, sostenibilidad y resiliencia.</p>
-            <NuxtLink class="ml-auto more-btn mt-4" to="/desarrollo-sostenible/publicaciones">ENTRAR <span class="icon"></span></NuxtLink>
+          <p>Las cambiantes dinámicas sociales, económicas y ambientales nos obligan a analizar los procesos de
+            desarrollo desde una perspectiva de crisis. Por ello, buscamos impulsar modelos de desarrollo con enfoques
+            de justicia, sostenibilidad y resiliencia.</p>
+          <NuxtLink class="ml-auto more-btn mt-4" to="/desarrollo-sostenible/publicaciones">ENTRAR <span
+              class="icon"></span></NuxtLink>
         </div>
 
 
@@ -62,8 +68,11 @@
         <div class="img md:w-1/2"><img src="../assets/images/inclusion-thumb.jpg" alt=""></div>
         <div class="content md:w-1/2 p-8 self-center">
           <h2 class="title xl:text-2xl text-lg">Inclusión</h2>
-          <p>Analizamos y proponemos soluciones a los desafíos estructurales del desarrollo social, incluyendo iniciativas de igualdad de género y que aseguren los derechos de poblaciones en situación de vulnerabilidad.</p>
-            <NuxtLink class="ml-auto mt-4 more-btn" to="/inclusion/publicaciones">ENTRAR <span class="icon"></span></NuxtLink>
+          <p>Analizamos y proponemos soluciones a los desafíos estructurales del desarrollo social, incluyendo
+            iniciativas de igualdad de género y que aseguren los derechos de poblaciones en situación de vulnerabilidad.
+          </p>
+          <NuxtLink class="ml-auto mt-4 more-btn" to="/inclusion/publicaciones">ENTRAR <span class="icon"></span>
+          </NuxtLink>
         </div>
 
 
@@ -78,12 +87,12 @@
         <div class="container mx-0 ml-auto  flex 10 justify-between items-center lg:flex-row-reverse flex-col">
 
           <div class="lg:w-1/2 3xl:w-1/3 lg:ml-10 self-center tag-container">
-            <img :src="post.img+'-/resize/350x/'" alt="" class="w-auto object-cover col-img">
-             <div class="tag">{{nombreEje(post.category)}}</div>
+            <img :src="post.img + '-/resize/350x/'" alt="" class="w-auto object-cover col-img">
+            <div class="tag">{{ nombreEje(post.category) }}</div>
           </div>
 
           <div class="content lg:w-1/2  3xl:w-2/3 mt-6 lg:mt-0">
-            <NuxtLink :to="post.category +'/columnas/'+post.slug" class="xl:text-lg title">{{ post.title }}</NuxtLink>
+            <NuxtLink :to="post.category + '/columnas/' + post.slug" class="xl:text-lg title">{{ post.title }}</NuxtLink>
             <p class="text-gray-dark">{{ post.extracto }}</p>
           </div>
 
@@ -99,18 +108,12 @@
       <div class="container mx-auto">
         <div class="flex justify-between align-middle flex-wrap md:flex-nowrap">
           <div class="separador_header self-start lg:w-2/3 tracking-widest">
-            <h2 class="big-title xl:text-xl text-md text-right pr-3">ETHOS EN TWITTER</h2>
+            <h2 class="big-title xl:text-xl text-md text-right pr-3">ETHOS EN X</h2>
             <hr>
           </div>
-          <div class="lg:ml-6  block  widget-twitter mt-6 lg:mt-0 mx-auto">
-            <!--<a class="twitter-timeline" data-lang="es" data-width="300" data-height="450" data-theme="light" href="https://twitter.com/EthosInnovacion?ref_src=twsrc%5Etfw">Tweets by EthosInnovacion</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>-->
-            <a class="twitter-timeline"
-  href="https://twitter.com/TwitterDev"
-  data-tweet-limit="3">
-Tweets by @TwitterDev
-</a>
-          </div>
-
+          <!-- Elfsight Twitter Feed | Untitled Twitter Feed -->
+          <script src="https://elfsightcdn.com/platform.js" async></script>
+          <div class="elfsight-app-04be6b7b-d53b-4f09-98e3-76485db856d1" data-elfsight-app-lazy></div>
         </div>
       </div>
 
@@ -125,21 +128,21 @@ import JumbotronIndex from '~/components/JumbotronIndex.vue';
 export default {
   components: { JumbotronIndex },
   async asyncData({ $content }) {
-    const columnas = await $content("columnas").sortBy('date','desc').limit(3).fetch();
-    const notas = await $content("cintillo").sortBy('date','desc').fetch().catch((error) => console.log(error.data));
+    const columnas = await $content("columnas").sortBy('date', 'desc').limit(3).fetch();
+    const notas = await $content("cintillo").sortBy('date', 'desc').fetch().catch((error) => console.log(error.data));
     return {
       columnas,
       notas
     };
   },
-  data(){
+  data() {
     return {
       loading: false,
       total: 0,
-      more:true,
+      more: true,
     }
   },
-  head(){
+  head() {
     return {
       title: 'Ethos Innovación en Políticas Públicas',
       meta: [
@@ -192,14 +195,29 @@ export default {
     }
   },
 
-  mounted(){
+  mounted() {
     this.setupObserver();
+    setTimeout(() => {
+      this.hideTwitterWidgetParent();
+    }, 5000);
   },
-  methods:{
-    loadPosts(){
+  methods: {
+    loadPosts() {
       this.getNext();
     },
-    setupObserver(){
+
+    hideTwitterWidgetParent() {
+      this.hideTwitterTimer = null;
+
+      const widget = document.getElementsByClassName('eapps-twitter-feed-source-user')[0];
+      const anchor = widget ? Array.from(widget.children).find(child => child.tagName === 'A') : null;
+      console.log(anchor);
+      anchor.innerHTML = 'Síguenos en Twitter @EthosInnovacion';
+      anchor.href = 'https://twitter.com/EthosInnovacion';
+    },
+
+
+    setupObserver() {
       let options = {
         root: null,
         rootMargin: "20px 0px",
@@ -221,23 +239,23 @@ export default {
         }
       });
     },
-    async getNext(){
-      const newCols = await this.$content("columnas").sortBy('date','desc').skip(this.columnas.length).limit(8).fetch();
-      if(newCols.length < 8){
+    async getNext() {
+      const newCols = await this.$content("columnas").sortBy('date', 'desc').skip(this.columnas.length).limit(8).fetch();
+      if (newCols.length < 8) {
         this.more = false;
       }
       this.columnas = this.columnas.concat(newCols);
     },
-    nombreEje(eje){
+    nombreEje(eje) {
       let nombre = '';
-      switch(eje){
-         case "anticorrupcion":
-           nombre = "Anticorrupción";
-           break;
-          /*
-        case "ciudades-del-futuro":
-          nombre = "Ciudades del Futuro";
-          break;*/
+      switch (eje) {
+        case "anticorrupcion":
+          nombre = "Anticorrupción";
+          break;
+        /*
+      case "ciudades-del-futuro":
+        nombre = "Ciudades del Futuro";
+        break;*/
         case "inclusion":
           nombre = "Inclusión";
           break;
@@ -259,25 +277,28 @@ export default {
   }
 }
 </script>
+
+
+
 <style lang="scss" scoped>
-.widget-twitter{
+.widget-twitter {
 
-  width:300px;
+  width: 300px;
 
-  .twitter-timeline{
-    border-radius:12px;
+  .twitter-timeline {
+    border-radius: 12px;
     overflow: hidden;
-    box-shadow: -1px 4px 6px 1px rgba(0 ,0 ,0 , .35);
+    box-shadow: -1px 4px 6px 1px rgba(0, 0, 0, .35);
     --tw-drop-shadow: drop-shadow(0 20px 13px rgba(0, 0, 0, 0.03)) drop-shadow(0 8px 5px rgba(0, 0, 0, 0.08));
   }
 }
 
 
-h2.title{
+h2.title {
   color: #5b5b5b;
 }
 
-li.eje{
+li.eje {
   padding: 40px 20px;
 
 
@@ -286,39 +307,43 @@ li.eje{
   // veras tanto el right de tag por el padding de container y eje.
   //
 
-  .tag{
+  .tag {
     right: calc(-1rem - 20px);
   }
 
   @media (min-width: 580px) {
-    .tag{
+    .tag {
       right: calc(-2rem - 20px);
     }
   }
-  @media (min-width: 800px) {
-        padding: 30px;
 
-    .tag{
+  @media (min-width: 800px) {
+    padding: 30px;
+
+    .tag {
       right: calc(-3rem - 30px);
     }
   }
+
   @media (min-width: 1040px) {
-    .tag{
+    .tag {
       right: calc(-5rem - 40px);
     }
   }
-    @media (min-width: 1100px) {
-    .tag{
+
+  @media (min-width: 1100px) {
+    .tag {
       right: calc(-6rem - 40px);
     }
   }
-    @media (min-width: 1200px) {
+
+  @media (min-width: 1200px) {
     padding: 40px;
 
   }
 }
 
-.col-img{
+.col-img {
   width: 100%;
   height: 150px;
   object-fit: cover;
@@ -330,10 +355,11 @@ li.eje{
 }
 
 .columnas {
-  a{
+  a {
     letter-spacing: 5px;
   }
-  p{
+
+  p {
     font-family: Lato, sans-serif;
     font-weight: 500;
   }
@@ -350,13 +376,12 @@ li.eje{
 }
 
 .reveal-text {
-  --animation-delay: 1s
-  --animation-duration: var(--duration, 800ms);
+  --animation-delay: 1s --animation-duration: var(--duration, 800ms);
   --animation-iterations: var(--iterations, 1);
   position: relative;
   animation-name: clip-text;
   white-space: nowrap;
-  color:#5b5b5b;
+  color: #5b5b5b;
   cursor: default;
 
   &::after {
@@ -381,6 +406,7 @@ li.eje{
   from {
     clip-path: inset(0 100% 0 0);
   }
+
   to {
     clip-path: inset(0 0 0 0);
 
@@ -390,11 +416,13 @@ li.eje{
 
 @keyframes text-revealer {
 
-  0%, 50% {
+  0%,
+  50% {
     transform-origin: 0 50%;
   }
 
-  60%, 100% {
+  60%,
+  100% {
     transform-origin: 100% 50%;
   }
 
@@ -407,7 +435,4 @@ li.eje{
     transform: scaleX(0);
   }
 }
-
-
-
 </style>

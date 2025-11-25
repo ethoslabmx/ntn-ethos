@@ -1,21 +1,26 @@
+const sassEmbedded = require("sass-embedded");
+
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Ethos Innovación en Políticas Públicas',
+    title: "Ethos Innovación en Políticas Públicas",
     htmlAttrs: {
-      lang: 'es'
+      lang: "es",
     },
     meta: [
-      { charset: 'utf-8' },
-      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Somos un think tank que genera recomendaciones innovadoras y acciones concretas de política pública con el objeto de atender algunos de los principales retos para el desarrollo de México.' },
-      { name: 'format-detection', content: 'telephone=no' }
+      { charset: "utf-8" },
+      { name: "viewport", content: "width=device-width, initial-scale=1" },
+      {
+        hid: "description",
+        name: "description",
+        content:
+          "Somos un think tank que genera recomendaciones innovadoras y acciones concretas de política pública con el objeto de atender algunos de los principales retos para el desarrollo de México.",
+      },
+      { name: "format-detection", content: "telephone=no" },
     ],
-    link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
-    ],
+    link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
     /*
-    script: [
+  script: [
       // Google Analytics Code
       {
         src: "https://www.googletagmanager.com/gtag/js?id=G-69W6XFWJ9Z",
@@ -28,31 +33,34 @@ export default {
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
-    '@/assets/css/main.css','node_modules/lite-youtube-embed/src/lite-yt-embed.css'
+    "@/assets/css/main.css",
+    "node_modules/lite-youtube-embed/src/lite-yt-embed.css",
   ],
-
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: ['@/plugins/gtag','~/plugins/youtube.client.js',{src:'~/plugins/pdfviewer.client.js',ssr: false, mode: 'client' }],
+  plugins: [
+    "@/plugins/gtag",
+    "~/plugins/youtube.client.js",
+    { src: "~/plugins/pdfviewer.client.js", ssr: false, mode: "client" },
+  ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
 
-  target: 'static',
-
+  target: "static",
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
-    '@nuxtjs/tailwindcss',
-    '@nuxtjs/google-fonts',
+    "@nuxtjs/tailwindcss",
+    "@nuxtjs/google-fonts",
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/axios
-    '@nuxtjs/axios',
-    '@nuxt/content',
-    'vue-social-sharing/nuxt',
+    "@nuxtjs/axios",
+    "@nuxt/content",
+    "vue-social-sharing/nuxt",
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
@@ -64,16 +72,37 @@ export default {
   },
 
   router: {
-    middleware: ['menu-class','adjustScroll']
+    middleware: ["menu-class", "adjustScroll"],
   },
-  generate: { fallback: '404.html' },
+  generate: { fallback: "404.html" },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+    loaders: {
+      scss: {
+        implementation: sassEmbedded,
+        sassOptions: {
+          silenceDeprecations: ["legacy-js-api"],
+          api: "modern",
+        },
+      },
+      sass: {
+        implementation: sassEmbedded,
+        sassOptions: {
+          silenceDeprecations: ["legacy-js-api"],
+          api: "modern",
+        },
+      },
+    },
+
+    
+
     postcss: {
-      plugins: {
-        tailwindcss: {},
-        autoprefixer: {},
+      postcssOptions: {
+        plugins: {
+          tailwindcss: {},
+          autoprefixer: {},
+        },
       },
     },
   },
@@ -87,10 +116,10 @@ export default {
       Roboto: true,
       Lato: true,
       Saira: true,
-      'Saira Condensed': true,
-    }
+      "Saira Condensed": true,
+    },
   },
   googleAnalytics: {
-    id: 'G-69W6XFWJ9Z'
-  }
-}
+    id: "G-69W6XFWJ9Z",
+  },
+};

@@ -647,6 +647,7 @@ export default {
 }
 </script>
 <style lang="scss">
+@use "sass:color";
 .menubar {
   position: relative;
   z-index: 100;
@@ -777,7 +778,7 @@ input[type="radio"] {
     content: '';
     width: 100vw;
     height: 100%;
-    background: darken($color: $midnight, $amount: .35%);
+    background: color.adjust($midnight, $lightness: -0.35%);
     transition: all 500ms ease-in-out;
 
     // that's all the pen about
@@ -824,7 +825,7 @@ input[type="radio"] {
         top: 0px;
         left: 0;
         width: 34px;
-        background: lighten($midnight, 45%);
+        background: color.adjust($midnight, $lightness: 45%);
 
       }
 
@@ -981,7 +982,7 @@ input[type="radio"] {
         cursor: pointer;
 
         &:hover {
-          background: darken($midnight, 3%);
+          background: color.adjust($midnight, $lightness: -3%);
         }
       }
 
@@ -1019,15 +1020,15 @@ input[type="radio"] {
     // :checked
     input:checked {
       +.tab-label {
-        background: darken($midnight, 5%);
+        background: color.adjust($midnight, $lightness: -5%);
 
         /* Icon */
         &:hover {
-          background: darken($midnight, .5%);
+          background: color.adjust($midnight, $lightness: -0.5%);
         }
 
         &.tab-label_child {
-          background: darken($midnight, 2%);
+          background: color.adjust($midnight, $lightness: -2%);
 
         }
 
@@ -1040,7 +1041,7 @@ input[type="radio"] {
 
         max-height: 100vh;
         padding: 0;
-        background: lighten($midnight, 5%);
+        background: color.adjust($midnight, $lightness: 5%);
 
         z-index: 1;
 
@@ -1049,7 +1050,7 @@ input[type="radio"] {
           transform: translate(0%, 0%);
           max-height: 100vh;
           padding: 0;
-          background: lighten($midnight, 25%);
+          background: color.adjust($midnight, $lightness: 25%);
 
           ul li a{
             color: $midnight;
@@ -1076,7 +1077,7 @@ input[type="radio"] {
           transform: translate(0%, 0%);
           max-height: 100%;
           padding: 0;
-          background: lighten($midnight, 0%);
+          background: $midnight;
 
 
           &.tab-content_parent__children {

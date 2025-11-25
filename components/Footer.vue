@@ -1,3 +1,54 @@
+<script>
+export default {
+  data() {
+    return {
+      hideTwitterTimer: null,
+      onWindowLoad: null,
+    };
+  },
+  mounted() {
+    if (process.client) {
+      this.onWindowLoad = () => {
+        this.hideTwitterTimer = setTimeout(this.hideTwitterWidgetParent, 1000);
+      };
+
+      if (document.readyState === 'complete') {
+        this.onWindowLoad();
+      } else {
+        window.addEventListener('load', this.onWindowLoad);
+      }
+    }
+  },
+  beforeDestroy() {
+    if (this.hideTwitterTimer) {
+      clearTimeout(this.hideTwitterTimer);
+      this.hideTwitterTimer = null;
+    }
+
+    if (this.onWindowLoad) {
+      window.removeEventListener('load', this.onWindowLoad);
+      this.onWindowLoad = null;
+    }
+  },
+  methods: {
+    hideTwitterWidgetParent() {
+      this.hideTwitterTimer = null;
+
+      const allElements = Array.from(document.querySelectorAll('body *'));
+      const widget = allElements.find((el) => {
+        return el && typeof el.textContent === 'string' && el.textContent.includes('Twitter Feed widget');
+      });
+
+      if (widget && widget.parentElement) {
+        //widget.parentElement.style.display = 'none';
+      }
+    },
+  },
+};
+
+
+</script>
+
 <template>
   <footer class="">
     <div class="container mx-auto px-0">
@@ -29,7 +80,7 @@
             <NuxtLink class="block whitespace-no-wrap mr-3" to="/privacidad"
               >AVISO DE PRIVACIDAD</NuxtLink
             >
-            |  <span class="ml-3">ETHOS 2022</span>
+            |  <span class="ml-3">ETHOS {{ new Date().getFullYear() }}</span>
           </div>
           <div
             class="text-center mx-auto lg:text-right lg:mx-0 lg:ml-auto lg:w-1/3 mb-3 mt-6 4xl:mt-0 flex justify-end"
