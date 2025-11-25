@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ciudades-del-futuro/publicaciones", {data:[{posts:[],micrositios:[],total:[]}],fetch:{},mutations:[]});

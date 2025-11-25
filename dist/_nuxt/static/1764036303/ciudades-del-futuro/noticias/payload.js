@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ciudades-del-futuro/noticias", {data:[{noticias:[],total:[]}],fetch:{},mutations:[]});
