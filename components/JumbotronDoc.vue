@@ -1,7 +1,7 @@
 <!-- Please remove this file from your project -->
 <template>
 <div>
-    <div class="jumbotron-doc relative flex items-top justify-center min-h-screen  sm:items-center sm:pt-0  bg-gradient-to-b from-yellow-1 to-yellow-2">
+    <div class="jumbotron-doc relative flex items-top justify-center min-h-screen  sm:items-center sm:pt-0">
       <div class="container flex items-center">
         <div class="hero md:mr-auto xl:w-1/2 md:w-2/3">
           <h1 class="3xl:text-5xl md:text-4xl sm:text-2xl text-lg big-title mb-6 text-white uppercase">DOCUMENTOS <br>INSTITUCIONALES</h1>
@@ -22,6 +22,8 @@
   background-position: center center;
   background-repeat: no-repeat;
   z-index: 0;
+  background: #C3B59E ;
+background: linear-gradient(357deg, rgba(195, 181, 158, 1) 0%, rgba(245, 213, 82, 1) 100%);
 
   h1{
     text-align: right;

@@ -2,7 +2,7 @@
 <template>
   <div>
     <div
-      class="jumbotron-equipo relative flex items-top justify-center min-h-screen bg-gray-100 sm:items-center sm:pt-0  bg-gradient-to-b from-primary to-primarylight">
+      class="jumbotron-equipo relative flex items-top justify-center min-h-screen bg-gray-100 sm:items-center sm:pt-0">
       <div class="container flex items-center">
         <div class="hero w-full p-5 md:p-0  text-center lg:mr-auto lg:w-1/2 text-white text-right">
           <h1 class="3xl:text-5xl md:text-4xl text-3xl big-title mb-6 text-white">EQUIPO</h1>
@@ -22,6 +22,9 @@
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
+  background: #FBBC99 ;
+  background: linear-gradient(357deg,rgba(251, 188, 153, 1) 0%, rgba(242, 143, 120, 1) 100%);
+  
   z-index: 0;
   padding: 2rem 0;
 

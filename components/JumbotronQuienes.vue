@@ -1,7 +1,7 @@
 <!-- Please remove this file from your project -->
 <template>
 <div>
-    <div class="jumbotron-quienes relative flex items-top justify-center bg-gray-100 sm:items-center sm:pt-0  bg-gradient-to-b from-cyan to-cyanlight">
+    <div class="jumbotron-quienes relative flex items-top justify-center bg-gray-100 sm:items-center sm:pt-0">
       <div class="container flex items-center flex-wrap-reverse justify-center pb-10 md:pt-10">
         <div class="hero mt-5  lg:w-1/2 md:w-2/3">
           <h1 class="4xl:text-5xl  lg:text-3xl text-2xl big-title mb-6 text-white text-right">¿QUIÉNES SOMOS?</h1>
@@ -99,6 +99,8 @@
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
+  background: #FBBC99 ;
+  background: linear-gradient(357deg,rgba(176, 212, 212, 1) 0%, rgba(116, 177, 180, 1) 100%);
   z-index: 0;
 
 

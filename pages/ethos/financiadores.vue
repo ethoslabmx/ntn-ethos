@@ -1,6 +1,6 @@
 <template>
   <div
-    class="app jumbotron-confianza  border-b-16 border-primary relative flex flex-col items-top justify-center min-h-screen  sm:items-center sm:pt-0  bg-gradient-to-b from-cyan to-cyanlight">
+    class="app jumbotron-confianza  border-b-16 border-primary relative flex flex-col items-top justify-center min-h-screen  sm:items-center sm:pt-0 ">
       <div class="container lg:pr-0 2xl:py-24 py-16 lg:ml-auto lg:mr-0">
             <div class="mr-auto hero pl-10 pb-10">
       <h1 class="3xl:text-7xl md:text-6xl text-3xl font text-white">¿QUIÉNES
