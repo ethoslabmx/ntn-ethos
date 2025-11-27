@@ -76,7 +76,7 @@
                 </ul>
               </li>
               <li >
-                <div @click="showGroup(8)">ASAMBLEA DE ASOCIADOS</div>
+                <div @click="showGroup(8)">CONSEJO ASESOR</div>
                 <ul class="nombres" v-if="p9">
                   <li v-for="e in aa" :key="e.nombre" @click="selectEmployee(e.nombre)">{{e.nombre}}</li>
                 </ul>
