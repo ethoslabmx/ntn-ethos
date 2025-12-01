@@ -50,6 +50,7 @@ export default {
   min-height: calc(40vh - 85px);
   z-index: 0;
   position: relative;
+  background: linear-gradient(357deg,rgba(176, 212, 212, 1) 0%, rgba(116, 177, 180, 1) 100%);
 
 
   h1{
