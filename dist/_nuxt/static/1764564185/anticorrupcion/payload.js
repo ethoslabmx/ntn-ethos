@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/anticorrupcion", {data:[{columnas:[],publicaciones:[]}],fetch:{},mutations:[]});

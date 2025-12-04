@@ -6,7 +6,8 @@
     "dev": "nuxt --openssl-legacy-provider",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "netlify:build": "npm run build && npm run generate"
   },
   "dependencies": {
     "@nuxt/content": "^1.15.1",
@@ -26,7 +27,7 @@
     "@nuxtjs/tailwindcss": "^6.12.0",
     "postcss": "^8.4.32",
     "sass": "^1.94.2",
-    "sass-embedded": "^1.77.5",
+    "sass-embedded": "^1.93.3",
     "sass-loader": "^10.5.2",
     "webpack": "^4.47.0"
   }

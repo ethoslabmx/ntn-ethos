@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/ciudades-del-futuro/videos", {data:[{posts:[],total:[]}],fetch:{},mutations:[]});
