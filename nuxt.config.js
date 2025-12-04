@@ -1,4 +1,9 @@
-const sassEmbedded = require("sass-embedded");
+let sassImplementation;
+try {
+  sassImplementation = require("sass-embedded");
+} catch (e) {
+  sassImplementation = require("sass");
+}
 
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
@@ -80,17 +85,15 @@ export default {
   build: {
     loaders: {
       scss: {
-        implementation: sassEmbedded,
+        implementation: sassImplementation,
         sassOptions: {
           silenceDeprecations: ["legacy-js-api"],
-          api: "modern",
         },
       },
       sass: {
-        implementation: sassEmbedded,
+        implementation: sassImplementation,
         sassOptions: {
           silenceDeprecations: ["legacy-js-api"],
-          api: "modern",
         },
       },
     },
