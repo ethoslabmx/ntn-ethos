@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/finanzas-publicas", {data:[{}],fetch:{},mutations:[]});

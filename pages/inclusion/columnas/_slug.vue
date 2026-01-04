@@ -74,6 +74,7 @@
 
       </div>
     </div>
+    <!-- COLUMNAS RELACIONADAS 
     <div class="relacionadas bg-cyan py-12 md:py-20 text-white">
       <div class="container flex items-start flex-wrap xl:flex-nowrap">
         <div class="w-full xl:w-1/6"><h2 class="font md:text-lg text-sm mb-3 xl:mb-0">Columnas relacionadas</h2></div>
@@ -82,12 +83,13 @@
           <li v-for="col of columnas" :key="col.slug" class="px-8 w-full xl:w-1/3">
             <img :src="col.img" alt="" class="mb-3 h-auto w-full">
             <NuxtLink :to=" col.slug" class="my-3 md:text-lg text-sm block">{{ col.title }}</NuxtLink>
-            <!--<p class="text-white mb-8 xl:mb-0">{{ col.extracto }}</p>-->
+            <p class="text-white mb-8 xl:mb-0">{{ col.extracto }}</p>
           </li>
         </div>
        </div>
       </div>
     </div>
+    -->
   </div>
 </template>
 

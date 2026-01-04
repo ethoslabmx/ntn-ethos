@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/desarrollo-sostenible", {data:[{}],fetch:{},mutations:[]});

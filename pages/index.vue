@@ -104,6 +104,7 @@
         <button class="ml-auto more-btn" v-if="more" @click="loadPosts">VER MÁS <span class="icon"></span></button>
       </div>
     </div>
+    <!-- ETHOS EN X - TWITTER 
     <div class="twitter bg-white md:py-20 py-10">
       <div class="container mx-auto">
         <div class="flex justify-between align-middle flex-wrap md:flex-nowrap">
@@ -111,13 +112,13 @@
             <h2 class="big-title xl:text-xl text-md text-right pr-3">ETHOS EN X</h2>
             <hr>
           </div>
-          <!-- Elfsight Twitter Feed | Untitled Twitter Feed -->
           <script src="https://elfsightcdn.com/platform.js" async></script>
           <div class="elfsight-app-04be6b7b-d53b-4f09-98e3-76485db856d1" data-elfsight-app-lazy></div>
         </div>
       </div>
 
     </div>
+    -->
   </div>
 </template>
 

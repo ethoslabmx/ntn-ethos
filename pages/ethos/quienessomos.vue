@@ -16,6 +16,12 @@
             <p>El Consejo Asesor de Ethos está compuesto por distinguidas figuras de la academia, el sector social y el sector privado, que contribuyen con la definición de los lineamientos estratégicos de nuestra organización.</p>
 
           </div>
+          <div class="2xl:mb-20 mb-10">
+
+            <h2 class="2xl:text-5xl text-2xl  title mb-6">CONSEJO DIRECTIVO</h2>
+            <p>Está integrado por profesionales de reconocida trayectoria que orientan la estrategia institucional, supervisan la gestión y aseguran que la misión de la organización se cumpla de manera responsable y transparente.</p>
+
+          </div>
 
         </section>
         <div class="line w-full bg-gray h-px 2xl:mb-20 mb-10"></div>
