@@ -3,7 +3,7 @@ title: "Datos abiertos en México: un escenario de retos y oportunidades "
 date: 2025-10-10T21:54:47.613Z
 img: https://ucarecdn.com/d6ec04a5-8bef-4800-a400-059d0a1eb30d/-/crop/849x580/144,12/-/preview/
 autor: Ethos
-category: finanzas-publicas
+category: think-tanks
 extracto: En el Primer Foro Internacional de Datos Abiertos, impulsado por
   Ethos, el Comité de Participación Ciudadana y la Comisión de Gobierno Abierto
   de la Red Nacional de Comités de Participación Ciudadana, Teresa López Barajas
