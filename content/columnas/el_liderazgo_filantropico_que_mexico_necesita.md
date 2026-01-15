@@ -1,0 +1,26 @@
+---
+title: El liderazgo filantrópico que México necesita
+date: 2026-01-15T12:20:00.000-06:00
+img: https://429spfvz9e.ucarecd.net/96017b89-4cdf-4b0b-9f04-0f817eada0b1/
+img-alt: Filantropía
+autor: Liliana Alvarado
+medio: El Economista
+link: https://www.eleconomista.com.mx/opinion/liderazgo-filantropico-mexico-necesita-20260115-795423.html
+category: desarrollo-sostenible
+extracto: En 2026, la reducción de ayuda internacional exige que la filantropía
+  privada, especialmente en México, se profesionalice y adopte estrategias
+  sostenibles para generar impacto social significativo y eficiente.
+---
+El 2026 comienza marcado por desafíos de diversa índole, no sólo para México, sino para el mundo entero. Hoy resulta evidente, por ejemplo, que la mayoría de los países difícilmente cumplirá con las metas establecidas en la Agenda 2030 para el Desarrollo Sostenible. Este panorama coincide con el desmantelamiento, durante 2025, de la Agencia de Estados Unidos para el Desarrollo Internacional (USAID, por sus siglas en inglés), institución que se consolidó en las últimas décadas como uno de los principales actores en el financiamiento de la asistencia humanitaria y del desarrollo económico en múltiples regiones del mundo. De acuerdo con cifras oficiales, tan sólo en el 2023 USAID canalizó alrededor de 42,000 millones de dólares (mdd), fondos que hoy han dejado de destinarse a estos fines.
+
+Esta situación se ve agravada por los recortes recientes en la asistencia para el desarrollo de países como Alemania, el Reino Unido y Francia. De acuerdo con la Organización para la Cooperación y el Desarrollo Económicos (OCDE), estos ajustes podrían provocar que, hacia el 2027, la ayuda internacional se sitúe en niveles similares a los registrados durante la pandemia de 2020, con un impacto desproporcionado en los países y poblaciones con mayores carencias.
+
+En este contexto, la contribución del sector privado a nivel global ha adquirido un carácter determinante. No sólo para la supervivencia de think tanks y organizaciones de base, sino también como un mecanismo clave para atender —o al menos aliviar— necesidades sociales cada vez más apremiantes. Según el World Giving Report 2025 de Charities Aid Foundation, el 64% de las personas en el mundo realiza algún tipo de donación. De ese universo, el 38% lo hace de manera directa, el 36% a través de instituciones y el 25% mediante organizaciones religiosas. Existen contrastes reveladores: en Hong Kong, el 77% de los donantes canaliza sus recursos a través de instituciones y sólo el 9% lo hace de forma directa, lo que refleja altos niveles de confianza en estas organizaciones. En el extremo opuesto se encuentra Yemen, donde el 80% de la ayuda se entrega de manera directa y apenas el 15% se canaliza institucionalmente.
+
+En lo que respecta a nuestro país, el informe de la OCDE Filantropía privada para el desarrollo en México destaca que, entre 2020 y 2023, las fundaciones nacionales aportaron 3,400 mdd, muy por encima de los 274 mdd aportados por donantes internacionales y en un nivel comparable a los 3,160 mdd de ayuda oficial al desarrollo recibida por México. No obstante, el diagnóstico alerta que la mitad del financiamiento nacional se concentra en apenas diez donantes y, por sí sola, la Fundación Carlos Slim aportó más de 670 mdd (un 20% del total del apoyo nacional). Asimismo, se observa que las fundaciones nacionales dirigen sus esfuerzos principalmente en jóvenes y personas en situación de pobreza extrema, dejando fuera otros temas de alta relevancia.
+
+La magnitud de los recursos que hoy canaliza la filantropía nacional en México, así como su creciente relevancia ante la contracción de la financiación internacional, hacen indispensable elevar los estándares y avanzar hacia una mayor profesionalización de estos esfuerzos, con el objetivo de garantizar su impacto y efectividad. Aún con perfiles y capacidades muy distintos, resulta necesario que las fundaciones adopten los criterios y principios de la filantropía estratégica: aquella que privilegia cambios sociales sostenibles por encima del alivio inmediato; que apuesta por enfoques de largo plazo en lugar de esquemas meramente asistenciales; que mide el impacto más allá del número de beneficiarios; y que fundamenta sus decisiones en datos y evidencia, no en preferencias individuales.
+
+En consecuencia, los apoyos deberían vincularse a programas con resultados de alto impacto en las regiones y sectores prioritarios. Esto exige disposición para innovar, poner en marcha proyectos piloto, coordinar esfuerzos con otros donantes para evitar duplicidades y sostener un diálogo constructivo con el gobierno que permita avanzar hacia cambios de carácter estructural.
+
+Nada de lo anterior será posible si al interior de las fundaciones no existe claridad respecto a los objetivos perseguidos, la teoría del cambio y los criterios de financiamiento. En México, como en el resto del mundo, existe la voluntad de ayudar. Sin embargo, ese impulso sólo se traducirá en resultados tangibles si quienes participan en esta nueva era de la filantropía afinan sus procesos, toman decisiones informadas por la evidencia y se articulan con actores capaces de potenciar el impacto social.
