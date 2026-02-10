@@ -7,7 +7,9 @@ autor: Dalia Toledo
 medio: Animal Político
 link: https://animalpolitico.com/analisis/invitades/corrupcion-no-es-fenomeno-neutral
 category: finanzas-publicas
-extracto: ""
+extracto: Combatir la corrupción con perspectiva de género parte de reconocer
+  que no todas las personas enfrentan los mismos riesgos ni cuentan con las
+  mismas herramientas para defenderse frente a la corrupción.
 ---
 Según el **Índice de Percepción de la Corrupción 2024**, México se ubicó en el lugar 140 de 180 países evaluados, su peor posición histórica. Este no es solo un dato desalentador, es síntoma de un problema estructural que se ha normalizado en la vida cotidiana. Los datos de la Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE, 2025) lo confirman, pues la corrupción es percibida por los mexicanos como uno de los principales problemas del país.
 
