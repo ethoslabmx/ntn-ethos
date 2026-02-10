@@ -6,7 +6,7 @@ img-alt: Corrupción y mujeres
 autor: Dalia Toledo
 medio: Animal Político
 link: https://animalpolitico.com/analisis/invitades/corrupcion-no-es-fenomeno-neutral
-category: finanzas-publicas
+category: rumbo-democratico
 extracto: Combatir la corrupción con perspectiva de género parte de reconocer
   que no todas las personas enfrentan los mismos riesgos ni cuentan con las
   mismas herramientas para defenderse frente a la corrupción.
