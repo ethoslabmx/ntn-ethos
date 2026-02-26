@@ -2,7 +2,7 @@
 title: Presidenciales plantean mantener programas sociales, pero necesitan más
   ingresos
 date: 2024-05-14T14:55:24.942Z
-img: https://ucarecdn.com/0c857ea6-535a-4d45-a161-75c5a4d5a383/
+img: ""
 img-alt: Candidatas presidenciales México
 autor: Dulce Soto, Expansión
 link: https://politica.expansion.mx/elecciones/2024/05/11/que-haran-candidatos-presidenciales-programas-sociales
