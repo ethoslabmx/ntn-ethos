@@ -1,7 +1,7 @@
 ---
 title: Ethos señala que candidatos presidenciales no tienen propuestas sólidas
 date: 2024-05-08T22:39:45.901Z
-img: https://ucarecdn.com/b2960748-4c39-4901-9347-4879eea381e9/
+img: ""
 img-alt: Candidatas presidenciales 2024
 autor: Juan Carlos Cortés
 link: https://www.proceso.com.mx/nacional/2024/5/8/ethos-senala-que-candidatos-presidenciales-no-tienen-propuestas-solidas-328599.html
