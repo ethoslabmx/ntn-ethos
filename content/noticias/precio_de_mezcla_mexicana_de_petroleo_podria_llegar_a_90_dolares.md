@@ -1,50 +1,45 @@
 ---
-title: Precio de mezcla mexicana de petróleo podría llegar a 90 dólares
-date: 2026-03-09T13:17:00.000-06:00
-img: https://429spfvz9e.ucarecd.net/f45c0ece-6e15-4284-93f6-7af8b535c536/
-img-alt: PEMEX
-autor: El Orbe
-link: https://elorbe.com/seccion-politica/nacional/2026/03/10/precio-de-mezcla-mexicana-de-petroleo-podria-llegar-a-90-dolares.html
+title: "Déficit, deuda e inversión: claves del primer año fiscal y propuestas
+  para fortalecer el desarrollo"
+date: 2026-03-09T13:19:00.000-06:00
+autor: Re-evolución
+link: https://re-evolucion.mx/deficit-deuda-e-inversion-claves-del-primer-ano-fiscal-y-propuestas-para-fortalecer-el-desarrollo/
 category: finanzas-publicas
-extracto: Liliana Alvarado, comentó que la guerra entre EU-Israel contra Irán ha
-  provocado el aumento de los petroprecios en los mercados energéticos
-  internacionales.
+extracto: La consolidación avanzó 50% en relación a 2024. Un avance notable que
+  se debe reconocer, al tiempo que es importante enfocarnos en los desafíos
+  pendientes.
 ---
-Con la escalada de los ataques contra Irán, es probable que el precio de la mezcla mexicana del petróleo cierre la jornada de este lunes en 90 dólares; sin embargo, mientras persista el constante apoyo a Petróleos Mexicanos (Pemex) y los subsidios a gasolinas, no servirán de mucho para cumplir la meta del déficit fiscal en 2026, alertaron especialistas.
+México Evalúa presentó el estudio “[Navegando las finanzas públicas de 2025: balance del primer año del sexenio](https://mexicoevalua.org/wp-content/uploads/2026/03/navegando-las-finanzas.pdf)”, un análisis técnico que examina los avances y desafíos de la consolidación fiscal en un entorno de bajo crecimiento y crecientes presiones estructurales.
 
 
-«Para México, primero, sin duda el choque petrolero es la parte más relevante; la mezcla mexicana al cierre del viernes cotizaba alrededor de 82 dólares por barril, con estas referencias cercanas a los 100 dólares del Brent y WTI. Lo más probable es que hoy, al cierre de la jornada, veremos una mezcla más cerca de los 90 dólares», estimó el economista en jefe de la casa de bolsa Finamex, Víctor Gómez Ayala.
+
+El documento reconoce el esfuerzo realizado para fortalecer la recaudación, que impulsada por la fiscalización alcanzó niveles históricos, y para sostener el gasto social en áreas prioritarias como salud, educación y Estado de derecho. No obstante, la meta de reducción del déficit fue parcialmente alcanzada: cerró en 4.8% del PIB, por encima del objetivo de 3.9%. En consecuencia, la deuda pública (SHRFSP) ascendió a 53.1% del PIB (18.8 billones de pesos) y el pago de intereses fue de 1.31 billones de pesos, el mayor desde 1993. Como consecuencia, el margen fiscal se redujo significativamente.
 
 
-Durante la presentación del análisis «Navegando las Finanzas Públicas de 2025», elaborado por la organización México Evalúa, explicó el efecto inicial del crecimiento de los precios del petróleo por la intervención militar en Irán y el ataque a diferentes estructuras de almacenamiento en Irán.
-Indicó que en la apertura de los mercados en Asia, se observó un aumento importante en los precios internacionales del crudo, tanto del Brent como del WTI.
+
+El análisis advierte que la consolidación fue incompleta debido a la rigidez del gasto y a mayores apoyos a Pemex, en un contexto de caída en su producción de crudo a 1,367 mil barriles diarios, el nivel más bajo desde 1990, y un esquema de transferencias que implicó que, por primera vez, la ciudadanía subsidiara a la empresa. Asimismo, la inversión física se convirtió en la principal variable de ajuste: cayó a 770 mil millones de pesos, su nivel más bajo desde 2008, con una reducción de 28.4% frente a 2024. Estos niveles pueden afectar el crecimiento potencial en el mediano plazo.
 
 
-Como es un elemento de riesgo, no solo se canaliza en el mercado de commodities, sino también en otros, en el cambiario y de metales, así como en los criptoactivos, señaló.
+
+“El desafío no es únicamente reducir el déficit, sino consolidar una estrategia que combine estabilidad macroeconómica, fortalecimiento de la base fiscal, protección social e inversión estratégica para sostener el desarrollo en el mediano y largo plazo”, señaló Mariana Campos, directora de México Evalúa.
 
 
-Estableció que el efecto sobre las finanzas públicas dependerá del tamaño del estímulo fiscal que pudiera reactivar el gobierno federal para las gasolinas y la duración del conflicto, que al parecer ya se le está saliendo de las manos a Estados Unidos porque claramente Venezuela no es Irán.
+Por su parte, Jorge Cano, coordinador de Gasto Público de México Evalúa y responsable del estudio, destacó: “La consolidación fiscal no puede depender sólo de recortes coyunturales. Necesitamos reglas claras para que la deuda financie inversión productiva, mayor transparencia en la fiscalización y una revisión estructural del gasto rígido. Este es un punto de inflexión para ordenar la trayectoria de la deuda y proteger el desarrollo futuro”.
 
 
-Al respecto, la directora general del laboratorio de políticas públicas Ethos, Liliana Alvarado, comentó que la guerra entre EU-Israel contra Irán ha provocado el aumento de los petroprecios en los mercados energéticos internacionales.
+
+Durante la presentación participaron Liliana Alvarado, especialista en política fiscal y Víctor Gómez Ayala, economista en Jefe de Finamex, quienes profundizaron sobre la importancia de construir consensos para fortalecer la sostenibilidad fiscal.
 
 
-Para el caso de México, se presupuestó para este año en 54.90 dólares por barril, pero hoy nos amanecimos con cotizaciones mundiales de 119 dólares.
+
+**5 propuestas de política pública**
+
+– Ampliar la base tributaria mediante crecimiento y formalización.
+– Fortalecer la transparencia de la fiscalización y a la Prodecon como organismo defensor de los contribuyentes.
+– Definir estrictamente la inversión productiva para evitar el uso no sostenible de la deuda.
+– Establecer garantías presupuestarias plurianuales para salud, cuidados, seguridad e inversión.
+– Condicionar los apoyos a Pemex a mejoras verificables en su rentabilidad.
 
 
-«Eso significa una pérdida de recursos para el gobierno mexicano porque recordemos que tenemos el subsidio a las gasolinas», manifestó.
 
-
-En 2022, la pérdida recaudatoria fue de 1.14% del producto interno bruto (PIB), es importante en términos de recaudación, ponderó.
-
-
-Por su parte, la directora general de México Evalúa, Mariana Campos, dijo que no hay que olvidar que el año pasado se hizo una reforma para crear el nuevo Derecho Petrolero del Bienestar, del 30%, con lo cual el gobierno ya no recibe ingresos por el pago de impuestos de Pemex.
-
-
-Con ello, ahora es más difícil que los altos precios del petróleo vayan a beneficiar el presupuesto federal, porque de entrada el gobierno ya recibe menos por la venta de crudo, afirmó.
-
-
-Recordó que en 2022 estimaron una pérdida de 128 mil millones de pesos menos el costo de los estímulos para mantener los precios de las gasolinas, con un resultado más caro que el efecto favorable.
-
-
-Además, hizo ver que también existe un estímulo fiscal para los gasolineros que apoyen mantener el precio de los combustibles por debajo de la inflación, cuando se agota el subsidio directo a los consumidores.
+El estudio subraya que México tiene la oportunidad de transformar este momento en una agenda que equilibre estabilidad financiera, desarrollo incluyente y responsabilidad intergeneracional.
