@@ -2,7 +2,7 @@
 title: Las finanzas públicas en México enfrentan retos como deuda, bajo
   crecimiento y productividad
 date: 2026-03-09T16:10:00.000-06:00
-img: https://429spfvz9e.ucarecd.net/4efb0695-d96c-4bcd-b6b2-c1f00750da94/-/crop/1057x721/64,83/-/preview/
+img: https://429spfvz9e.ucarecd.net/f939cd5d-de87-494a-8bfc-95cb473b7bda/
 img-alt: Liliana Alvarado
 autor: Ethos
 category: finanzas-publicas
