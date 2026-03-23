@@ -9,24 +9,23 @@ Ethos Innovación en Políticas Públicas es un Centro de Investigación (*think
 
 ## Perfil académico
 
-Carrera: Economía, Administración Pública o afines.
+Carrera: Economía, Actuaría o afines.
 
 ## Responsabilidades
 
-* Investigación en temas de finanzas públicas, mercado laboral, política social
-* Manejo de bases de datos de organismos nacionales e internacionales
-* Realizar tareas relacionadas con la difusión y promoción de los proyectos del área
-* Apoyo en procuración de fondos
-* Disposición para tareas administrativas y organización de eventos
+* Investigación en temas de finanzas públicas, mercado laboral, consumo, entre otros temas económicos.
+* Procesamiento y análisis de bases de datos de organismos nacionales e internacionales.
+* Realizar tareas relacionadas con la difusión y promoción de los proyectos del área.
 
 ## Requisitos
 
-* Capacidad de investigación e interés por  los temas descritos
+* Capacidad de investigación e interés por los temas descritos
 * Excelente redacción
 * Capacidad de trabajar en equipo
 * Proactividad
 * Organización y responsabilidad
-* Conocimiento básico de Excel
+* Deseable manejo de software estadístico
+* Envío de CV sin fotografía
 
 ## Ofrecemos
 
