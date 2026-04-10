@@ -2,6 +2,7 @@
 title: Unidas presenta en el Colmex informe sobre desigualdades de género en
   plataformas digitales
 date: 2026-03-12T12:13:00.000-06:00
+img: https://429spfvz9e.ucarecd.net/2a1baa5d-8014-4583-b22b-20a176b1beca/
 autor: Ethos
 category: inclusion
 extracto: En El Colegio de México, Unidas presentó el informe «Conectadas al
