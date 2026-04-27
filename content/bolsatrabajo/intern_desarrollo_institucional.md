@@ -46,6 +46,6 @@ Lunes a viernes
 
 ## Enviar CV (sin fotografía) a:
 
-Javier González, director de Desarrollo Institucional, a: mireya.mondragon@ethos.org.mx
+Javier González, director de Desarrollo Institucional, a: javier.gonzalez@ethos.org.mx
 
 *\*Favor de enviar CV haciendo referencia a “Intern Desarrollo Institucional” en el asunto.*
