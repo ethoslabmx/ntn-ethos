@@ -2,6 +2,7 @@
 title: "Cuando el desastre golpea distinto: mujeres y hombres tras el huracán Otis"
 date: 2026-04-29T00:00:00.000-06:00
 img: https://429spfvz9e.ucarecd.net/7aea98e9-3923-4f9f-8d26-f18231e79b35/
+autor: "Ethos, Centro Nacional de Prevención de Desastres "
 category: inclusion
 extracto: El huracán Otis evidenció cómo las desigualdades influyen en la
   preparación, los impactos y la recuperación tras un desastre.  Este informe
