@@ -1,6 +1,6 @@
 ---
 nombre: DALIA TOLEDO
-foto: /img/dalia-toledo2.jpg
+foto: https://429spfvz9e.ucarecd.net/63f48ffb-32b3-4731-895a-8a6c653b29dc/
 puesto: "Directora de Finanzas Públicas "
 area: finanzas públicas y anticorrupción
 pos: 1
