@@ -91,11 +91,11 @@ export default {
       if (e) e.preventDefault();
       this.resultados.splice(0);
       if(this.categorias.length == 0 || this.categorias[0] == true){
-        const publicaciones = await this.$content('publicaciones').search(this.busqueda).without(['body']).fetch().catch((err) => {
+        const publicaciones = await this.$content('publicaciones').without(['body']).fetch().catch((err) => {
           if (!err.response || err.response.status !== 404) console.error(err);
           return [];
         })
-        publicaciones.forEach(p => {
+        publicaciones.filter(this.coincideBusqueda).forEach(p => {
           p.tipo = "Publicaciones";
           p.url = p.category + "/publicaciones/" + p.slug;
           this.resultados.push(p);
@@ -104,61 +104,73 @@ export default {
       }
 
       if(this.categorias.length == 0 || this.categorias[1] == true){
-        const reportajes = await this.$content('reportajes').search(this.busqueda).without(['body']).fetch().catch((err) => {
+        const reportajes = await this.$content('reportajes').without(['body']).fetch().catch((err) => {
           if (!err.response || err.response.status !== 404) console.error(err);
           return [];
         })
-        reportajes.forEach(p => {
+        reportajes.filter(this.coincideBusqueda).forEach(p => {
           p.tipo = "Reportajes Periodísticos";
           p.url = p.category + "/reportajes/" + p.slug;
           this.resultados.push(p);
         })
        }
        if(this.categorias.length == 0 || this.categorias[2] == true){
-        const columnas = await this.$content('columnas').search(this.busqueda).without(['body']).fetch().catch((err) => {
+        const columnas = await this.$content('columnas').without(['body']).fetch().catch((err) => {
           if (!err.response || err.response.status !== 404) console.error(err);
           return [];
         })
-        columnas.forEach(p => {
+        columnas.filter(this.coincideBusqueda).forEach(p => {
           p.tipo = "Columnas de Opinión";
           p.url = p.category + "/columnas/" + p.slug;
           this.resultados.push(p);
         })
        }
        if(this.categorias.length == 0 || this.categorias[3] == true){
-        const noticias = await this.$content('noticias').search(this.busqueda).without(['body']).fetch().catch((err) => {
+        const noticias = await this.$content('noticias').without(['body']).fetch().catch((err) => {
           if (!err.response || err.response.status !== 404) console.error(err);
           return [];
         })
-        noticias.forEach(p => {
+        noticias.filter(this.coincideBusqueda).forEach(p => {
           p.tipo = "Noticias";
           p.url = p.category + "/noticias/" + p.slug;
           this.resultados.push(p);
         })
        }
         if(this.categorias.length == 0 || this.categorias[4] == true){
-          const eventos = await this.$content('eventos').search(this.busqueda).without(['body']).fetch().catch((err) => {
+          const eventos = await this.$content('eventos').without(['body']).fetch().catch((err) => {
             if (!err.response || err.response.status !== 404) console.error(err);
             return [];
           })
-          eventos.forEach(p => {
+          eventos.filter(this.coincideBusqueda).forEach(p => {
             p.tipo = "Eventos";
             p.url = p.category + "/eventos/" + p.slug;
             this.resultados.push(p);
           })
         }
         if(this.categorias.length == 0 || this.categorias[5] == true){
-          const videos = await this.$content('videos').search(this.busqueda).without(['body']).fetch().catch((err) => {
+          const videos = await this.$content('videos').without(['body']).fetch().catch((err) => {
             if (!err.response || err.response.status !== 404) console.error(err);
             return [];
           })
-          videos.forEach(p => {
+          videos.filter(this.coincideBusqueda).forEach(p => {
             p.tipo = "Videos";
             p.url = p.category + "/videos/" + p.slug;
             this.resultados.push(p);
           })
         }
        //console.log(this.resultados);
+    },
+    coincideBusqueda(resultado) {
+      const normalizar = valor => String(valor || '')
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .toLowerCase();
+      const termino = normalizar(this.busqueda.trim());
+
+      if (!termino) return true;
+
+      return ['title', 'description', 'extracto', 'slug', 'text']
+        .some(campo => normalizar(resultado[campo]).includes(termino));
     },
     getLink(slug) {
       return {

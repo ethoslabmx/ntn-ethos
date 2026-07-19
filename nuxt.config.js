@@ -73,7 +73,33 @@ export default {
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {
-    // Options
+    // Indexar el cuerpo completo hace que la base de datos estática de Loki
+    // exceda la pila al serializarse y deje fuera db-*.json del deploy.
+    fullTextSearchFields: [],
+  },
+
+  hooks: {
+    "content:ready"($content) {
+      const database = $content.database.db;
+      database.serialize = () => {
+        const StaticDatabase = database.constructor;
+        const staticDatabase = new StaticDatabase("content.db");
+        const staticItems = staticDatabase.addCollection("items");
+
+        database.getCollection("items")._data.forEach(document => {
+          const fields = Object.fromEntries(
+            Object.entries(document).filter(([, fieldValue]) =>
+              fieldValue === null ||
+              ["string", "number", "boolean"].includes(typeof fieldValue)
+            )
+          );
+          delete fields.$loki;
+          staticItems.insert(fields);
+        });
+
+        return staticDatabase.serialize();
+      };
+    },
   },
 
   router: {
