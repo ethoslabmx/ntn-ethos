@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/anticorrupcion/videos", {data:[{posts:[],total:[]}],fetch:{},mutations:[]});
