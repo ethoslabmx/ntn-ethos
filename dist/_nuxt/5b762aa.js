@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[64],{688:function(n,t,l){"use strict";l.r(t);var c={},e=l(30),component=Object(e.a)(c,function(){return(0,this._self._c)("h1",[this._v("Finanzas publicas")])},[],!1,null,null,null);t.default=component.exports}}]);

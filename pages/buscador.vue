@@ -74,12 +74,11 @@ export default {
   },
   computed:{
     filteredResults(){
-      let r = this.resultados
+      let r = [...this.resultados]
       if(this.ejes.length > 0){
-        //console.log(this.ejes);
         r = r.filter(r => this.ejes.includes(r.category))
       } else {
-        r = this.resultados.sort((a,b) => a.category - b.category);
+        r.sort((a, b) => (a.category || '').localeCompare(b.category || ''));
       }
       return r;
     },
@@ -89,11 +88,12 @@ export default {
   },
   methods: {
     async buscar(e) {
-      e.preventDefault();
+      if (e) e.preventDefault();
       this.resultados.splice(0);
       if(this.categorias.length == 0 || this.categorias[0] == true){
         const publicaciones = await this.$content('publicaciones').search(this.busqueda).without(['body']).fetch().catch((err) => {
-          console.error({ statusCode: 404, message: 'Page not found' });
+          if (!err.response || err.response.status !== 404) console.error(err);
+          return [];
         })
         publicaciones.forEach(p => {
           p.tipo = "Publicaciones";
@@ -105,7 +105,8 @@ export default {
 
       if(this.categorias.length == 0 || this.categorias[1] == true){
         const reportajes = await this.$content('reportajes').search(this.busqueda).without(['body']).fetch().catch((err) => {
-          console.error({ statusCode: 404, message: 'Page not found' });
+          if (!err.response || err.response.status !== 404) console.error(err);
+          return [];
         })
         reportajes.forEach(p => {
           p.tipo = "Reportajes Periodísticos";
@@ -115,7 +116,8 @@ export default {
        }
        if(this.categorias.length == 0 || this.categorias[2] == true){
         const columnas = await this.$content('columnas').search(this.busqueda).without(['body']).fetch().catch((err) => {
-          console.error({ statusCode: 404, message: 'Page not found' });
+          if (!err.response || err.response.status !== 404) console.error(err);
+          return [];
         })
         columnas.forEach(p => {
           p.tipo = "Columnas de Opinión";
@@ -125,7 +127,8 @@ export default {
        }
        if(this.categorias.length == 0 || this.categorias[3] == true){
         const noticias = await this.$content('noticias').search(this.busqueda).without(['body']).fetch().catch((err) => {
-          console.error({ statusCode: 404, message: 'Page not found' });
+          if (!err.response || err.response.status !== 404) console.error(err);
+          return [];
         })
         noticias.forEach(p => {
           p.tipo = "Noticias";
@@ -135,7 +138,8 @@ export default {
        }
         if(this.categorias.length == 0 || this.categorias[4] == true){
           const eventos = await this.$content('eventos').search(this.busqueda).without(['body']).fetch().catch((err) => {
-            console.error({ statusCode: 404, message: 'Page not found' });
+            if (!err.response || err.response.status !== 404) console.error(err);
+            return [];
           })
           eventos.forEach(p => {
             p.tipo = "Eventos";
@@ -145,7 +149,8 @@ export default {
         }
         if(this.categorias.length == 0 || this.categorias[5] == true){
           const videos = await this.$content('videos').search(this.busqueda).without(['body']).fetch().catch((err) => {
-            console.error({ statusCode: 404, message: 'Page not found' });
+            if (!err.response || err.response.status !== 404) console.error(err);
+            return [];
           })
           videos.forEach(p => {
             p.tipo = "Videos";
