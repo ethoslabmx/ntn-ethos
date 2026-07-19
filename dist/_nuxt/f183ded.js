@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[45],{688:function(n,e,l){"use strict";l.r(e);var t={},o=l(30),component=Object(o.a)(t,function(){return(0,this._self._c)("h1",[this._v("Desarrollo Sostenible")])},[],!1,null,null,null);e.default=component.exports}}]);
