@@ -64,6 +64,7 @@
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
+  background: linear-gradient(180deg, #74B1B4 0%, #B0D4D4 100%);
   z-index: 0;
 
   p{
