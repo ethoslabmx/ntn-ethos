@@ -1,7 +1,7 @@
 ---
 title: ¿Qué se necesita para liderar un think tank hoy?
 date: 2026-08-06T11:49:00.000-06:00
-img: https://429spfvz9e.ucarecd.net/effd0916-6cfc-4a61-a5d8-20250448d75e/
+img: https://429spfvz9e.ucarecd.net/3cbe9435-3005-4e66-8c77-d580d2c8ec08/
 img-alt: Liliana Alvarado
 autor: Ethos
 category: think-tanks
