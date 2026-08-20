@@ -23,7 +23,15 @@ export default {
       },
       { name: "format-detection", content: "telephone=no" },
     ],
-    link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
+    link: [
+      { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
+      {
+        rel: "alternate",
+        type: "application/rss+xml",
+        title: "Ethos - Publicaciones",
+        href: "https://www.ethos.org.mx/feed.xml",
+      },
+    ],
     /*
   script: [
       // Google Analytics Code
@@ -66,6 +74,50 @@ export default {
     "@nuxtjs/axios",
     "@nuxt/content",
     "vue-social-sharing/nuxt",
+    "@nuxtjs/feed",
+  ],
+
+  // Feed RSS de todas las publicaciones: https://www.ethos.org.mx/feed.xml
+  feed: [
+    {
+      path: "/feed.xml",
+      cacheTime: 1000 * 60 * 15,
+      type: "rss2",
+      async create(feed) {
+        const baseUrl = "https://www.ethos.org.mx";
+
+        feed.options = {
+          title: "Ethos Innovación en Políticas Públicas - Publicaciones",
+          link: `${baseUrl}/feed.xml`,
+          description:
+            "Últimas publicaciones de Ethos, think tank que genera recomendaciones y acciones de política pública para el desarrollo de México.",
+          language: "es",
+          copyright: `Ethos Innovación en Políticas Públicas`,
+        };
+
+        const { $content } = require("@nuxt/content");
+        const posts = await $content("publicaciones")
+          .without(["body"])
+          .sortBy("date", "desc")
+          .fetch();
+
+        for (const post of posts) {
+          const url = `${baseUrl}/${post.category}/publicaciones/${post.slug}`;
+          feed.addItem({
+            title: post.title,
+            id: url,
+            link: url,
+            date: post.date ? new Date(post.date) : new Date(),
+            description: post.extracto,
+            content: post.extracto,
+            image: post.img
+              ? { url: post.img, type: "image/jpeg", length: 0 }
+              : undefined,
+            author: post.autor ? [{ name: post.autor }] : undefined,
+          });
+        }
+      },
+    },
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
