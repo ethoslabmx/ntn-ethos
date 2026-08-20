@@ -5,6 +5,45 @@ try {
   sassImplementation = require("sass");
 }
 
+const SITE_URL = "https://www.ethos.org.mx";
+
+// Construye una función `create` para @nuxtjs/feed a partir de una colección de
+// contenido. La URL de cada item es /{category}/{collection}/{slug}, que
+// corresponde al eje de la publicación.
+function contentFeed({ collection, path, title, description }) {
+  return async function create(feed) {
+    feed.options = {
+      title,
+      link: `${SITE_URL}${path}`,
+      description,
+      language: "es",
+      copyright: "Ethos Innovación en Políticas Públicas",
+    };
+
+    const { $content } = require("@nuxt/content");
+    const items = await $content(collection)
+      .without(["body"])
+      .sortBy("date", "desc")
+      .fetch();
+
+    for (const item of items) {
+      const url = `${SITE_URL}/${item.category}/${collection}/${item.slug}`;
+      feed.addItem({
+        title: item.title,
+        id: url,
+        link: url,
+        date: item.date ? new Date(item.date) : new Date(),
+        description: item.extracto,
+        content: item.extracto,
+        image: item.img
+          ? { url: item.img, type: "image/jpeg", length: 0 }
+          : undefined,
+        author: item.autor ? [{ name: item.autor }] : undefined,
+      });
+    }
+  };
+}
+
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
@@ -30,6 +69,12 @@ export default {
         type: "application/rss+xml",
         title: "Ethos - Publicaciones",
         href: "https://www.ethos.org.mx/feed.xml",
+      },
+      {
+        rel: "alternate",
+        type: "application/rss+xml",
+        title: "Ethos - Columnas",
+        href: "https://www.ethos.org.mx/columnas.xml",
       },
     ],
     /*
@@ -77,46 +122,31 @@ export default {
     "@nuxtjs/feed",
   ],
 
-  // Feed RSS de todas las publicaciones: https://www.ethos.org.mx/feed.xml
+  // Feeds RSS: /feed.xml (publicaciones) y /columnas.xml (columnas).
   feed: [
     {
       path: "/feed.xml",
       cacheTime: 1000 * 60 * 15,
       type: "rss2",
-      async create(feed) {
-        const baseUrl = "https://www.ethos.org.mx";
-
-        feed.options = {
-          title: "Ethos Innovación en Políticas Públicas - Publicaciones",
-          link: `${baseUrl}/feed.xml`,
-          description:
-            "Últimas publicaciones de Ethos, think tank que genera recomendaciones y acciones de política pública para el desarrollo de México.",
-          language: "es",
-          copyright: `Ethos Innovación en Políticas Públicas`,
-        };
-
-        const { $content } = require("@nuxt/content");
-        const posts = await $content("publicaciones")
-          .without(["body"])
-          .sortBy("date", "desc")
-          .fetch();
-
-        for (const post of posts) {
-          const url = `${baseUrl}/${post.category}/publicaciones/${post.slug}`;
-          feed.addItem({
-            title: post.title,
-            id: url,
-            link: url,
-            date: post.date ? new Date(post.date) : new Date(),
-            description: post.extracto,
-            content: post.extracto,
-            image: post.img
-              ? { url: post.img, type: "image/jpeg", length: 0 }
-              : undefined,
-            author: post.autor ? [{ name: post.autor }] : undefined,
-          });
-        }
-      },
+      create: contentFeed({
+        collection: "publicaciones",
+        path: "/feed.xml",
+        title: "Ethos Innovación en Políticas Públicas - Publicaciones",
+        description:
+          "Últimas publicaciones de Ethos, think tank que genera recomendaciones y acciones de política pública para el desarrollo de México.",
+      }),
+    },
+    {
+      path: "/columnas.xml",
+      cacheTime: 1000 * 60 * 15,
+      type: "rss2",
+      create: contentFeed({
+        collection: "columnas",
+        path: "/columnas.xml",
+        title: "Ethos Innovación en Políticas Públicas - Columnas",
+        description:
+          "Últimas columnas de opinión de Ethos, think tank que genera recomendaciones y acciones de política pública para el desarrollo de México.",
+      }),
     },
   ],
 
