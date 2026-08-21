@@ -17,5 +17,6 @@ extracto: El subsector artesanía-textil en México enfrenta una precarización
   Esta investigación examina cómo estas dinámicas se traducen en condiciones
   persistentes de informalidad, bajos ingresos, discriminación, exclusión
   económica y limitado acceso a protección social para las mujeres artesanas.
+file: https://429spfvz9e.ucarecd.net/ea8e389b-d1fc-4782-ad54-44dd7e7b686c/
 ---
 El subsector artesanía-textil en México enfrenta una precarización estructural e histórica profundamente vinculada con la invisibilización económica y laboral del trabajo de mujeres indígenas y rurales. A pesar de su relevancia productiva, cultural y territorial —reflejada en que la producción artesanal aportó el 18.4% del PIB del sector cultural y concentró el 30.2% del empleo cultural en 2024 (INEGI, 2025)—, el trabajo artesanal continúa siendo tratado principalmente como una actividad asociada a la transmisión cultural, más que como una actividad económica y laboral con acceso efectivo a derechos. **Esta investigación examina cómo estas dinámicas se traducen en condiciones persistentes de informalidad, bajos ingresos, discriminación, exclusión económica y limitado acceso a protección social para las mujeres artesanas.**
