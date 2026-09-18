@@ -2,7 +2,7 @@
 title: Tejiendo el cambio. Por un trabajo justo para las trabajadoras de la
   artesanía-textil en México
 date: 2026-08-21T12:50:00.000-06:00
-img: https://429spfvz9e.ucarecd.net/244fb11a-3001-4b12-8395-20b737909938/
+img: https://429spfvz9e.ucarecd.net/a24b8f98-67b7-4bbc-8697-02d689ab52fb/
 img-alt: Tejiendo el cambio
 autor: Ethos, Fundación Avina, ProDESC y Oxfam México
 category: inclusion
