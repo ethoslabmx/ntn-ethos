@@ -7,6 +7,11 @@ autor: Liliana Alvarado
 medio: El Economista
 link: https://www.eleconomista.com.mx/opinion/presupuesto-carencias-paradoja-gasto-social-mexico-20260930-836046.html?shem=isphc,aimgspe,
 category: finanzas-publicas
+extracto: Si bien las transferencias sociales pueden aliviar las condiciones
+  económicas de los hogares, no sustituyen la provisión de servicios públicos.
+  El apoyo directo pierde su propósito cuando las familias se ven obligadas a
+  usarlo en consultas, medicamentos o servicios educativos privados para
+  compensar las deficiencias de los servicios públicos.
 ---
 Conforme a los Criterios Generales de Política Económica para 2027, el gasto en protección social propuesto para el próximo año alcanzará un nivel sin precedentes. Históricamente, estos recursos han tenido un papel protagónico en el Presupuesto de Egresos de la Federación (PEF) al buscar, en principio, aliviar la pobreza, reducir la desigualdad y proteger a los sectores más vulnerables.
 
